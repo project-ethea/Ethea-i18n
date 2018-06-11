@@ -290,7 +290,7 @@ msgstr "déshydratée"
 #. [trait]: id=deteriorated
 #: Naia/macros/traits.cfg:64 Naia/macros/traits.cfg:83
 msgid "This undead unit has become weaker with the pass of time."
-msgstr ""
+msgstr "Cette unité s'est affaibli au cours du temps."
 
 #. [message]: speaker=narrator
 #: Naia/macros/items.cfg:75
@@ -354,7 +354,7 @@ msgstr "Cette unité est totalement remise."
 #. [message]: speaker=narrator
 #: Naia/macros/items.cfg:212
 msgid "Access granted."
-msgstr ""
+msgstr "Accès accordé."
 
 #. [time]: id=dawn1
 #: Naia/macros/schedules-surface.cfg:50
@@ -454,7 +454,7 @@ msgstr ""
 
 #: Naia/macros/special-notes.cfg:8
 msgid " This unit’s powers are increased by the Sylvan Essence."
-msgstr ""
+msgstr "Les pouvoirs de cette unité sont améliorés par l'Essence Sylvaine."
 
 #: Naia/macros/special-notes.cfg:11
 msgid ""
@@ -476,13 +476,15 @@ msgstr " Cette unité ne peut utiliser certains de ses coups qu'en attaque."
 
 #: Naia/macros/special-notes.cfg:20
 msgid " This unit’s attacks always hit its opponent."
-msgstr ""
+msgstr "Les attaques de cette unité touchent toujours son adversaire."
 
 #: Naia/macros/special-notes.cfg:23
 msgid ""
 " This unit can attack very precisely, giving it a better chance to hit agile "
 "foes on the offense."
 msgstr ""
+"Cette unité peut attaquer très précisément, ce qui lui permet d'atteindre "
+"plus facilement les ennemis agile en attaque"
 
 #: Naia/macros/special-notes.cfg:26
 msgid ""
@@ -536,7 +538,7 @@ msgstr ""
 #. [chance_to_hit]: id=always_hits
 #: Naia/macros/weapon-specials.cfg:53
 msgid "always hits"
-msgstr ""
+msgstr "toujours mouche"
 
 #. [chance_to_hit]: id=always_hits
 #: Naia/macros/weapon-specials.cfg:54
@@ -544,11 +546,13 @@ msgid ""
 "This attack always has a 100% chance to hit regardless of the defensive "
 "ability of the unit being attacked."
 msgstr ""
+"Cette attaque a toujours une probabilité de 100 % d'atteindre l'unité "
+"attaquée indépendamment de sa capacité défensive."
 
 #. [chance_to_hit]: id=precision
 #: Naia/macros/weapon-specials.cfg:66
 msgid "precision"
-msgstr ""
+msgstr "Précision"
 
 #. [chance_to_hit]: id=precision
 #: Naia/macros/weapon-specials.cfg:67
@@ -565,6 +569,8 @@ msgstr "Résister jusqu'à la fin des tours"
 #: Naia/macros/objective-utils.cfg:87
 msgid "You will not be able to recall any units from this scenario later"
 msgstr ""
+"Vous ne serez pas capable de rappeler toutes les unités de ce scénario plus "
+"tard."
 
 #. [time]: id=indoors_hive
 #: Naia/macros/schedules.cfg:18
@@ -1150,7 +1156,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Naia/units/humans/Aragwaith_Witch.cfg:127
 msgid "kick"
-msgstr ""
+msgstr "coup"
 
 #. [unit_type]: id=Chaos Lorekeeper, race=human
 #: Naia/units/humans/Chaos_Invoker_Lorekeeper.cfg:5
@@ -1210,7 +1216,7 @@ msgstr ""
 #. [attack]: type=pierce
 #: Naia/units/humans/Chaos_Crossbowman_Arbalestier.cfg:39
 msgid "arbalest"
-msgstr ""
+msgstr "arbalète"
 
 #. [unit_type]: id=Chaos Cataphract, race=human
 #: Naia/units/humans/Chaos_Cataphract.cfg:5
@@ -1673,11 +1679,15 @@ msgid ""
 "accelerating their growth in the process. Needless to say, this makes them "
 "especially dangerous to approach."
 msgstr ""
+"Ces créatures étranges et effrayantes ont la capacité d'attaquer l'esprit "
+"même de leurs opposants pour reconstituer leur propre énergie vitale et "
+"croître encore plus et devenir plus fortes. Inutile de dire que cela les "
+"rend particulièrement dangereuses à approcher."
 
 #. [attack]: type=arcane
 #: Naia/units/verlissh/Psy_Mindraider.cfg:37
 msgid "mind probe"
-msgstr ""
+msgstr "sonde l'esprit"
 
 #. [unit_type]: id=Elvish Prowler, race=elf
 #: Naia/units/elves-wood/Prowler.cfg:5
@@ -2057,6 +2067,13 @@ msgid ""
 "entrances of the creatures’ hives. Being clad in metal makes them slower "
 "than normal birds, and also more dangerous."
 msgstr ""
+"Depuis que les drones Shaxthal ont commencé à être vu régulièrement sur les "
+"champs de bataille, d'autres formes de vie biomécanique ont fait leur "
+"apparition, suite apparemment à la réapparition de la race Shaxthal sur "
+"Irdya. Parmi celles-ci, des oiseaux métalliques avec des couteaux tranchants "
+"en guise de plumes, on a pu les observer près de l'entrée de surface de la "
+"ruche de ces créatures. Couverts de métal, ils sont plus lents que les "
+"oiseaux normaux, et aussi plus dangereux."
 
 #. [attack]: type=pierce
 #: Naia/units/shaxthal/Fauna_Razorbird.cfg:29
@@ -2136,6 +2153,13 @@ msgid ""
 "crush anyone foolish enough to confront them without the use of magic "
 "support."
 msgstr ""
+"Les développements récents semblent avoir permis la création de nouveaux "
+"types avancés de drones Shaxthal, conçus pour neutraliser rapidement, en "
+"première ligne, les défenses de base en utilisant des frappes aériennes. "
+"Avec la précision effrayante des Protecteurs et combinés avec la formidable "
+"force d'attaque des drones d'assauts, ces drones de guerre particulièrement "
+"rare peuvent rapidement abattre un mur de pierre et écraser toute personne "
+"assez stupide qui essayerait de les arrêter sans le recours à la magie."
 
 #. [attack]: type=blade
 #: Naia/units/shaxthal/Drone_War.cfg:43
@@ -2152,7 +2176,7 @@ msgstr "rayon d'énergie."
 #. [unit_type]: id=Shaxthal Stormblade, race=shaxthal
 #: Naia/units/shaxthal/Fighter_Stormblade.cfg:7
 msgid "Stormblade"
-msgstr ""
+msgstr "Sabreur-tempête"
 
 #. [unit_type]: id=Shaxthal Stormblade, race=shaxthal
 #: Naia/units/shaxthal/Fighter_Stormblade.cfg:23
@@ -2162,6 +2186,12 @@ msgid ""
 "long arm-blades combined with the recovered ability to retaliate against "
 "ranged attacks makes them extremely dangerous opponents."
 msgstr ""
+"En raison de leurs armes et armures coûteuses, les drones avec rayon laser "
+"sont très rares sur le champ de bataille comparé aux autres créatures "
+"Shaxthal. Il est dit que seule une paire d'entre eux a déjà démontré cette "
+"capacité de combat à distance. La combinaison de leurs longues lames et de "
+"leurs faisceaux de destruction les rend extrêmement plus dangereux que les "
+"autres drones."
 
 #. [attack]: type=blade
 #: Naia/units/shaxthal/Fighter_Stormblade.cfg:31
@@ -2182,6 +2212,9 @@ msgid ""
 "dwell in the deepest reaches of the Shaxthal hives protecting their "
 "offspring and territory."
 msgstr ""
+"Plus volumineux et apparemment plus intelligents que les autres versions, "
+"les drones sentinelles habitent au plus profond des ruches Shaxthal, "
+"protégeant leurs progénitures et leur territoire."
 
 #. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_Sentry.cfg:5
@@ -2214,6 +2247,10 @@ msgid ""
 "their sharp feather-blades to attack enemies at a distance, as well as dive "
 "and charge into their heads using their powerful metallic beaks."
 msgstr ""
+"Une des créatures Shaxthal les plus avancées telles que ces oiseaux peuvent "
+"produire des éclairs mortels avec leurs lames de plumes pointues pour "
+"attaquer les ennemis à distance, ainsi que de piquer et de charger avec "
+"leurs têtes en utilisant leurs puissants becs métalliques."
 
 #. [attack]: type=fire
 #: Naia/units/shaxthal/Fauna_Thunderbird.cfg:51
@@ -2232,6 +2269,10 @@ msgid ""
 "accuracy at ground level. On their own they don’t pose a great threat, but "
 "swarms of these can be highly dangerous."
 msgstr ""
+"Ces créatures bipèdes Shaxthal sont les mieux adaptées par leur vitesse, "
+"leur agilité et leur précision au niveau du sol. Toutes seules, elles ne "
+"constituent pas une grande menace, mais en essaims elles peuvent être très "
+"dangereuses."
 
 #. [unit_type]: id=Shaxthal Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone.cfg:5
@@ -2257,7 +2298,7 @@ msgstr ""
 #. [unit_type]: id=Shaxthal Worm, race=shaxthal
 #: Naia/units/shaxthal/Fauna_Worm.cfg:5
 msgid "Worm"
-msgstr ""
+msgstr "Ver"
 
 #. [unit_type]: id=Shaxthal Worm, race=shaxthal
 #: Naia/units/shaxthal/Fauna_Worm.cfg:54
@@ -2272,6 +2313,16 @@ msgid ""
 "never seen elsewhere. Some evidence gathered and analyzed by scholars would "
 "indicate these creatures are extremely vulnerable in the open."
 msgstr ""
+"En dépit d'être des créatures d'origines artificielles, les formes de vie "
+"Shaxthal sont étonnamment variées en forme, en taille et en comportement. On "
+"a très peu de connaissances sur leurs cycles de vies, notamment sur "
+"certaines formes, tels que ces vers biomécaniques — ils semblent être en "
+"réalité différentes phases de croissances de la même créature.\n"
+"\n"
+"Les vers Shaxthal résident à l'intérieur des grandes ruches sombres et ils "
+"ne sont presque jamais signalés ailleurs. Certains éléments recueillis et "
+"analysés par des chercheurs semblent indiquer que ces créatures sont "
+"extrêmement vulnérables à l'air libre."
 
 #. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
 #: Naia/units/shaxthal/Fighter_Rayblade.cfg:5
@@ -2810,6 +2861,61 @@ msgid ""
 "hives of the Heart, and adapted to the time-renewed ecology of the surface "
 "world. They then began to prey on the speaking peoples of Irdya."
 msgstr ""
+"Bien avant l'arrivée des humains, l'ancienne civilisation des Argazars "
+"dominait Irdya. Ils perdirent la guerre qu'ils menaient contre la planète "
+"Rythé, et furent alors menés au bord de l'extinction. Mais en rassemblant "
+"leurs vastes connaissances de biologie, de génétique, de technologie et même "
+"de magie, ils réussirent à créer l'arme ultime : les biomécaniques, connues "
+"dans la langue Argazare sous le nom de 'Shaxthals'. Ces légionnaires "
+"invincibles combinaient les plus redoutables attributs de toutes les "
+"créatures connues de leurs concepteurs. Ils servaient de protecteurs aux "
+"Argazars, mais ils ne purent rien faire face aux armes stratégiques "
+"Rythéniennes. Rythé dévasta le pays d'Irdya, détruisant les villes, et "
+"enterrant les œuvres des Argazars. \n"
+"\n"
+"Un rejeton de la race des Argazars établit un refuge une base souterraine où "
+"la production des Shaxthals était concentrée. Les Rythéniens, pensant leur "
+"race éteinte, cessèrent d'attaquer la planète. Personne ne sait ce qui se "
+"passa à la surface pendant les siècles et les millénaires qui suivirent, "
+"alors que l'écologie bouleversée d'Irdya retrouvait son équilibre. Mais ce "
+"que l'on sait, en revanche, c'est que les Argazars perdirent tout contrôle "
+"sur leur création — ou plutôt, que leurs créatures cessèrent de les "
+"reconnaître comme leurs maîtres. Il demeure cependant incertain si cela fut "
+"dû à une mutation des Shaxthal ou au reste du peuple Argazar lui-même.\n"
+"\n"
+"Sans le commandement des Argazars, les instincts des Shaxthals prirent le "
+"dessus. Leur direction était constituée d'un étrange mélange de celle de "
+"leurs ancêtres et de la programmation de leur corps artificiel. Ces "
+"instincts les poussaient à assimiler les restes de la civilisation Argazar. "
+"Finalement, ils ont pris les organes d'Argazariens et les ont intégrées dans "
+"leur propre plan biomécanique. Car ils avaient été conçus avec un système "
+"d'assimilation qui leur a permis de s'intégrer dans de nouveaux "
+"environnements, ou d'adapter les environnements eux-mêmes à leurs besoins, y "
+"compris tout organisme vivant susceptible de les habiter.\n"
+"\n"
+"Les Shaxthals gardèrent la plupart des technologies des Argazars, perdant la "
+"magie et les formes avancées de bio manipulation avec laquelle ils avaient "
+"été créés. Réduits à peine à quelques dizaines, les Argazars trouvèrent la "
+"faiblesse biologique de leurs créations, un moyen de détruire en masse la "
+"plupart des Shaxthals. Tous, sauf quelques-unes des créatures les plus "
+"fortes ont péri. Fatalement, les Argazars décidèrent de les garder dans des "
+"gousses cryogéniques au lieu de les détruire à jamais, ils ont pensé qu'il "
+"pourrait y avoir un dernier espoir dans l'utilisation des Shaxthals "
+"reprogrammés pour reconstruire leur civilisation à un moment donné dans "
+"l'avenir.\n"
+"\n"
+"Cette idée stupide a condamné le grand continent à un Armageddon de "
+"nombreuses ères plus tard.\n"
+"\n"
+"Longtemps après la chute de Wesnoth, l'empereur autoproclamé du Chaos trouva "
+"un moyen de ressusciter les créatures, et de reproduire leur technologie par "
+"des moyens artificiels. Le gardien des traditions de l'Empire même leur a "
+"permis de pouvoir rapidement se reproduire par leurs propres moyens. Ainsi "
+"modifiés, ils sont devenus l'arme principale et la plus redoutée de l'Empire "
+"du Chaos. Après la défaite d'Argan le Maître de l'hombre, les Shaxthals ont "
+"été libérés de leur prison au cœur des ruches sombres, et adaptées à "
+"l'écologie du temps renouvelé de la surface du monde. Ils ont alors commencé "
+"à s'attaquer à des peuples parlant d'Irdya."
 
 #. [race]: id=shaxthal
 #: Naia/units/shaxthal.cfg:22
@@ -2895,6 +3001,8 @@ msgid ""
 "An inconsistency has been detected, and the scenario might not continue "
 "working as originally intended."
 msgstr ""
+"Une incohérence a été détectée, et le scénario pourrait ne pas continuer à "
+"fonctionner comme prévu initialement."
 
 #. [lua]: preshow
 #: Naia/lua/gui/feedback.lua:133 Naia/lua/gui/bug.lua:181
@@ -2904,12 +3012,12 @@ msgstr ""
 #. [lua]: preshow
 #: Naia/lua/gui/feedback.lua:136
 msgid "Please report this to the campaign maintainer!"
-msgstr ""
+msgstr "S'il vous plaît, signalez-le au responsable de campagne !"
 
 #. [lua]: preshow
 #: Naia/lua/gui/feedback.lua:140 Naia/lua/gui/bug.lua:185
 msgid "Message:"
-msgstr ""
+msgstr "Message :"
 
 #. [lua]: preshow
 #: Naia/lua/gui/feedback.lua:146 Naia/lua/gui/bug.lua:210
@@ -2920,7 +3028,7 @@ msgstr "terreur"
 #. [lua]: preshow
 #: Naia/lua/gui/feedback.lua:147 Naia/lua/gui/bug.lua:211
 msgid "Details"
-msgstr ""
+msgstr "Détails"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:198
@@ -3031,12 +3139,12 @@ msgstr "Ruche des ténèbres"
 #. [terrain_type]: id=overlay-banner-uria
 #: Naia/terrain.cfg:92
 msgid "Banner (Uria)"
-msgstr ""
+msgstr "Bannière (Uria)"
 
 #. [terrain_type]: id=overlay-banner-merthiaal
 #: Naia/terrain.cfg:101
 msgid "Banner (Merthiaal)"
-msgstr ""
+msgstr "Bannière (Merthiaal)"
 
 #. [terrain_type]: id=overlay-statue-adavyan
 #: Naia/terrain.cfg:110
@@ -3060,7 +3168,7 @@ msgstr "Portail"
 #. [terrain_type]: id=portal_gate_golden_n
 #: Naia/terrain.cfg:172 Naia/terrain.cfg:184 Naia/terrain.cfg:197
 msgid "Event Gate"
-msgstr ""
+msgstr "Porte des événements"
 
 #. [terrain_type]: id=portal_gate_golden_open_sw
 #. [terrain_type]: id=portal_gate_golden_open_se
@@ -3078,4 +3186,4 @@ msgstr "Sentinelle du rucher"
 #. [terrain_type]: id=overlay-fakeshroud
 #: Naia/terrain.cfg:260
 msgid "Fake Shroud"
-msgstr ""
+msgstr "Faux voile"
