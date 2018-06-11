@@ -10,7 +10,8 @@ ADDONS_PREFIX ?= ..
 
 SOURCES = \
 	Invasion_from_the_Unknown \
-	After_the_Storm
+	After_the_Storm \
+	Naia
 
 MANIFESTS := $(foreach dir,$(SOURCES),$(dir)/$(dir).manifest)
 POTS      := $(foreach dir,$(SOURCES),$(dir)/wesnoth-$(dir).pot)
