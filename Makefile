@@ -40,6 +40,16 @@ po-update: $(MOS)
 	@echo "    FMT     `basename $@` [wesnoth-`dirname $@`]"
 	@msgfmt --statistics -o $@ $*.po
 
+install: po-update
+	@for s in $(SOURCES); do for mo in $$s/*.mo; do \
+		locale="`basename -s .mo $$mo`"; \
+		target_dir="$(ADDONS_PREFIX)/$$s/translations/$$locale/LC_MESSAGES"; \
+		target_mo="$$target_dir/wesnoth-$$s.mo"; \
+		mkdir -p "$$target_dir"; \
+		echo "    INSTALL $$target_mo"; \
+		cp -f "$$mo" "$$target_mo"; \
+	done; done
+
 clean: clean-pot clean-mo
 
 clean-pot:
