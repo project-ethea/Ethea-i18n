@@ -50,7 +50,7 @@ install: po-update
 		cp -f "$$mo" "$$target_mo"; \
 	done; done
 
-clean: clean-pot clean-mo
+clean: clean-mo
 
 clean-pot:
 	find -name '*.pot' -or -name '*.manifest' -type f -print0 | xargs -0 rm -f
