@@ -1,0 +1,3178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wesnoth-IftU 1.8.x\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2018-06-11 01:22 UTC\n"
+"PO-Revision-Date: 2010-12-14 22:16+0900\n"
+"Last-Translator: R.N <dragonfly65th@yahoo.co.jp>\n"
+"Language-Team: Japanese Translation Team\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [color_range]: id=cyan
+#: Naia/core/display.cfg:11
+msgid "team_color^Cyan"
+msgstr "シアン"
+
+#. [color_range]: id=yellow
+#: Naia/core/display.cfg:17
+msgid "team_color^Yellow"
+msgstr "黄色"
+
+#. [color_range]: id=pink
+#: Naia/core/display.cfg:23
+msgid "team_color^Pink"
+msgstr "ピンク"
+
+#. [message]: speaker=narrator
+#: Naia/macros/scenario-utils.cfg:163
+msgid "You retrieve $temp_gold_retrieval_amount pieces of gold."
+msgstr "あなたは、$temp_gold_retrieval_amount 枚の金貨を回収した。"
+
+#. [message]: speaker=narrator
+#: Naia/macros/scenario-utils.cfg:180
+msgid "You receive $temp_gold_retrieval_amount pieces of gold!"
+msgstr "あなたは、$temp_gold_retrieval_amount 枚の金貨を受け取った！"
+
+#: Naia/macros/storytxt-common.cfg:16
+#, fuzzy
+msgid "Warning!"
+msgstr "警告"
+
+#: Naia/macros/storytxt-common.cfg:22
+#, fuzzy
+msgid ""
+"Some scenarios of this campaign work significantly different from normal "
+"Wesnoth gameplay. It is especially important to pay close attention to the "
+"mission objectives and not necessarily try to kill every single enemy, "
+"especially on shrouded maps, or in places where enemies seem to respawn "
+"continuously."
+msgstr ""
+"このキャンペーンの幾つかのシナリオは、Wesnoth の一般的なゲームプレイとは劇的"
+"に異なった方法で動きます。従って、任務の目的に細心の注意を払う事が非常に重要"
+"であり、敵を全滅させる事は必ずしもそうではありません。特に、覆い隠されたマッ"
+"プや、敵が絶え間なく再生されるように見える場所では。\n"
+"\n"
+"断然必要という訳ではありませんが、プレーヤーは<b>「闇へ堕ちて」</b>と<b>「燃"
+"える太陽の下で」</b>をプレイしたか話の筋を読み終え、何人かのキャラクターと、"
+"歴史的な出来事に親しんでいる事をお勧めします。"
+
+#: Naia/macros/storytxt-common.cfg:27
+msgid ""
+"Although not strictly required, players are advised to become familiar with "
+"the stories, characters, and historical events presented in <i>Under the "
+"Burning Suns</i>, and (optionally) <i>Descent into Darkness</i> before "
+"playing this campaign."
+msgstr ""
+
+#: Naia/macros/storytxt-common.cfg:32
+#, fuzzy
+msgid ""
+"Although not strictly required, players are advised to become familiar with "
+"the stories, characters, and historical events presented in <i>Under the "
+"Burning Suns</i>, <i>Invasion from the Unknown</i>, and (optionally) "
+"<i>Descent into Darkness</i> before playing this campaign."
+msgstr ""
+"必須と言うわけではありませんが、このキャンペーンをプレイする前に<i>闇に堕ちて"
+"（Descent into Darkness）</i>と<i>燃える太陽の下で（Under the Burning Suns）"
+"</i>、そして<i>未知よりの侵略（Invasion from the Unknown）</i>をプレイするこ"
+"とをお勧めします。そうすることで、物語やキャラクター、歴史的な出来事に親しむ"
+"ことができるでしょう。"
+
+#: Naia/macros/storytxt-common.cfg:37
+msgid ""
+"A game screen resolution of <b>800x600 or greater</b> is recommended. Some "
+"sequences make use of floating labels, halos, and standing unit animations, "
+"so you might want to make sure these options are enabled under "
+"<b>Preferences</b> → <b>Display</b>."
+msgstr ""
+"画面解像度は <b>800x600以上</b> をお勧めします。仕組みの一部はラベル、光輪"
+"（Halo）、ユニットのアニメーションを使用しています。そのため、もしそれらが正"
+"常に動作して欲しいなら<i>設定</i> → <i>表示</i>から解像度を変更して下さい。"
+
+#: Naia/macros/abilities.cfg:10
+msgid ""
+"\n"
+"\n"
+"Notes: "
+msgstr ""
+"\n"
+"\n"
+"注意： "
+
+#: Naia/macros/abilities.cfg:17
+#, fuzzy
+msgid " Vegetated terrains are forest, great tree, and mushroom grove hexes."
+msgstr " 植物地形とは、森、巨大樹、農地、そしてキノコ林のヘックスです。"
+
+#: Naia/macros/abilities.cfg:20
+msgid "sylvan spark"
+msgstr "森の煌めき"
+
+#: Naia/macros/abilities.cfg:23
+#, fuzzy
+msgid ""
+"While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
+"is poisoned, it will remove the poison instead of healing."
+msgstr ""
+"森の煌めき：\n"
+"植物地形にいる時、ユニットはターン毎にHPが5回復します。もし毒に中っていた場"
+"合、回復の代わりに解毒されます。"
+
+#. [illuminates]: id=obscure
+#: Naia/macros/abilities.cfg:34
+msgid "obscures"
+msgstr "暗転"
+
+#. [illuminates]: id=obscure
+#: Naia/macros/abilities.cfg:35
+#, fuzzy
+msgid ""
+"This unit darkens the surrounding area, making chaotic units fight better, "
+"and lawful units fight worse.\n"
+"\n"
+"Any units adjacent to this unit will fight as if it were dusk when it is "
+"day, and as if it were night when it is dusk."
+msgstr ""
+"暗転：\n"
+"このユニットは周囲を暗くし、混沌のユニットをより上手く、秩序のユニットをより"
+"酷く戦わせます。\n"
+"\n"
+"このユニットに隣接した全てのユニットは、昼には夕方の様に、夕方には夜の様に戦"
+"うでしょう。"
+
+#. [resistance]: id=protection
+#: Naia/macros/abilities.cfg:70
+msgid "protection"
+msgstr "保護"
+
+#. [resistance]: id=protection
+#: Naia/macros/abilities.cfg:71
+#, fuzzy
+msgid ""
+"Adjacent units of lower level from this side receive a +20% bonus to all "
+"resistances (up to a maximum of 50%)."
+msgstr ""
+"保護：\n"
+"隣接している、より低レベルの味方ユニットは、+20%の抵抗力をボーナスとして受け"
+"取ります。（最大で50%まで）"
+
+#. [leadership]: id=terror
+#: Naia/macros/abilities.cfg:90
+msgid "terror"
+msgstr "恐怖"
+
+#. [leadership]: id=terror
+#: Naia/macros/abilities.cfg:91
+#, fuzzy
+msgid ""
+"This unit can frighten enemy units that are next to it, making them fight "
+"worse.\n"
+"\n"
+"Adjacent enemy units of the same or lower level will do less damage in "
+"battle. When an enemy unit of the same or lower level is adjacent and "
+"engages in combat, its attacks do 15% less damage times the difference in "
+"their levels + 15%."
+msgstr ""
+"恐怖：\n"
+"このユニットは、その隣の敵ユニットを怯えさせ、より酷く戦わせる事が出来ま"
+"す。\n"
+"\n"
+"隣接している、より低レベルの敵ユニットは、戦闘において、より少ない損害を与え"
+"るでしょう。同じか、より低レベルの敵ユニットが隣接し戦闘に従事する時、その攻"
+"撃は15%少ない損害を与え、レベルの違いによって+15%が加算されます。"
+
+#. [heals]: id=sylvan_essence_healing_and_curing
+#. [illuminates]: id=sylvan_essence_illum
+#: Naia/macros/abilities.cfg:115 Naia/macros/abilities.cfg:152
+msgid "sylvan essence"
+msgstr "森の真髄"
+
+#. [heals]: id=sylvan_essence_healing_and_curing
+#: Naia/macros/abilities.cfg:116
+#, fuzzy
+msgid ""
+"This unit can heal and cure friendly units on adjacent hexes every turn, to "
+"a base maximum of 8 HP. In vegetated terrains, it will conceal itself from "
+"its enemies. It can also regenerate (but not unpoison) 3 HP per-turn, but "
+"only on vegetated terrains."
+msgstr ""
+"森の真髄：\n"
+"このユニットは、隣接するヘックスにいる味方ユニットをターン毎に最大8HPを基本に"
+"回復させ、解毒も出来ます。植物地形では敵から身を隠します。また、ターン毎にHP"
+"を3回復する事が出来ます（解毒は出来ません）ただし、植物地形にいる時に限りま"
+"す。"
+
+#. [illuminates]: id=sylvan_essence_illum
+#: Naia/macros/abilities.cfg:153
+#, fuzzy
+msgid ""
+"This unit illuminates the surrounding area, making lawful units fight "
+"better, and chaotic units fight worse. Any units adjacent to this unit will "
+"fight as if it were dusk when it is night, and as if it were day when it is "
+"dusk.\n"
+"\n"
+"The unit also can heal and cure friendly units on adjacent hexes every turn, "
+"to a base maximum of 8 HP. In vegetated terrains, it will conceal itself "
+"from its enemies. It can also regenerate (but not unpoison) 4 HP per-turn, "
+"but only in vegetated terrains."
+msgstr ""
+"森の真髄：\n"
+"このユニットは周囲を照らし、秩序のユニットをより上手く、混沌のユニットをより"
+"酷く戦わせます。このユニットに隣接した全てのユニットは、夜には夕方の様に、夕"
+"方には昼の様に戦うでしょう。\n"
+"\n"
+"このユニットは、隣接するヘックスにいる味方ユニットをターン毎に最大8HPを基本に"
+"回復させ、解毒も出来ます。植物地形では敵から身を隠します。また、ターン毎にHP"
+"を4回復する事が出来ます（解毒は出来ません）ただし、植物地形にいる時に限りま"
+"す。"
+
+#. [trait]: id=armored
+#: Naia/macros/traits.cfg:7
+msgid "armored"
+msgstr "装甲された"
+
+#. [trait]: id=armored
+#: Naia/macros/traits.cfg:8
+msgid "female^armored"
+msgstr "装甲された"
+
+#. [trait]: id=armored
+#: Naia/macros/traits.cfg:9
+#, fuzzy
+msgid "+15% bonus for all resistances (except arcane), -1 movement points"
+msgstr "全ての反撃に+15%のボーナス（秘術を除く）、移動力は-1"
+
+#. [trait]: id=biomechanical
+#: Naia/macros/traits.cfg:33
+msgid "biomechanical"
+msgstr "生体機械"
+
+#. [trait]: id=biomechanical
+#: Naia/macros/traits.cfg:34
+msgid "female^biomechanical"
+msgstr "生体機械"
+
+#. [trait]: id=biomechanical
+#: Naia/macros/traits.cfg:36
+msgid "Immune to drain, poison and plague"
+msgstr "吸収、毒、疫病に耐性を持つ"
+
+#. [trait]: id=spirit
+#: Naia/macros/traits.cfg:49
+msgid "spirit"
+msgstr "精霊"
+
+#. [trait]: id=spirit
+#: Naia/macros/traits.cfg:50
+msgid "female^spirit"
+msgstr "精霊"
+
+#. [trait]: id=spirit
+#: Naia/macros/traits.cfg:51
+#, fuzzy
+msgid "Immune to drain, poison, and plague"
+msgstr "吸収、毒、疫病に耐性を持つ"
+
+#. [trait]: id=deteriorated
+#: Naia/macros/traits.cfg:62 Naia/macros/traits.cfg:81
+#, fuzzy
+msgid "deteriorated"
+msgstr "渇いた"
+
+#. [trait]: id=deteriorated
+#: Naia/macros/traits.cfg:63 Naia/macros/traits.cfg:82
+#, fuzzy
+msgid "female^deteriorated"
+msgstr "渇いた"
+
+#. [trait]: id=deteriorated
+#: Naia/macros/traits.cfg:64 Naia/macros/traits.cfg:83
+msgid "This undead unit has become weaker with the pass of time."
+msgstr "このアンデッドは、時の流れによって弱体化しています。"
+
+#. [message]: speaker=narrator
+#: Naia/macros/items.cfg:75
+msgid "Crystal Glyph"
+msgstr "結晶碑"
+
+#. [then]
+#. [else]
+#: Naia/macros/items.cfg:120 Naia/macros/items.cfg:129
+#, fuzzy
+msgid "Do you wish to be healed?"
+msgstr "回復したいですか？"
+
+#. [then]
+#: Naia/macros/items.cfg:122
+#, fuzzy
+msgid ""
+"This magic glyph will completely restore this unit’s health. It will also "
+"unslow and cure it of poison, if applicable."
+msgstr ""
+"回復したいですか？ この魔法の結晶碑は、このユニットの健康を完全に回復します。"
+"また、必要なら非遅化と解毒もします。"
+
+#. [then]
+#: Naia/macros/items.cfg:125
+#, fuzzy
+msgid "Note: this glyph may be used only once; afterwards, it will fade out."
+msgstr "注意： 結晶碑が使えるのは一度きりで、その後消えていきます。"
+
+#. [else]
+#: Naia/macros/items.cfg:132
+#, fuzzy
+msgid "Note: this glyph may be used only once; afterwards it will fade out."
+msgstr "注意： 結晶碑が使えるのは一度きりで、その後消えていきます。"
+
+#. [transient_message]
+#. [message]: speaker=narrator
+#: Naia/macros/items.cfg:187 Naia/macros/items.cfg:138
+msgid "Crystal Glyph of Health"
+msgstr "回復の結晶碑"
+
+#. [unstore_unit]
+#: Naia/macros/items.cfg:175
+msgid "healed"
+msgstr "回復した"
+
+#. [unstore_unit]
+#: Naia/macros/items.cfg:176
+msgid "female^healed"
+msgstr "回復した"
+
+#. [transient_message]
+#: Naia/macros/items.cfg:189
+msgid "The unit is fully healed, cured and unslowed."
+msgstr "ユニットは回復し、解毒され、遅くなっていない。"
+
+#. [message]: speaker=narrator
+#: Naia/macros/items.cfg:212
+msgid "Access granted."
+msgstr "アクセス承認"
+
+#. [time]: id=dawn1
+#: Naia/macros/schedules-surface.cfg:50
+msgid "First Dawn"
+msgstr "最初の夜明け"
+
+#. [time]: id=morning1
+#: Naia/macros/schedules-surface.cfg:62
+msgid "First Morning"
+msgstr "最初の朝"
+
+#. [time]: id=midday1
+#: Naia/macros/schedules-surface.cfg:74
+#, fuzzy
+msgid "First Midday"
+msgstr "最初の昼"
+
+#. [time]: id=afternoon1
+#: Naia/macros/schedules-surface.cfg:86
+msgid "First Afternoon"
+msgstr "最初の午後"
+
+#. [time]: id=dusk1
+#: Naia/macros/schedules-surface.cfg:98
+msgid "First Dusk"
+msgstr "最初の夕暮れ"
+
+#. [time]: id=short_dark
+#: Naia/macros/schedules-surface.cfg:110
+msgid "The Short Dark"
+msgstr "短い夜"
+
+#. [time]: id=dawn2
+#: Naia/macros/schedules-surface.cfg:122
+msgid "Second Dawn"
+msgstr "二度目の夜明け"
+
+#. [time]: id=morning2
+#: Naia/macros/schedules-surface.cfg:134
+msgid "Second Morning"
+msgstr "二度目の朝"
+
+#. [time]: id=midday2
+#: Naia/macros/schedules-surface.cfg:146
+#, fuzzy
+msgid "Second Midday"
+msgstr "二度目の昼"
+
+#. [time]: id=afternoon2
+#: Naia/macros/schedules-surface.cfg:158
+msgid "Second Afternoon"
+msgstr "二度目の午後"
+
+#. [time]: id=dusk2
+#: Naia/macros/schedules-surface.cfg:170
+msgid "Second Dusk"
+msgstr "二度目の夕暮れ"
+
+#. [time]: id=long_dark1
+#: Naia/macros/schedules-surface.cfg:182
+#, fuzzy
+msgid "The Long Dark — First Watch"
+msgstr "長い夜 ─ 最初の当直"
+
+#. [time]: id=long_dark2
+#: Naia/macros/schedules-surface.cfg:194
+#, fuzzy
+msgid "The Long Dark — Second Watch"
+msgstr "長い夜 ─ 二番目の当直"
+
+#. [time]: id=long_dark3
+#: Naia/macros/schedules-surface.cfg:206
+#, fuzzy
+msgid "The Long Dark — Third Watch"
+msgstr "長い夜 ─ 三番目の当直"
+
+#. [time]: id=long_dark4
+#: Naia/macros/schedules-surface.cfg:218
+#, fuzzy
+msgid "The Long Dark — Fourth Watch"
+msgstr "長い夜 ─ 四番目の当直"
+
+#. [time]: id=inferno_night
+#: Naia/macros/schedules-surface.cfg:230
+msgid "Inferno"
+msgstr ""
+
+#. [time]: id=endless_night
+#: Naia/macros/schedules-surface.cfg:242
+#, fuzzy
+msgid "The Endless Night"
+msgstr "エルフ対巨人"
+
+#: Naia/macros/special-notes.cfg:5
+#, fuzzy
+msgid ""
+" This unit darkens the surrounding area, making chaotic units fight better, "
+"and lawful units fight worse."
+msgstr ""
+" このユニットは周囲を暗くし、混沌のユニットをより上手く、秩序のユニットをより"
+"酷く戦わせます。"
+
+#: Naia/macros/special-notes.cfg:8
+msgid " This unit’s powers are increased by the Sylvan Essence."
+msgstr "このユニットの力は森の真髄によって上昇しています。"
+
+#: Naia/macros/special-notes.cfg:11
+msgid ""
+" This unit will regenerate 5 HP per turn in forest or mushroom grove "
+"terrains."
+msgstr ""
+" このユニットは、森またはキノコの森のヘックスで、ターン毎にHPを5回復する事が"
+"出来ます。"
+
+#: Naia/macros/special-notes.cfg:14
+#, fuzzy
+msgid " Some of this unit’s attacks are only available during defense."
+msgstr " このユニットの攻撃力の内のいくつかは、防御以外に使えません。"
+
+#: Naia/macros/special-notes.cfg:17
+#, fuzzy
+msgid " Some of this unit’s attacks are only available during offense."
+msgstr " このユニットの攻撃力の内のいくつかは、攻撃以外に使えません。"
+
+#: Naia/macros/special-notes.cfg:20
+msgid " This unit’s attacks always hit its opponent."
+msgstr "このユニットの攻撃は敵に必中します。"
+
+#: Naia/macros/special-notes.cfg:23
+msgid ""
+" This unit can attack very precisely, giving it a better chance to hit agile "
+"foes on the offense."
+msgstr ""
+"このユニットの攻撃は非常に正確で、攻撃時には素早い敵であっても高い命中率とな"
+"ります。"
+
+#: Naia/macros/special-notes.cfg:26
+msgid ""
+" Adjacent lower-level units of the same allegiance have their resistances "
+"increased by the sole presence of this unit."
+msgstr ""
+" このユニットが単独で存在するだけで、隣接する同じ忠誠を持つ低レベルユニットの"
+"抵抗力が増加します。"
+
+#: Naia/macros/special-notes.cfg:29
+msgid ""
+" This unit can frighten enemy units that are next to it, making them fight "
+"worse."
+msgstr ""
+" このユニットは、その隣の敵ユニットを怯えさせ、より酷く戦わせる事が出来ます。"
+
+#: Naia/macros/special-notes.cfg:33
+msgid ""
+" This unit cannot move to terrains other than water, castle and villages."
+msgstr " このユニットは、水、城、及び村以外の地形へ移動する事が出来ません。"
+
+#. [damage]: id=attack_only
+#: Naia/macros/weapon-specials.cfg:12 Naia/macros/weapon-specials.cfg:13
+msgid "attack only"
+msgstr "攻撃のみ"
+
+#. [damage]: id=attack_only
+#: Naia/macros/weapon-specials.cfg:14 Naia/macros/weapon-specials.cfg:15
+#, fuzzy
+msgid "This weapon will never be used on defense."
+msgstr ""
+"攻撃のみ：\n"
+"この武器は、決して防御には使えません。"
+
+#. [damage]: id=attack_only
+#: Naia/macros/weapon-specials.cfg:32 Naia/macros/weapon-specials.cfg:33
+msgid "defend only"
+msgstr "防御のみ"
+
+#. [damage]: id=attack_only
+#: Naia/macros/weapon-specials.cfg:34 Naia/macros/weapon-specials.cfg:35
+#, fuzzy
+msgid "This weapon will only be available for defense."
+msgstr ""
+"防御のみ：\n"
+"この武器は、防御にだけ使う事が出来ます。"
+
+#. [chance_to_hit]: id=always_hits
+#: Naia/macros/weapon-specials.cfg:53
+msgid "always hits"
+msgstr "必中"
+
+#. [chance_to_hit]: id=always_hits
+#: Naia/macros/weapon-specials.cfg:54
+msgid ""
+"This attack always has a 100% chance to hit regardless of the defensive "
+"ability of the unit being attacked."
+msgstr "防御するユニットの能力に関わらず、この攻撃は100%の確率で命中します。"
+
+#. [chance_to_hit]: id=precision
+#: Naia/macros/weapon-specials.cfg:66
+msgid "precision"
+msgstr "精密"
+
+#. [chance_to_hit]: id=precision
+#: Naia/macros/weapon-specials.cfg:67
+msgid ""
+"When used offensively, this attack always has at least a 50% chance to hit."
+msgstr "攻撃時に、この攻撃は最低でも50%の確率で命中します。"
+
+#. [objective]: condition=win
+#: Naia/macros/objective-utils.cfg:19
+#, fuzzy
+msgid "Resist until the end of turns"
+msgstr "ターンが尽きるまで抵抗する"
+
+#: Naia/macros/objective-utils.cfg:87
+msgid "You will not be able to recall any units from this scenario later"
+msgstr "これ以降のシナリオでは、ユニットを召喚することはできません"
+
+#. [time]: id=indoors_hive
+#: Naia/macros/schedules.cfg:18
+#, fuzzy
+msgid "Shaxthal Hive"
+msgstr "Shaxthal の生命体"
+
+#. [time]: id=neutral_tod
+#: Naia/macros/schedules.cfg:30
+#, fuzzy
+msgid "Neutral time of day"
+msgstr "中立の時刻"
+
+#. [print]
+#: Naia/macros/boss-utils.cfg:8
+msgid "Enemy boss sighted!"
+msgstr "敵のボスが見えた！"
+
+#. [unit_type]: id=Goliath, race=mechanical
+#: Naia/units/mechanical/Goliath.cfg:5
+msgid "Mechanical Goliath"
+msgstr "機械巨人"
+
+#. [unit_type]: id=Goliath, race=mechanical
+#: Naia/units/mechanical/Goliath.cfg:33
+msgid ""
+"Giant metallic beasts under the command of the forces of Chaos, the "
+"Mechanical Goliaths can crush in a matter of seconds any man, skeleton, or "
+"even troll. They seem immune to poison, drain, and other hazards that would "
+"normally pose a great danger for a living being. Because of this, it’s been "
+"suggested that they are magically animated constructions of rock and steel.\n"
+"\n"
+"To make things even worse, it is said that they can destroy entire armies "
+"from a distance with a sudden flash of red light, in an attack that is both "
+"powerful and accurate."
+msgstr ""
+"巨大な金属の獣は混沌の帝国の軍隊の一員です。 これらの「機械巨人」は人間やスケ"
+"ルトン、さらにトロルですらもすぐに粉砕してしまいます。 これらには毒や生命吸"
+"収、さらに他の危険にも耐性を持っています。 これらのことから、機械巨人達は鉄で"
+"できた魔法で動く像なのかもしれません。 それか、硬い甲殻を持つ生物なのかもしれ"
+"ません。\n"
+"\n"
+"さらに厄介なことに、これらは赤い閃光によって、離れた敵にも正確に大きなダメー"
+"ジを与えることができるのです。"
+
+#. [attack]: type=impact
+#: Naia/units/mechanical/Goliath.cfg:52 Naia/units/mechanical/Iron_Golem.cfg:51
+msgid "flash cannon"
+msgstr "フラッシュキャノン"
+
+#. [unit_type]: id=Worker Droid, race=mechanical
+#: Naia/units/mechanical/Worker_Droid.cfg:5
+msgid "Worker Droid"
+msgstr ""
+
+#. [unit_type]: id=Worker Droid, race=mechanical
+#: Naia/units/mechanical/Worker_Droid.cfg:33
+msgid ""
+"These tiny metal gnomes are known as the ‘worker droids’ by the Chaos "
+"overlords. It is not known what nature drives their acts; in fact, nobody "
+"knows, aside from their creators, if they are living beings, undead, or "
+"animated rocks."
+msgstr ""
+
+#. [attack]: type=impact
+#: Naia/units/mechanical/Worker_Droid.cfg:41
+msgid "oil"
+msgstr ""
+
+#. [unit_type]: id=Iron Golem, race=mechanical
+#: Naia/units/mechanical/Iron_Golem.cfg:5
+msgid "Iron Golem"
+msgstr "鉄のゴーレム"
+
+#. [unit_type]: id=Iron Golem, race=mechanical
+#: Naia/units/mechanical/Iron_Golem.cfg:32
+msgid ""
+"Some automatons mysteriously grow in size overnight, gaining greater "
+"strength and taller bodies in a process that is unknown to anyone but the "
+"less commonly seen Lorekeepers of Chaos. They drop their shield and mace in "
+"favor of harder and stronger armor, and fists that can crush the rock with "
+"minimal effort — compensating for the lack of close range weapons.\n"
+"\n"
+"Less commonly, they may fire a powerful weapon that is said to resemble the "
+"great firesticks of the dwarven lords in both shape and destructive effect. "
+msgstr ""
+"不思議なことに、いくつかのオートマトンは一晩で大きくなることがあります。その"
+"過程で大きな力と大きな体を得ますが、その実態はまずお目にかかれない混沌の伝承"
+"者以外には一切わかりません。固く、強い鎧を得て、さらに最小限の努力で岩をも打"
+"ち砕く拳をも得たことで、彼らはその盾とメイスを捨てました — 拳は近接武器をもた"
+"ないことの代替として十分なのです。\n"
+"\n"
+"一般的なことではありませんが、ドワーフ達が持つ雷撃杖と同じような形と威力を"
+"持った火器を扱うことができるとも言われています。"
+
+#. [unit_type]: id=Door, race=mechanical
+#: Naia/units/mechanical/Door.cfg:5
+msgid "Door"
+msgstr "扉"
+
+#. [unit_type]: id=Door, race=mechanical
+#: Naia/units/mechanical/Door.cfg:22
+msgid ""
+"The door will open only to those who are allied with its owners, unless "
+"struck down by their enemies first."
+msgstr ""
+"扉は主にしか開けることはできませんが、敵の攻撃によって破壊されてしまうでしょ"
+"う。"
+
+#. [unit_type]: id=Automaton, race=mechanical
+#: Naia/units/mechanical/Automaton.cfg:5
+#, fuzzy
+msgid "Automaton"
+msgstr "巨大な自動人形"
+
+#. [unit_type]: id=Automaton, race=mechanical
+#: Naia/units/mechanical/Automaton.cfg:32
+msgid ""
+"These small metallic beings seem not to require food or water to fight, very "
+"much like the undead. Heavily armored and wielding a steel mace and "
+"rectangular shield, these ‘automatons’ are said to have been originally "
+"created by the dwarves before a clan was captured by the forces of Chaos. "
+"Their primary drawback is their apparent unease when navigating rough "
+"terrains such as hills and mountains."
+msgstr ""
+"これらの金属の獣は食料や生物的な活動を必要とせず、まるでアンデッドのようで"
+"す。 堅固な装甲と、危険な鉄の杖と四角い盾を身につけています。 これらは「ロ"
+"ボット」と呼ばれ、ドワーフによって初めに作られたのですが、そのクランは混沌の"
+"軍勢に捕まってしまった、と言われています。欠点として、これらは丘や山などの荒"
+"れた地形を移動するのが苦手です。"
+
+#. [attack]: type=impact
+#: Naia/units/mechanical/Automaton.cfg:49
+msgid "rectangular shield"
+msgstr "四角い盾"
+
+#. [unit_type]: id=Chaos Magus, race=human
+#: Naia/units/humans/Chaos_Invoker_Magus.cfg:5
+msgid "Chaos Magus"
+msgstr "混沌の魔術師"
+
+#. [unit_type]: id=Chaos Magus, race=human
+#: Naia/units/humans/Chaos_Invoker_Magus.cfg:25
+msgid ""
+"When not busy sermoning their devout followers, the Chaos Magi put their "
+"craft to use supporting the Empire’s troops with fearsome infernal magic. "
+"The power they wield comes at a cost, however, as their bodies gradually "
+"succumb to a force not meant for humans to control, rendering them more "
+"vulnerable to certain forms of magic. Thus, researching new methods to elude "
+"death becomes paramount if they are to achieve — or surpass — the greatness "
+"of their elders."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Naia/units/humans/Chaos_Invoker_Magus.cfg:46
+#: Naia/units/humans/Chaos_Invoker_Lorekeeper.cfg:63
+#: Naia/units/humans/Chaos_Invoker.cfg:49
+msgid "ethereal blast"
+msgstr "霊破"
+
+#. [unit_type]: id=Aragwaith Flagbearer, race=aragwaith
+#: Naia/units/humans/Aragwaith_Flagbearer.cfg:5
+#, fuzzy
+msgid "Flagbearer"
+msgstr "槍運び"
+
+#. [unit_type]: id=Aragwaith Flagbearer, race=aragwaith
+#: Naia/units/humans/Aragwaith_Flagbearer.cfg:23
+msgid ""
+"Flagbearers are the leaders on the battlefield. They wield large banners to "
+"lead and inspire the soldiers. They are also skilled with the glaive, which "
+"makes them dangerous in combat too."
+msgstr ""
+"旗担ぎ達は戦場の指揮官です。 彼らは大きな旗を抱え、兵を導き、鼓舞します。 グ"
+"レイヴを操ることもでき、近接戦闘において非常に危険なものとなっています。"
+
+#. [attack]: type=pierce
+#. [attack]: type=blade
+#: Naia/units/humans/Aragwaith_Flagbearer.cfg:30
+#: Naia/units/humans/Aragwaith_Flagbearer.cfg:39
+#: Naia/units/humans/Aragwaith_Slayer.cfg:25
+#: Naia/units/humans/Aragwaith_Captain.cfg:30
+#: Naia/units/humans/Aragwaith_Captain.cfg:39
+msgid "glaive"
+msgstr "グレイヴ"
+
+#. [unit_type]: id=Aragwaith Greatbow, race=aragwaith
+#: Naia/units/humans/Aragwaith_Greatbow.cfg:5
+msgid "Greatbow"
+msgstr "グレートボウ"
+
+#. [unit_type]: id=Aragwaith Greatbow, race=aragwaith
+#: Naia/units/humans/Aragwaith_Greatbow.cfg:18
+msgid ""
+"Finally moving on from the dirk and dagger to the sword, the Greatbow is "
+"superior to the Strongbow in melee combat, but not as powerful as the "
+"Slayer. Their bow, however, is a masterpiece of military design. Several "
+"months are spent crafting a single bow, and each bow is crafted by the user, "
+"to his individual specifications. Due to the incredible strength required to "
+"pull these bows, anyone but the crafter who attempts to draw it could suffer "
+"serious injury."
+msgstr ""
+"短剣から剣に武器を替え、グレートボウは近接攻撃をより強くしました。 ストロング"
+"ボウよりは優れているものの、殺戮者には及びませんが。 しかしながら、彼らの弓は"
+"軍用としては最高の設計で作られています。 これらを作るには数ヶ月を費し、使い手"
+"が自ら設計するため、それぞれの弓には個性が出ます。 この弓を引くには非常に大き"
+"な力が必要とされ、誰にでも扱える訳ではありません。 この弓を作った者だけが、弦"
+"を引き敵に重傷を負わせることができるのです。"
+
+#. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
+#: Naia/units/humans/Aragwaith_Swordsmaster.cfg:5
+#, fuzzy
+msgid "Swordsmaster"
+msgstr "剣士"
+
+#. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
+#: Naia/units/humans/Aragwaith_Swordsmaster.cfg:19
+msgid ""
+"Swordsmasters do not get their title from one day to another. They have "
+"endured years of rigorous Aragwaithi military training, and survived many "
+"ferocious battles. Their skill with their blades is spoken of with awe among "
+"those few foes who have witnessed it — and lived.\n"
+"\n"
+"Having earned their title, Swordsmasters take responsibility for instructing "
+"the young, passing by generation on generation the proud Aragwaithi martial "
+"traditions."
+msgstr ""
+"剣聖の称号はそう簡単に手に入る物ではありません。 彼らは長い間アラグウェイシ軍"
+"の過酷な訓練に耐え、残酷ないくつもの戦場を潜り抜けて来たのです。 彼らの剣術は"
+"恐るべきものです。 それらを目撃し、生き延びた敵は畏敬の念を抱きました。\n"
+"\n"
+"剣聖の称号から、彼らには若い戦士達を育てる義務があります。その技術と誇りはア"
+"ラグウェイシ軍の伝統として受け継がれて行くのです。"
+
+#. [unit_type]: id=Hell Overlord, race=human
+#: Naia/units/humans/Chaos_Hell_Overlord.cfg:5
+msgid "Overlord"
+msgstr ""
+
+#. [unit_type]: id=Hell Overlord, race=human
+#: Naia/units/humans/Chaos_Hell_Overlord.cfg:23
+msgid ""
+"There are very few things able to make Chaos soldiers cower in fear, and "
+"even fewer humans who have earned the genuine respect of the demon lords of "
+"Inferno. While their subordinates torture and kill for pleasure, the Chaos "
+"Overlords hardly ever participate in battle, instead preferring to observe "
+"the action from a safe distance. On the exceedingly rare occasions where "
+"they do join the fray, they perform in an almost mechanical fashion, mowing "
+"down anything that gets in their way without even attempting to dodge enemy "
+"fire. It is because of their stoic disposition that many — enemies and "
+"allies alike — speculate that they have surrendered their very souls to Uria "
+"in exchange for their unnatural strength and resilience.\n"
+"\n"
+"Suffice it to say, only someone who has somehow drawn the ire of the Chaos "
+"Empire would ever find themselves facing a Chaos Overlord on the battle "
+"field."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Guard, race=aragwaith
+#: Naia/units/humans/Aragwaith_Guard.cfg:5
+#, fuzzy
+msgid "Guard"
+msgstr "死の衛兵"
+
+#. [unit_type]: id=Aragwaith Guard, race=aragwaith
+#: Naia/units/humans/Aragwaith_Guard.cfg:25
+msgid ""
+"Chosen from the toughest Swordsmen, Guards willingly forgo some of thier "
+"mobility for the advantages of armor. Whether in ceremonial posts during "
+"peace, or on the battlefield in times of war, their role is always the same: "
+"defending the Wizard nobility."
+msgstr ""
+"選りすぐりの頑丈な剣士達は機動力を捨て、衛兵としてより強力な鎧を身につけま"
+"す。 平和の祭典だけでなく、戦場においても彼らの目的はいつも同じです。 誇り高"
+"き魔術師達を護衛するのです。"
+
+#. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
+#: Naia/units/humans/Aragwaith_Ancient_Banner.cfg:5
+msgid "Ancient Banner"
+msgstr "古代の戦旗"
+
+#. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
+#: Naia/units/humans/Aragwaith_Ancient_Banner.cfg:30
+msgid "TODO"
+msgstr "書きかけ"
+
+#. [attack]: type=blade
+#: Naia/units/humans/Aragwaith_Ancient_Banner.cfg:44
+msgid "scythe"
+msgstr "鎌"
+
+#. [unit_type]: id=Doom Guard, race=human
+#: Naia/units/humans/Chaos_Doom_Guard.cfg:5
+msgid "Doom Guard"
+msgstr "死の衛兵"
+
+#. [unit_type]: id=Doom Guard, race=human
+#: Naia/units/humans/Chaos_Doom_Guard.cfg:20
+msgid ""
+"Although the Chaos Empire is a staunch believer in the principle of defense "
+"through offense, its leadership is also well aware of the importance of "
+"defending its borders against hostile incursions, as well as the occasional "
+"civil revolt. Guards tasked with the protection of the Empire’s strongholds "
+"are provided with specially-crafted armor and enjoy privileges normally "
+"reserved only for those who have proven their worth in battle. They are also "
+"occasionally granted troops and assigned to assault missions whenever a "
+"considerable amount of resistance may be expected."
+msgstr ""
+
+#. [attack]: type=impact
+#: Naia/units/humans/Chaos_Doom_Guard.cfg:34
+#: Naia/units/humans/Chaos_Hell_Guardian.cfg:35
+msgid "shield"
+msgstr "盾"
+
+#. [unit_type]: id=Aragwaith Shield Guard, race=aragwaith
+#: Naia/units/humans/Aragwaith_Shield_Guard.cfg:5
+#, fuzzy
+msgid "Shield Guard"
+msgstr "室内警備"
+
+#. [unit_type]: id=Aragwaith Shield Guard, race=aragwaith
+#: Naia/units/humans/Aragwaith_Shield_Guard.cfg:27
+msgid ""
+"These warriors wear the old shields of their ancients. These ancients could "
+"hold the line in the great battles until the reinforcements arrived, but "
+"they paid a high price, not many survived the battle and many others died "
+"through their strong wounds. Now only the best warriors are allowed to carry "
+"these ancient shields to remind the world and to honor these brave man and "
+"their sacrifice."
+msgstr ""
+"この戦士たちは、古来より受け継がれている盾を装備しています。 古代の大戦におい"
+"て、先祖はこの盾によって援軍が来るまで戦線を維持していたのです。 しかし、その"
+"代わりに、彼らの多くは重傷を負って命を落としてしまいました。 先祖の栄誉と勇敢"
+"なる犠牲を讃え、現在は最高の戦士達だけがこの盾を持つことを許されています。"
+
+#. [unit_type]: id=Chaos Soulhunter, race=human
+#: Naia/units/humans/Chaos_Soulhunter.cfg:5
+#, fuzzy
+msgid "Soulhunter"
+msgstr "エルフの猟師"
+
+#. [unit_type]: id=Chaos Soulhunter, race=human
+#: Naia/units/humans/Chaos_Soulhunter.cfg:26
+msgid ""
+"Most human civilizations throughout history have held the dead in great "
+"respect regardless of their origin and allegiance. Once society crumbled "
+"after the Fall, however, it became relatively increasingly common for humans "
+"to desecrate the bodies of their deceased for purposes ranging from the "
+"practical to the obscene.\n"
+"\n"
+"Higher-ranking Chaos brutes flaunt their strength and experience by daubing "
+"the blood of their fallen enemies on their visages and torsos, and wearing "
+"their bones as necklaces, face masks, and other ornamental gear. Dubbed "
+"“Soulhunters” by their equally amoral peers, they relish the thrill of "
+"battle and are more than willing to put their lives on the line in the hope "
+"that, some day, Uria will reward them with unending life and godlike "
+"strength to rule over all on Irdya."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
+#: Naia/units/humans/Aragwaith_Swordsman.cfg:5
+msgid "Swordsman"
+msgstr "剣士"
+
+#. [unit_type]: id=Aragwaith Swordsman, race=aragwaith
+#: Naia/units/humans/Aragwaith_Swordsman.cfg:17
+msgid ""
+"While the Aragwaithi are slight of body, they are also fast and nimble. "
+"These abilities, coupled with the intensive training given to the Aragwaith "
+"military, make for superb swordsmen. Swordsmen are clad in light chain mail "
+"— the better to resist the blades of their enemies."
+msgstr ""
+"アラグウェイシは華奢な体付きをしていますが、彼らは素早く動くことができます。 "
+"これらの能力がアラグウェイシ軍の厳しい訓練と組み合わさることで、素晴らしい剣"
+"士が育つのです。 剣士は軽い鎖帷子を纏っており、敵の斬撃を耐えることができま"
+"す。"
+
+#. [unit_type]: id=Aragwaith Spearman, race=aragwaith
+#: Naia/units/humans/Aragwaith_Spearman.cfg:5
+#, fuzzy
+msgid "Spearman"
+msgstr "槍運び"
+
+#. [unit_type]: id=Aragwaith Spearman, race=aragwaith
+#: Naia/units/humans/Aragwaith_Spearman.cfg:17
+msgid ""
+"The less dextrous and stronger Aragwaith take up the spear. Useful in "
+"hunting, this weapon is also deadly on the battlefield. Many impetuous "
+"knights have found themselves or their mounts impaled on the point of an "
+"Aragwaithi spear."
+msgstr ""
+"不器用で、力の強いアラグウェイシは槍を扱います。 この武器は狩でも有用ですが、"
+"戦場においても危険な物となります。 多くのせっかちな騎士達がアラグウェイシの槍"
+"に貫かれ、犠牲となりました。"
+
+#. [unit_type]: id=Aragwaith Slayer, race=aragwaith
+#: Naia/units/humans/Aragwaith_Slayer.cfg:5
+msgid "Slayer"
+msgstr "殺戮者"
+
+#. [unit_type]: id=Aragwaith Slayer, race=aragwaith
+#: Naia/units/humans/Aragwaith_Slayer.cfg:18
+msgid ""
+"While improving only marginally on the power of their bow, the Slayer "
+"abandons the blade in favor of training with a glaive, improving his skills "
+"in hand-to-hand combat. He is not as rugged as others of comparable skill, "
+"but far deadlier."
+msgstr ""
+"弓の腕前を上げつつ、殺戮者達は剣を捨てグレイヴを扱える様になりました。 グレイ"
+"ヴによって、近接攻撃をさらに強力なものとしたのです。 彼らは弓の腕前では他の達"
+"人には敵いませんが、彼らよりも危険な存在となりました。"
+
+#. [unit_type]: id=Chaos Raider, race=human
+#: Naia/units/humans/Chaos_Raider.cfg:5
+#, fuzzy
+msgid "Chaos Raider"
+msgstr "混沌の侵略者"
+
+#. [unit_type]: id=Chaos Raider, race=human
+#: Naia/units/humans/Chaos_Raider.cfg:18
+msgid ""
+"For most desert dwellers, horses and other equines have become an "
+"increasingly scarce commodity, to the point that they are used in battle "
+"only as a last resort in the direst of situations. This is not the case for "
+"the Chaos Empire, however, which somehow maintains a steady supply of horses "
+"for their numerous raiding parties. Those unaccustomed to the animals "
+"usually flee before them, their impressions not improved by the creatures’ "
+"fierce disposition and tendency to trample anything underfoot."
+msgstr ""
+
+#. [unit_type]: id=Chaos Razerman, race=human
+#: Naia/units/humans/Chaos_Razerman.cfg:5
+#, fuzzy
+msgid "Chaos Razerman"
+msgstr "混沌の侵略者"
+
+#. [unit_type]: id=Chaos Razerman, race=human
+#: Naia/units/humans/Chaos_Razerman.cfg:29
+msgid ""
+"To become legion commanders in the Chaos army, soldiers must shed what "
+"little remains of their humanity and thoroughly embrace the bloodshed, "
+"becoming relentless killing machines. But these demon-like creatures rarely "
+"content themselves with simply murdering every living thing in their way. "
+"Instead, they take great delight in inflicting as much pain as possible on "
+"their hapless victims, with methods such as flaying and mutilation "
+"comprising only a small part of their repertoire. Their sadism is rivaled "
+"only by that of the Chaos Lorekeepers, and the Mother of Inferno herself."
+msgstr ""
+
+#. [unit_type]: id=Dark Knight, race=human
+#: Naia/units/humans/Chaos_Dark_Knight.cfg:5
+msgid "Knight of Chaos"
+msgstr "混沌の騎士"
+
+#. [unit_type]: id=Dark Knight, race=human
+#: Naia/units/humans/Chaos_Dark_Knight.cfg:24
+msgid ""
+"Mastering the art of dual wielding is no small feat in and of itself, but "
+"its applications in real combat are limited by the impracticality of "
+"coordinating swings and balancing the wielder’s weight while under pressure. "
+"This hardly deters Chaos infantries from trying, however, usually with "
+"decent results. To inexperienced opponents, the mere sight of an approaching "
+"man suited in full armor hurling guttural screams is terrifying enough "
+"without him furiously swinging a sword and axe in either hand."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Longswordsman, race=aragwaith
+#: Naia/units/humans/Aragwaith_Longswordsman.cfg:5
+#, fuzzy
+msgid "Longswordsman"
+msgstr "剣士"
+
+#. [unit_type]: id=Aragwaith Longswordsman, race=aragwaith
+#: Naia/units/humans/Aragwaith_Longswordsman.cfg:17
+msgid ""
+"While Aragwaithi Swordsmen seem uncannily skilled to blade-wielders of other "
+"races, the Aragwaithi reserve their own admiration for Longswordsmen. These "
+"warriors have become so adept at the arts of thrust and parry that they have "
+"adopted a longer blade than the Swordsmen, yet they are able to wield it "
+"with equal grace and skill."
+msgstr ""
+"アラグウェイシの剣士は他の種族には無い、不思議な剣さばきを見せます。 アラグ"
+"ウェイシの人々はこの長剣使い達を称賛しています。 彼らは剣の突きと回避の技術を"
+"磨き、普通の剣士よりも長剣の扱いに長けています。 彼らは長剣を優雅に扱うことが"
+"できるのです。"
+
+#. [unit_type]: id=Chaos Crossbowman, race=human
+#: Naia/units/humans/Chaos_Crossbowman.cfg:5
+msgid "Chaos Crossbowman"
+msgstr "混沌のクロスボウ兵"
+
+#. [unit_type]: id=Chaos Crossbowman, race=human
+#: Naia/units/humans/Chaos_Crossbowman.cfg:23
+msgid ""
+"While most bowmen at the Chaos Empire’s service choose to specialize further "
+"in their craft with larger and more powerful bows, some opt for a less "
+"conventional approach to attaining greater combat prowess. These soldiers "
+"not only replace their rustic bows with crossbows — an absolute luxury for "
+"an army which can barely afford full body armor — but they also trade their "
+"short swords for heavier axes. While this does improve their efficacy in "
+"battle to some extent, it does so at the expense of speed and accuracy."
+msgstr ""
+
+#. [unit_type]: id=Hell Guardian, race=human
+#: Naia/units/humans/Chaos_Hell_Guardian.cfg:5
+#, fuzzy
+msgid "Hell Guardian"
+msgstr "金属の監視者"
+
+#. [unit_type]: id=Hell Guardian, race=human
+#: Naia/units/humans/Chaos_Hell_Guardian.cfg:21
+msgid ""
+"Only the very best guards in the Empire’s service are allowed access to "
+"equipment forged by blacksmiths from Inferno. These men are said to be able "
+"to withstand a rockslide if need be, protected by their stalwart devotion to "
+"the ruling lords of Inferno."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Lancer, race=aragwaith
+#: Naia/units/humans/Aragwaith_Lancer.cfg:5
+msgid "Lancer"
+msgstr "槍騎兵"
+
+#. [female]
+#: Naia/units/humans/Aragwaith_Lancer.cfg:171
+#, fuzzy
+msgid "female^Lancer"
+msgstr "回復した"
+
+#. [unit_type]: id=Chaos Heavy Longbowman, race=human
+#: Naia/units/humans/Chaos_Longbowman_Heavy.cfg:5
+msgid "Chaos Heavy Longbowman"
+msgstr "混沌の重大弓兵"
+
+#. [unit_type]: id=Chaos Heavy Longbowman, race=human
+#: Naia/units/humans/Chaos_Longbowman_Heavy.cfg:21
+msgid ""
+"Reloading and aiming is a time-consuming process and a window of opportunity "
+"for assailants to strike down the defenseless archer. The most valued bowmen "
+"in the Chaos Empire’s service earn their prestige by attaining an elf-like "
+"proficiency with the longbow, shooting more than a dozen arrows a minute "
+"without tiring or missing their mark — or so the rumors go, anyway."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Witch, race=aragwaith
+#: Naia/units/humans/Aragwaith_Witch.cfg:6
+#, fuzzy
+msgid "female^Witch"
+msgstr "精霊"
+
+#. [unit_type]: id=Aragwaith Witch, race=aragwaith
+#: Naia/units/humans/Aragwaith_Witch.cfg:78
+msgid ""
+"The increasingly rare magically-gifted noblewomen of the Aragwaithi function "
+"as the lorekeepers of their unique civilization, possessing vast knowledge "
+"about the history of Irdya and the many trials faced by their ancestors. But "
+"the path to reach their status and earn the Grand Council’s trust and "
+"respect is arduous, and much of their lives is spent training in the "
+"marches, far away from their kin. In those parts, the ability to create and "
+"control flames is highly versatile, as well as the mastery of the arts of "
+"healing."
+msgstr ""
+"魔法の才能を持って生まれた、誇り高き女性は貴重な存在です。 彼女らはアラグウェ"
+"イシの文化の伝承者として、Irdyaや祖先が直面した困難の歴史と知識を受け継いでい"
+"ます。 しかし、その地位を「大評議会」に認められ、信頼を得ることは非常に難しい"
+"ものです。 その上、彼女らは多くの時間を、はるか遠方の地での訓練で費やしま"
+"す。 この過程において身に付いた、炎を生み出し操る力はとても万能です。 さら"
+"に、彼女らは治癒の技術までも身に着けています。"
+
+#. [attack]: type=impact
+#: Naia/units/humans/Aragwaith_Witch.cfg:127
+msgid "kick"
+msgstr "蹴り"
+
+#. [unit_type]: id=Chaos Lorekeeper, race=human
+#: Naia/units/humans/Chaos_Invoker_Lorekeeper.cfg:5
+#, fuzzy
+msgid "Chaos Lorekeeper"
+msgstr "混沌の召喚師"
+
+#. [unit_type]: id=Chaos Lorekeeper, race=human
+#: Naia/units/humans/Chaos_Invoker_Lorekeeper.cfg:26
+msgid ""
+"In a world where savage men fight each other over what little water and food "
+"they can find, knowledge remains one of the few tools left to bring a "
+"semblance of order to their pathetic lives. But humans can only do so much "
+"to change the flawed reality in which they dwell, and their chaotic, vicious "
+"nature surfaces at every turn. The cultists of Chaos believe that only Uria, "
+"Mother of all demons, Goddess of Life and Mistress of the Void, can reshape "
+"and improve this decaying world. They dedicate their very souls to doing her "
+"bidding and spreading her message to every corner of Irdya.\n"
+"\n"
+"The dreaded Chaos Lorekeepers govern both the military and their subordinate "
+"Magi. They are indisputably regarded as sacred figures akin to demigods by "
+"Uria’s and Yechnagoth’s worshippers alike. Their dedication to their craft "
+"borders on irrational, and the wars they wage often serve much darker "
+"purposes. Those unlucky enough to survive are taken captive, fated to "
+"undergo unfathomable horrors in the name of the Lorekeepers’ unending search "
+"for knowledge. It is this, more than anything else, that keeps their "
+"subjects in line; they are well aware of the consequences should they "
+"disobey an order even slightly.\n"
+"\n"
+"But as unlikely as it might sound, the Lorekeepers are not alone in ruling "
+"over the wicked legions of Uria..."
+msgstr ""
+
+#. [attack]: type=cold
+#: Naia/units/humans/Chaos_Invoker_Lorekeeper.cfg:51
+#: Naia/units/demons/Fighter_Warrior.cfg:41
+#: Naia/units/demons/Fighter_Grunt.cfg:39
+msgid "infernal chill"
+msgstr "地獄の冷風"
+
+#. [unit_type]: id=Chaos Arbalestier, race=human
+#: Naia/units/humans/Chaos_Crossbowman_Arbalestier.cfg:5
+#, fuzzy
+msgid "Chaos Arbalestier"
+msgstr "混沌の侵略者"
+
+#. [unit_type]: id=Chaos Arbalestier, race=human
+#: Naia/units/humans/Chaos_Crossbowman_Arbalestier.cfg:25
+msgid ""
+"Going a step further than most, these elite Chaos soldiers are equipped with "
+"a more sophisticated variation on the basic crossbow, able to shoot bolts "
+"with much greater penetrating force. Because of the increased reload times "
+"and maintenance cost, these ‘arbalests’ are rarely seen on the battlefield "
+"in an active role, their owners often carrying them unloaded as a status "
+"symbol instead."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Naia/units/humans/Chaos_Crossbowman_Arbalestier.cfg:39
+msgid "arbalest"
+msgstr "弩"
+
+#. [unit_type]: id=Chaos Cataphract, race=human
+#: Naia/units/humans/Chaos_Cataphract.cfg:5
+msgid "Chaos Cataphract"
+msgstr "重装騎兵"
+
+#. [unit_type]: id=Chaos Cataphract, race=human
+#: Naia/units/humans/Chaos_Cataphract.cfg:20
+msgid ""
+"Cataphracts are held in utmost respect by the Chaos military and serve as "
+"the legions’ fearsome standard-bearers. When not carrying the Chaos flag "
+"into battle, they are often seen swiftly traversing the blood-stained "
+"battlefields to deliver news, commands, and supplies. Their most striking "
+"aspect is the symbiotic relationship they share with their mounts, however. "
+"Gentler emotions are seldom found amongst the Chaos ranks, but these riders "
+"have been known to pause and mourn their fallen steeds, even amidst the "
+"carnage of battle."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Scout, race=aragwaith
+#: Naia/units/humans/Aragwaith_Scout.cfg:5
+msgid "Scout"
+msgstr "斥候"
+
+#. [female]
+#: Naia/units/humans/Aragwaith_Scout.cfg:65
+#, fuzzy
+msgid "female^Scout"
+msgstr "精霊"
+
+#. [unit_type]: id=Aragwaith Archer, race=aragwaith
+#: Naia/units/humans/Aragwaith_Archer.cfg:5
+msgid "Archer"
+msgstr "弓兵"
+
+#. [unit_type]: id=Aragwaith Archer, race=aragwaith
+#: Naia/units/humans/Aragwaith_Archer.cfg:17
+msgid ""
+"The Aragwaithi are a noble people, fragile in body, but their training makes "
+"them among the more deadly denizens of this world. Their archers are no "
+"exception. Their skills with a bow are comparable to those of some elves, "
+"and they are remarkably quick with their daggers."
+msgstr ""
+"アラグウェイシは気高い心を持ちますが、体はさほど丈夫ではありません。 しかし、"
+"彼らは訓練により、強力な力を手に入れています。 弓兵達も例外ではありません。 "
+"彼らの弓の腕前はエルフと並ぶほどで、そらに驚くほど素早く短剣で切りつけること"
+"もできます。"
+
+#. [unit_type]: id=Aragwaith Sorceress, race=aragwaith
+#: Naia/units/humans/Aragwaith_Sorceress.cfg:5
+#, fuzzy
+msgid "female^Sorceress"
+msgstr "回復した"
+
+#. [unit_type]: id=Aragwaith Sorceress, race=aragwaith
+#: Naia/units/humans/Aragwaith_Sorceress.cfg:19
+msgid ""
+"The mighty Aragwaith Sorceresses are gracile like wind. They can confuse "
+"their opponents by standing in front of them, seemingly defenseless; after "
+"the attacker hits, they notice their victim is behind them, ready to perform "
+"his own killing strike. On the battlefield these sorceresses are fearsome "
+"enemies; even their comrades keep an eye on them, carefully, from a safe "
+"distance. And so it happens that even the Royal orders of Wesnothian magi "
+"treat these noble lores with respect and caution."
+msgstr ""
+"アラグウェイシの優れた魔術師は風のように優雅です。 彼女達は一見無防備に見えま"
+"すが、敵の攻撃を華麗にかわします。 敵が彼女達を捕らえたと思えば、気付けば逆に"
+"背後に回り込まれ、必殺の一撃を叩き込まれてしまうのです。 戦場において、彼女達"
+"は恐るべき魔術師であるのです。 さらに、彼女達は監視されていたとしても、一瞬で"
+"遠くに移動することができます。 Wesnoth軍の魔術師でさえも彼らの技を尊敬し、警"
+"戒するでしょう。"
+
+#. [unit_type]: id=Aragwaith Silver Shield, race=aragwaith
+#: Naia/units/humans/Aragwaith_Silver_Shield.cfg:5
+msgid "Silver Shield"
+msgstr "銀の盾"
+
+#. [female]
+#: Naia/units/humans/Aragwaith_Silver_Shield.cfg:190
+#, fuzzy
+msgid "female^Silver Shield"
+msgstr "回復した"
+
+#. [unit_type]: id=Aragwaith Pikeman, race=aragwaith, description=
+#: Naia/units/humans/Aragwaith_Pikeman.cfg:5
+msgid "Pikeman"
+msgstr "矛使い"
+
+#. [unit_type]: id=Aragwaith Captain, race=aragwaith, description=
+#: Naia/units/humans/Aragwaith_Captain.cfg:5
+msgid "Captain"
+msgstr "隊長"
+
+#. [unit_type]: id=Chaos Marauder, race=human
+#: Naia/units/humans/Chaos_Marauder.cfg:5
+msgid "Marauder"
+msgstr "略奪者"
+
+#. [unit_type]: id=Chaos Marauder, race=human
+#: Naia/units/humans/Chaos_Marauder.cfg:25
+msgid ""
+"Even barbarian brutes can hone their skills given enough time. Those in the "
+"Chaos Empire’s service who manage to survive long enough to do so are given "
+"plenty of opportunities to broaden their horizons and brandish better arms "
+"against their adversaries."
+msgstr ""
+
+#. [unit_type]: id=Chaos Headhunter, race=human
+#: Naia/units/humans/Chaos_Headhunter.cfg:5
+msgid "Headhunter"
+msgstr "首狩り人"
+
+#. [unit_type]: id=Chaos Headhunter, race=human
+#: Naia/units/humans/Chaos_Headhunter.cfg:25
+msgid ""
+"The Chaos Empire relies extensively on its charismatic Lorekeepers to "
+"attract and convert outsiders — chiefly barbarians — to its cause. Those who "
+"lack the ability or knowledge to join the ranks of the Chaos Magi are given "
+"the most basic equipment and assigned to raiding missions where their "
+"undisciplined brutality may be put to use to terrorize and confuse their "
+"victims, often at the cost of their own lives."
+msgstr ""
+
+#. [unit_type]: id=Chaos Invoker, race=human
+#: Naia/units/humans/Chaos_Invoker.cfg:5
+msgid "Chaos Invoker"
+msgstr "混沌の召喚師"
+
+#. [unit_type]: id=Chaos Invoker, race=human
+#: Naia/units/humans/Chaos_Invoker.cfg:24
+msgid ""
+"There is much speculation as to the origins of the religious groups that "
+"eventually joined to form the Chaos Empire. Amongst scholars, the most "
+"popular theory postulates the creation of two separate cults by the same "
+"prophet approximately four centuries ago: the cult of Yechnagoth, centered "
+"around the western seaboard, and the cult of Chaos, which existed primarily "
+"throughout the eastern wastes.\n"
+"\n"
+"As time went on, the more prolific Chaos Magi’s sphere of influence expanded "
+"and absorbed Yechnagoth’s worshipers, reshaping their tenets and giving way "
+"to a unified religion worshiping Uria as the goddess who brought the Dark "
+"Lady back from the dead.\n"
+"\n"
+"Low-ranking initiates — colloquially known as “Invokers” by their enemies — "
+"lack the sophisticated knowledge that defines their order; they have much "
+"yet to learn before they can attain a formal title and be entrusted with the "
+"leadership of the demonic hordes. Nonetheless, they are a cornerstone of the "
+"Chaos military, always ready to provide their services and proselytize to "
+"captives and outsiders with elaborate displays of power."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Guardian, race=aragwaith, description=
+#: Naia/units/humans/Aragwaith_Guardian.cfg:5
+#, fuzzy
+msgid "Guardian"
+msgstr "金属の監視者"
+
+#. [unit_type]: id=Chaos Invader, race=human
+#: Naia/units/humans/Chaos_Invader.cfg:5
+msgid "Chaos Invader"
+msgstr "混沌の侵略者"
+
+#. [unit_type]: id=Chaos Invader, race=human
+#: Naia/units/humans/Chaos_Invader.cfg:26
+msgid ""
+"These dark soldiers fight for a cause they mostly ignore, many of them "
+"reveling instead in the glory of senseless bloodshed and destruction. But "
+"there are those amongst their ranks willing to pay heed to the sermons of "
+"the Chaos Magi and place their trust in fallen gods from a long forgotten "
+"era."
+msgstr ""
+
+#. [unit_type]: id=Chaos Cavalier, race=human
+#: Naia/units/humans/Chaos_Cavalier.cfg:5
+#, fuzzy
+msgid "Chaos Cavalier"
+msgstr "混沌の侵略者"
+
+#. [unit_type]: id=Chaos Cavalier, race=human
+#: Naia/units/humans/Chaos_Cavalier.cfg:18
+msgid ""
+"A rider and its mount achieve their maximum potential once they learn to "
+"trust each other and act in unison. Even if it may seem unusual at first "
+"glance, there are such horsemen fighting under Uria’s banner, and they treat "
+"their companions as an extension of themselves in all regards."
+msgstr ""
+
+#. [unit_type]: id=Chaos Bowman, race=human
+#: Naia/units/humans/Chaos_Bowman.cfg:5
+msgid "Chaos Bowman"
+msgstr "混沌の弓兵"
+
+#. [unit_type]: id=Chaos Bowman, race=human
+#: Naia/units/humans/Chaos_Bowman.cfg:20
+msgid ""
+"Since time immemorial, humans have used and perfected the bow and arrow for "
+"hunting and defense. Even after the Fall, it continues to be the cheapest "
+"and most effective weapon a military can afford for its lowest-ranking "
+"soldiers. Archers seldom have adequate training or equipment to be effective "
+"in combat at close quarters, but they are nonetheless capable of defending "
+"themselves should the situation call for it."
+msgstr ""
+
+#. [unit_type]: id=Aragwaith Strongbow, race=aragwaith
+#: Naia/units/humans/Aragwaith_Strongbow.cfg:5
+msgid "Strongbow"
+msgstr "強弓兵"
+
+#. [unit_type]: id=Aragwaith Strongbow, race=aragwaith
+#: Naia/units/humans/Aragwaith_Strongbow.cfg:17
+msgid ""
+"By wielding a stronger bow and training almost constantly, the Aragwaith "
+"Strongbow fires a far deadlier shot than the average archer. Their dirks are "
+"longer than the daggers used by the typical archer, and they wield them far "
+"more effectively."
+msgstr ""
+"強力な弓を扱い、絶えず訓練を積むことにより、ストロングボウ達は一般的な弓兵よ"
+"りも致命的な狙撃を行います。 彼らの短剣は以前の物よりも長くなっており、より上"
+"手く扱うことができます。"
+
+#. [unit_type]: id=Aragwaith Eagle Rider, race=aragwaith
+#: Naia/units/humans/Aragwaith_Eagle_Rider.cfg:5
+msgid "Eagle Rider"
+msgstr "イーグルライダー"
+
+#. [unit_type]: id=Aragwaith Eagle Rider, race=aragwaith
+#: Naia/units/humans/Aragwaith_Eagle_Rider.cfg:18
+msgid ""
+"Some Aragwaithi youths take young eagles as a pet. These are not the common "
+"eagles, but a race of noble, giant birds of prey. When they are grown "
+"enough, they usually willing to serve as a mount for their best friend, and "
+"their young mates learn the art of riding these giant birds."
+msgstr ""
+"アラグウェイシの一部の若者達は鷹をペットとして育てています。 これらは一般的な"
+"鷹ではなく、体の大きい威厳のある猛禽類なのです。 鷹が充分に育てば、飼い主達は"
+"最高の友として共に空を飛び、彼らは騎乗の技術を学んでいきます。"
+
+#. [attack]: type=impact
+#: Naia/units/humans/Aragwaith_Eagle_Rider.cfg:32
+#: Naia/units/humans/Aragwaith_Eagle_Master.cfg:36
+msgid "prey crush"
+msgstr "粉砕"
+
+#. [unit_type]: id=Aragwaith Wizard, race=aragwaith, description=
+#: Naia/units/humans/Aragwaith_Wizard.cfg:5
+#, fuzzy
+msgid "female^Wizard"
+msgstr "装甲された"
+
+#. [unit_type]: id=Aragwaith Eagle Master, race=aragwaith
+#: Naia/units/humans/Aragwaith_Eagle_Master.cfg:5
+#, fuzzy
+msgid "Eagle Master"
+msgstr "影の主"
+
+#. [unit_type]: id=Aragwaith Eagle Master, race=aragwaith
+#: Naia/units/humans/Aragwaith_Eagle_Master.cfg:19
+msgid ""
+"With experience, Eagle riders become more skilled and the relation with "
+"their winged friend become so strong that they act as one. As Eagle masters, "
+"they no longer need to give orders to their mounts, those anticipate them."
+msgstr ""
+"これまでの経験から、イーグルライダーはさらに技術を高め、翼ある友との関係を深"
+"めました。 イーグルマスターはもはや鷹に命令するまでもなく、操ることができま"
+"す。"
+
+#. [unit_type]: id=Chaos Longbowman, race=human
+#: Naia/units/humans/Chaos_Longbowman.cfg:5
+msgid "Chaos Longbowman"
+msgstr "混沌の大弓兵"
+
+#. [unit_type]: id=Chaos Longbowman, race=human
+#: Naia/units/humans/Chaos_Longbowman.cfg:20
+msgid ""
+"Even though the Chaos Empire’s soldiers are more adept at fighting hand-to-"
+"hand, they also understand the importance of being able to keep their "
+"adversaries at bay and take them down before they can retaliate. Chaos "
+"Longbowmen carry more powerful weapons than the average archer; the subtle "
+"improvements made to their bows and arrowheads enable their projectiles to "
+"fly farther and penetrate even thick armor. Making matters worse are the "
+"lethal fluids of dubious origin into which the arrows are dipped prior to "
+"shooting."
+msgstr ""
+
+#. [unit_type]: id=Water Spirit, race=spirit
+#: Naia/units/spirits/Water_Spirit.cfg:5
+#, fuzzy
+msgid "female^Water Spirit"
+msgstr "精霊"
+
+#. [unit_type]: id=Water Spirit, race=spirit
+#: Naia/units/spirits/Water_Spirit.cfg:20
+msgid ""
+"Tidal waves of water have been known to have acquired their own "
+"consciousness and mind, and to set free from their summoners. Then, it turns "
+"into a more corporeal being of water, that encarnates the might and "
+"whimsical personality of water and its inhabitants."
+msgstr ""
+
+#. [attack]: type=impact
+#: Naia/units/spirits/Water_Spirit.cfg:24 Naia/units/spirits/Water_Tidal.cfg:23
+msgid "water punch"
+msgstr ""
+
+#. [unit_type]: id=Fire Spirit, race=spirit
+#: Naia/units/spirits/Fire_Spirit.cfg:5
+#, fuzzy
+msgid "Fire Spirit"
+msgstr "森の妖精"
+
+#. [unit_type]: id=Fire Spirit, race=spirit
+#: Naia/units/spirits/Fire_Spirit.cfg:19
+msgid ""
+"Fire Guardians are spirits of smoke and flame. No one is exactly sure where "
+"they come from, but they seem to be a common threat in the darkest unknown "
+"depths of world. They might be the Fire itself, incarnate, or part of it."
+msgstr ""
+
+#. [unit_type]: id=Water Tidal, race=spirit
+#: Naia/units/spirits/Water_Tidal.cfg:5
+#, fuzzy
+msgid "female^Water Tidal"
+msgstr "回復した"
+
+#. [unit_type]: id=Water Tidal, race=spirit
+#: Naia/units/spirits/Water_Tidal.cfg:19
+msgid ""
+"It is said that the world is mostly composed of water. It would be natural, "
+"then, to think that water may have its own will, and that its power can be "
+"summoned by expert magi for bad purposes. Unfortunately, all that is true."
+msgstr ""
+
+#. [unit_type]: id=Rock Golem, race=spirit
+#: Naia/units/spirits/Rock_Golem.cfg:5
+msgid "Rock Golem"
+msgstr "岩のゴーレム"
+
+#. [unit_type]: id=Rock Golem, race=spirit
+#: Naia/units/spirits/Rock_Golem.cfg:18
+msgid ""
+"Rock Golems are giant, slow, and heavy creatures made out of solid, living "
+"rock. Their fists can crush any skeleton in matter of seconds."
+msgstr ""
+
+#. [unit_type]: id=Animated Rock, race=spirit
+#: Naia/units/spirits/Rock_Animated.cfg:5
+#, fuzzy
+msgid "Animated Rock"
+msgstr "動く岩だ。凄い！"
+
+#. [unit_type]: id=Animated Rock, race=spirit
+#: Naia/units/spirits/Rock_Animated.cfg:17
+msgid ""
+"Animated Rocks are rather slow creatures made out of solid, living rock. "
+"They have a weak attack, but are incredibly hard to destroy. It is rumored "
+"that these magical constructs can only be summoned by powerful magi."
+msgstr ""
+
+#. [unit_type]: id=Fire Wisp, race=spirit
+#: Naia/units/spirits/Fire_Wisp.cfg:5
+#, fuzzy
+msgid "Fire Wisp"
+msgstr "炎の妖精"
+
+#. [unit_type]: id=Fire Wisp, race=spirit
+#: Naia/units/spirits/Fire_Wisp.cfg:18
+msgid ""
+"Fire Wisps are minor spirits of flame. They like to frolic in pools of lava, "
+"and take great delight in burning anything they can reach. They should not "
+"be a great challenge to unexperienced fighters, except when found in swarms."
+msgstr ""
+"「揺らめく炎」は小さな炎の精霊です。 彼らは溶岩のプールで遊んだり、近くの物を"
+"焼き尽す事を好んでいます。 彼らは経験が浅い戦士にとっても脅威にすらなりません"
+"が、群れとなれば話は別です。"
+
+#. [attack]: type=fire
+#: Naia/units/spirits/Fire_Wisp.cfg:22
+#, fuzzy
+msgid "fire bash"
+msgstr "炎のオーラ"
+
+#. [unit_type]: id=Verlissh Matrix Core, race=verlissh
+#: Naia/units/verlissh/Matrix_Core.cfg:5
+msgid "Matrix Core"
+msgstr "組織の核"
+
+#. [unit_type]: id=Verlissh Matrix Core, race=verlissh
+#. [unit_type]: id=Verlissh Matrix Flow System, race=verlissh
+#: Naia/units/verlissh/Matrix_Core.cfg:25
+#: Naia/units/verlissh/Matrix_Flow_System.cfg:26
+msgid ""
+"These unfathomable, purportedly living constructs are usually found "
+"underground near Shaxthal hives. Fully immobile by nature, they have very "
+"limited means of self-defense. Given their disproportionate size, they may "
+"be a hindrance when found in narrow underground passages."
+msgstr ""
+"得体の知れないこの生物は、地下にあるShaxthalの巣の近くに生息しています。彼ら"
+"はまったく動くことができず、自己防衛の手段も限られています。妙に大きな体をし"
+"ているため、狭い地下通路では邪魔な存在となるでしょう。"
+
+#. [attack]: type=cold
+#: Naia/units/verlissh/Matrix_Core.cfg:29
+#: Naia/units/verlissh/Matrix_Flow_System.cfg:30
+#: Naia/units/verlissh/Psy_Crawler.cfg:33
+msgid "energy ray"
+msgstr "エネルギー光線"
+
+#. [attack]: type=fire
+#: Naia/units/verlissh/Matrix_Core.cfg:38
+msgid "hot goo"
+msgstr "熱い粘液"
+
+#. [unit_type]: id=Verlissh Matrix Flow System, race=verlissh
+#: Naia/units/verlissh/Matrix_Flow_System.cfg:5
+msgid "Matrix Flow System"
+msgstr "組織の流動体"
+
+#. [attack]: type=pierce
+#: Naia/units/verlissh/Matrix_Flow_System.cfg:39
+msgid "goo"
+msgstr "粘液"
+
+#. [unit_type]: id=Psy Crawler, race=verlissh
+#: Naia/units/verlissh/Psy_Crawler.cfg:5
+msgid "Psy Crawler"
+msgstr "心を這う者"
+
+#. [unit_type]: id=Psy Crawler, race=verlissh
+#: Naia/units/verlissh/Psy_Crawler.cfg:20
+msgid ""
+"These tentacled creatures are often found underground within Shaxthal hives, "
+"wandering aimlessly and preying upon smaller lifeforms when not magically "
+"commanded by the dreaded Lorekeepers. Being rather slow and weak, it is very "
+"unusual for them to be seen on the surface, and even more unusual for them "
+"to be sent away from their habitat."
+msgstr ""
+"触手を持つこの生物は、地下にあるShaxthalの巣で良く見られます。恐るべき混沌の"
+"伝承者に魔法で操られていない時には、あてもなくさまよいながらより小さい生き物"
+"を捕食しています。のろまで弱々しい存在であり、地上にいることは殆んどありませ"
+"ん。また、住まいから離れた場所に送られることは非常に稀です。"
+
+#. [unit_type]: id=Psy Mindraider, race=verlissh
+#: Naia/units/verlissh/Psy_Mindraider.cfg:5
+msgid "Psy Mindraider"
+msgstr "心を読む者"
+
+#. [unit_type]: id=Psy Mindraider, race=verlissh
+#: Naia/units/verlissh/Psy_Mindraider.cfg:19
+msgid ""
+"Assumed to be related to the wandering crawlers at the Lorekeepers’ service, "
+"these fearsome creatures are said to have the ability to pierce into the "
+"very minds of any living opponents, replenishing their vital energy and "
+"accelerating their growth in the process. Needless to say, this makes them "
+"especially dangerous to approach."
+msgstr ""
+"この恐ろしい生物は、伝承者の指示に従う「這う者」とも関連があるとされていま"
+"す。生物の精神に侵入する能力を持ち、それによって生命エネルギーを補給して成長"
+"すると言われています。言うまでもなく、彼らに接近することは非常に危険です。"
+
+#. [attack]: type=arcane
+#: Naia/units/verlissh/Psy_Mindraider.cfg:37
+msgid "mind probe"
+msgstr "精神侵入"
+
+#. [unit_type]: id=Elvish Prowler, race=elf
+#: Naia/units/elves-wood/Prowler.cfg:5
+msgid "Elvish Prowler"
+msgstr "エルフの放浪者"
+
+#. [unit_type]: id=Elvish Prowler, race=elf
+#: Naia/units/elves-wood/Prowler.cfg:34
+msgid ""
+"The best hunters are renowned for their skill in taking advantage of their "
+"surroundings to sneak past enemies unnoticed and strike at them by surprise. "
+"It is not unusual for incursion parties to be either disbanded or decimated "
+"by patrol teams led by a few veteran prowlers."
+msgstr ""
+"最高の猟師達は敵の目をかいくぐり、奇襲をかける技術によって名声を得ています。"
+"少数のベテラン放浪者に率いられた哨戒部隊によって襲撃部隊が崩壊させられたり、"
+"壊滅的な被害を受けることは稀ではありません。"
+
+#. [attack]: type=impact
+#: Naia/units/elves-wood/Prowler.cfg:48 Naia/units/elves-wood/Hunter.cfg:44
+#: Naia/units/elves-wood/Trapper.cfg:46
+msgid "bolas"
+msgstr "投げ縄"
+
+#. [female]
+#: Naia/units/elves-wood/Prowler.cfg:127
+msgid "female^Elvish Prowler"
+msgstr "エルフの女放浪者"
+
+#. [unit_type]: id=Elvish Hunter, race=elf
+#: Naia/units/elves-wood/Hunter.cfg:5
+msgid "Elvish Hunter"
+msgstr "エルフの猟師"
+
+#. [unit_type]: id=Elvish Hunter, race=elf
+#: Naia/units/elves-wood/Hunter.cfg:29
+msgid ""
+"In order to protect their lands, the forest elves of the Valley of Elynia "
+"have developed new practices and formed special trained groups to patrol "
+"their frontiers. Their hunters are specialized in trapping unwary opponents "
+"from a safe distance to ease the task of the swordsmen."
+msgstr ""
+"自分達の土地を守るため、Elyniaの谷の森エルフは新たな方法を開発し、辺境地域を"
+"哨戒する特殊部隊を構築しました。彼ら猟師は安全な遠くから不用心な獲物を罠にか"
+"けることに長けており、剣士の仕事を容易にします。"
+
+#. [female]
+#: Naia/units/elves-wood/Hunter.cfg:146
+msgid "female^Elvish Hunter"
+msgstr "エルフの女猟師"
+
+#. [unit_type]: id=Elvish Trapper, race=elf
+#: Naia/units/elves-wood/Trapper.cfg:5
+msgid "Elvish Trapper"
+msgstr "エルフの罠猟師"
+
+#. [unit_type]: id=Elvish Trapper, race=elf
+#: Naia/units/elves-wood/Trapper.cfg:32
+#, fuzzy
+msgid ""
+"Field experience has granted Elvish Trappers greater expertise in patrolling "
+"and defending their bases, utilizing decoys and swift moves to confound "
+"their enemies and attack them from behind. Their continuous training in "
+"swordplay also begins to prove advantageous, allowing them to operate better "
+"on their own."
+msgstr ""
+"エルフの罠猟師は、彼らの基地を巡回し、守る事に関する専門技術を向上させ、そし"
+"て、敵を混乱させ、背後を襲う事の価値を学びました。これらの散兵は、より短剣に"
+"習熟するようになり、敵を倒すために投げ縄を使う必要は、少なくなりました。"
+
+#. [female]
+#: Naia/units/elves-wood/Trapper.cfg:125
+msgid "female^Elvish Trapper"
+msgstr "エルフの女罠猟師"
+
+#. [unit_type]: id=Lesser Giant Spider, race=monster
+#: Naia/units/monsters/Giant_Spider_Lesser.cfg:5
+msgid "Lesser Giant Spider"
+msgstr "巨大グモの子"
+
+#. [unit_type]: id=Lesser Giant Spider, race=monster
+#: Naia/units/monsters/Giant_Spider_Lesser.cfg:18
+msgid ""
+"Smaller and weaker Giant Spiders are very common underground. They usually "
+"prey on single insects roaming around, but sometimes it is possible to find "
+"dwarven or human corpses trapped in their webs, which suggests they have "
+"little problem in eating big individuals fool enough to fall in their traps."
+msgstr ""
+"小さくて弱い巨大グモは地下ではありふれた存在です。通常、さまよう虫をエサにし"
+"ますが、時には彼らの巣にドワーフや人間の死体が見つかることがあります。おそら"
+"く、彼らの罠に落ちる愚かな巨大な物を食べることに支障はないのでしょう。"
+
+#. [unit_type]: id=Leech, race=monster
+#: Naia/units/monsters/Leech.cfg:5
+msgid "Leech"
+msgstr "ヒル"
+
+#. [unit_type]: id=Leech, race=monster
+#: Naia/units/monsters/Leech.cfg:45
+msgid ""
+"Leeches are universally known for their common diet, the warm blood of "
+"various bigger creatures. However, this is exactly why they are often used "
+"for medicinal purposes.\n"
+"\n"
+"Although not directly related, the same name is applied to groups of strange "
+"worms attached to the ground, found under caves, who are not a great danger "
+"as they cannot move around to search for prey. Instead, they await unwary "
+"victims who get close enough for them to be able to trap them in their "
+"deadly tentacles and then swallow their blood, which increases their "
+"strength and heals their wounds.\n"
+"\n"
+"It is fortunate that they have not developed legs; otherwise, they would be "
+"an almost unstoppable menace to explorers and dwellers of the caves they "
+"inhabit."
+msgstr ""
+"ヒルの食料は広く知られており、それは様々な生き物の暖い血です。 しかし、彼らは"
+"しばしば医療用として使われたりもします。\n"
+"\n"
+"直接的な関係はないのですが、地下の洞窟に住む奇妙な虫にもこの名前が用いられて"
+"います。 彼らはその場から動けないため、それほど危険ではありません。 その代わ"
+"り、彼らは不用心な獲物が近付くのを待ち、その後に触手を使って獲物を捕らえ、血"
+"をすすります。 血によって彼らは強くなり、傷を癒すのです。\n"
+"\n"
+"幸運なことに、彼らの足は発達していません。 しかし、彼らも探検家達を阻む洞窟の"
+"住人達の一つなのです。"
+
+#. [attack]: type=pierce
+#: Naia/units/monsters/Leech.cfg:59
+msgid "drainer"
+msgstr "吸血"
+
+#. [unit_type]: id=Demonic Hound, race=monster
+#: Naia/units/monsters/Hound_Demonic.cfg:5
+msgid "Demonic Hound"
+msgstr "悪魔の猛犬"
+
+#. [unit_type]: id=Demonic Hound, race=monster
+#: Naia/units/monsters/Hound_Demonic.cfg:25
+msgid ""
+"It is relatively rare for a Chaos Hound to survive even a year in service on "
+"account of their relatively frail build, which makes them prime targets for "
+"arrows and sling bullets; and their temperament, which more often than not "
+"leads to in-fighting. Those that do, however, quickly earn the Chaos Magi’s "
+"attentions — which tend to entail subjecting the beasts to all manner of "
+"reprehensible experiments, turning them into sturdier and deadlier killing "
+"machines.\n"
+"\n"
+"It is rumored some Chaos Overlords delight in keeping these hellish hounds "
+"as pets. If so, this an even greater deterrent to anyone who would dare "
+"enter an Overlord’s stronghold uninvited."
+msgstr ""
+
+#. [unit_type]: id=Hellhound, race=monster
+#: Naia/units/monsters/Hound_Hell.cfg:5
+msgid "Hellhound"
+msgstr "地獄の猛犬"
+
+#. [unit_type]: id=Hellhound, race=monster
+#: Naia/units/monsters/Hound_Hell.cfg:26
+msgid ""
+"It should come as no surprise to anyone that the followers of Uria have "
+"perfected techniques for extracting and transplanting souls. Very little "
+"information about it has reached any outsider, but the little extant "
+"evidence indicates that it is a common disciplinary action against those who "
+"have failed in their missions or otherwise displeased their superiors. They "
+"are then given a last chance to clear their names and prove their worth, "
+"usually with new bodies seldom fit for the task.\n"
+"\n"
+"It is suspected that most of the Chaos Hounds who manage to survive their "
+"masters’ research have had their souls replaced with those of these fallen "
+"demons, either because their original souls break down from the horrors, or "
+"simply because it is much easier to strip a tortured soul from its vessel. "
+"The denizens of Inferno have found that there could hardly be anything more "
+"humiliating than being forced to carry on their lives confined to the bodies "
+"of beasts that even their Irdyan allies despise: walking on all fours, "
+"sleeping next to their own excrement, and eventually succumbing to their low "
+"instincts. Having long since realized that regaining their honor is a lost "
+"cause, these miserable creatures determine that there are only two remaining "
+"options: either to embrace death at the hands of their enemies, or turn "
+"against their masters and pray that they do not decide to prolong the "
+"torment."
+msgstr ""
+
+#. [unit_type]: id=Giant Ant, race=monster
+#: Naia/units/monsters/Giant_Ant.cfg:5
+#, fuzzy
+msgid "Giant Ant"
+msgstr "うろつく蟻"
+
+#. [unit_type]: id=Giant Ant, race=monster
+#: Naia/units/monsters/Giant_Ant.cfg:19
+msgid ""
+"Ants are common in almost any environment, from caverns deep under the earth "
+"to the tops of tall mountains. Those that live deep underground tend to grow "
+"up over their normal size. Though normally not hostile, they can bite at "
+"close range, dealing more damage than a normal-sized ant."
+msgstr ""
+"アリは地下の洞窟から山の頂上まで、どこでも見かけられるものです。 これらは深い"
+"地下に住み、普通よりも大きく育ちました。 普段は敵意を持ってはいませんが、近付"
+"けば噛みついてきます。"
+
+#. [unit_type]: id=Fungoid, race=monster
+#: Naia/units/monsters/Fungoid.cfg:5
+msgid "Fungoid"
+msgstr "ファンゴイド"
+
+#. [unit_type]: id=Fungoid, race=monster
+#: Naia/units/monsters/Fungoid.cfg:29
+msgid ""
+"Fungoids are mushroom-like creatures that can multiply very quickly. Their "
+"soft bodies and delicious taste once seasoned make them a prime target for "
+"inexperienced adventurers."
+msgstr ""
+
+#. [unit_type]: id=Abomination, race=monster
+#: Naia/units/monsters/Abomination.cfg:5
+msgid "Abomination"
+msgstr "おぞましき者"
+
+#. [unit_type]: id=Abomination, race=monster
+#: Naia/units/monsters/Abomination.cfg:19
+msgid ""
+"The origin of these hideous creatures is uncertain. Some speculate that they "
+"might be humans, orcs, dwarves or trolls that were somehow changed into "
+"their current aspect. Others claim that they are failed attempts at breeding "
+"a new race of demon soldiers by the Chaos forces.\n"
+"\n"
+"However they came into existence, they appear to be highly sensitive to "
+"light and avoid leaving the safety of their dark caverns."
+msgstr ""
+"この恐ろしい生物の起源はわかっていません。一部の者、は人間やトロル、オークが"
+"何らかの原因によって変化したものだ、と考えています。他の者たちは、混沌の軍勢"
+"の失敗作であり、新たなデーモンの兵士を作ろうとした結果できたものだ、と語りま"
+"す。\n"
+"\n"
+"しかし彼らは実在しています。彼らは光を敏感に感じ取り、それを避けて暗く安全な"
+"洞窟に逃げようとします。"
+
+#. [unit_type]: id=Chaos Hound, race=monster
+#: Naia/units/monsters/Hound_Chaos.cfg:5
+msgid "Hound of Chaos"
+msgstr "混沌の猛犬"
+
+#. [unit_type]: id=Chaos Hound, race=monster
+#: Naia/units/monsters/Hound_Chaos.cfg:18
+msgid ""
+"Exceedingly few communities have continued to breed domesticated dogs after "
+"the Fall, not only because of the harsher climate and scarce resources with "
+"which to feed captive animals, but also on account of an overabundance of "
+"larger and more dangerous predators. The Chaos Empire, on the other hand, "
+"not content with using slaves and barbarian mercenaries in warfare, has "
+"turned dog breeding into more than a mere pastime. To their quadrupedal "
+"companions anything unfamiliar constitutes prey, and these vicious canines "
+"never yield in a fight until either their target or themselves has been "
+"reduced to bloody bits."
+msgstr ""
+
+#. [unit_type]: id=Errant Soul
+#: Naia/units/undead/Errant_Soul.cfg:5
+msgid "Errant Soul"
+msgstr "彷徨う魂"
+
+#. [unit_type]: id=Errant Soul
+#: Naia/units/undead/Errant_Soul.cfg:16
+msgid ""
+"These lost souls have wandered the barren wastelands of Irdya ever since the "
+"Fall, trapped in ethereal bodies that only vaguely resemble their former "
+"living appearances."
+msgstr ""
+"これらの魂は「滅び」の後のIrdyaの荒地を彷徨っています。 魂は霊体に囚われてお"
+"り、ぼんやりと生前に似た姿を保っています。"
+
+#. [unit_type]: id=Armageddon Imp, race=imps
+#: Naia/units/imps/Armageddon.cfg:5
+msgid "Armageddon Imp"
+msgstr "アルマゲドンインプ"
+
+#. [unit_type]: id=Armageddon Imp, race=imps
+#: Naia/units/imps/Armageddon.cfg:18
+msgid ""
+"Although most would find the notion preposterous, the truth is that imps "
+"larger than the biggest of trolls do exist. These behemoths rarely make an "
+"appearance on the battle field, but when they do, they announce themselves "
+"with roars able to shake mountains, and stomps that fracture and sink down "
+"the ground beneath. One has to wonder exactly how the Chaos Overlords — "
+"comically puny by comparison — manage to rein in these titans and have them "
+"do their bidding without using any kind of mind-control magic."
+msgstr ""
+
+#. [attack]: type=blade
+#: Naia/units/imps/Armageddon.cfg:28
+msgid "blade of doom"
+msgstr "死の剣"
+
+#. [attack]: type=pierce
+#: Naia/units/imps/Armageddon.cfg:40 Naia/units/imps/Gutwrencher.cfg:40
+msgid "slime spit"
+msgstr "猛毒の唾"
+
+#. [unit_type]: id=Imp, race=imps
+#: Naia/units/imps/Imp.cfg:5
+msgid "Imp"
+msgstr "子鬼"
+
+#. [unit_type]: id=Imp, race=imps
+#: Naia/units/imps/Imp.cfg:17
+msgid ""
+"Frequently — and incorrectly — considered a lesser class of creatures "
+"separate from the fearsome demons, Imps are often underestimated due to "
+"their smaller builds and evident lack of of mental prowess. Furthering this "
+"misconception, Demon leaders often dispatch them in large numbers as cheap "
+"cannon-fodder."
+msgstr ""
+
+#. [unit_type]: id=Blood Imp, race=imps
+#: Naia/units/imps/Blood.cfg:5
+msgid "Blood Imp"
+msgstr "血のインプ"
+
+#. [unit_type]: id=Blood Imp, race=imps
+#: Naia/units/imps/Blood.cfg:17
+msgid ""
+"Most imps do not enjoy a particularly long lifespan, in no small part due to "
+"their demon overlords being all too prone to regarding them as disposable "
+"canon fodder. It is no small feat for an imp to survive past childhood, and "
+"those who do become a much more credible threat to Irdyan creatures."
+msgstr ""
+
+#. [unit_type]: id=Gutwrencher Imp, race=imps
+#: Naia/units/imps/Gutwrencher.cfg:5
+msgid "Gutwrencher Imp"
+msgstr "心を引き裂くインプ"
+
+#. [unit_type]: id=Gutwrencher Imp, race=imps
+#: Naia/units/imps/Gutwrencher.cfg:17
+msgid ""
+"Adult imps come in many forms and sizes, betraying the fact that they are "
+"neither related to the better-known demon warriors, nor belonging to a "
+"single species of their own. They are much stronger and sharper of mind than "
+"it is generally expected of their kind, to the point that it is not unheard "
+"of for them to lead some of their demon cousins in battle.\n"
+"\n"
+"‘Gutwrenchers’ are renowned for their great appetite, and their razor-sharp "
+"claws which allow them to swiftly tear their prey to bits. For any hapless "
+"creature targeted by one of these monsters there is little hope — even if "
+"they somehow manage to extricate themselves from the imp’s crushing grip, "
+"odds are their flesh is already melting away thanks to the imp’s corrosive "
+"saliva."
+msgstr ""
+
+#. [unit_type]: id=Minor Imp, race=imps
+#: Naia/units/imps/Minor.cfg:5
+msgid "Minor Imp"
+msgstr "小さなインプ"
+
+#. [unit_type]: id=Minor Imp, race=imps
+#: Naia/units/imps/Minor.cfg:17
+msgid ""
+"Imp whelps are extremely small and frail, and pose no threat whatsoever to "
+"any properly-trained soldier. However, coming across a swarm of these "
+"creatures spells trouble regardless, as they almost never stray too far away "
+"from their progenitors."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
+#: Naia/units/shaxthal/Fauna_Razorbird.cfg:5
+msgid "Razorbird"
+msgstr "ブレードバード"
+
+#. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
+#: Naia/units/shaxthal/Fauna_Razorbird.cfg:17
+msgid ""
+"Since Shaxthal drones began to be regularly spotted in the battle-field, "
+"other new biomechanical lifeforms have appeared, seemingly as the result of "
+"the Shaxthalkind’s mere presence on Irdya. Amongst those, metallic birds "
+"with sharp knives for feathers are frequently seen near the surface "
+"entrances of the creatures’ hives. Being clad in metal makes them slower "
+"than normal birds, and also more dangerous."
+msgstr ""
+"Shaxthalが定常的に戦場で見られるようになって以来、他の生体機械も現れるように"
+"なりました。まるであたかもShaxthalが単にIrdyaに適応した結果のように。その中で"
+"も、金属鳥は鋭いナイフ状の羽を持っていて、彼らの巣穴の入り口近くの地表で頻繁"
+"に見られます。金属で覆われているため、通常の鳥よりも素早さに欠けるものの、同"
+"様の理由で通常の鳥よりも圧倒的に危険な存在です。"
+
+#. [attack]: type=pierce
+#: Naia/units/shaxthal/Fauna_Razorbird.cfg:29
+#: Naia/units/shaxthal/Fauna_Thunderbird.cfg:30
+msgid "beak"
+msgstr "嘴"
+
+#. [attack]: type=blade
+#: Naia/units/shaxthal/Fauna_Razorbird.cfg:38
+#: Naia/units/shaxthal/Fauna_Thunderbird.cfg:42
+msgid "blade shower"
+msgstr "降り注ぐ刃"
+
+#. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Assault.cfg:5
+#, fuzzy
+msgid "Assault Drone"
+msgstr "襲撃隊長"
+
+#. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Assault.cfg:16
+msgid ""
+"The Shaxthal Assault Drones are among the most effective members of the "
+"Chaos Empire’s offensive arsenal. While their more sedentary counterparts — "
+"the Sentry Drones — guard the Empire’s strongholds, the Assault Drones’ "
+"formidable brute strength and superior mobility make them excellent siege "
+"machines. As such, they are found in large numbers amongst the Chaos "
+"legions. Many a particularly stubborn foe has succumbed to these creatures’ "
+"assault; neither earth nor stone proves an obstacle as they carry out their "
+"missions with brutal efficiency."
+msgstr ""
+
+#. [attack]: type=impact
+#: Naia/units/shaxthal/Drone_Assault.cfg:44
+#: Naia/units/shaxthal/Drone_Protector.cfg:44
+#: Naia/units/shaxthal/Fighter_Stormblade.cfg:42
+#: Naia/units/shaxthal/Drone_Enforcer.cfg:57
+#: Naia/units/shaxthal/Drone_Sentry.cfg:54
+#: Naia/units/shaxthal/Drone_Runner.cfg:42 Naia/units/shaxthal/Drone.cfg:56
+msgid "energy shock"
+msgstr "エネルギー衝撃"
+
+#. [unit_type]: id=Shaxthal Protector Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Protector.cfg:5
+#, fuzzy
+msgid "Protector Drone"
+msgstr "彼らを守れ！"
+
+#. [unit_type]: id=Shaxthal Protector Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Protector.cfg:18
+msgid ""
+"Some drones develop their flexibility and deftness more than others. The "
+"Protectors have chosen the path of endurance and attack strength, becoming "
+"heavier and slower, yet lethal weapons of mass destruction. Their unusual "
+"attack accuracy makes them especially dangerous."
+msgstr ""
+"一部のドローンはその柔軟性と器用さを発達させました。しかし、プロテクタード"
+"ローンは敵の攻撃に耐えるために重く、遅くなり、大量の破壊をもたらす危険な武器"
+"となりました。 また、彼らの正確なエネルギー衝撃波は非常に危険です。"
+
+#. [unit_type]: id=Shaxthal War Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_War.cfg:7
+#, fuzzy
+msgid "War Drone"
+msgstr "無人機"
+
+#. [unit_type]: id=Shaxthal War Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_War.cfg:20
+msgid ""
+"Recent developments appear to have led to the creation of more advanced "
+"types of Shaxthal drones designed for swiftly obliterating front lines and "
+"base defenses using aerial strikes. With the frightening accuracy of the "
+"Protectors and the formidable strength of Assault drones combined, these "
+"notably rare War drones can quickly bring reinforced stone walls down and "
+"crush anyone foolish enough to confront them without the use of magic "
+"support."
+msgstr ""
+"最近の技術発展により、より高度化した型のShaxthalの設計が可能になりました。こ"
+"れは敵の全線と基地の防御を空からの攻撃で速やかに、完全に破壊するように設計さ"
+"れています。プロテクター型の恐ろしい程の正確さとアサルト型の大きな力と組み合"
+"わせることで、この特に珍しいウォードローンは強化された石壁を速やかに打ち倒"
+"し、魔術の補助無しで対峙しようとする愚か者を軽々と潰してしまうでしょう。"
+
+#. [attack]: type=blade
+#: Naia/units/shaxthal/Drone_War.cfg:43
+msgid "war-blades"
+msgstr "戦刀"
+
+#. [attack]: type=impact
+#: Naia/units/shaxthal/Drone_War.cfg:52
+#, fuzzy
+msgid "energy burst"
+msgstr "エネルギー光線"
+
+#. [unit_type]: id=Shaxthal Stormblade, race=shaxthal
+#: Naia/units/shaxthal/Fighter_Stormblade.cfg:7
+msgid "Stormblade"
+msgstr "ストームブレード"
+
+#. [unit_type]: id=Shaxthal Stormblade, race=shaxthal
+#: Naia/units/shaxthal/Fighter_Stormblade.cfg:23
+msgid ""
+"Because of their comparatively expensive design, Stormblade drones are a "
+"rarer sight on the battlefield than other Shaxthal creatures. Their deadly "
+"long arm-blades combined with the recovered ability to retaliate against "
+"ranged attacks makes them extremely dangerous opponents."
+msgstr ""
+"その比較的高価な設計のため、ストームブレードは他のShaxthal程戦場で目撃される"
+"ことはありません。彼らの長く、凶悪なアームブレードに加え、遠距離攻撃に対する"
+"反撃機構を復活させたことで、さらに大きな脅威となって敵に立ちはだかることで"
+"しょう。"
+
+#. [attack]: type=blade
+#: Naia/units/shaxthal/Fighter_Stormblade.cfg:31
+#: Naia/units/shaxthal/Fighter_Rayblade.cfg:24
+msgid "weapon^rayblade"
+msgstr "輝く刃"
+
+#. [unit_type]: id=Shaxthal Enforcer Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Enforcer.cfg:7
+#, fuzzy
+msgid "Enforcer Drone"
+msgstr "彼らを守れ！"
+
+#. [unit_type]: id=Shaxthal Enforcer Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Enforcer.cfg:29
+msgid ""
+"Bulkier and seemingly smarter versions of the Sentry drones are said to "
+"dwell in the deepest reaches of the Shaxthal hives protecting their "
+"offspring and territory."
+msgstr ""
+"エンフォーサードローンはセントリードローンがより大きく、賢くなったものです。"
+"彼らはShaxthalの巣の奥深くに潜んでいるらしく、子孫とテリトリーを守っているの"
+"だと言われています。"
+
+#. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Sentry.cfg:5
+msgid "Sentry Drone"
+msgstr "セントリードローン"
+
+#. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Sentry.cfg:26
+msgid ""
+"From the dark, echoing labyrinths of the Shaxthal hives to the shadowy "
+"fortresses of the Chaos Empire await guardians who can neither be swayed by "
+"words or gold: the Sentry Drones. Silent and deadly, these sentinels were "
+"engineered to quickly and efficiently eliminate any trespassers into the "
+"Empire’s domain. Any unlucky enough to attract their attention have but one "
+"recourse: flight — that is, if they can outpace them. Should the fleeing "
+"intruder fall victim to the drones’ scalding blasts of energy, their vicious "
+"teeth and claws will make short work of what remains."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
+#: Naia/units/shaxthal/Fauna_Thunderbird.cfg:5
+msgid "Thunderbird"
+msgstr "サンダーバード"
+
+#. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
+#: Naia/units/shaxthal/Fauna_Thunderbird.cfg:18
+msgid ""
+"More advanced bird-like Shaxthal creatures can produce deadly lightning with "
+"their sharp feather-blades to attack enemies at a distance, as well as dive "
+"and charge into their heads using their powerful metallic beaks."
+msgstr ""
+"より進歩した、この鳥のようなShaxthal生物はその鋭い羽刃から強力な雷を作り、遠"
+"距離から敵を攻撃します。さらに、強力な金属製のクチバシによる敵の頭を狙った急"
+"降下突撃も行うこともできます。"
+
+#. [attack]: type=fire
+#: Naia/units/shaxthal/Fauna_Thunderbird.cfg:51
+msgid "thunderbolt"
+msgstr "雷撃"
+
+#. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Runner.cfg:5
+msgid "Runner Drone"
+msgstr "ランナードローン"
+
+#. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Runner.cfg:17
+msgid ""
+"These bipedal Shaxthal creatures are better adapted for speed, agility and "
+"accuracy at ground level. On their own they don’t pose a great threat, but "
+"swarms of these can be highly dangerous."
+msgstr ""
+"このShaxthalは二足歩行をしており、陸上に適応することで素早く動くことができま"
+"す。少数では脅威にはなりませんが、群れとなると非常に危険です。"
+
+#. [unit_type]: id=Shaxthal Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone.cfg:5
+msgid "Drone"
+msgstr "無人機"
+
+#. [unit_type]: id=Shaxthal Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone.cfg:26
+msgid ""
+"Unnatural. Bloodcurdling. Abominations. Of the many words used to describe "
+"the mechanical creatures known as the Shaxthals, these are the most often "
+"heard. Amongst their many legions, the lowly Drone is by far the most "
+"common, yet even it can tear down an enemy in an instant. A menacing hiss "
+"echoing through the gloom is enough to herald approaching death, either by "
+"the powerful blasts of energy they unleash from their maws or the Chaos "
+"legions never far behind.\n"
+"\n"
+"But among the few accounts that remain of the Shaxthals’ conquests, the most "
+"terrifying detail floating creatures of metal, the light glinting off a "
+"demonic, unwavering grin as they dispense death from above."
+msgstr ""
+
+#. [unit_type]: id=Shaxthal Worm, race=shaxthal
+#: Naia/units/shaxthal/Fauna_Worm.cfg:5
+msgid "Worm"
+msgstr "ワーム"
+
+#. [unit_type]: id=Shaxthal Worm, race=shaxthal
+#: Naia/units/shaxthal/Fauna_Worm.cfg:54
+msgid ""
+"Despite being creatures of artificial origins, Shaxthal lifeforms have been "
+"reported to vary wildly in shape, size and behavior. Since very little is "
+"known about their life cycles, it’s not clear whether certain forms — such "
+"as these biomechanical worms — are in reality just different growth stages "
+"of the same creature.\n"
+"\n"
+"The Shaxthal worms dwell inside the great dark hives and they are almost "
+"never seen elsewhere. Some evidence gathered and analyzed by scholars would "
+"indicate these creatures are extremely vulnerable in the open."
+msgstr ""
+"彼らは人工的な生物であるのにかかわらず、Shaxthalの生態には多様性があり、野性"
+"的な形と振舞をしています。 彼らの生態は殆ど分かっておらず、このような形態では"
+"どの種に分岐するのかもわかりません。\n"
+"\n"
+"Shaxthalの幼体は暗い巣の中に住み着いており、外では見かけません。 一部のデータ"
+"を学者が解析した結果、彼らは外の世界では傷つきやすく、弱ってしまうようです。"
+
+#. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
+#: Naia/units/shaxthal/Fighter_Rayblade.cfg:5
+msgid "Rayblade"
+msgstr "レイブレード"
+
+#. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
+#: Naia/units/shaxthal/Fighter_Rayblade.cfg:16
+msgid ""
+"The majority of Shaxthal drones are at best mediocre in close combat, their "
+"bodies lacking the precision required for countering blows effectively. As "
+"one would expect, the Chaos Lorekeepers realized this and devised a "
+"solution: the Shaxthal Rayblades. Not only have they forgone claws and "
+"energy blasts in exchange for their namesake arm blades, but they also "
+"possess the fearsome ability to spin their torsos rapidly and slice through "
+"enemy lines like butter."
+msgstr ""
+
+#. [unit_type]: id=Faerie Sprite, race=faerie
+#: Naia/units/faeries/Fire_Sprite.cfg:5
+msgid "Sprite"
+msgstr "妖精"
+
+#. [unit_type]: id=Faerie Sprite, race=faerie
+#: Naia/units/faeries/Fire_Sprite.cfg:21
+msgid ""
+"To a creature of the forests, fire is a mortal enemy, yet to the Faerie "
+"Sprites, it is a weapon strangely antithetical to their wooded nature. "
+"Though not much is otherwise factually known about the Faerie race, rare as "
+"they are and despite their numbers having grown since the Fall, they have "
+"always been viewed as gentle, mischievous beings, if perhaps a little too "
+"apt to play with the hearts of men.\n"
+"\n"
+"Travelers who have encountered them speak of beautiful elfin women clad in "
+"simple robes, their gossamer-thin wings glinting like jewels in starlight. "
+"Rare is the man — or woman — whose breath is not lost upon the sight of "
+"these beings, and neither are their advances spurned. Some awaken the next "
+"morning alone, and move on, only to find a child on their doorsteps months "
+"later. A more unlucky number never again see the light of day; they are "
+"often found dead, lying contentedly amongst the fallen leaves.\n"
+"\n"
+"Yet despite their reputations, faeries are by no means evil. Perhaps it is "
+"their strange sense of impish humor that leads them to do these things, or "
+"perhaps something deeper in their nature."
+msgstr ""
+
+#. [attack]: type=fire
+#: Naia/units/faeries/Fire_Sprite.cfg:31
+#: Naia/units/faeries/Fire_Faerie_Spirit.cfg:39
+#: Naia/units/faeries/Fire_Faerie.cfg:29 Naia/units/faeries/Fire_Dryad.cfg:40
+msgid "fire aura"
+msgstr "炎のオーラ"
+
+#. [attack]: type=fire
+#: Naia/units/faeries/Fire_Sprite.cfg:40
+#: Naia/units/faeries/Fire_Faerie_Spirit.cfg:51
+#: Naia/units/faeries/Fire_Faerie.cfg:38 Naia/units/faeries/Fire_Dryad.cfg:49
+msgid "mystic fire"
+msgstr "神秘の炎"
+
+#. [unit_type]: id=Faerie Spirit, race=faerie
+#: Naia/units/faeries/Fire_Faerie_Spirit.cfg:5
+msgid "Forest Spirit"
+msgstr "森の妖精"
+
+#. [unit_type]: id=Faerie Spirit, race=faerie
+#: Naia/units/faeries/Fire_Faerie_Spirit.cfg:31
+msgid ""
+"One of the greatest mysteries of life is the true nature of Faerie, a domain "
+"of existence beyond the grasp of mortal creatures and the source of a power "
+"said to predate Irdya’s creation by an immensurable eternity. Even though "
+"elves and faeries have an innate affinity to the mystical energy within, "
+"their ability to channel it is severely constrained by their attachment to "
+"the physical realm. Breaking free of those bindings and fully embracing the "
+"arcane flame is not without its drawbacks, however.\n"
+"\n"
+"These faerie phantasms are occasionally seen aimlessly wandering the forests "
+"during the twilight. Their warped minds are no longer able to discern our "
+"reality from theirs, and only gradually fading memories keep them anchored "
+"to the domain of the living."
+msgstr ""
+
+#. [unit_type]: id=Fire Faerie, race=faerie
+#: Naia/units/faeries/Fire_Faerie.cfg:5
+msgid "Fire Faerie"
+msgstr "炎の妖精"
+
+#. [unit_type]: id=Fire Faerie, race=faerie
+#: Naia/units/faeries/Fire_Faerie.cfg:21
+msgid ""
+"Forest faeries rarely take part in wars and conflicts, preferring instead to "
+"dance and frolic in their forest homes. They will, however, defend these to "
+"the death; to this end, the forest elves have proven allies of convenience. "
+"The elves themselves have long had respect for those with a close affinity "
+"with the Arcane Flame. It is due to this close relationship that faeries "
+"will sometimes be found by the elves’ side in times of great need.\n"
+"\n"
+"The more experienced faeries possess an even greater mastery of the fire "
+"element, allowing them to hurl balls of raging fire at their enemies, or to "
+"ignite them with a single touch. Some are even said to eventually burn away "
+"their corporeal forms entirely, becoming a spirit born of the rage of the "
+"Flame."
+msgstr ""
+
+#. [unit_type]: id=Faerie Dryad, race=faerie
+#: Naia/units/faeries/Fire_Dryad.cfg:5
+msgid "Dryad"
+msgstr "木の精"
+
+#. [unit_type]: id=Faerie Dryad, race=faerie
+#: Naia/units/faeries/Fire_Dryad.cfg:32
+msgid ""
+"Dryads possess a closer affinity to their faerie nature than their brethren, "
+"yet at times exhibit a remarkable understanding of human nature. In fact, "
+"Dryads are more apt to engage the few travelers they meet in friendly "
+"conversation than seduce or murder them. Some elven scholars have proposed "
+"there exists a deeper connection between woodlandkind and humans as children "
+"of Earth; to many, this is unthinkable. For them, to even suggest such a "
+"connection between the violent, destructive humans and the ancient, "
+"illustrious elves constitutes heresy.\n"
+"\n"
+"If there are those among the faerie with knowledge of this world’s "
+"beginnings, they do not share it, preferring instead to lead peaceful, "
+"modest lives. Nonetheless, the Dryads’ calm nature in no way means they are "
+"powerless. Their extensive knowledge of nature and its magical arts makes "
+"them a formidable opponent in any conflict."
+msgstr ""
+
+#. [unit_type]: id=Demon Warrior, race=demon
+#: Naia/units/demons/Fighter_Warrior.cfg:5
+msgid "Demon Warrior"
+msgstr "デーモンの戦士"
+
+#. [unit_type]: id=Demon Warrior, race=demon
+#: Naia/units/demons/Fighter_Warrior.cfg:27
+msgid ""
+"The few natives of Irdya who have dared underestimate the might of these "
+"demonic warriors have invariably suffered horrific deaths at the hands of "
+"these blood-thirsty behemoths. The power of the armies of Chaos largely "
+"depends on the Lorekeepers’ wisdom in selecting the best fighters to serve "
+"them with their undying loyalty to Uria’s cause. But in time, a legendary "
+"warrior might rise from the ranks of servility and dethrone a mighty Demon "
+"Lord—even their own—and become him or herself a great vassal of Uria."
+msgstr ""
+"Irdyaの住人の中にはデーモンの戦士の力を見くびった者たちもいましたが、彼らは皆"
+"血に飢えたその猛獣達によって恐ろしい死を迎えることとなりました。伝承者は自ら"
+"の配下となるUriaへの不滅の忠誠心を持つ最高の戦士を選定しており、混沌の軍隊の"
+"力の大部分は伝承者たちのその知識に依存しています。しかしやがては伝説の戦士が"
+"奴隷階級から現れ、—たとえ彼ら自身が貴族であったとしても—強大なデーモンの貴族"
+"を押し退け、その者はUriaの偉大なる家臣となるでしょう。"
+
+#. [female]
+#: Naia/units/demons/Fighter_Warrior.cfg:127
+msgid "female^Demoness Warrior"
+msgstr "デーモンの戦士"
+
+#. [unit_type]: id=Demon Zephyr, race=demon
+#: Naia/units/demons/Fighter_Zephyr.cfg:5
+msgid "Demon Zephyr"
+msgstr "デーモンの風"
+
+#. [unit_type]: id=Demon Zephyr, race=demon
+#: Naia/units/demons/Fighter_Zephyr.cfg:23
+msgid ""
+"Some demons go through a different maturing process and grow large webbed "
+"wings, which allow them to use their enormous strength to fly across great "
+"distances. As weapons and armor could only hinder them in flight, they must "
+"rely on their species’ strong build, long and sharp claws, and their limited "
+"control of fire to strike at their prey from above."
+msgstr ""
+"一部のデーモンは通常とは異なる成熟過程を通して、大きな翼が成長しました。この"
+"翼とすさまじい筋力によって、彼らは長距離を飛行することができます。武器や鎧は"
+"邪魔になるため、鋭くて長い強力な爪を用いています。また、制限はありますが炎を"
+"操ることで、獲物を遠距離から攻撃することができます。"
+
+#. [female]
+#: Naia/units/demons/Fighter_Zephyr.cfg:107
+msgid "female^Demoness Zephyr"
+msgstr "デーモンの風"
+
+#. [unit_type]: id=Demon, race=demon
+#: Naia/units/demons/Fighter_Demon.cfg:5
+#, fuzzy
+msgid "Demon"
+msgstr "Demor"
+
+#. [unit_type]: id=Demon, race=demon
+#: Naia/units/demons/Fighter_Demon.cfg:20
+msgid ""
+"Legend has it that at the beginning of time, powerful creatures called "
+"‘demons’ governed all that existed. The Lords of Light and Darkness, seeing "
+"the danger they posed for the balance of nature, banished them to a separate "
+"plane of existence, trapped with no means of escape from inside. It would "
+"take eons before the combined effort of foolish sorcerers and the most "
+"dreadful Demon Lord to ever exist would allow Uria unleash her hordes on a "
+"ravaged land.\n"
+"\n"
+"These fighter demons are nimble and sturdy creatures who have largely "
+"forgone the need for armor or clothing to protect themselves from physical "
+"damage. Although their sharp claws and unnatural strength allow them to tear "
+"opponents apart with ease, they usually prefer wielding crude blade weapons "
+"to appear even more intimidating in combat."
+msgstr ""
+"原始の時代についての伝説によると、「デーモン」と呼ばれる強力な生物がおり、あ"
+"らゆるものを支配していたと伝えられています。デーモンによって自然のバランスが"
+"崩れるのを恐れ、光と闇の神々は彼らを別の世界に追放し、内部からは脱出できない"
+"ようにしたそうです。それから長い年月が過ぎ、愚かな魔術師たちの努力と最凶の"
+"デーモンの君主によって、Uriaの軍勢が荒廃した大陸に解き放たれることとなりまし"
+"た。\n"
+"\n"
+"デーモンの戦士は素早い生物です。また、その体は鎧や衣服が不要なほど頑強です。"
+"鋭い爪と不自然なほどの筋力によって敵を容易に切り裂くことができますが、敵に恐"
+"怖を与えるために、無骨な刃を持つ武器を好んで身に着けています。"
+
+#. [female]
+#: Naia/units/demons/Fighter_Demon.cfg:107
+#, fuzzy
+msgid "female^Demoness"
+msgstr "悪鬼"
+
+#. [unit_type]: id=Demon Grunt, race=demon
+#: Naia/units/demons/Fighter_Grunt.cfg:5
+#, fuzzy
+msgid "Demon Grunt"
+msgstr "Demor"
+
+#. [unit_type]: id=Demon Grunt, race=demon
+#: Naia/units/demons/Fighter_Grunt.cfg:25
+msgid ""
+"The best demon fighters are renowned for their unrivaled strength and "
+"performance under any environmental conditions. They obtain and craft new "
+"weapons and armor using whatever they can salvage from defeated foes, and "
+"learn new combat skills as they adapt to the land to which they are sent by "
+"their overlords."
+msgstr ""
+"最高のデーモンの戦士たちは、その比類なき強さとあらゆる状況への対応力によって"
+"名を馳せています。彼らは倒した敵から新たな武器と鎧を手に入れています。彼らは"
+"大君主によって戦場に送られますが、新たな戦術を学んでその土地に適応します。"
+
+#. [female]
+#: Naia/units/demons/Fighter_Grunt.cfg:121
+msgid "female^Demoness Grunt"
+msgstr "デーモンの歩兵"
+
+#: Naia/units/demons.cfg:14
+msgid ""
+"Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
+"Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,"
+"Andrealphus,Andromalius,Antares,Apep,Arael,Araqiel,Arioch,Arkanthor,Armaros,"
+"Asael,Asag,Asb'el,Ash,Asmodeus,Astaroth,Azazel,Baal,Baalberith,Balam,"
+"Balberith,Babeal,Baphomet,Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,"
+"Beelzebub,Behamoth,Behemoth,Beleth,Belial,Beliel,Belphegore,Belthazor,"
+"Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Calan,"
+"Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Chazaqiel,Chul,Corson,"
+"Daalberith,Dagon,Daniel,Dantalion,Decarabia,Deimos,Delchor,Demogorgon,Devan,"
+"Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,Espro,Espreon,Eurynomous,"
+"Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,Furfur,Gaap,"
+"Gader'el,Glasya-Labolas,Gusion,Gwiti,Haagenti,Hal,Hade,Hades,Humbaba,"
+"Hyperion,Iblis,Idoru,Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,"
+"Jutas,Juvart,Kabhanda,Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,"
+"Kimaris,Kobal,Kokabiel,Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,"
+"Lenthar,Lenvan,Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,"
+"Lucifuge Rofocale,Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,"
+"Marchocias,Maricha,Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,"
+"Merihim,Merloc,Moloch,Morax,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,"
+"Nati,Nebiros,Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,"
+"Optimus,Orcus,Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,"
+"Phlegathon,Phenex,Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,"
+"Pytho,Python,Pythos,Rahab,Rahovart,Ramiel,Raum,Ravanal,Raven,Razakel,Regent,"
+"Regulus,Rimmon,Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,"
+"Samigina,Samyaza,Santa,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,"
+"Sephit,Shaitan,Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,"
+"Sorum,Soufflet,Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Taurus,"
+"Teeraal,Temeluchus,Thammuz,Theracar,Thor,Thorin,Thurin,Triel,Troy,Turiel,"
+"Turin,Turon,Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,Verrine,Vine,"
+"Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Yuki,"
+"Zagan,Zama,Zaqiel,Zepar,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
+msgstr ""
+"Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
+"Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,"
+"Andrealphus,Andromalius,Antares,Apep,Arael,Araqiel,Arioch,Arkanthor,Armaros,"
+"Asael,Asag,Asb'el,Ash,Asmodeus,Astaroth,Azazel,Baal,Baalberith,Balam,"
+"Balberith,Babeal,Baphomet,Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,"
+"Beelzebub,Behamoth,Behemoth,Beleth,Belial,Beliel,Belphegore,Belthazor,"
+"Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Calan,"
+"Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Chazaqiel,Chul,Corson,"
+"Daalberith,Dagon,Daniel,Dantalion,Decarabia,Deimos,Delchor,Demogorgon,Devan,"
+"Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,Espro,Espreon,Eurynomous,"
+"Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,Furfur,Gaap,"
+"Gader'el,Glasya-Labolas,Gusion,Gwiti,Haagenti,Hal,Hade,Hades,Humbaba,"
+"Hyperion,Iblis,Idoru,Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,"
+"Jutas,Juvart,Kabhanda,Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,"
+"Kimaris,Kobal,Kokabiel,Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,"
+"Lenthar,Lenvan,Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,"
+"Lucifuge Rofocale,Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,"
+"Marchocias,Maricha,Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,"
+"Merihim,Merloc,Moloch,Morax,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,"
+"Nati,Nebiros,Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,"
+"Optimus,Orcus,Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,"
+"Phlegathon,Phenex,Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,"
+"Pytho,Python,Pythos,Rahab,Rahovart,Ramiel,Raum,Ravanal,Raven,Razakel,Regent,"
+"Regulus,Rimmon,Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,"
+"Samigina,Samyaza,Santa,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,"
+"Sephit,Shaitan,Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,"
+"Sorum,Soufflet,Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Taurus,"
+"Teeraal,Temeluchus,Thammuz,Theracar,Thor,Thorin,Thurin,Triel,Troy,Turiel,"
+"Turin,Turon,Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,Verrine,Vine,"
+"Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Yuki,"
+"Zagan,Zama,Zaqiel,Zepar,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
+
+#: Naia/units/demons.cfg:15
+msgid ""
+"Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Alie,Aly,Alya,Ammit,Amy,Ania,Analia,"
+"Anadea,Anadya,Anna,Ariel,Ashtaroth,Astarte,Astoreth,Azura,Bellatrix,Beryla,"
+"Bruxe,Charis,Charybdis,Charon,Charusse,Chi,Chia,Dana,Dane,Dara,Darma,Dela,"
+"Delepitore,Delirya,Deluna,Demona,Deth,Devila,Devira,Devyan,Drama,Dul,Duna,"
+"Eisheth Zenunil,Elandra,Elenia,Elestria,Eloh,Elyna,Elynea,Elynia,Elyra,"
+"Elyria,Elyssa,Elyza,Empusa,Enea,Eryssa,Ethea,Euryale,Evila,Evira,Fae,Faira,"
+"Fania,Faria,Gaia,Gremory,Gresil,Hecate,Ira,Irda,Irdya,Irene,Iridya,Iril,"
+"Iruel,Isa,Issyl,Ivana,Ivyel,Izara,Jarla,Jevyan,Juno,Kaia,Kalah,Kalari,Kaleh,"
+"Kali,Kana,Karma,Kazen,Kendria,Kia,Kindite,Kuna,Kyrah,Lamashtu,Lamia,Lara,"
+"Leliel,Leviathan,Lilia,Lilim,Lilin,Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,"
+"Lucile,Luna,Lyda,Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,"
+"Midara,Mir,Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Naamah,Nadia,Naia,Nala,"
+"Nara,Narya,Nebula,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,Nora,Norma,"
+"Nyada,Nystra,Nyxa,Onoskelis,Pia,Prosperpine,Rangda,Rusalka,Sabata,Satana,"
+"Sela,Shar,Share,Sharael,Sheol,Selene,Shia,Sonnielion,Stheno,Sul,Summa,Sunna,"
+"Sycorax,Syl,Sylestria,Sylin,Sylith,Symia,Syn,Synara,Synestria,Tada,Talah,"
+"Talam,Taweret,Thanadria,Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,"
+"Tzitzimime,Uma,Umbria,Unarya,Unia,Unsere,Uzza,Vena,Verna,Verrier,Vepar,"
+"Vulpecula,Xandar,Xana,Xandria,Xeth,Xia,Xindra,Xindar,Yuki,Yun,Yuna,Yuni,Zana,"
+"Zephyr,Zhul,Zidya,Zilla,Zuna,Zynara,Zythara"
+msgstr ""
+"Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Alie,Aly,Alya,Ammit,Amy,Ania,Analia,"
+"Anadea,Anadya,Anna,Ariel,Ashtaroth,Astarte,Astoreth,Azura,Bellatrix,Beryla,"
+"Bruxe,Charis,Charybdis,Charon,Charusse,Chi,Chia,Dana,Dane,Dara,Darma,Dela,"
+"Delepitore,Delirya,Deluna,Demona,Deth,Devila,Devira,Devyan,Drama,Dul,Duna,"
+"Eisheth Zenunil,Elandra,Elenia,Elestria,Eloh,Elyna,Elynea,Elynia,Elyra,"
+"Elyria,Elyssa,Elyza,Empusa,Enea,Eryssa,Ethea,Euryale,Evila,Evira,Fae,Faira,"
+"Fania,Faria,Gaia,Gremory,Gresil,Hecate,Ira,Irda,Irdya,Irene,Iridya,Iril,"
+"Iruel,Isa,Issyl,Ivana,Ivyel,Izara,Jarla,Jevyan,Juno,Kaia,Kalah,Kalari,Kaleh,"
+"Kali,Kana,Karma,Kazen,Kendria,Kia,Kindite,Kuna,Kyrah,Lamashtu,Lamia,Lara,"
+"Leliel,Leviathan,Lilia,Lilim,Lilin,Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,"
+"Lucile,Luna,Lyda,Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,"
+"Midara,Mir,Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Naamah,Nadia,Naia,Nala,"
+"Nara,Narya,Nebula,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,Nora,Norma,"
+"Nyada,Nystra,Nyxa,Onoskelis,Pia,Prosperpine,Rangda,Rusalka,Sabata,Satana,"
+"Sela,Shar,Share,Sharael,Sheol,Selene,Shia,Sonnielion,Stheno,Sul,Summa,Sunna,"
+"Sycorax,Syl,Sylestria,Sylin,Sylith,Symia,Syn,Synara,Synestria,Tada,Talah,"
+"Talam,Taweret,Thanadria,Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,"
+"Tzitzimime,Uma,Umbria,Unarya,Unia,Unsere,Uzza,Vena,Verna,Verrier,Vepar,"
+"Vulpecula,Xandar,Xana,Xandria,Xeth,Xia,Xindra,Xindar,Yuki,Yun,Yuna,Yuni,Zana,"
+"Zephyr,Zhul,Zidya,Zilla,Zuna,Zynara,Zythara"
+
+#. [race]: id=demon
+#: Naia/units/demons.cfg:20
+#, fuzzy
+msgid "race^Demon"
+msgstr "悪鬼"
+
+#. [race]: id=demon
+#: Naia/units/demons.cfg:21
+#, fuzzy
+msgid "race+female^Demoness"
+msgstr "妖精"
+
+#. [race]: id=demon
+#: Naia/units/demons.cfg:22
+#, fuzzy
+msgid "race^Demons"
+msgstr "悪鬼"
+
+#. [race]: id=demon
+#: Naia/units/demons.cfg:23
+msgid ""
+"Legend has it that at the beginning of time, powerful creatures called "
+"‘demons’ governed all that existed. The Lords of Light and Darkness, seeing "
+"the danger they posed for the balance of nature, banished them to a separate "
+"plane of existence, trapped with no means of escape from inside. But time "
+"and time again, different versions of the legend have been told by different "
+"peoples in different places. Presumably, whatever small amount of truth "
+"there was in the original version of the story has since been lost forever.\n"
+"\n"
+"Either by ignorance, or in an attempt to make sense of the fractured stories "
+"gathered from Chaos prisoners, the peoples of Irdya refer more generally to "
+"all the vastly heterogeneous races of Inferno by this generic designation. "
+"Some go as far as to claim that normal Irdyan creatures may become ‘demonic’ "
+"in some form or another, pointing at the Chaos Lorekeepers’ powers and "
+"inscrutable nature."
+msgstr ""
+"原始の時代についての伝説によると、「デーモン」と呼ばれる強力な生物がおり、あ"
+"らゆるものを支配していたと伝えられています。デーモンによって自然のバランスが"
+"崩れるのを恐れ、光と闇の神々は彼らを別の世界に追放し、内部からは脱出できない"
+"ようにしたそうです。時が流れるにつれ、この伝説は様々な場所で人々によって語り"
+"継がれていき、姿を変えていきました。この伝説の内容に真実が含まれているかはわ"
+"かりませんが、伝説の原型はすでに失われてしまったのでしょう。\n"
+"\n"
+"無知によるものなのか、それとも捕らえられた混沌の帝国兵から集められた情報を基"
+"にしているのかは分かりませんが、Irdyaの人々は地獄の様々な種族の総称として"
+"「デーモン」を用いています。一部の者は、Irdyaの普通の生物さえも「デーモンのよ"
+"うに」変化することがあると主張しています。その例として挙げられるのが、混沌の"
+"伝承者の力と不可解な性質なのです。"
+
+#. [race]: id=spirit
+#: Naia/units/spirits.cfg:5
+#, fuzzy
+msgid "race^Spirit"
+msgstr "妖精"
+
+#. [race]: id=spirit
+#: Naia/units/spirits.cfg:6
+#, fuzzy
+msgid "race+female^Spirit"
+msgstr "精霊"
+
+#. [race]: id=spirit
+#: Naia/units/spirits.cfg:7
+#, fuzzy
+msgid "race^Spirits"
+msgstr "妖精"
+
+#. [race]: id=spirit
+#: Naia/units/spirits.cfg:8
+msgid ""
+"The summoning of elemental constructs is one of the oldest forms of magic "
+"known, as well as the rarest in modern times. Although elemental spirits are "
+"often bound to serve a powerful sorcerer, freely roaming beings of this kind "
+"are not completely unheard of throughout history."
+msgstr ""
+"自然の力を呼び出すことは最古の魔術の一つとして知られていますが、現在では非常"
+"に珍しいものとなっています。元素の精霊たちはしばしば強力な魔術師の下僕となっ"
+"ていますが、自由に彷徨うこともあるようです。"
+
+#. [race]: id=aragwaith
+#: Naia/units/humans.cfg:5
+msgid "race^Aragwaith"
+msgstr "アラグウェイシ族"
+
+#. [race]: id=aragwaith
+#: Naia/units/humans.cfg:6
+msgid "race+female^Aragwaith"
+msgstr "アラグウェイシ族"
+
+#. [race]: id=aragwaith
+#: Naia/units/humans.cfg:7
+msgid "race^Aragwaithi"
+msgstr "アラグウェイシ族"
+
+#. [race]: id=aragwaith
+#: Naia/units/humans.cfg:11
+#, fuzzy
+msgid ""
+"During most of the Golden Age, the humans who inhabited the Great Continent "
+"were mostly Wesnothians, divided across various territories such as the "
+"Northlands, Elensefar and the kingdom of Wesnoth itself. However, there was "
+"once a time of great strife during which a new race of humans started to "
+"appear from nowhere. They were the ‘Aragwaithi’, which meant ‘noble’ in "
+"their native language.\n"
+"\n"
+"It has been since then rumored that they came from the Vast Sea to settle in "
+"Wesnoth. They mostly lived as mercenaries in that time, until the Fall. "
+"After that, they supposedly moved to the northmost lands of the Continent, "
+"were the sands could not reach, and the green could survive.\n"
+"\n"
+"Albeit being humans, many of their customs and racial features are strongly "
+"reminiscent of elves. Their sages have a mastery of magic that is not to be "
+"underestimated on the battlefield."
+msgstr ""
+"黄金時代の殆どの期間、巨大な大陸に居住する人間は、北部や Elensefar、Wesnoth "
+"王国自体など、様々な地域に分かれてはいましたが、大部分が Wesnoth 人でした。と"
+"は言え、新しい人間の一族がどこからともなく現れ始めた、大きな争いの時期が以前"
+"にありました。彼らが「アラグウェイシ」であり、彼ら自身の言葉で、「高貴な者」"
+"を意味します。\n"
+"\n"
+"その時以来、彼らは Wesnoth に住み着くために、広大な海から来たのだと噂されてい"
+"ます。「破滅」までのその時代、彼らは大部分を、傭兵として暮らしていました。そ"
+"の後、彼らは砂漠化が及ばず、緑が生き残る事の出来た、大陸の最北部へ移動したと"
+"言われています。\n"
+"\n"
+"実在する人間であるにも関わらず、彼らの習慣や人種的特徴の多くは、信じられない"
+"程に標準と異なっていて、肝心なのは、弓矢に関する器用さという面で、彼らはエル"
+"フの近くに置かれると言う点です。彼らの賢者達は、戦場で過小評価されない程、魔"
+"法に熟達しています。しばしば最高の魔法使いを驚かし、譲らなかったために。"
+
+#. [race]: id=imps
+#: Naia/units/imps.cfg:5
+msgid "race^Imp"
+msgstr "インプ"
+
+#. [race]: id=imps
+#: Naia/units/imps.cfg:6
+#, fuzzy
+msgid "race+female^Imp"
+msgstr "アラグウェイシ族"
+
+#. [race]: id=imps
+#: Naia/units/imps.cfg:7
+msgid "race^Imps"
+msgstr "インプ"
+
+#. [race]: id=imps
+#: Naia/units/imps.cfg:8
+msgid ""
+"Lesser demons are frequently and incorrectly classified in a separate group "
+"of their own. Although they generally lack the magic abilities and "
+"intellectual power of their better known relatives, their numbers and raw "
+"strength usually suffice to compensate."
+msgstr ""
+"下位のデーモンは間違って別のグループに分類されることが良くあります。彼らは魔"
+"法を扱う能力に欠け、その近縁のような理性的な力にも欠けていますが、その数と単"
+"純な力はそれらの不足を補うのに十分ではあるでしょう。"
+
+#. [race]: id=shaxthal
+#: Naia/units/shaxthal.cfg:5
+msgid "race^Shaxthal"
+msgstr "Shaxthal"
+
+#. [race]: id=shaxthal
+#: Naia/units/shaxthal.cfg:6
+#, fuzzy
+msgid "race+female^Shaxthal"
+msgstr "アラグウェイシ族"
+
+#. [race]: id=shaxthal
+#: Naia/units/shaxthal.cfg:7
+msgid "race^Shaxthals"
+msgstr "Shaxthal"
+
+#. [race]: id=shaxthal
+#: Naia/units/shaxthal.cfg:10
+msgid ""
+"Long before the arrival of humans, the ancient Argazar civilization "
+"dominated Irdya. However, they lost a war with the world of Rythé, and found "
+"themselves close to complete obliteration. But with their great mastery of "
+"technology they were able to create the ultimate weapon: the "
+"‘biomechanicals’, known in their ancient tongue as ‘Shaxthals’. These "
+"invincible legionnaires combined the best and most lethal attributes of "
+"every creature known by their creators. They served as protectors to the "
+"Argazars, but could not guard them against Rythénian strategic weapons. The "
+"Rythé desolated the lands of Irdya, destroyed the cities, and buried the "
+"works of the Argazars.\n"
+"\n"
+"A remnant of the Argazars survived, buried deep in the very underground base "
+"where shaxthal production was centered. The Rythénians thought their race "
+"was gone, and abandoned Irdya putting an end to the war. No one knows what "
+"events took place on the surface during the following eons, as the shattered "
+"ecology of Irdya reknit itself. But what is known, is that the Argazars’ "
+"creations rebelled against their masters. Whether this was due to a change "
+"in the shaxthal creatures or the remaining Argazars themselves is not "
+"known.\n"
+"\n"
+"Without the direction of the Argazars, the instincts of the Shaxthals "
+"prevailed. Their drives were a strange and predatory mixture of those of "
+"their biological ancestors and the warfare programming of their artificial "
+"bodies. Those instincts drove them to consume the remains of the Argazar "
+"civilization. Eventually they took the Argazars’ bodies and integrated them "
+"into their own biomechanical plan. For they had been designed with an "
+"assimilation system that allowed them to integrate into new environments, or "
+"adapt the environments themselves to suit their needs, including any living "
+"organisms that might inhabit them.\n"
+"\n"
+"The Shaxthals kept most of the technology of the Argazars, losing magic and "
+"the advanced forms of biologic manipulation with which they had been "
+"created. Reduced to barely a few dozen, the Argazars figured out a "
+"biological weakness of their creations, a way to destroy most of the "
+"Shaxthals en masse. All but a few of the strongest creatures perished. "
+"Fatefully, the Argazars decided to keep them in cryogenic pods instead of "
+"destroying them forever, as they thought there might be a last hope of using "
+"reprogrammed shaxthals to rebuild their civilization at some point in the "
+"future.\n"
+"\n"
+"That foolish thought condemned the Great Continent to an armageddon many "
+"eons later.\n"
+"\n"
+"Long after the Fall of Wesnoth, the self-proclaimed Emperor of Chaos figured "
+"out a way to resurrect the creatures, and reproduce their technology by "
+"artificial means. The lorekeepers of the Empire even enabled them to them "
+"able to rapidly reproduce by their own means. Thus modified, they became the "
+"principal and most dreaded weapon of the Chaos Empire. After the defeat of "
+"the Emperor, the Shaxthals were freed from their imprisonment in the dark "
+"hives of the Heart, and adapted to the time-renewed ecology of the surface "
+"world. They then began to prey on the speaking peoples of Irdya."
+msgstr ""
+"人間が到着するより遥か昔、Argazarの古代文明がIrdyaを支配していました。しか"
+"し、彼らはRythéの世界との戦争に破れ、自分たちが消滅に瀕していることに気がつき"
+"ました。しかし彼らの偉大な技術により、究極の兵器を開発することができました。"
+"それは「生体機械」、彼らの古い言葉では「Shaxthal」と言います。その無敵の兵士"
+"はその創造主達が知る生物の中でも最高の、そして最も破滅的な性質を組み合わされ"
+"ました。彼らはArgazarの守護者として仕えましたが、Rythé人の戦略兵器から守るこ"
+"とはできませんでした。RythéはIrdyaの大地を荒廃させ、都市を破壊し、Argazarの痕"
+"跡を埋め立てました。\n"
+"\n"
+"Argazarの残存者は生存し、Shaxthalの生産中心があった地下深くの基地へと深く潜り"
+"ました。Rythé人は彼らが絶滅したと考え、Irdyaを放棄して戦争を終わらせました。"
+"それからの長い間、壊滅したIrdyaの生態系が編み直されるまで、地表で何があったの"
+"かは誰も知りません。しかし、Aragazarの創造物がその主達に対して再び反乱を起こ"
+"したことだけはわかっています。それがShaxthalの変化によるものだったのか、それ"
+"ともAragazarの変化によるものだったのかはわかっていません。\n"
+"\n"
+"Argazarの導きを失っても、Shaxthalの本能は依然として働いていました。祖先にあた"
+"る生体機械と、太古の身体に残された戦闘用のプログラム、それらの攻撃的な本能が"
+"奇妙に混合し、それが彼らを活動させていました。その本能は彼らにArgazarの文明を"
+"取り込むようにうながしました。最終的に、Argazarの身体をも得て、彼ら生体機械の"
+"計画に一体化しました。新たな環境にも適応できるよう、もしくは環境の方を自身に"
+"適応させるよう、彼らには同一化をうながす設計が取り込まれていました。それは彼"
+"らの内部にある生体組織の変化をも含むような設計でした。\n"
+"\n"
+"ShaxthalはAragazarのほとんどの技術を保存していました。例えば、失われた魔術や"
+"彼らを生み出したような進んだ生体操作の技術を。数十人まで減ってしまったところ"
+"で、Aragazarは創造物の生物学的な弱点を理解しました。ほとんどのShaxthalを一斉"
+"に破壊してしまう方法です。ごく一部の強力な個体を残して、残り全ては永遠に破壊"
+"されました。運命的なことに、Aragazar人は残ったそれらを破壊してしまうのではな"
+"く、極低温にした容器に保存することにしました。いつか未来、再プログラムされた"
+"Shaxthalを使って文明を再建するという望みを彼らは持っていたのです。\n"
+"\n"
+"その愚かな考えが遠い未来、大陸に大戦をもたらすことになったのです。\n"
+"\n"
+"Wesnothの「滅び」のずっと後、混沌の皇帝を自称する者がその生物を蘇生し、その技"
+"術を人為的に再現する方法を思いつきました。帝国の伝承者はさらにShaxthalが自己"
+"増殖できる仕組みを素早く作り上げてしまいました。そのように改良されたことで、"
+"彼らは混沌の帝国の主要で、最も恐ろしい兵器となりました。皇帝の敗北の後、"
+"Shaxthalは中枢の巣穴での獄中生活から自由になりました。彼らは地上の新たな生態"
+"系に適応し、そして、Irdyaの言葉を持つ人々をエサとして襲い始めたのです。"
+
+#. [race]: id=shaxthal
+#: Naia/units/shaxthal.cfg:22
+msgid ""
+"Of the many monstrosities spotted in the Chaos Armies, strange metallic "
+"creeps known as the ‘Shaxthals’ lead the front lines. Their attack strength "
+"is the most fearsome one, and this has several implications. Firstly, most "
+"of the few fools who dare oppose them directly have the misfortune of being "
+"killed in a slow painful manner, as a red light beam coming from these "
+"abominations’ eyes crushes their victim’s brain, literally; secondly, the "
+"least of these few defiant people, have the opportunity to see what lies "
+"beneath the shaxthal’s armor, and afterwards, don’t dare to say what they "
+"have seen, at least not more than a single time. So dark must be the secret "
+"behind their rising and breeding that not even the Chaos Lorekeepers dare "
+"step close to these messengers of pain and despair."
+msgstr ""
+
+#. [race]: id=verlissh
+#: Naia/units/verlissh.cfg:5
+#, fuzzy
+msgid "race^Verlissh"
+msgstr "妖精"
+
+#. [race]: id=verlissh
+#: Naia/units/verlissh.cfg:6
+#, fuzzy
+msgid "race+female^Verlissh"
+msgstr "アラグウェイシ族"
+
+#. [race]: id=verlissh
+#: Naia/units/verlissh.cfg:7
+#, fuzzy
+msgid "race^Verlisshi"
+msgstr "妖精"
+
+#. [race]: id=verlissh
+#: Naia/units/verlissh.cfg:8
+msgid ""
+"In order to expand its frontiers and defend its territory more effectively, "
+"the Chaos Empire has resorted to summoning all sorts of previously unseen "
+"creatures to support its vast military force. Some are said to come from the "
+"darkest depths of Irdya; others are rumored to hail from the unknown lands "
+"beyond the sky itself. Very little is known for certain about these monsters "
+"beyond their evident connection to the Lorekeepers’ arcane arts."
+msgstr ""
+"混沌の帝国は効率良く領地を広げ、それを守ろうとしました。そのため、混沌の帝国"
+"は様々な未知の生物を軍隊の補助として召喚しました。一部の者たちはその生物たち"
+"がIrdyaの深淵から来たのだと考え、また他の者たちは未知の土地で生まれ空から降っ"
+"て来るのだと言いました。この怪物と伝承者の秘術との関連については、ほんの少し"
+"しか分かっていません。"
+
+#. [race]: id=faerie
+#: Naia/units/faeries.cfg:5
+msgid "race^Faerie"
+msgstr "妖精"
+
+#. [race]: id=faerie
+#: Naia/units/faeries.cfg:6
+msgid "race+male^Faerie"
+msgstr "妖精"
+
+#. [race]: id=faerie
+#: Naia/units/faeries.cfg:7
+#, fuzzy
+msgid "race^Faeries"
+msgstr "妖精"
+
+#. [race]: id=faerie
+#: Naia/units/faeries.cfg:8
+msgid ""
+"Forests, caverns, mountains, and large bodies of water are propitious places "
+"to find many kinds of rare and mysterious creatures. Such environments are "
+"thus preferred by the remnants of the peoples said to antedate civilized "
+"life on Irdya, such as woses and merfolk, and the varied group of beings "
+"more commonly known as the true faeries."
+msgstr ""
+"森、洞窟、山、そして大量の水がある場所は不思議で珍しい生物を多く見つけるため"
+"に都合の良い場所です。そのような環境はウーズやマーマン、そして一般に妖精とし"
+"て知られる多様な生物達のような、Irdyaの過去の文明の遺物とされている者にとって"
+"都合が良いのですから。"
+
+#. [lua]: preshow
+#: Naia/lua/gui/feedback.lua:132 Naia/lua/gui/bug.lua:180
+msgid ""
+"An inconsistency has been detected, and the scenario might not continue "
+"working as originally intended."
+msgstr ""
+"つじつまの合わない状況に遭遇しました。シナリオは本来の意図のようには動作しな"
+"いでしょう。"
+
+#. [lua]: preshow
+#: Naia/lua/gui/feedback.lua:133 Naia/lua/gui/bug.lua:181
+msgid "The following WML condition was unexpectedly reached:"
+msgstr "WMLで以下の条件文が予期せず満たされました:"
+
+#. [lua]: preshow
+#: Naia/lua/gui/feedback.lua:136
+msgid "Please report this to the campaign maintainer!"
+msgstr "キャンペーンのメンテナに報告して下さい！"
+
+#. [lua]: preshow
+#: Naia/lua/gui/feedback.lua:140 Naia/lua/gui/bug.lua:185
+msgid "Message:"
+msgstr "メッセージ:"
+
+#. [lua]: preshow
+#: Naia/lua/gui/feedback.lua:146 Naia/lua/gui/bug.lua:210
+#, fuzzy
+msgid "Error"
+msgstr "恐怖"
+
+#. [lua]: preshow
+#: Naia/lua/gui/feedback.lua:147 Naia/lua/gui/bug.lua:211
+msgid "Details"
+msgstr "詳細"
+
+#. [lua]: preshow
+#: Naia/lua/gui/bug.lua:198
+msgid "Please report this to the add-on maintainer on the forums:"
+msgstr ""
+
+#. [lua]: preshow
+#: Naia/lua/gui/bug.lua:201
+msgid "Please report this to the add-on maintainer on the issue tracker:"
+msgstr ""
+
+#. [lua]: preshow
+#: Naia/lua/gui/bug.lua:214
+msgid "Notice"
+msgstr ""
+
+#. [lua]: do_host_minimum_version_unmet
+#: Naia/lua/compat.lua:31
+msgid ""
+"This version of %s requires Wesnoth %s – %s and will not run on previous "
+"versions."
+msgstr ""
+
+#. [lua]: do_host_maximum_version_number_unmet
+#: Naia/lua/compat.lua:37
+msgid ""
+"This version of %s requires Wesnoth %s – %s. Support for later versions is "
+"incomplete or untested, and there may be broken functionality. If you choose "
+"to continue, you are doing so at your own risk."
+msgstr ""
+
+#. [lua]: do_host_blacklisted_version
+#: Naia/lua/compat.lua:43
+msgid ""
+"This version of %s is not compatible with Wesnoth %s. You must use a "
+"different version in the %s – %s range."
+msgstr ""
+
+#. [lua]: do_experimental_port_notice
+#: Naia/lua/compat.lua:49
+msgid ""
+"This is an experimental port of %s to Wesnoth %s.\n"
+"If you choose to continue, you must report any issues to the author on the "
+"project’s issue tracker:"
+msgstr ""
+
+#. [lua]: do_addon_compat_fail
+#: Naia/lua/compat.lua:58
+msgid "Incompatible Add-on"
+msgstr "互換性の無いアドオン"
+
+#. [lua]: do_addon_compat_fail
+#: Naia/lua/compat.lua:59
+#, fuzzy
+msgid ""
+"The following add-on is incompatible with %s and must be removed before "
+"continuing:"
+msgstr ""
+"彼らは、私たちの山脈への進路を阻んでいます。進み続ける前に、私達は、彼らを破"
+"らなければなりません。"
+
+#. [lua]: do_addon_compat_fail
+#: Naia/lua/compat.lua:61
+msgid "Incompatible Add-ons"
+msgstr "互換性の無いアドオン"
+
+#. [lua]: do_addon_compat_fail
+#: Naia/lua/compat.lua:62
+#, fuzzy
+msgid ""
+"The following add-ons are incompatible with %s and must be removed before "
+"continuing:"
+msgstr ""
+"彼らは、私たちの山脈への進路を阻んでいます。進み続ける前に、私達は、彼らを破"
+"らなければなりません。"
+
+#. [editor_group]: id=wesnoth-UMC-Naia
+#: Naia/loader.cfg:83
+msgid "Project Ethea"
+msgstr ""
+
+#. [terrain_type]: id=wasteland
+#: Naia/terrain.cfg:19
+msgid "Wasteland"
+msgstr "荒地"
+
+#. [terrain_type]: id=earthy_rocky_cave
+#: Naia/terrain.cfg:30
+msgid "Earthy Rockbound Cave"
+msgstr "岩石の洞窟"
+
+#. [terrain_type]: id=abyss-volcanic
+#: Naia/terrain.cfg:42
+msgid "Volcanic Abyss"
+msgstr "火山の底"
+
+#. [terrain_type]: id=dark-hive-floor
+#. [terrain_type]: id=dark-hive-surface
+#. [terrain_type]: id=dark-hive-lair
+#. [terrain_type]: id=overlay-pit
+#: Naia/terrain.cfg:55 Naia/terrain.cfg:64 Naia/terrain.cfg:74
+#: Naia/terrain.cfg:247
+msgid "Dark Hive"
+msgstr "暗い巣"
+
+#. [terrain_type]: id=overlay-banner-uria
+#: Naia/terrain.cfg:92
+msgid "Banner (Uria)"
+msgstr "旗 (Uria)"
+
+#. [terrain_type]: id=overlay-banner-merthiaal
+#: Naia/terrain.cfg:101
+msgid "Banner (Merthiaal)"
+msgstr "旗 (Merthiaal)"
+
+#. [terrain_type]: id=overlay-statue-adavyan
+#: Naia/terrain.cfg:110
+msgid "Statue (Adavyan)"
+msgstr "像 (Adavyan)"
+
+#. [terrain_type]: id=overlay-stone-wall-moss-se
+#. [terrain_type]: id=overlay-stone-wall-moss-sw
+#: Naia/terrain.cfg:121 Naia/terrain.cfg:132
+msgid "Wall Moss"
+msgstr "苔むした壁"
+
+#. [terrain_type]: id=overlay-gate-se
+#. [terrain_type]: id=overlay-gate-sw
+#: Naia/terrain.cfg:145 Naia/terrain.cfg:155
+msgid "Gate"
+msgstr "門"
+
+#. [terrain_type]: id=portal_gate_golden_sw
+#. [terrain_type]: id=portal_gate_golden_se
+#. [terrain_type]: id=portal_gate_golden_n
+#: Naia/terrain.cfg:172 Naia/terrain.cfg:184 Naia/terrain.cfg:197
+msgid "Event Gate"
+msgstr "イベント付の門"
+
+#. [terrain_type]: id=portal_gate_golden_open_sw
+#. [terrain_type]: id=portal_gate_golden_open_se
+#. [terrain_type]: id=portal_gate_golden_open_n
+#: Naia/terrain.cfg:210 Naia/terrain.cfg:221 Naia/terrain.cfg:233
+msgid "Open Event Gate"
+msgstr ""
+
+#. [terrain_type]: id=overlay-pit
+#: Naia/terrain.cfg:246
+#, fuzzy
+msgid "Hive Cell"
+msgstr "巣の見張り"
+
+#. [terrain_type]: id=overlay-fakeshroud
+#: Naia/terrain.cfg:260
+msgid "Fake Shroud"
+msgstr "フェイクの幕"

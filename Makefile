@@ -10,7 +10,8 @@ ADDONS_PREFIX ?= ..
 
 SOURCES = \
 	Invasion_from_the_Unknown \
-	After_the_Storm
+	After_the_Storm \
+	Naia
 
 MANIFESTS := $(foreach dir,$(SOURCES),$(dir)/$(dir).manifest)
 POTS      := $(foreach dir,$(SOURCES),$(dir)/wesnoth-$(dir).pot)
@@ -39,7 +40,17 @@ po-update: $(MOS)
 	@echo "    FMT     `basename $@` [wesnoth-`dirname $@`]"
 	@msgfmt --statistics -o $@ $*.po
 
-clean: clean-pot clean-mo
+install: po-update
+	@for s in $(SOURCES); do for mo in $$s/*.mo; do \
+		locale="`basename -s .mo $$mo`"; \
+		target_dir="$(ADDONS_PREFIX)/$$s/translations/$$locale/LC_MESSAGES"; \
+		target_mo="$$target_dir/wesnoth-$$s.mo"; \
+		mkdir -p "$$target_dir"; \
+		echo "    INSTALL $$target_mo"; \
+		cp -f "$$mo" "$$target_mo"; \
+	done; done
+
+clean: clean-mo
 
 clean-pot:
 	find -name '*.pot' -or -name '*.manifest' -type f -print0 | xargs -0 rm -f
