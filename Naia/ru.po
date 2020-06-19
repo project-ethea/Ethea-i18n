@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-13 19:15 UTC\n"
+"POT-Creation-Date: 2020-06-19 07:28 UTC\n"
 "PO-Revision-Date: 2020-05-17 13:37+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: none\n"
@@ -3085,14 +3085,14 @@ msgstr "ужас"
 
 #. [leadership]: id=terror
 #: Naia/macros/abilities.cfg:118
+#, fuzzy
 msgid ""
 "This unit can frighten enemy units that are next to it, making them fight "
 "worse.\n"
 "\n"
-"Adjacent enemy units of the same or lower level will do less damage in "
-"battle. When an enemy unit of the same or lower level is adjacent and "
-"engages in combat, its attacks do 15% less damage times the difference in "
-"their levels + 15%."
+"Adjacent enemy units of lower level will do less damage in battle. When an "
+"enemy unit of lower level is adjacent and engages in combat, its attacks do "
+"15% less damage times the difference in their levels + 15%."
 msgstr ""
 "Этот воин вселяет ужас в находящихся рядом с ним вражеских бойцов, заставляя "
 "их сражаться хуже.\n"
@@ -3466,7 +3466,7 @@ msgstr ""
 "бойцов, так что удостоверьтесь, что они разрешены настройками (<b>Настройки</"
 "b> → <b>Графика</b>)."
 
-#. [advancement]: id={_ID}, description=
+#. [advancement]: id={_ID}, description= 
 #: Naia/macros/amla.cfg:32
 msgid "‹Max XP +15%›"
 msgstr "‹Макс ОП +15%›"
