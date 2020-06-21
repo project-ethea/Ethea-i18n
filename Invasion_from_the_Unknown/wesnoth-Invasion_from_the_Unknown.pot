@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 2.1.1+dev\n"
+"Project-Id-Version: 2.1.2+dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-13 19:15 UTC\n"
+"POT-Creation-Date: 2020-06-21 06:46 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:102
+#: Invasion_from_the_Unknown/_main.cfg:98
 msgid "IftU"
 msgstr ""
 
@@ -37,8 +37,8 @@ msgstr ""
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
-#: Invasion_from_the_Unknown/_main.cfg:170
-#: Invasion_from_the_Unknown/_main.cfg:106
+#: Invasion_from_the_Unknown/_main.cfg:166
+#: Invasion_from_the_Unknown/_main.cfg:102
 msgid "Invasion from the Unknown"
 msgstr ""
 
@@ -46,7 +46,7 @@ msgstr ""
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
-#: Invasion_from_the_Unknown/_main.cfg:132
+#: Invasion_from_the_Unknown/_main.cfg:128
 msgid "Episode I: Seeking the Light"
 msgstr ""
 
@@ -64,7 +64,7 @@ msgstr ""
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:146
+#: Invasion_from_the_Unknown/_main.cfg:142
 msgid "Episode II: Armageddon"
 msgstr ""
 
@@ -12152,7 +12152,7 @@ msgstr ""
 msgid "Living units (except bats) are subject to dehydration in this scenario"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:28
+#: Invasion_from_the_Unknown/_main.cfg:24
 msgid ""
 "Greetings, translators!\n"
 "\n"
@@ -12161,40 +12161,40 @@ msgid ""
 "shared Naia library."
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:78
+#: Invasion_from_the_Unknown/_main.cfg:74
 msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:88
+#: Invasion_from_the_Unknown/_main.cfg:84
 msgid "for Wesnoth 1.14"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:93
+#: Invasion_from_the_Unknown/_main.cfg:89
 msgid "Version"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:94
+#: Invasion_from_the_Unknown/_main.cfg:90
 msgid "Feedback and bug reports:"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:105
+#: Invasion_from_the_Unknown/_main.cfg:101
 msgid "To be continued..."
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:124
+#: Invasion_from_the_Unknown/_main.cfg:120
 msgid "Easy"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:125
+#: Invasion_from_the_Unknown/_main.cfg:121
 msgid "Normal"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:126
+#: Invasion_from_the_Unknown/_main.cfg:122
 msgid "Hard"
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:132
+#: Invasion_from_the_Unknown/_main.cfg:128
 msgid ""
 "Long after the Fall, the last forest elves on the Great Continent are forced to abandon their secluded home and forge an unprecedented alliance in hopes of retaliating against the great evil that has befallen Irdya. But even then, they will require more than one ancient power to aid them in their quest...\n"
 "\n"
@@ -12202,25 +12202,25 @@ msgid ""
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:140
-#: Invasion_from_the_Unknown/_main.cfg:155
+#: Invasion_from_the_Unknown/_main.cfg:136
+#: Invasion_from_the_Unknown/_main.cfg:151
 msgid "difficulty_menu^Fighter"
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:141
-#: Invasion_from_the_Unknown/_main.cfg:156
+#: Invasion_from_the_Unknown/_main.cfg:137
+#: Invasion_from_the_Unknown/_main.cfg:152
 msgid "difficulty_menu^Captain"
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:142
-#: Invasion_from_the_Unknown/_main.cfg:157
+#: Invasion_from_the_Unknown/_main.cfg:138
+#: Invasion_from_the_Unknown/_main.cfg:153
 msgid "difficulty_menu^Marshal"
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:146
+#: Invasion_from_the_Unknown/_main.cfg:142
 msgid ""
 "As the dark veil of Chaos engulfs the land, an assorted group of foolish heroes prepares a counter-attack against their enemies with one unique goal in their minds. May they vanquish the forces that seek to destroy the last sanctuary standing in the Great Continent, or perish in the attempt.\n"
 "\n"
@@ -12228,37 +12228,42 @@ msgid ""
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:13
+#: Invasion_from_the_Unknown/about.cfg:7
 msgid "Creator and Lead Designer"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:21
+#: Invasion_from_the_Unknown/about.cfg:15
 msgid "Campaign Maintenance"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:30
+#: Invasion_from_the_Unknown/about.cfg:24
 msgid "Graphics"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:197
+#: Invasion_from_the_Unknown/about.cfg:191
+msgid "Aragwaith Faction"
+msgstr ""
+
+#. [about]
+#: Invasion_from_the_Unknown/about.cfg:202
 msgid "Music"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:213
+#: Invasion_from_the_Unknown/about.cfg:221
+msgid "Translations"
+msgstr ""
+
+#. [about]
+#: Invasion_from_the_Unknown/about.cfg:232
 msgid "Additional Thanks to"
 msgstr ""
 
 #. [entry]
-#: Invasion_from_the_Unknown/about.cfg:283
+#: Invasion_from_the_Unknown/about.cfg:306
 msgid "You, for playing this campaign"
-msgstr ""
-
-#. [entry]
-#: Invasion_from_the_Unknown/about.cfg:286
-msgid "Anyone else I could forget to mention"
 msgstr ""
 
