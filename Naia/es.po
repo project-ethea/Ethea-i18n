@@ -1,22 +1,23 @@
+# Iris Morelle <shadowm@wesnoth.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-06-21 06:46 UTC\n"
-"PO-Revision-Date: 2007-12-04 11:49-0300\n"
-"Last-Translator: Iris Morelle <shadowm2006@gmail.com>\n"
-"Language-Team:  <es@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2020-06-22 05:25-0400\n"
+"Last-Translator: Iris Morelle <shadowm@wesnoth.org>\n"
+"Language-Team: Spanish <i18n@wesnoth.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Lokalize 20.04.1\n"
 
 #. [lua]: unit_amlas
 #: Naia/lua/gui/amla_list.lua:353
 msgid "Unit Advancements"
-msgstr ""
+msgstr "Avances de Unidad"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:180 Naia/lua/gui/feedback.lua:132
@@ -24,52 +25,55 @@ msgid ""
 "An inconsistency has been detected, and the scenario might not continue "
 "working as originally intended."
 msgstr ""
+"Se ha detectado una inconsistencia, y el escenario podría no seguir "
+"funcionando del modo originalmente planeado."
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:181 Naia/lua/gui/feedback.lua:133
 msgid "The following WML condition was unexpectedly reached:"
-msgstr ""
+msgstr "La siguiente condición WML se alcanzó inesperadamente:"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:185 Naia/lua/gui/feedback.lua:140
 msgid "Message:"
-msgstr ""
+msgstr "Mensaje:"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:198
 msgid "Please report this to the add-on maintainer on the forums:"
-msgstr ""
+msgstr "Por favor informe esto al mantenedor(a) de la campaña en el foro:"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:201
 msgid "Please report this to the add-on maintainer on the issue tracker:"
 msgstr ""
+"Por favor informe esto al mantenedor(a) de la campaña en el rastreador de "
+"defectos:"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:210 Naia/lua/gui/feedback.lua:146
-#, fuzzy
 msgid "Error"
-msgstr "terror"
+msgstr "Error"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:211 Naia/lua/gui/feedback.lua:147
 msgid "Details"
-msgstr ""
+msgstr "Detalles"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:214
 msgid "Notice"
-msgstr ""
+msgstr "Aviso"
 
 #. [lua]: wesnoth.wml_actions.item_prompt
 #: Naia/lua/gui/item_prompt.lua:139
 msgid "Do you want this unit to pick up this item?"
-msgstr ""
+msgstr "¿Desea que esta unidad utilice este ítem?"
 
 #. [lua]: preshow
 #: Naia/lua/gui/feedback.lua:136
 msgid "Please report this to the campaign maintainer!"
-msgstr ""
+msgstr "¡Por favor informe de esto al mantenedor(a) de la campaña!"
 
 #. [lua]: do_host_minimum_version_unmet
 #: Naia/lua/compat.lua:31
@@ -77,6 +81,8 @@ msgid ""
 "This version of %s requires Wesnoth %s – %s and will not run on previous "
 "versions."
 msgstr ""
+"Esta versión de %s requiere Wesnoth %s – %s y no se ejecutará en versiones "
+"anteriores."
 
 #. [lua]: do_host_maximum_version_number_unmet
 #: Naia/lua/compat.lua:37
@@ -85,6 +91,9 @@ msgid ""
 "incomplete or untested, and there may be broken functionality. If you choose "
 "to continue, you are doing so at your own risk."
 msgstr ""
+"Esta versión de %s requiere Wesnoth %s – %s. El soporte para versiones "
+"posteriores es incompleto o no testeado, y puede haber funcionalidad "
+"defectuosa. Si decide continuar lo hace bajo su propio riesgo."
 
 #. [lua]: do_host_blacklisted_version
 #: Naia/lua/compat.lua:43
@@ -92,6 +101,8 @@ msgid ""
 "This version of %s is not compatible with Wesnoth %s. You must use a "
 "different version in the %s – %s range."
 msgstr ""
+"Esta versión de %s no es compatible con Wesnoth %s. Necesita utilizar una "
+"versión diferente en el rango %s – %s."
 
 #. [lua]: do_experimental_port_notice
 #: Naia/lua/compat.lua:49
@@ -100,11 +111,14 @@ msgid ""
 "If you choose to continue, you must report any issues to the author on the "
 "project’s issue tracker:"
 msgstr ""
+"Esta es una actualización experimental de %s para Wesnoth %s.\n"
+"Si decide continuar, es su obligación informar de cualquier problema al "
+"autor(a) en el rastreador de defectos del proyecto:"
 
 #. [lua]: do_addon_compat_fail
 #: Naia/lua/compat.lua:58
 msgid "Incompatible Add-on"
-msgstr ""
+msgstr "Complemento incompatible"
 
 #. [lua]: do_addon_compat_fail
 #: Naia/lua/compat.lua:59
@@ -112,11 +126,13 @@ msgid ""
 "The following add-on is incompatible with %s and must be removed before "
 "continuing:"
 msgstr ""
+"El siguiente complemento es incompatible con %s y debe ser eliminado antes "
+"de continuar:"
 
 #. [lua]: do_addon_compat_fail
 #: Naia/lua/compat.lua:61
 msgid "Incompatible Add-ons"
-msgstr ""
+msgstr "Complementos incompatibles"
 
 #. [lua]: do_addon_compat_fail
 #: Naia/lua/compat.lua:62
@@ -124,6 +140,8 @@ msgid ""
 "The following add-ons are incompatible with %s and must be removed before "
 "continuing:"
 msgstr ""
+"Los siguientes complementos son incompatibles con %s y deben ser eliminados "
+"antes de continuar:"
 
 #. [unit_type]: id=Fungoid, race=monster
 #: Naia/units/monsters/Fungoid.cfg:5
@@ -137,6 +155,9 @@ msgid ""
 "soft bodies and delicious taste once seasoned make them a prime target for "
 "inexperienced adventurers."
 msgstr ""
+"Los fungoides son criaturas con aspecto similar a los hongos que pueden "
+"multiplicarse muy rápidamente. Sus cuerpos suaves y sabor delicioso al ser "
+"condimentados los hacen un blanco preferido por los aventureros novatos."
 
 #. [unit_type]: id=Leech, race=monster
 #: Naia/units/monsters/Leech.cfg:5
@@ -161,6 +182,21 @@ msgid ""
 "an almost unstoppable menace to explorers and dwellers of the caves they "
 "inhabit."
 msgstr ""
+"Las sanguijuelas son universalmente conocidas por su dieta común, la tibia "
+"sangre de variadas criaturas más grandes. Sin embargo, esta es exactamente "
+"la razón por la cual son frecuentemente utilizadas con propósitos "
+"medicinales.\n"
+"\n"
+"Aunque no tienen un parentesco directo, el mismo nombre se le aplica a "
+"ciertos grupos de gusanos extraños adheridos al suelo en cavernas, que no "
+"suponen un gran peligro dada su incapacidad para moverse y buscar presas. En "
+"vez de eso esperan víctimas incautas que se aproximen a ellos para "
+"atraparlas con sus mortales tentáculos para luego beber su sangre, la cual "
+"incrementa su fuerza y cura sus heridas.\n"
+"\n"
+"Es una fortuna que no hayan desarrollado extremidades, de lo contrario "
+"serían una amenaza casi imparable para exploradores y moradores de las "
+"mismas cavernas que habitan."
 
 #. [attack]: type=pierce
 #: Naia/units/monsters/Leech.cfg:59
@@ -183,6 +219,14 @@ msgid ""
 "However they came into existence, they appear to be highly sensitive to "
 "light and avoid leaving the safety of their dark caverns."
 msgstr ""
+"El origen de estas espantosas criaturas es desconocido. Algunos especulan "
+"que se tratan de humanos, orcos, enanos o troles que fueron transformados en "
+"ellas de algún modo. Otros aseguran que se tratan de intentos fallidos por "
+"parte de las fuerzas del Caos de crear una nueva raza de soldados "
+"demoníacos.\n"
+"\n"
+"Como sea que surgiesen, al parecer son criaturas altamente sensibles a la "
+"luz y evitan abandonar la comodidad de sus cavernas oscuras."
 
 #. [unit_type]: id=Giant Ant, race=monster
 #: Naia/units/monsters/Giant_Ant.cfg:5
@@ -197,11 +241,16 @@ msgid ""
 "up over their normal size. Though normally not hostile, they can bite at "
 "close range, dealing more damage than a normal-sized ant."
 msgstr ""
+"Las hormigas gigantes son comunes en casi cualquier sitio, desde las "
+"cavernas profundas bajo tierra hasta las cimas de altas montañas. Las que "
+"viven en las profundidades de la tierra tienden a crecer mucho más de lo "
+"usual. Aunque normalmente no son hostiles, pueden morder a corto alcance y "
+"causar más daño que una hormiga normal."
 
 #. [unit_type]: id=Lesser Giant Spider, race=monster
 #: Naia/units/monsters/Giant_Spider_Lesser.cfg:5
 msgid "Lesser Giant Spider"
-msgstr "Araña gigante menor"
+msgstr "Araña semigigante"
 
 #. [unit_type]: id=Lesser Giant Spider, race=monster
 #: Naia/units/monsters/Giant_Spider_Lesser.cfg:18
@@ -211,11 +260,17 @@ msgid ""
 "dwarven or human corpses trapped in their webs, which suggests they have "
 "little problem in eating big individuals fool enough to fall in their traps."
 msgstr ""
+"Es bastante común encontrar versiones más pequeñas de las arañas gigantes "
+"bajo la superficie. Generalmente se alimentan de insectos, pero "
+"ocasionalmente se han encontrado cadáveres de humanos o enanos atrapados en "
+"sus redes, lo que sugiere que no tienen mayor inconveniente a la hora de "
+"servirse criaturas más grandes lo suficientemente estúpidas para caer en sus "
+"trampas."
 
 #. [unit_type]: id=Shaxthal Stormblade, race=shaxthal
 #: Naia/units/shaxthal/Fighter_Stormblade.cfg:7
 msgid "Stormblade"
-msgstr ""
+msgstr "Hojatormenta"
 
 #. [unit_type]: id=Shaxthal Stormblade, race=shaxthal
 #: Naia/units/shaxthal/Fighter_Stormblade.cfg:23
@@ -225,13 +280,17 @@ msgid ""
 "long arm-blades combined with the recovered ability to retaliate against "
 "ranged attacks makes them extremely dangerous opponents."
 msgstr ""
+"Debido a su diseño inasequible, los drones hojatormenta son muy raramente "
+"avistados en el campo de batalla comparados con otras criaturas Shaxthal. "
+"Sus largos y mortíferos brazos de cuchillo combinados con su recuperada "
+"habilidad de defenderse contra ataques a distancia los convierten en "
+"oponentes extremadamente peligrosos."
 
 #. [attack]: type=blade
 #: Naia/units/shaxthal/Fighter_Stormblade.cfg:31
 #: Naia/units/shaxthal/Fighter_Rayblade.cfg:24
-#, fuzzy
 msgid "weapon^rayblade"
-msgstr "Cuchillo feroz"
+msgstr "hojaferoz"
 
 #. [attack]: type=impact
 #: Naia/units/shaxthal/Fighter_Stormblade.cfg:42
@@ -245,9 +304,8 @@ msgstr "golpe de energía"
 
 #. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
 #: Naia/units/shaxthal/Fauna_Thunderbird.cfg:5
-#, fuzzy
 msgid "Thunderbird"
-msgstr "Truenomóvil"
+msgstr "Avetrueno"
 
 #. [unit_type]: id=Shaxthal Thunderbird, race=shaxthal
 #: Naia/units/shaxthal/Fauna_Thunderbird.cfg:18
@@ -256,6 +314,10 @@ msgid ""
 "their sharp feather-blades to attack enemies at a distance, as well as dive "
 "and charge into their heads using their powerful metallic beaks."
 msgstr ""
+"Ciertas criaturas aviarias Shaxthal más avanzadas son capaces de producir "
+"relámpagos mortales con sus plumas cortantes para así aturdir a sus enemigos "
+"a distancia, para luego arrojarse sobre sus cabezas utilizando sus poderosos "
+"picos metálicos."
 
 #. [attack]: type=pierce
 #: Naia/units/shaxthal/Fauna_Thunderbird.cfg:30
@@ -267,18 +329,17 @@ msgstr "picotazo"
 #: Naia/units/shaxthal/Fauna_Thunderbird.cfg:42
 #: Naia/units/shaxthal/Fauna_Razorbird.cfg:38
 msgid "blade shower"
-msgstr ""
+msgstr "lluvia de cuchillas"
 
 #. [attack]: type=fire
 #: Naia/units/shaxthal/Fauna_Thunderbird.cfg:51
-#, fuzzy
 msgid "thunderbolt"
-msgstr "Truenomóvil"
+msgstr "rayo"
 
 #. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
 #: Naia/units/shaxthal/Fauna_Razorbird.cfg:5
 msgid "Razorbird"
-msgstr ""
+msgstr "Avecuchillo"
 
 #. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
 #: Naia/units/shaxthal/Fauna_Razorbird.cfg:17
@@ -290,11 +351,18 @@ msgid ""
 "entrances of the creatures’ hives. Being clad in metal makes them slower "
 "than normal birds, and also more dangerous."
 msgstr ""
+"Desde que los drones Shaxthals comenzaron a ser avistados con regularidad en "
+"el campo de batalla, han aparecido otras criaturas biomecánicas como si "
+"fuesen el resultado de la sola presencia de los Shaxthal en Irdya. En "
+"particular resaltan ciertas aves metálicas con cuchillas a modo de plumas "
+"que se encuentran con frecuencia cerca de las entradas de las colmenas. Al "
+"estar completamente recubiertas de metal son más lentas que las aves "
+"normales, pero también mucho más peligrosas."
 
 #. [unit_type]: id=Shaxthal Worm, race=shaxthal
 #: Naia/units/shaxthal/Fauna_Worm.cfg:5
 msgid "Worm"
-msgstr ""
+msgstr "Gusano"
 
 #. [unit_type]: id=Shaxthal Worm, race=shaxthal
 #: Naia/units/shaxthal/Fauna_Worm.cfg:54
@@ -309,6 +377,16 @@ msgid ""
 "never seen elsewhere. Some evidence gathered and analyzed by scholars would "
 "indicate these creatures are extremely vulnerable in the open."
 msgstr ""
+"Pese a ser de origen artificial, se sabe que las criaturas Shaxthal varían "
+"enormemente en tamaño, forma y comportamiento. Dado que se conoce muy poco "
+"acerca de su ciclo de vida, no es claro si ciertas variedades — como estos "
+"gusanos biomecánicos — son en realidad diferentes fases de crecimiento de la "
+"misma criatura.\n"
+"\n"
+"Los gusanos Shaxthal moran en las grandes colmenas oscuras y prácticamente "
+"no se les ve en ningún otro sitio. Ciertas evidencias recogidas y analizadas "
+"por eruditos sugieren que estas criaturas son extremadamente vulnerables al "
+"aire libre."
 
 #. [unit_type]: id=Shaxthal Protector Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_Protector.cfg:5
@@ -323,12 +401,15 @@ msgid ""
 "heavier and slower, yet lethal weapons of mass destruction. Their unusual "
 "attack accuracy makes them especially dangerous."
 msgstr ""
+"Algunos drones desarrollan su flexibilidad y destreza mejor que otros. Los "
+"protectores favorecen resiliencia y fuerza de ataque, volviéndose más "
+"pesados y lentos, aun así poderosas armas de destrucción masiva. Sus ataques "
+"inusualmente precisos los hace especialmente peligrosos."
 
 #. [unit_type]: id=Shaxthal Enforcer Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_Enforcer.cfg:7
-#, fuzzy
 msgid "Enforcer Drone"
-msgstr "Drón corredor"
+msgstr "Drón guardían"
 
 #. [unit_type]: id=Shaxthal Enforcer Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_Enforcer.cfg:29
@@ -337,11 +418,14 @@ msgid ""
 "dwell in the deepest reaches of the Shaxthal hives protecting their "
 "offspring and territory."
 msgstr ""
+"Se dice que versiones más voluminosas y aparentemente inteligentes de los "
+"drones vigías habitan los lugares más profundos de las colmenas Shaxthal, "
+"dedicados a proteger su progenie y territorio."
 
 #. [unit_type]: id=Shaxthal Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone.cfg:5
 msgid "Drone"
-msgstr ""
+msgstr "Drón"
 
 #. [unit_type]: id=Shaxthal Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone.cfg:26
@@ -358,12 +442,23 @@ msgid ""
 "terrifying detail floating creatures of metal, the light glinting off a "
 "demonic, unwavering grin as they dispense death from above."
 msgstr ""
+"Antinaturales. Espeluznantes. Abominaciones. De las muchas palabras "
+"utilizadas para describir a las criaturas mecánicas conocidas como "
+"Shaxthals, éstas son las más frecuentemente escuchadas. De entre sus "
+"legiones, el simple drón es su forma más común, pero aún así es capaz de "
+"destrozar a sus enemigos en un instante. Un siseo amenazante haciendo eco a "
+"través de la oscuridad es suficiente para anunciar el acecho de la muerte, "
+"sea mediante los poderosos estallidos de energía liberados por sus fauces, o "
+"los ejércitos del Caos a sus espaldas.\n"
+"\n"
+"Pero de entre los pocos registros que sobreviven a los ataques de los "
+"Shaxthals, los más aterrorizadores hablan de criaturas flotantes de metal "
+"con luminosas y diabólicas sonrisas sembrando destrucción desde los cielos."
 
 #. [unit_type]: id=Shaxthal War Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_War.cfg:7
-#, fuzzy
 msgid "War Drone"
-msgstr "Drón corredor"
+msgstr "Drón de guerra"
 
 #. [unit_type]: id=Shaxthal War Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_War.cfg:20
@@ -376,18 +471,23 @@ msgid ""
 "crush anyone foolish enough to confront them without the use of magic "
 "support."
 msgstr ""
+"Ciertos acontecimientos recientes parecen haber motivado la creación de "
+"formas más avanzadas de drones Shaxthal diseñadas para arrasar con gran "
+"eficacia vanguardias y defensas mediante ataques aéreos. Combinando la "
+"aterradora precisión de los drones protectores y la fuerza formidable de los "
+"drones de asalto, los escasamente vistos drones de guerra son capaces de "
+"derribar muros de piedra a gran velocidad y obliterar a cualquier tonto que "
+"trate de enfrentarlos sin apoyo mágico."
 
 #. [attack]: type=blade
 #: Naia/units/shaxthal/Drone_War.cfg:43
-#, fuzzy
 msgid "war-blades"
-msgstr "Cuchillo feroz"
+msgstr "cuchillos de guerra"
 
 #. [attack]: type=impact
 #: Naia/units/shaxthal/Drone_War.cfg:52
-#, fuzzy
 msgid "energy burst"
-msgstr "rayo de energía"
+msgstr "golpe de energía"
 
 #. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_Runner.cfg:5
@@ -401,6 +501,9 @@ msgid ""
 "accuracy at ground level. On their own they don’t pose a great threat, but "
 "swarms of these can be highly dangerous."
 msgstr ""
+"Estas criaturas bípedas Shaxthal están adaptadas para mayor velocidad, "
+"agilidad y precisión en superficie. Individualmente no son una gran amenaza, "
+"pero enjambres de ellos resultan ser extremadamente peligrosos."
 
 #. [unit_type]: id=Shaxthal Assault Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_Assault.cfg:5
@@ -419,11 +522,20 @@ msgid ""
 "assault; neither earth nor stone proves an obstacle as they carry out their "
 "missions with brutal efficiency."
 msgstr ""
+"Los drones de asalto Shaxthal cuentan entre los miembros más efectivos del "
+"arsenal ofensivo del Imperio del Caos. Mientras sus contrapartes más "
+"sedantarías — los drones vigía — se dedican a resguardar las fortalezas del "
+"imperio, la impresionante fuerza bruta de los drones de asalto combinada con "
+"su mayor movilidad los convierte en una excelente maquinaria de asedio. Por "
+"ende se los encuentra en grandes números entre las huestes del Caos. Más de "
+"un oponente obstinado ha sucumbido al ataque de estas criaturas; ni tierra "
+"ni piedra son obstáculos suficientes a la hora de desempeñar su labor con "
+"brutal eficiencia."
 
 #. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
 #: Naia/units/shaxthal/Fighter_Rayblade.cfg:5
 msgid "Rayblade"
-msgstr "Cuchillo feroz"
+msgstr "Hojaferoz"
 
 #. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
 #: Naia/units/shaxthal/Fighter_Rayblade.cfg:16
@@ -436,11 +548,19 @@ msgid ""
 "possess the fearsome ability to spin their torsos rapidly and slice through "
 "enemy lines like butter."
 msgstr ""
+"La mayoría de los drones Shaxthals son relativamente mediocres en combate "
+"mano-a-mano, dado que sus cuerpos no tienen la destreza necesaria para "
+"esquivar golpes con efectividad. Tal como uno esperaría, los sabios del Caos "
+"aprendieron de esto y desarrollaron una solución: los hojaferoces Shaxthal. "
+"No sólo han abandonado las garras y estallidos de energía a cambio de sus "
+"llamativos brazos de cuchillo, sino que también poseen la aterradora "
+"capacidad de girar sus torsos a gran velocidad para cortar a través de las "
+"filas enemigas como si fuesen mantequilla."
 
 #. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_Sentry.cfg:5
 msgid "Sentry Drone"
-msgstr "Drón centinela"
+msgstr "Drón vigía"
 
 #. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_Sentry.cfg:26
@@ -454,11 +574,21 @@ msgid ""
 "intruder fall victim to the drones’ scalding blasts of energy, their vicious "
 "teeth and claws will make short work of what remains."
 msgstr ""
+"Desde los oscuros y resonantes laberintos de las colmenas Shaxthals a las "
+"sombrías fortalezas del Imperio del Caos, es común encontrar guardianes "
+"implacables que no pueden ser persuadidos ni por palabras ni oro: los drones "
+"vigías. Silenciosos y mortíferos, estos centinelas fueron diseñados para "
+"eliminar rauda y eficazmente cualquier intruso dentro de los dominios del "
+"imperio. Cualquier alma desafortunada que atraiga su atención sólo tiene una "
+"opción: huir — eso sí, suponiendo que sean capaces de dejar rezagas a estas "
+"criaturas. Si el intruso resulta ser víctima de los estallidos hirvientes de "
+"energía de los drones, sus grandes dientes y garras se asegurarán de no "
+"dejar huella alguna de sus restos."
 
 #. [unit_type]: id=Water Spirit, race=spirit
 #: Naia/units/spirits/Water_Spirit.cfg:5
 msgid "female^Water Spirit"
-msgstr "Espíritu de las aguas"
+msgstr "Espíritu acuático"
 
 #. [unit_type]: id=Water Spirit, race=spirit
 #: Naia/units/spirits/Water_Spirit.cfg:20
@@ -472,12 +602,12 @@ msgstr ""
 #. [attack]: type=impact
 #: Naia/units/spirits/Water_Spirit.cfg:24 Naia/units/spirits/Water_Tidal.cfg:23
 msgid "water punch"
-msgstr ""
+msgstr "golpe de agua"
 
 #. [unit_type]: id=Water Tidal, race=spirit
 #: Naia/units/spirits/Water_Tidal.cfg:5
 msgid "female^Water Tidal"
-msgstr "Marea de agua"
+msgstr "Oleada de agua"
 
 #. [unit_type]: id=Water Tidal, race=spirit
 #: Naia/units/spirits/Water_Tidal.cfg:19
@@ -486,6 +616,9 @@ msgid ""
 "then, to think that water may have its own will, and that its power can be "
 "summoned by expert magi for bad purposes. Unfortunately, all that is true."
 msgstr ""
+"Se dice que el mundo está principalmente compuesto de agua. Resulta entonces "
+"natural suponer que el agua pueda tener voluntad propia, y que su poder "
+"pueda ser conjurado por magos expertos para fines maléficos."
 
 #. [unit_type]: id=Rock Golem, race=spirit
 #: Naia/units/spirits/Rock_Golem.cfg:5
@@ -498,6 +631,9 @@ msgid ""
 "Rock Golems are giant, slow, and heavy creatures made out of solid, living "
 "rock. Their fists can crush any skeleton in matter of seconds."
 msgstr ""
+"Los gólems de roca son criaturas gigantes, lentas y pesadas hechas de roca "
+"sólida y viviente. Sus puños pueden hacer añicos cualquier esqueleto en "
+"cuestión de segundos."
 
 #. [unit_type]: id=Animated Rock, race=spirit
 #: Naia/units/spirits/Rock_Animated.cfg:5
@@ -511,6 +647,10 @@ msgid ""
 "They have a weak attack, but are incredibly hard to destroy. It is rumored "
 "that these magical constructs can only be summoned by powerful magi."
 msgstr ""
+"Las rocas animadas son criaturas más bien lentas hechas de roca sólida y "
+"viviente. Tienen un ataque débil pero son increíblemente difíciles de "
+"destruir. Según los rumores, estos constructos mágicos sólo pueden ser "
+"conjurados por magos poderosos."
 
 #. [unit_type]: id=Fire Wisp, race=spirit
 #: Naia/units/spirits/Fire_Wisp.cfg:5
@@ -524,6 +664,10 @@ msgid ""
 "and take great delight in burning anything they can reach. They should not "
 "be a great challenge to unexperienced fighters, except when found in swarms."
 msgstr ""
+"Las centellas de fuego son espíritus menores de fuego. Prefieren deambular "
+"en la lava y disfrutan de incendiar todo lo que tengan a su alcance. Éstas "
+"no debieran suponer un gran desafío para los luchadores inexpertos salvo que "
+"se encuentren en grupo."
 
 #. [attack]: type=fire
 #: Naia/units/spirits/Fire_Wisp.cfg:22
@@ -542,12 +686,14 @@ msgid ""
 "they come from, but they seem to be a common threat in the darkest unknown "
 "depths of world. They might be the Fire itself, incarnate, or part of it."
 msgstr ""
+"Los guardianes de fuego son espíritus de humo y llamas. Nadie sabe con "
+"certeza de dónde provienen, pero suelen ser una amenaza común en las "
+"profundidades más recónditas del mundo."
 
 #. [unit_type]: id=Chaos Cardinal, race=undead
 #: Naia/units/undead/Chaos_Cardinal.cfg:5
-#, fuzzy
 msgid "Chaos Cardinal"
-msgstr "Invasor del caos"
+msgstr "Cardenal del Caos"
 
 #. [unit_type]: id=Chaos Cardinal, race=undead
 #: Naia/units/undead/Chaos_Cardinal.cfg:19
@@ -568,21 +714,37 @@ msgid ""
 "unity, in the hope that some day, the Dark Lady will too rise once more and "
 "purge all non-believers from this tainted earth."
 msgstr ""
+"Dos siglos antes del nacer del Imperio del Caos, sus precursores y su "
+"venerada Dama Oscura fueron desafiados por una gente barbárica proveniente "
+"del Gran Desierto Sur: los elfos de Quenoth. Pese a las armas y talento "
+"mágico superiores del Consejo de Hierro, las tácticas astutas y ferocidad "
+"implacable de los invasores resultaron ser decisivas a la hora de cambiar el "
+"curso de la batalla en su favor. Y pese a que el Consejo finalmente "
+"consiguió poner fin a su ataque, los elfos no abandonaron el santuario del "
+"Consejo sin primero cobrar la vida del sacerdote más reverenciado de "
+"Yechnagoth, el líder de facto de la Tríada de Hierro durante la ausencia de "
+"su verdadero amo.\n"
+"\n"
+"Más de tres siglos después, Mal Hekuba sigue deambulando por las tierras de "
+"Irdya ejecutando las órdenes de la diosa viviente que promete una nueva era "
+"de restauración y unidad, con la esperanza de que algún día la Dama Oscura "
+"también vuelva a levantarse para purgar a todos los infieles de esta tierra "
+"impura."
 
 #. [attack]: type=arcane
 #: Naia/units/undead/Chaos_Cardinal.cfg:32
 msgid "necrotic shard"
-msgstr ""
+msgstr "fragmento necrótico"
 
 #. [attack]: type=arcane
 #: Naia/units/undead/Chaos_Cardinal.cfg:57
 msgid "breath of nyx"
-msgstr ""
+msgstr "suspiro de nix"
 
 #. [unit_type]: id=Errant Soul
 #: Naia/units/undead/Errant_Soul.cfg:5
 msgid "Errant Soul"
-msgstr ""
+msgstr "Ánima errante"
 
 #. [unit_type]: id=Errant Soul
 #: Naia/units/undead/Errant_Soul.cfg:16
@@ -591,6 +753,9 @@ msgid ""
 "Fall, trapped in ethereal bodies that only vaguely resemble their former "
 "living appearances."
 msgstr ""
+"Estas almas perdidas han vagado las tierras estériles de Irdya por una "
+"eternidad tras la Caída, atrapadas en cuerpos etéreos que sólo tienen una "
+"semejanza remota con sus antiguas formas vivientes."
 
 #. [unit_type]: id=Elvish Prowler, race=elf
 #: Naia/units/elves-wood/Prowler.cfg:5
@@ -605,12 +770,17 @@ msgid ""
 "It is not unusual for incursion parties to be either disbanded or decimated "
 "by patrol teams led by a few veteran prowlers."
 msgstr ""
+"Los mejores cazadores son famosos por su talento para sacar ventaja de su "
+"entorno con el fin de traspasar las líneas enemigas y tomar a sus "
+"contrincantes por sorpresa. No es inusual que los grupos de incursión sean "
+"disueltos o diezmados por patrullas lideradas por unos cuantos merodeadores "
+"veteranos."
 
 #. [attack]: type=impact
 #: Naia/units/elves-wood/Prowler.cfg:48 Naia/units/elves-wood/Hunter.cfg:44
 #: Naia/units/elves-wood/Trapper.cfg:46
 msgid "bolas"
-msgstr ""
+msgstr "boleadoras"
 
 #. [female]
 #: Naia/units/elves-wood/Prowler.cfg:127
@@ -630,6 +800,11 @@ msgid ""
 "their frontiers. Their hunters are specialized in trapping unwary opponents "
 "from a safe distance to ease the task of the swordsmen."
 msgstr ""
+"Con el fin de proteger sus tierras, los elfos de los bosques del Valle de "
+"Elynia han desarrollado nuevas prácticas y formado grupos con entrenamiento "
+"especial para patrullar sus fronteras. Sus cazadores se especializan en "
+"atrapar oponentes incautos desde una distancia segura para facilitarle la "
+"tarea a los espadachines."
 
 #. [female]
 #: Naia/units/elves-wood/Hunter.cfg:146
@@ -650,6 +825,11 @@ msgid ""
 "swordplay also begins to prove advantageous, allowing them to operate better "
 "on their own."
 msgstr ""
+"La experiencia de campo le proporciona a los tramperos elfos mayor habilidad "
+"a la hora de patrullar y defender sus bases, utilizando señuelos y "
+"movimientos rápidos para confundir y atacar a sus enemigos por detrás. Su "
+"entrenamiento continuo en el manejo de la espada también comienza a "
+"resultarles ventajoso, permitiéndoles operar mejor por separado."
 
 #. [female]
 #: Naia/units/elves-wood/Trapper.cfg:125
@@ -674,11 +854,21 @@ msgid ""
 "from a distance with a sudden flash of red light, in an attack that is both "
 "powerful and accurate."
 msgstr ""
+"Grandes bestias metálicas bajo el comando de las fuerzas del Caos, los "
+"Goliaths mecánicos pueden triturar en cuestión de segundos cualquier hombre, "
+"esqueleto o incluso trol. Parecen ser inmunes al veneno, drenaje y otras "
+"amenazas que normalmente suponen un grave peligro para las criaturas "
+"vivientes. Debido a esto se cree que son constructos de roca e hierro "
+"animados mediante magia.\n"
+"\n"
+"Haciendo las cosas aún peores, se dice que tienen la capacidad de destruir "
+"ejércitos enteros de una distancia con un destello repentino de luz roja, "
+"realizando un ataque que es tan poderoso como es preciso."
 
 #. [attack]: type=impact
 #: Naia/units/mechanical/Goliath.cfg:52 Naia/units/mechanical/Iron_Golem.cfg:51
 msgid "flash cannon"
-msgstr ""
+msgstr "cañón destellante"
 
 #. [unit_type]: id=Iron Golem, race=mechanical
 #: Naia/units/mechanical/Iron_Golem.cfg:5
@@ -697,6 +887,16 @@ msgid ""
 "Less commonly, they may fire a powerful weapon that is said to resemble the "
 "great firesticks of the dwarven lords in both shape and destructive effect. "
 msgstr ""
+"Algunos autómatas parecen aumentar de tamaño misteriosamente de la noche a "
+"la mañana, incrementando su fuerza a través de un proceso que es desconocido "
+"para todos salvo los rara vez vistos sabios del Caos. Cambian su escudo y "
+"mazo por armadura más firme y resistente, y puños capaces de triturar la "
+"roca con mínimo esfuerzo — así compensando su carencia de armas de corto "
+"alcance.\n"
+"\n"
+"Más ocasionalmente, se les ve disparar un arma poderosa que se dice es "
+"semejante a los grandes atronadores de los señores enanos, tanto en forma "
+"como en capacidad destructiva."
 
 #. [unit_type]: id=Automaton, race=mechanical
 #: Naia/units/mechanical/Automaton.cfg:5
@@ -713,6 +913,12 @@ msgid ""
 "Their primary drawback is their apparent unease when navigating rough "
 "terrains such as hills and mountains."
 msgstr ""
+"Estas pequeñas criaturas metálicas no parecen requerir comida o agua para "
+"luchar, de modo similar a los no muertos. Equipados con un mazo de acero, "
+"escudo rectangular y armadura pesada, se dice que estos «autómatas» fueron "
+"creados originalmente por los enanos antes de que un clan fuera capturado "
+"por las fuerzas del Caos. Su mayor desventaja es su dificultad aparente a la "
+"hora de desplazarse por terrenos abruptos tales como colinas y montañas."
 
 #. [attack]: type=impact
 #: Naia/units/mechanical/Automaton.cfg:49
@@ -730,6 +936,8 @@ msgid ""
 "The door will open only to those who are allied with its owners, unless "
 "struck down by their enemies first."
 msgstr ""
+"La puerta sólo se abrirá a los aliados de sus dueños, salvo que sea "
+"derribada por sus enemigos."
 
 #. [unit_type]: id=Worker Droid, race=mechanical
 #: Naia/units/mechanical/Worker_Droid.cfg:5
@@ -753,7 +961,7 @@ msgstr "aceite"
 #. [unit_type]: id=Demon Warrior, race=demon
 #: Naia/units/demons/Fighter_Warrior.cfg:5
 msgid "Demon Warrior"
-msgstr "Guerrero demonio"
+msgstr "Demonio guerrero"
 
 #. [unit_type]: id=Demon Warrior, race=demon
 #: Naia/units/demons/Fighter_Warrior.cfg:27
@@ -766,6 +974,14 @@ msgid ""
 "warrior might rise from the ranks of servility and dethrone a mighty Demon "
 "Lord—even their own—and become him or herself a great vassal of Uria."
 msgstr ""
+"Sin excepción, los pocos nativos de Irdya que se han atrevido a subestimar "
+"el poderío de estos guerreros demoníacos han sufrido muertes horríficas a "
+"manos de estos gigantes sangrientos. El desempeño de los ejércitos del Caos "
+"depende principalmente de la prudencia de sus sabios a la hora de elegir a "
+"los mejores combatientes para servirles con su lealtad imperecedera a la "
+"causa de Uria. Con el tiempo, un guerrero legendario puede surgir de entre "
+"las tropas y destronar un poderoso señor demonio—incluso el suyo propio—y "
+"convertirse en un gran vasallo de Uria."
 
 #. [attack]: type=cold
 #: Naia/units/demons/Fighter_Warrior.cfg:41
@@ -776,15 +992,13 @@ msgstr "frío infernal"
 
 #. [female]
 #: Naia/units/demons/Fighter_Warrior.cfg:127
-#, fuzzy
 msgid "female^Demoness Warrior"
-msgstr "Guerrero demonio"
+msgstr "Demonia guerrera"
 
 #. [unit_type]: id=Demon Zephyr, race=demon
 #: Naia/units/demons/Fighter_Zephyr.cfg:5
-#, fuzzy
 msgid "Demon Zephyr"
-msgstr "Soldado demonio"
+msgstr "Demonio céfiro"
 
 #. [unit_type]: id=Demon Zephyr, race=demon
 #: Naia/units/demons/Fighter_Zephyr.cfg:23
@@ -795,11 +1009,17 @@ msgid ""
 "rely on their species’ strong build, long and sharp claws, and their limited "
 "control of fire to strike at their prey from above."
 msgstr ""
+"Algunos demonios pasan por un proceso de maduración distinto y desarrollan "
+"grandes alas palmeadas, que les permiten utilizar su enorme fuerza para "
+"cruzar grandes distancias. Ya que las armas y armaduras sólo podrían serles "
+"inconvenientes durante el vuelo, necesitan depender de la fortaleza física "
+"de su especie, sus largas y afiladas garras, y su control limitado del fuego "
+"para atacar a sus presas desde los aires."
 
 #. [female]
 #: Naia/units/demons/Fighter_Zephyr.cfg:107
 msgid "female^Demoness Zephyr"
-msgstr ""
+msgstr "Demonia céfira"
 
 #. [unit_type]: id=Demon, race=demon
 #: Naia/units/demons/Fighter_Demon.cfg:5
@@ -823,12 +1043,24 @@ msgid ""
 "opponents apart with ease, they usually prefer wielding crude blade weapons "
 "to appear even more intimidating in combat."
 msgstr ""
+"La leyenda cuenta que al inicio de los tiempos, criaturas poderosas llamadas "
+"«demonios» gobernaban todo lo que existía. Los señores de la Luz y "
+"Oscuridad, conscientes del peligro que éstas suponían para el balance de la "
+"naturaleza, las desterraron a un plano de existencia aparte, atrapadas sin "
+"ningún medio de escape. Pasarían eones antes de que los esfuerzos conjuntos "
+"de hechiceros ingenuos y el señor demonio más temible que haya existido "
+"permitieran a Uria desatar sus huestes sobre una tierra devastada.\n"
+"\n"
+"Estos luchadores demoníacos son criaturas ágiles y fornidas que no tienen "
+"mayor necesidad de utilizar armadura o prendas para protegerse del daño "
+"físico. Pese a que sus garras afiladas y fuerza antinatural les permite "
+"destrozar a sus contrincantes con facilidad, generalmente prefieren blandir "
+"rudimentarias armas de filo para verse aún más amenazantes en el combate."
 
 #. [female]
 #: Naia/units/demons/Fighter_Demon.cfg:107
-#, fuzzy
 msgid "female^Demoness"
-msgstr "Hechicera"
+msgstr "Demonia"
 
 #. [unit_type]: id=Demon Grunt, race=demon
 #: Naia/units/demons/Fighter_Grunt.cfg:5
@@ -844,17 +1076,21 @@ msgid ""
 "learn new combat skills as they adapt to the land to which they are sent by "
 "their overlords."
 msgstr ""
+"Los mejores luchadores demoníacos son famosos por su fuerza y desempeño sin "
+"par en cualquier entorno. Son capaces de obtener y confeccionar nuevas armas "
+"y armaduras utilizando todo lo que pueden rescatar de los restos de sus "
+"oponentes caídos, y aprender nuevas habilidades de combate al adaptarse a "
+"las tierras a las que son enviados por sus líderes."
 
 #. [female]
 #: Naia/units/demons/Fighter_Grunt.cfg:121
-#, fuzzy
 msgid "female^Demoness Grunt"
-msgstr "Soldado demonio"
+msgstr "Soldado demonia"
 
 #. [unit_type]: id=Imp, race=imps
 #: Naia/units/imps/Imp.cfg:5
 msgid "Imp"
-msgstr "Diablillo"
+msgstr "Diablo"
 
 #. [unit_type]: id=Imp, race=imps
 #: Naia/units/imps/Imp.cfg:17
@@ -865,6 +1101,12 @@ msgid ""
 "misconception, Demon leaders often dispatch them in large numbers as cheap "
 "cannon-fodder."
 msgstr ""
+"Frequentemente — e incorrectamente — considerados una clase de criaturas "
+"menores aparte de los temibles demonios, los diablos son frecuentemente "
+"subestimados debido a su menor tamaño y falta evidente de destreza mental. "
+"Haciendo estas ideas equivocadas aún más comunes, los líderes demoníacos "
+"tienden a enviarlos en grandes números a los campos de batalla como carne de "
+"cañón."
 
 #. [unit_type]: id=Armageddon Imp, race=imps
 #: Naia/units/imps/Armageddon.cfg:5
@@ -882,21 +1124,29 @@ msgid ""
 "comically puny by comparison — manage to rein in these titans and have them "
 "do their bidding without using any kind of mind-control magic."
 msgstr ""
+"Aunque muchos consideran la idea completamente descabellada, la verdad es "
+"que sí existen diablos más grandes que los trols más enormes. Estos "
+"monstruos colosales rara vez son vistos en el campo de batalla, pero cuando "
+"deciden hacerse presentes, lo hacen con rugidos capaces de sacudir montañas "
+"y pisadas que fracturan y hunden la tierra. Uno se pregunta exactamente cómo "
+"los Jefes del Caos — que son comparativamente diminutos — consiguen "
+"controlar a estos titanes y hacerlos seguir sus órdenes sin ninguna clase de "
+"control mental."
 
 #. [attack]: type=blade
 #: Naia/units/imps/Armageddon.cfg:28
 msgid "blade of doom"
-msgstr ""
+msgstr "hoja maldita"
 
 #. [attack]: type=pierce
 #: Naia/units/imps/Armageddon.cfg:40 Naia/units/imps/Gutwrencher.cfg:40
 msgid "slime spit"
-msgstr ""
+msgstr "baba"
 
 #. [unit_type]: id=Minor Imp, race=imps
 #: Naia/units/imps/Minor.cfg:5
 msgid "Minor Imp"
-msgstr "Diablillo menor"
+msgstr "Diablillo"
 
 #. [unit_type]: id=Minor Imp, race=imps
 #: Naia/units/imps/Minor.cfg:17
@@ -906,11 +1156,15 @@ msgid ""
 "creatures spells trouble regardless, as they almost never stray too far away "
 "from their progenitors."
 msgstr ""
+"Los cachorros de los diablos son extremadamente pequeños y frágiles, y no "
+"suponen peligro alguno a ningún soldado debidamente entrenado. Sin embargo, "
+"encontrarse con un grupo de estas criaturas tiende a ser señal de problemas "
+"ya que rara vez se alejan mucho de sus progenitores."
 
 #. [unit_type]: id=Blood Imp, race=imps
 #: Naia/units/imps/Blood.cfg:5
 msgid "Blood Imp"
-msgstr "Diablillo sangriento"
+msgstr "Diablo sangriento"
 
 #. [unit_type]: id=Blood Imp, race=imps
 #: Naia/units/imps/Blood.cfg:17
@@ -920,6 +1174,11 @@ msgid ""
 "canon fodder. It is no small feat for an imp to survive past childhood, and "
 "those who do become a much more credible threat to Irdyan creatures."
 msgstr ""
+"La mayoría de los diablos no disfrutan de una vida particularmente larga, en "
+"gran parte debido a que sus líderes tienden a verlos como simple carne de "
+"cañón. No es ninguna hazaña menor para un diablo sobrevivir su infancia, y "
+"aquellos que consiguen hacerlo pasan a convertirse en una amenaza mucho más "
+"significante para las criaturas de Irdya."
 
 #. [unit_type]: id=Gutwrencher Imp, race=imps
 #: Naia/units/imps/Gutwrencher.cfg:5
@@ -942,11 +1201,24 @@ msgid ""
 "odds are their flesh is already melting away thanks to the imp’s corrosive "
 "saliva."
 msgstr ""
+"Los diablos adultos se encuentran en distintas formas y tamaños, delatando "
+"así que ni tienen relación alguna con los guerreros demoníacos más comunes, "
+"ni conforman una sola especie propia. Son mucho más fuertes y diestros de "
+"mente de lo que normalmente se espera de su clase, al punto que no es "
+"ninguna sorpresa que algunos de ellos lideren a sus primos demoníacos en "
+"batalla.\n"
+"\n"
+"Los «destripadores» son famosos por su gran apetito y sus afiladísimas "
+"garras que les permiten rápidamente despedazar a sus presas. No hay mayor "
+"esperanza para cualquier criatura asediada por uno de estos monstruos — "
+"incluso si consiguen de algún modo zafarse de las garras demoledoras del "
+"diablo, lo más probable es que su carne ya esté siendo licuada por la saliva "
+"corrosiva de este."
 
 #. [unit_type]: id=Verlissh Matrix Core, race=verlissh
 #: Naia/units/verlissh/Matrix_Core.cfg:5
 msgid "Matrix Core"
-msgstr ""
+msgstr "Núcleo de matriz"
 
 #. [unit_type]: id=Verlissh Matrix Core, race=verlissh
 #. [unit_type]: id=Verlissh Matrix Flow System, race=verlissh
@@ -958,6 +1230,11 @@ msgid ""
 "limited means of self-defense. Given their disproportionate size, they may "
 "be a hindrance when found in narrow underground passages."
 msgstr ""
+"Estos constructos incomprensibles y supuestamente vivientes generalmente son "
+"encontrados bajo tierras cerca de colmenas Shaxthal. Siendo por naturaleza "
+"inmóviles, sólo disponen de medios muy limitados de auto-defensa. Dado su "
+"tamaño desproporcionado, resulta bastante inconveniente encontrárselos en "
+"pasajes subterráneos estrechos."
 
 #. [attack]: type=cold
 #: Naia/units/verlissh/Matrix_Core.cfg:29
@@ -969,12 +1246,12 @@ msgstr "rayo de energía"
 #. [attack]: type=fire
 #: Naia/units/verlissh/Matrix_Core.cfg:38
 msgid "hot goo"
-msgstr ""
+msgstr "viscosidad caliente"
 
 #. [unit_type]: id=Psy Mindraider, race=verlissh
 #: Naia/units/verlissh/Psy_Mindraider.cfg:5
 msgid "Psy Mindraider"
-msgstr "Invasor de mentes psy"
+msgstr "Robamentes psy"
 
 #. [unit_type]: id=Psy Mindraider, race=verlissh
 #: Naia/units/verlissh/Psy_Mindraider.cfg:19
@@ -985,11 +1262,16 @@ msgid ""
 "accelerating their growth in the process. Needless to say, this makes them "
 "especially dangerous to approach."
 msgstr ""
+"Supuestamente relacionadas con los rastreros deambulantes que sirven a los "
+"sabios del Caos, se dice de estas criaturas aterrorizantes que tienen la "
+"habilidad de penetrar incluso la mente de las criaturas vivientes, así "
+"restaurando su vitalidad y acelerando su crecimiento. No hace falta decir "
+"que esto los hace especialmente peligrosos en combate."
 
 #. [attack]: type=arcane
 #: Naia/units/verlissh/Psy_Mindraider.cfg:37
 msgid "mind probe"
-msgstr ""
+msgstr "ataque psíquico"
 
 #. [unit_type]: id=Psy Crawler, race=verlissh
 #: Naia/units/verlissh/Psy_Crawler.cfg:5
@@ -1005,16 +1287,22 @@ msgid ""
 "unusual for them to be seen on the surface, and even more unusual for them "
 "to be sent away from their habitat."
 msgstr ""
+"Estas criaturas con tentáculos se encuentran con frecuencia bajo tierra en "
+"colmenas Shaxthal, vagando sin propósito aparente y alimentándose de "
+"criaturas más pequeñas cuando no están al mando de los temidos sabios del "
+"Caos. Siendo más bien lentas y débiles, es muy inusual verlas en la "
+"superficie, y aún más inusual que sean enviadas a lugares alejados de su "
+"hábitat."
 
 #. [unit_type]: id=Verlissh Matrix Flow System, race=verlissh
 #: Naia/units/verlissh/Matrix_Flow_System.cfg:5
 msgid "Matrix Flow System"
-msgstr ""
+msgstr "Sistema de flujo de matriz"
 
 #. [attack]: type=pierce
 #: Naia/units/verlissh/Matrix_Flow_System.cfg:39
 msgid "goo"
-msgstr ""
+msgstr "viscosidad"
 
 #. [unit_type]: id=Fire Faerie, race=faerie
 #: Naia/units/faeries/Fire_Faerie.cfg:5
@@ -1075,11 +1363,27 @@ msgid ""
 "powerless. Their extensive knowledge of nature and its magical arts makes "
 "them a formidable opponent in any conflict."
 msgstr ""
+"Las dríades poseen una mayor afinidad a su naturaleza faérica que sus "
+"hermanas, no obstante a veces muestran una sorprendente comprensión de la "
+"naturaleza humana. En efecto, las dríades tienden a entablar conversaciones "
+"amistosas con los escasos viajeros que las encuentran en vez de seducirlos o "
+"asesinarlos. Algunos sabios elfos proponen que existe una conexión más "
+"íntima entre las criaturas del bosque y los humanos como hijos comunes de la "
+"Tierra; para muchos, esto resulta impensable. En general, cualquier intento "
+"de sugerir que exista un vínculo entre los violentos y destructivos humanos "
+"y los antiguos e ilustres elfos es considerado herejía.\n"
+"\n"
+"Suponiendo que hayan criaturas faéricas que conozcan acerca del inicio de "
+"este mundo, no están dispuestas a compartir la información, prefiriendo "
+"vivir pacíficas y modestas vidas. Aún así, la naturaleza serena de las "
+"dríades no las hacen desvalidas en absoluto. Su gran conocimiento de la "
+"naturaleza y la magia silvestre las hace oponentes formidables en cualquier "
+"conflicto."
 
 #. [unit_type]: id=Faerie Sprite, race=faerie
 #: Naia/units/faeries/Fire_Sprite.cfg:5
 msgid "Sprite"
-msgstr "Hada"
+msgstr "Duendecilla"
 
 #. [unit_type]: id=Faerie Sprite, race=faerie
 #: Naia/units/faeries/Fire_Sprite.cfg:21
@@ -1103,12 +1407,32 @@ msgid ""
 "their strange sense of impish humor that leads them to do these things, or "
 "perhaps something deeper in their nature."
 msgstr ""
+"Para las criaturas de los bosques en general, el fuego es un enemigo mortal, "
+"pero para las duendecillas faéricas se trata de un arma extrañamente "
+"contraria a su naturaleza forestal. No se sabe con certeza mucho acerca de "
+"las criaturas faéricas, rara vez vistas pese a su aumento en número tras la "
+"Caída. Siempre se les ha considerado seres amables pero traviesos, algo "
+"propensos a jugar con los corazones de los hombres.\n"
+"\n"
+"Los viajeros que las encuentras describen hermosas y delicadas mujeres "
+"ataviadas con vestidos simples, sus finas alas destelleando como joyas bajo "
+"la luz de las estrellas. Son escasos los hombres — o mujeres — a quienes ver "
+"estos seres no les roba el aliento, y sus avances rara vez son rechazados. "
+"Algunos despiertan completamente solos a la mañana siguiente y vuelven a sus "
+"actividades usuales, para posteriormente encontrar un bebé en su puerta "
+"meses después. Otros más desafortunados nunca más ven la luz del día; con "
+"frecuencia se les encuentra sin vida, descansando con aspecto satisfecho "
+"entre las hojas caídas.\n"
+"\n"
+"Y aún así pese a su reputación, las hadas no son en realidad malignas en "
+"ningún grado. Tal vez es su extraño y endiablado sentido del humor que las "
+"conduce a estos actos, o posiblemente se trate de algo más profundo en su "
+"naturaleza."
 
 #. [unit_type]: id=Faerie Spirit, race=faerie
 #: Naia/units/faeries/Fire_Faerie_Spirit.cfg:5
-#, fuzzy
 msgid "Forest Spirit"
-msgstr "Espíritu de fuego"
+msgstr "Espíritu del bosque"
 
 #. [unit_type]: id=Faerie Spirit, race=faerie
 #: Naia/units/faeries/Fire_Faerie_Spirit.cfg:31
@@ -1130,7 +1454,7 @@ msgstr ""
 #. [unit_type]: id=Hellhound, race=wolf
 #: Naia/units/wolves/Hound_Hell.cfg:5
 msgid "Hellhound"
-msgstr "Sabuezo infernal"
+msgstr "Sabueso infernal"
 
 #. [unit_type]: id=Hellhound, race=wolf
 #: Naia/units/wolves/Hound_Hell.cfg:26
@@ -1161,7 +1485,7 @@ msgstr ""
 #. [unit_type]: id=Demonic Hound, race=wolf
 #: Naia/units/wolves/Hound_Demonic.cfg:5
 msgid "Demonic Hound"
-msgstr "Sabuezo demoníaco"
+msgstr "Sabueso demoníaco"
 
 #. [unit_type]: id=Demonic Hound, race=wolf
 #: Naia/units/wolves/Hound_Demonic.cfg:25
@@ -1182,7 +1506,7 @@ msgstr ""
 #. [unit_type]: id=Chaos Hound, race=wolf
 #: Naia/units/wolves/Hound_Chaos.cfg:5
 msgid "Hound of Chaos"
-msgstr ""
+msgstr "Sabueso del Caos"
 
 #. [unit_type]: id=Chaos Hound, race=wolf
 #: Naia/units/wolves/Hound_Chaos.cfg:18
@@ -1206,7 +1530,7 @@ msgstr "Maga"
 #. [unit_type]: id=Chaos Cataphract, race=human
 #: Naia/units/humans/Chaos_Cataphract.cfg:5
 msgid "Chaos Cataphract"
-msgstr ""
+msgstr "Catafracto del Caos"
 
 #. [unit_type]: id=Chaos Cataphract, race=human
 #: Naia/units/humans/Chaos_Cataphract.cfg:20
@@ -1224,13 +1548,12 @@ msgstr ""
 #. [unit_type]: id=Aragwaith Silver Shield, race=aragwaith
 #: Naia/units/humans/Aragwaith_Silver_Shield.cfg:5
 msgid "Silver Shield"
-msgstr "Escudo de plata"
+msgstr "Escudo argento"
 
 #. [female]
 #: Naia/units/humans/Aragwaith_Silver_Shield.cfg:190
-#, fuzzy
 msgid "female^Silver Shield"
-msgstr "Escudo de plata"
+msgstr "Escudo argenta"
 
 #. [unit_type]: id=Aragwaith Spearman, race=aragwaith
 #: Naia/units/humans/Aragwaith_Spearman.cfg:5
@@ -1249,7 +1572,7 @@ msgstr ""
 #. [unit_type]: id=Chaos Soulhunter, race=human
 #: Naia/units/humans/Chaos_Soulhunter.cfg:5
 msgid "Soulhunter"
-msgstr "Cazador de almas"
+msgstr "Cazaalmas"
 
 #. [unit_type]: id=Chaos Soulhunter, race=human
 #: Naia/units/humans/Chaos_Soulhunter.cfg:26
@@ -1272,7 +1595,7 @@ msgstr ""
 #. [unit_type]: id=Hell Overlord, race=human
 #: Naia/units/humans/Chaos_Hell_Overlord.cfg:5
 msgid "Overlord"
-msgstr "Alto señor"
+msgstr "Jefe"
 
 #. [unit_type]: id=Hell Overlord, race=human
 #: Naia/units/humans/Chaos_Hell_Overlord.cfg:23
@@ -1310,9 +1633,8 @@ msgstr ""
 
 #. [unit_type]: id=Chaos Cavalier, race=human
 #: Naia/units/humans/Chaos_Cavalier.cfg:5
-#, fuzzy
 msgid "Chaos Cavalier"
-msgstr "Invasor del caos"
+msgstr "Jinete del Caos"
 
 #. [unit_type]: id=Chaos Cavalier, race=human
 #: Naia/units/humans/Chaos_Cavalier.cfg:18
@@ -1335,15 +1657,13 @@ msgstr "Explorador"
 
 #. [female]
 #: Naia/units/humans/Aragwaith_Scout.cfg:65
-#, fuzzy
 msgid "female^Scout"
-msgstr "Hechicera"
+msgstr "Exploradora"
 
 #. [unit_type]: id=Chaos Bowman, race=human
 #: Naia/units/humans/Chaos_Bowman.cfg:5
-#, fuzzy
 msgid "Chaos Bowman"
-msgstr "Maestro del caos"
+msgstr "Arquero del Caos"
 
 #. [unit_type]: id=Chaos Bowman, race=human
 #: Naia/units/humans/Chaos_Bowman.cfg:20
@@ -1410,13 +1730,12 @@ msgstr "Capitán"
 #: Naia/units/humans/Aragwaith_Flagbearer.cfg:30
 #: Naia/units/humans/Aragwaith_Flagbearer.cfg:39
 msgid "glaive"
-msgstr ""
+msgstr "archa"
 
 #. [unit_type]: id=Chaos Lorekeeper, race=human
 #: Naia/units/humans/Chaos_Invoker_Lorekeeper.cfg:5
-#, fuzzy
 msgid "Chaos Lorekeeper"
-msgstr "Maestro del caos"
+msgstr "Sabio del Caos"
 
 #. [unit_type]: id=Chaos Lorekeeper, race=human
 #: Naia/units/humans/Chaos_Invoker_Lorekeeper.cfg:26
@@ -1458,9 +1777,8 @@ msgstr "Jinete lancero"
 
 #. [female]
 #: Naia/units/humans/Aragwaith_Lancer.cfg:144
-#, fuzzy
 msgid "female^Lancer"
-msgstr "Maga"
+msgstr "Lancera"
 
 #. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
 #: Naia/units/humans/Aragwaith_Ancient_Banner.cfg:5
@@ -1470,12 +1788,12 @@ msgstr "Estandarte ancestral"
 #. [unit_type]: id=Aragwaith Ancient Banner, race=aragwaith
 #: Naia/units/humans/Aragwaith_Ancient_Banner.cfg:30
 msgid "TODO"
-msgstr "POR.HACER."
+msgstr "POR HACER."
 
 #. [attack]: type=blade
 #: Naia/units/humans/Aragwaith_Ancient_Banner.cfg:44
 msgid "scythe"
-msgstr ""
+msgstr "guadaña"
 
 #. [unit_type]: id=Aragwaith Eagle Master, race=aragwaith
 #: Naia/units/humans/Aragwaith_Eagle_Master.cfg:5
@@ -1499,7 +1817,7 @@ msgstr "aplasta-presas"
 #. [unit_type]: id=Chaos Invoker, race=human
 #: Naia/units/humans/Chaos_Invoker.cfg:5
 msgid "Chaos Invoker"
-msgstr "Invocador del caos"
+msgstr "Invocador del Caos"
 
 #. [unit_type]: id=Chaos Invoker, race=human
 #: Naia/units/humans/Chaos_Invoker.cfg:24
@@ -1527,7 +1845,7 @@ msgstr ""
 #. [unit_type]: id=Chaos Crossbowman, race=human
 #: Naia/units/humans/Chaos_Crossbowman.cfg:5
 msgid "Chaos Crossbowman"
-msgstr ""
+msgstr "Ballestero del Caos"
 
 #. [unit_type]: id=Chaos Crossbowman, race=human
 #: Naia/units/humans/Chaos_Crossbowman.cfg:23
@@ -1543,9 +1861,8 @@ msgstr ""
 
 #. [unit_type]: id=Chaos Razerman, race=human
 #: Naia/units/humans/Chaos_Razerman.cfg:5
-#, fuzzy
 msgid "Chaos Razerman"
-msgstr "Invasor del caos"
+msgstr "Arrasador del Caos"
 
 #. [unit_type]: id=Chaos Razerman, race=human
 #: Naia/units/humans/Chaos_Razerman.cfg:29
@@ -1578,9 +1895,8 @@ msgstr ""
 
 #. [unit_type]: id=Aragwaith Witch, race=aragwaith
 #: Naia/units/humans/Aragwaith_Witch.cfg:6
-#, fuzzy
 msgid "female^Witch"
-msgstr "Maga"
+msgstr "Bruja"
 
 #. [unit_type]: id=Aragwaith Witch, race=aragwaith
 #: Naia/units/humans/Aragwaith_Witch.cfg:78
@@ -1598,7 +1914,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Naia/units/humans/Aragwaith_Witch.cfg:127
 msgid "kick"
-msgstr ""
+msgstr "patada"
 
 #. [unit_type]: id=Aragwaith Slayer, race=aragwaith
 #: Naia/units/humans/Aragwaith_Slayer.cfg:5
@@ -1630,9 +1946,8 @@ msgstr ""
 
 #. [unit_type]: id=Chaos Longbowman, race=human
 #: Naia/units/humans/Chaos_Longbowman.cfg:5
-#, fuzzy
 msgid "Chaos Longbowman"
-msgstr "Maestro del caos"
+msgstr "Arquero largo del caos"
 
 #. [unit_type]: id=Chaos Longbowman, race=human
 #: Naia/units/humans/Chaos_Longbowman.cfg:20
@@ -1650,7 +1965,7 @@ msgstr ""
 #. [unit_type]: id=Chaos Headhunter, race=human
 #: Naia/units/humans/Chaos_Headhunter.cfg:5
 msgid "Headhunter"
-msgstr "Cazador de cabezas"
+msgstr "Cazacabezas"
 
 #. [unit_type]: id=Chaos Headhunter, race=human
 #: Naia/units/humans/Chaos_Headhunter.cfg:25
@@ -1671,7 +1986,7 @@ msgstr "Piquero"
 #. [unit_type]: id=Dark Knight, race=human
 #: Naia/units/humans/Chaos_Dark_Knight.cfg:5
 msgid "Knight of Chaos"
-msgstr ""
+msgstr "Caballero del Caos"
 
 #. [unit_type]: id=Dark Knight, race=human
 #: Naia/units/humans/Chaos_Dark_Knight.cfg:24
@@ -1774,7 +2089,6 @@ msgstr ""
 
 #. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
 #: Naia/units/humans/Aragwaith_Swordsmaster.cfg:5
-#, fuzzy
 msgid "Swordsmaster"
 msgstr "Maestro espadachín"
 
@@ -1822,7 +2136,7 @@ msgstr ""
 #. [unit_type]: id=Chaos Heavy Longbowman, race=human
 #: Naia/units/humans/Chaos_Longbowman_Heavy.cfg:5
 msgid "Chaos Heavy Longbowman"
-msgstr ""
+msgstr "Arquero largo pesado del Caos"
 
 #. [unit_type]: id=Chaos Heavy Longbowman, race=human
 #: Naia/units/humans/Chaos_Longbowman_Heavy.cfg:21
@@ -1836,9 +2150,8 @@ msgstr ""
 
 #. [unit_type]: id=Chaos Arbalestier, race=human
 #: Naia/units/humans/Chaos_Crossbowman_Arbalestier.cfg:5
-#, fuzzy
 msgid "Chaos Arbalestier"
-msgstr "Invasor del caos"
+msgstr "Arbalestero del Caos"
 
 #. [unit_type]: id=Chaos Arbalestier, race=human
 #: Naia/units/humans/Chaos_Crossbowman_Arbalestier.cfg:25
@@ -1854,13 +2167,12 @@ msgstr ""
 #. [attack]: type=pierce
 #: Naia/units/humans/Chaos_Crossbowman_Arbalestier.cfg:39
 msgid "arbalest"
-msgstr ""
+msgstr "arbalesta"
 
 #. [unit_type]: id=Chaos Raider, race=human
 #: Naia/units/humans/Chaos_Raider.cfg:5
-#, fuzzy
 msgid "Chaos Raider"
-msgstr "Invasor del caos"
+msgstr "Invasor del Caos"
 
 #. [unit_type]: id=Chaos Raider, race=human
 #: Naia/units/humans/Chaos_Raider.cfg:18
@@ -1877,7 +2189,7 @@ msgstr ""
 #. [unit_type]: id=Chaos Magus, race=human
 #: Naia/units/humans/Chaos_Invoker_Magus.cfg:5
 msgid "Chaos Magus"
-msgstr "Mago del caos"
+msgstr "Mago del Caos"
 
 #. [unit_type]: id=Chaos Magus, race=human
 #: Naia/units/humans/Chaos_Invoker_Magus.cfg:25
@@ -1894,7 +2206,7 @@ msgstr ""
 #. [unit_type]: id=Chaos Marauder, race=human
 #: Naia/units/humans/Chaos_Marauder.cfg:5
 msgid "Marauder"
-msgstr ""
+msgstr "Saqueador"
 
 #. [unit_type]: id=Chaos Marauder, race=human
 #: Naia/units/humans/Chaos_Marauder.cfg:25
@@ -1907,15 +2219,13 @@ msgstr ""
 
 #. [race]: id=verlissh
 #: Naia/units/verlissh.cfg:5
-#, fuzzy
 msgid "race^Verlissh"
-msgstr "Hadas"
+msgstr "Verlissh"
 
 #. [race]: id=verlissh
 #: Naia/units/verlissh.cfg:6
-#, fuzzy
 msgid "race+female^Verlissh"
-msgstr "Hechicera"
+msgstr "Verlissh"
 
 #. [race]: id=verlissh
 #: Naia/units/verlissh.cfg:7
@@ -1932,23 +2242,20 @@ msgid ""
 "darkest depths of Irdya; others are rumored to hail from the unknown lands "
 "beyond the sky itself. Very little is known for certain about these monsters "
 "beyond their evident connection to the Lorekeepers’ arcane arts."
-msgstr ""
+msgstr "Verlisshi"
 
 #. [race]: id=faerie
 #: Naia/units/faeries.cfg:5
-#, fuzzy
 msgid "race^Faerie"
-msgstr "Hadas"
+msgstr "Hada"
 
 #. [race]: id=faerie
 #: Naia/units/faeries.cfg:6
-#, fuzzy
 msgid "race+male^Faerie"
-msgstr "Hadas"
+msgstr "Hada"
 
 #. [race]: id=faerie
 #: Naia/units/faeries.cfg:7
-#, fuzzy
 msgid "race^Faeries"
 msgstr "Hadas"
 
@@ -1965,18 +2272,17 @@ msgstr ""
 #. [race]: id=shaxthal
 #: Naia/units/shaxthal.cfg:5
 msgid "race^Shaxthal"
-msgstr ""
+msgstr "Shaxthal"
 
 #. [race]: id=shaxthal
 #: Naia/units/shaxthal.cfg:6
 msgid "race+female^Shaxthal"
-msgstr ""
+msgstr "Shaxthal"
 
 #. [race]: id=shaxthal
 #: Naia/units/shaxthal.cfg:7
-#, fuzzy
 msgid "race^Shaxthals"
-msgstr "Espíritus"
+msgstr "Shaxthals"
 
 #. [race]: id=shaxthal
 #: Naia/units/shaxthal.cfg:10
@@ -2052,15 +2358,13 @@ msgstr ""
 
 #. [race]: id=aragwaith
 #: Naia/units/humans.cfg:5
-#, fuzzy
 msgid "race^Aragwaith"
-msgstr "Aragwaithi"
+msgstr "Aragwaith"
 
 #. [race]: id=aragwaith
 #: Naia/units/humans.cfg:6
-#, fuzzy
 msgid "race+female^Aragwaith"
-msgstr "Aragwaithi"
+msgstr "Aragwaith"
 
 #. [race]: id=aragwaith
 #: Naia/units/humans.cfg:7
@@ -2089,20 +2393,18 @@ msgstr ""
 
 #. [race]: id=imps
 #: Naia/units/imps.cfg:5
-#, fuzzy
 msgid "race^Imp"
-msgstr "Diablillos"
+msgstr "Diablo"
 
 #. [race]: id=imps
 #: Naia/units/imps.cfg:6
-#, fuzzy
 msgid "race+female^Imp"
-msgstr "Diablillos"
+msgstr "Diabla"
 
 #. [race]: id=imps
 #: Naia/units/imps.cfg:7
 msgid "race^Imps"
-msgstr "Diablillos"
+msgstr "Diablos"
 
 #. [race]: id=imps
 #: Naia/units/imps.cfg:8
@@ -2112,9 +2414,12 @@ msgid ""
 "intellectual power of their better known relatives, their numbers and raw "
 "strength usually suffice to compensate."
 msgstr ""
+"Los demonios menores son con frecuencia incorrectamente clasificados como un "
+"grupo aparte. Aunque generalmente carecen de las habilidades mágicas y "
+"destreza intelectual de sus parientes más conocidos, sus números y fuerza "
+"bruta tienden a ser suficientes para compensar sus desventajas."
 
 #: Naia/units/demons.cfg:14
-#, fuzzy
 msgid ""
 "Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
 "Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,"
@@ -2148,33 +2453,37 @@ msgid ""
 "Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Yuki,"
 "Zagan,Zama,Zaqiel,Zepar,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
 msgstr ""
-"Abalam,Abbadon,Abigor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
-"Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,Andrealphus,"
-"Andromalius,Antares,Apep,Arael,Araqiel,Arioch,Arkanthor,Armaros,Asael,Asag,"
-"Asb'el,Asmodeus,Astaroth,Azazel,Baal,Baalberith,Balam,Balberith,Babeal,"
-"Baphomet,Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,Beelzebub,Behamoth,"
-"Behemoth,Beleth,Belial,Beliel,Belphegore,Belthazor,Belzebuth,Beowulf,Berith,"
-"Beur,Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Calan,Camal,Carniveau,Caror,"
-"Castor,Cerberus,Chamos,Chazaqiel,Corson,Daalberith,Dagon,Daniel,Dantalion,"
-"Decarabia,Deimos,Delchor,Demogorgon,Devan,Dubhor,Dumah,Dun,Eligos,Eurynomous,"
+"Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
+"Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,"
+"Andrealphus,Andromalius,Antares,Apep,Arael,Araqiel,Arioch,Arkanthor,Armaros,"
+"Asael,Asag,Asb'el,Ash,Asmodeus,Astaroth,Azazel,Baal,Baalberith,Balam,"
+"Balberith,Babeal,Baphomet,Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,"
+"Beelzebub,Behamoth,Behemoth,Beleth,Belial,Beliel,Belphegore,Belthazor,"
+"Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Calan,"
+"Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Chazaqiel,Chul,Corson,"
+"Daalberith,Dagon,Daniel,Dantalion,Decarabia,Deimos,Delchor,Demogorgon,Devan,"
+"Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,Espro,Espreon,Eurynomous,"
 "Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,Furfur,Gaap,"
-"Gader'el,Glasya-Labolas,Gusion,Gwiti,Haagenti,Hades,Humbaba,Iblis,Ipos,Jevan,"
-"Jevyan,Jutas,Juvart,Kabhanda,Kain,Kakko,Karo,Kasadya,Kasdaye,Kimaris,Kobal,"
-"Kokabiel,Kuno,Lasaroth,Legion,Lempo,Lenthar,Lenvan,Leonard,Leraje,Lix Tetrax,"
-"Lucifer,Lucifuge Rofocale,Maeglhir,Maeglhor,Magnus,Malphas,Malthus,Mammon,"
+"Gader'el,Glasya-Labolas,Gusion,Gwiti,Haagenti,Hal,Hade,Hades,Humbaba,"
+"Hyperion,Iblis,Idoru,Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,"
+"Jutas,Juvart,Kabhanda,Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,"
+"Kimaris,Kobal,Kokabiel,Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,"
+"Lenthar,Lenvan,Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,"
+"Lucifuge Rofocale,Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,"
 "Marchocias,Maricha,Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,"
-"Merihim,Merloc,Moloch,Morax,Murdoc,Mulciber,Murmur,Naberius,Nati,Nebiros,"
-"Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,Orcus,"
-"Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,"
-"Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,Pyhton,"
-"Rahab,Rahovart,Ramiel,Raum,Razakel,Regent,Regulus,Rimmon,Rhotomago,Ronove,"
-"Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,Samyaza,Sariel,Satan,"
-"Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,Shamsiel,Shax,Shezmu,Sid,"
-"Sidragasum,Sin,Sith,Sitri,Sonnillon,Soufflet,Spar,Stolas,Surgat,Tabaet,"
-"Tamiel,Tannin,Taurus,Teeraal,Temeluchus,Thammuz,Theracar,Thorin,Thurin,Triel,"
-"Troy,Turiel,Turin,Turon,Umbriel,Urobach,Valac,Valefar,Vapula,Vassago,Verrine,"
-"Vine,Vual,Xandros,Xaphan,Yeqon,Yeter'el,Yomiel,Zagan,Zama,Zaqiel,Zepar,Zet,"
-"Zeth,Zuno"
+"Merihim,Merloc,Moloch,Morax,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,"
+"Nati,Nebiros,Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,"
+"Optimus,Orcus,Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,"
+"Phlegathon,Phenex,Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,"
+"Pytho,Python,Pythos,Rahab,Rahovart,Ramiel,Raum,Ravanal,Raven,Razakel,Regent,"
+"Regulus,Rimmon,Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,"
+"Samigina,Samyaza,Santa,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,"
+"Sephit,Shaitan,Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,"
+"Sorum,Soufflet,Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Taurus,"
+"Teeraal,Temeluchus,Thammuz,Theracar,Thor,Thorin,Thurin,Triel,Troy,Turiel,"
+"Turin,Turon,Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,Verrine,Vine,"
+"Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Yuki,"
+"Zagan,Zama,Zaqiel,Zepar,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
 
 #: Naia/units/demons.cfg:15
 msgid ""
@@ -2199,18 +2508,36 @@ msgid ""
 "Vulpecula,Xandar,Xana,Xandria,Xeth,Xia,Xindra,Xindar,Yuki,Yun,Yuna,Yuni,Zana,"
 "Zephyr,Zhul,Zidya,Zilla,Zuna,Zynara,Zythara"
 msgstr ""
+"Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Alie,Aly,Alya,Ammit,Amy,Ania,Analia,"
+"Anadea,Anadya,Anna,Ariel,Ashtaroth,Astarte,Astoreth,Azura,Bellatrix,Beryla,"
+"Bruxe,Charis,Charybdis,Charon,Charusse,Chi,Chia,Dana,Dane,Dara,Darma,Dela,"
+"Delepitore,Delirya,Deluna,Demona,Deth,Devila,Devira,Devyan,Drama,Dul,Duna,"
+"Eisheth Zenunil,Elandra,Elenia,Elestria,Eloh,Elyna,Elynea,Elynia,Elyra,"
+"Elyria,Elyssa,Elyza,Empusa,Enea,Eryssa,Ethea,Euryale,Evila,Evira,Fae,Faira,"
+"Fania,Faria,Gaia,Gremory,Gresil,Hecate,Ira,Irda,Irdya,Irene,Iridya,Iril,"
+"Iruel,Isa,Issyl,Ivana,Ivyel,Izara,Jarla,Jevyan,Juno,Kaia,Kalah,Kalari,Kaleh,"
+"Kali,Kana,Karma,Kazen,Kendria,Kia,Kindite,Kuna,Kyrah,Lamashtu,Lamia,Lara,"
+"Leliel,Leviathan,Lilia,Lilim,Lilin,Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,"
+"Lucile,Luna,Lyda,Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,"
+"Midara,Mir,Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Naamah,Nadia,Naia,Nala,"
+"Nara,Narya,Nebula,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,Nora,Norma,"
+"Nyada,Nystra,Nyxa,Onoskelis,Pia,Prosperpine,Rangda,Rusalka,Sabata,Satana,"
+"Sela,Shar,Share,Sharael,Sheol,Selene,Shia,Sonnielion,Stheno,Sul,Summa,Sunna,"
+"Sycorax,Syl,Sylestria,Sylin,Sylith,Symia,Syn,Synara,Synestria,Tada,Talah,"
+"Talam,Taweret,Thanadria,Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,"
+"Tzitzimime,Uma,Umbria,Unarya,Unia,Unsere,Uzza,Vena,Verna,Verrier,Vepar,"
+"Vulpecula,Xandar,Xana,Xandria,Xeth,Xia,Xindra,Xindar,Yuki,Yun,Yuna,Yuni,Zana,"
+"Zephyr,Zhul,Zidya,Zilla,Zuna,Zynara,Zythara"
 
 #. [race]: id=demon
 #: Naia/units/demons.cfg:20
-#, fuzzy
 msgid "race^Demon"
-msgstr "Demonios"
+msgstr "Demonio"
 
 #. [race]: id=demon
 #: Naia/units/demons.cfg:21
-#, fuzzy
 msgid "race+female^Demoness"
-msgstr "Demonios"
+msgstr "Demonia"
 
 #. [race]: id=demon
 #: Naia/units/demons.cfg:22
@@ -2235,16 +2562,29 @@ msgid ""
 "in some form or another, pointing at the Chaos Lorekeepers’ powers and "
 "inscrutable nature."
 msgstr ""
+"La leyenda cuenta que al inicio de los tiempos, criaturas poderosas llamadas "
+"«demonios» gobernaban todo lo que existía. Los señores de la Luz y "
+"Oscuridad, conscientes del peligro que éstas suponían para el balance de la "
+"naturaleza, las desterraron a un plano de existencia aparte, atrapadas sin "
+"ningún medio de escape. Pero a través de los años, se han contado muchas "
+"diferentes versiones de la leyenda en diferentes lugares. Probablemente "
+"cualquier rastro de verdad que hubiera en la historia original se ha perdido "
+"para siempre.\n"
+"\n"
+"Sea por ignorancia o por intentar encontrarle sentido a las historias "
+"fragmentas obtenidas de los prisioneros del Chaos, la gente de Irdya se "
+"refieren a las heterogéneas razas infernales bajo este nombre genérico. "
+"Algunos van más allá y sostienen que puede ser posible que criaturas "
+"normales de Irdya se vuelvan «demoníacas» de uno u otro modo, apuntando a "
+"los poderes e indescifrable naturaleza de los sabios del Caos como ejemplo."
 
 #. [race]: id=spirit
 #: Naia/units/spirits.cfg:5
-#, fuzzy
 msgid "race^Spirit"
-msgstr "Espíritus"
+msgstr "Espíritu"
 
 #. [race]: id=spirit
 #: Naia/units/spirits.cfg:6
-#, fuzzy
 msgid "race+female^Spirit"
 msgstr "espíritu"
 
@@ -2274,11 +2614,10 @@ msgstr "acorazada"
 
 #. [trait]: id=armored
 #: Naia/macros/traits.cfg:9
-#, fuzzy
 msgid "+15% bonus for all resistances (except arcane), -1 movement points"
 msgstr ""
-"Bonificación de +15% para todas las resistencias (salvo arcana), -1 puntos "
-"de movimiento"
+"Bonificación de +15% a todas las resistencias (salvo arcana), -1 puntos de "
+"movimiento"
 
 #. [trait]: id=biomechanical
 #: Naia/macros/traits.cfg:33
@@ -2293,7 +2632,7 @@ msgstr "biomecánica"
 #. [trait]: id=biomechanical
 #: Naia/macros/traits.cfg:35
 msgid "Immune to drain, poison and plague"
-msgstr "Inmune al drenaje, veneno y plaga."
+msgstr "Inmune al drenado, veneno y plaga"
 
 #. [trait]: id=spirit
 #: Naia/macros/traits.cfg:48
@@ -2307,30 +2646,28 @@ msgstr "espíritu"
 
 #. [trait]: id=spirit
 #: Naia/macros/traits.cfg:50
-#, fuzzy
 msgid "Immune to drain, poison, and plague"
-msgstr "Inmune al drenaje, veneno y plaga."
+msgstr "Inmune al drenado, veneno y plaga"
 
 #. [trait]: id=deteriorated
 #: Naia/macros/traits.cfg:61 Naia/macros/traits.cfg:80
 msgid "deteriorated"
-msgstr ""
+msgstr "deteriorado"
 
 #. [trait]: id=deteriorated
 #: Naia/macros/traits.cfg:62 Naia/macros/traits.cfg:81
-#, fuzzy
 msgid "female^deteriorated"
-msgstr "acorazada"
+msgstr "deteriorada"
 
 #. [trait]: id=deteriorated
 #: Naia/macros/traits.cfg:63 Naia/macros/traits.cfg:82
 msgid "This undead unit has become weaker with the pass of time."
-msgstr ""
+msgstr "Esta unidad no muerta se ha debilitado con el paso del tiempo."
 
 #. [print]
 #: Naia/macros/boss-utils.cfg:8
 msgid "Enemy boss sighted!"
-msgstr "¡Superior enemigo avistado!"
+msgstr "¡Jefe enemigo avistado!"
 
 #. [message]: speaker=narrator
 #: Naia/macros/scenario-utils.cfg:163
@@ -2348,10 +2685,15 @@ msgid ""
 "\n"
 "Notes: "
 msgstr ""
+"\n"
+"\n"
+"Notas: "
 
 #: Naia/macros/abilities.cfg:41
 msgid " Vegetated terrains are forest, great tree, and mushroom grove hexes."
 msgstr ""
+" Los terrenos con vegetación incluyen bosques, grandes árboles, y campos de "
+"setas."
 
 #: Naia/macros/abilities.cfg:44
 msgid "sylvan spark"
@@ -2362,6 +2704,8 @@ msgid ""
 "While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
+"En terrenos con vegetación, la unidad recuperará 5 PV por turno. En cambio, "
+"si la unidad está envenenada, solo se le curará el veneno."
 
 #. [illuminates]: id=obscure
 #: Naia/macros/abilities.cfg:58
@@ -2370,7 +2714,6 @@ msgstr "oscurecer"
 
 #. [illuminates]: id=obscure
 #: Naia/macros/abilities.cfg:59
-#, fuzzy
 msgid ""
 "This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse.\n"
@@ -2378,11 +2721,11 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dusk when it is "
 "day, and as if it were night when it is dusk."
 msgstr ""
-"Oscurecer:\n"
 "Esta unidad oscurece el área que la rodea, haciendo que las unidades "
-"caóticas luchen mejor, y las legales, peor. \n"
-"Toda unidad adyacente a ésta luchará como si fuera el ocaso cuando es de "
-"día, y como si fuera de noche durante el ocaso."
+"caóticas luchen mejor, y las legales, peor.\n"
+"\n"
+"Toda unidad adyacente a ésta luchará como si fuera el anochecer cuando es de "
+"día, y como si fuera de noche durante el anochecer."
 
 #. [resistance]: id=protection
 #: Naia/macros/abilities.cfg:94
@@ -2395,6 +2738,8 @@ msgid ""
 "Adjacent units of lower level from this side receive a +20% bonus to all "
 "resistances (up to a maximum of 50%)."
 msgstr ""
+"Las unidades adyacentes de menor nivel del mismo bando reciben una "
+"bonificación del +20% a todas sus resistencias (hasta un máximo de 50%)."
 
 #. [leadership]: id=terror
 #: Naia/macros/abilities.cfg:117
@@ -2444,11 +2789,12 @@ msgstr ""
 #. [objective]: condition=win
 #: Naia/macros/objective-utils.cfg:19
 msgid "Resist until the end of turns"
-msgstr ""
+msgstr "Resista hasta el fin de los turnos"
 
 #: Naia/macros/objective-utils.cfg:95
 msgid "You will not be able to recall any units from this scenario later"
 msgstr ""
+"No le será posible reincorporar unidades de este escenario posteriormente."
 
 #. [message]: speaker=narrator
 #: Naia/macros/items.cfg:75
@@ -2459,7 +2805,7 @@ msgstr "Glifo de cristal"
 #. [else]
 #: Naia/macros/items.cfg:120 Naia/macros/items.cfg:129
 msgid "Do you wish to be healed?"
-msgstr ""
+msgstr "¿Desea sanación?"
 
 #. [then]
 #: Naia/macros/items.cfg:122
@@ -2467,142 +2813,145 @@ msgid ""
 "This magic glyph will completely restore this unit’s health. It will also "
 "unslow and cure it of poison, if applicable."
 msgstr ""
+"Este glifo mágico restaurará por completo la vitalidad de esta unidad. "
+"También desralentiza y cura el veneno, si se aplica."
 
 #. [then]
 #: Naia/macros/items.cfg:125
 msgid "Note: this glyph may be used only once; afterwards, it will fade out."
 msgstr ""
+"Nota: este glifo sólo puede ser utilizado una vez; posteriormente "
+"desaparecerá."
 
 #. [else]
 #: Naia/macros/items.cfg:132
 msgid "Note: this glyph may be used only once; afterwards it will fade out."
 msgstr ""
+"Nota: este glifo sólo puede ser utilizado una vez; posteriormente "
+"desaparecerá."
 
 #. [transient_message]
 #. [message]: speaker=narrator
 #: Naia/macros/items.cfg:187 Naia/macros/items.cfg:138
-#, fuzzy
 msgid "Crystal Glyph of Health"
-msgstr "Glifo de cristal"
+msgstr "Glifo de cristal de sanación"
 
 #. [unstore_unit]
 #: Naia/macros/items.cfg:175
 msgid "healed"
-msgstr ""
+msgstr "sanado"
 
 #. [unstore_unit]
 #: Naia/macros/items.cfg:176
-#, fuzzy
 msgid "female^healed"
-msgstr "acorazada"
+msgstr "sanada"
 
 #. [transient_message]
 #: Naia/macros/items.cfg:189
 msgid "The unit is fully healed, cured and unslowed."
-msgstr ""
+msgstr "La unidad es completamente sanada, curada, y desralentizada."
 
 #. [message]: speaker=narrator
 #: Naia/macros/items.cfg:212
 msgid "Access granted."
-msgstr ""
+msgstr "Acceso concedido."
 
 #. [time]: id=indoors_hive
 #: Naia/macros/schedules.cfg:18
 msgid "Shaxthal Hive"
-msgstr ""
+msgstr "Colmena Shaxthal"
 
 #. [time]: id=neutral_tod
 #: Naia/macros/schedules.cfg:30
 msgid "Neutral time of day"
-msgstr ""
+msgstr "Hora neutral"
 
 #. [time]: id=dawn1
 #: Naia/macros/schedules-surface.cfg:50
 msgid "First Dawn"
-msgstr ""
+msgstr "Primer amanecer"
 
 #. [time]: id=morning1
 #: Naia/macros/schedules-surface.cfg:62
 msgid "First Morning"
-msgstr ""
+msgstr "Primera mañana"
 
 #. [time]: id=midday1
 #: Naia/macros/schedules-surface.cfg:74
 msgid "First Midday"
-msgstr ""
+msgstr "Primer mediodía"
 
 #. [time]: id=afternoon1
 #: Naia/macros/schedules-surface.cfg:86
 msgid "First Afternoon"
-msgstr ""
+msgstr "Primera tarde"
 
 #. [time]: id=dusk1
 #: Naia/macros/schedules-surface.cfg:98
 msgid "First Dusk"
-msgstr ""
+msgstr "Primer anochecer"
 
 #. [time]: id=short_dark
 #: Naia/macros/schedules-surface.cfg:110
 msgid "The Short Dark"
-msgstr ""
+msgstr "La Corta Oscuridad"
 
 #. [time]: id=dawn2
 #: Naia/macros/schedules-surface.cfg:122
 msgid "Second Dawn"
-msgstr ""
+msgstr "Segundo amanecer"
 
 #. [time]: id=morning2
 #: Naia/macros/schedules-surface.cfg:134
 msgid "Second Morning"
-msgstr ""
+msgstr "Segunda mañana"
 
 #. [time]: id=midday2
 #: Naia/macros/schedules-surface.cfg:146
 msgid "Second Midday"
-msgstr ""
+msgstr "Segundo mediodía"
 
 #. [time]: id=afternoon2
 #: Naia/macros/schedules-surface.cfg:158
 msgid "Second Afternoon"
-msgstr ""
+msgstr "Segunda tarde"
 
 #. [time]: id=dusk2
 #: Naia/macros/schedules-surface.cfg:170
 msgid "Second Dusk"
-msgstr ""
+msgstr "Segundo anochecer"
 
 #. [time]: id=long_dark1
 #: Naia/macros/schedules-surface.cfg:182
 msgid "The Long Dark — First Watch"
-msgstr ""
+msgstr "La Larga Oscuridad (1)"
 
 #. [time]: id=long_dark2
 #: Naia/macros/schedules-surface.cfg:194
 msgid "The Long Dark — Second Watch"
-msgstr ""
+msgstr "La Larga Oscuridad (2)"
 
 #. [time]: id=long_dark3
 #: Naia/macros/schedules-surface.cfg:206
 msgid "The Long Dark — Third Watch"
-msgstr ""
+msgstr "La Larga Oscuridad (3)"
 
 #. [time]: id=long_dark4
 #: Naia/macros/schedules-surface.cfg:218
 msgid "The Long Dark — Fourth Watch"
-msgstr ""
+msgstr "La Larga Oscuridad (4)"
 
 #. [time]: id=inferno_night
 #: Naia/macros/schedules-surface.cfg:230
 msgid "Inferno"
-msgstr ""
+msgstr "Infierno"
 
 #. [time]: id=endless_night
 #: Naia/macros/schedules-surface.cfg:242
 msgid "The Endless Night"
-msgstr ""
+msgstr "Noche eterna"
 
 #: Naia/macros/special-notes.cfg:5
-#, fuzzy
 msgid ""
 " This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse."
@@ -2612,48 +2961,60 @@ msgstr ""
 
 #: Naia/macros/special-notes.cfg:8
 msgid " This unit’s powers are increased by the Sylvan Essence."
-msgstr ""
+msgstr " Los poderes de esta unidad son amplificados por la Esencia silvestre."
 
 #: Naia/macros/special-notes.cfg:11
 msgid ""
 " This unit will regenerate 5 HP per turn in forest or mushroom grove "
 "terrains."
-msgstr ""
+msgstr " Esta unidad regenera 5 PV por turno en bosques o campos de setas."
 
 #: Naia/macros/special-notes.cfg:14
 msgid " Some of this unit’s attacks are only available during defense."
 msgstr ""
+" Algunos de los ataques de esta unidad sólo están disponibles durante la "
+"defensa."
 
 #: Naia/macros/special-notes.cfg:17
 msgid " Some of this unit’s attacks are only available during offense."
 msgstr ""
+" Algunos de los ataques de esta unidad sólo están disponibles durante la "
+"ofensa."
 
 #: Naia/macros/special-notes.cfg:20
 msgid " This unit’s attacks always hit its opponent."
-msgstr ""
+msgstr " Los ataques de esta unidad siempre golpean a su oponente."
 
 #: Naia/macros/special-notes.cfg:23
 msgid ""
 " This unit can attack very precisely, giving it a better chance to hit agile "
 "foes on the offense."
 msgstr ""
+" Esta unidad puede atacar con gran precisión, proporcionándole una mejor "
+"probabilidad de golpear enemigos ágiles durante la ofensa."
 
 #: Naia/macros/special-notes.cfg:26
 msgid ""
 " Adjacent lower-level units of the same allegiance have their resistances "
 "increased by the sole presence of this unit."
 msgstr ""
+" Las unidades adyacentes de menor nivel pertenecientes al mismo bando gozan "
+"de resistencias incrementadas por la presencia de esta unidad."
 
 #: Naia/macros/special-notes.cfg:29
 msgid ""
 " This unit can frighten enemy units that are next to it, making them fight "
 "worse."
 msgstr ""
+" Esta unidad puede aterrorizar unidades enemigas adyacentes, haciéndolas "
+"desempeñarse peor en combate."
 
 #: Naia/macros/special-notes.cfg:33
 msgid ""
 " This unit cannot move to terrains other than water, castle and villages."
 msgstr ""
+" Esta unidad no puede desplazarse a terrenos que no sean agua, castillos o "
+"aldeas."
 
 #. [damage]: id=attack_only
 #: Naia/macros/weapon-specials.cfg:40 Naia/macros/weapon-specials.cfg:41
@@ -2662,11 +3023,8 @@ msgstr "sólo ofensivo"
 
 #. [damage]: id=attack_only
 #: Naia/macros/weapon-specials.cfg:42 Naia/macros/weapon-specials.cfg:43
-#, fuzzy
 msgid "This weapon will never be used on defense."
-msgstr ""
-"Sólo ofensivo:\n"
-"Esta arma jamás será usada en defensa."
+msgstr "Este ataque jamás será utilizado en defensa."
 
 #. [damage]: id=attack_only
 #: Naia/macros/weapon-specials.cfg:60 Naia/macros/weapon-specials.cfg:61
@@ -2675,16 +3033,13 @@ msgstr "sólo defensivo"
 
 #. [damage]: id=attack_only
 #: Naia/macros/weapon-specials.cfg:62 Naia/macros/weapon-specials.cfg:63
-#, fuzzy
 msgid "This weapon will only be available for defense."
-msgstr ""
-"Sólo defensivo:\n"
-"Esta arma sólo estará disponible para la defensa."
+msgstr "Este ataque sólo estará disponible en defensa."
 
 #. [chance_to_hit]: id=always_hits
 #: Naia/macros/weapon-specials.cfg:82
 msgid "always hits"
-msgstr ""
+msgstr "siempre golpea"
 
 #. [chance_to_hit]: id=always_hits
 #: Naia/macros/weapon-specials.cfg:83
@@ -2692,21 +3047,25 @@ msgid ""
 "This attack always has a 100% chance to hit regardless of the defensive "
 "ability of the unit being attacked."
 msgstr ""
+"Este ataque siempre tiene una probabilidad de golpear del 100% "
+"independientemente de las capacidades defensivas de su blanco."
 
 #. [chance_to_hit]: id=precision
 #: Naia/macros/weapon-specials.cfg:95
 msgid "precision"
-msgstr ""
+msgstr "precisión"
 
 #. [chance_to_hit]: id=precision
 #: Naia/macros/weapon-specials.cfg:96
 msgid ""
 "When used offensively, this attack always has at least a 50% chance to hit."
 msgstr ""
+"Al ser utilizado en ofensiva, este ataque siempre tiene al menos un 50% de "
+"posibilidades de golpear."
 
 #: Naia/macros/storytxt-common.cfg:16
 msgid "Warning!"
-msgstr ""
+msgstr "¡Advertencia!"
 
 #: Naia/macros/storytxt-common.cfg:22
 msgid ""
@@ -2716,6 +3075,11 @@ msgid ""
 "especially on shrouded maps, or in places where enemies seem to respawn "
 "continuously."
 msgstr ""
+"Algunos escenarios en esta campaña funcionan de un modo considerablemente "
+"distinto al juego convencional de Wesnoth. Es especialmente importante poner "
+"atención a los objetivos de la misión y no tratar necesariamente de eliminar "
+"todos los enemigos, especialmente en mapas con áreas ocultas, o en "
+"ubicaciones donde los enemigos parecen resurgir constantemente."
 
 #: Naia/macros/storytxt-common.cfg:27
 msgid ""
@@ -2724,6 +3088,10 @@ msgid ""
 "Burning Suns</i>, and (optionally) <i>Descent into Darkness</i> before "
 "playing this campaign."
 msgstr ""
+"Aunque no es un requisito esencial, se le sugiere a los jugadores "
+"familiarizarse con las historias, personajes y eventos presentados en "
+"<i>Bajo los soles ardientes</i>, y (opcionalmente) <i>Descenso a la "
+"oscuridad</i> antes de jugar esta campaña."
 
 #: Naia/macros/storytxt-common.cfg:32
 msgid ""
@@ -2732,6 +3100,10 @@ msgid ""
 "Burning Suns</i>, <i>Invasion from the Unknown</i>, and (optionally) "
 "<i>Descent into Darkness</i> before playing this campaign."
 msgstr ""
+"Aunque no es un requisito esencial, se le sugiere a los jugadores "
+"familiarizarse con las historias, personajes y eventos presentados en "
+"<i>Bajo los soles ardientes</i>, <i>Invasión del más allá</i> y "
+"(opcionalmente) <i>Descenso a la oscuridad</i> antes de jugar esta campaña."
 
 #: Naia/macros/storytxt-common.cfg:37
 msgid ""
@@ -2740,41 +3112,45 @@ msgid ""
 "so you might want to make sure these options are enabled under "
 "<b>Preferences</b> → <b>Display</b>."
 msgstr ""
+"Se recomienda una resolución de pantalla de juego de <b>al menos 800x600</"
+"b>. Algunas secuencias utilizan etiquetas flotantes, halos, y animaciones de "
+"unidades quietas, así que se le recomienda asegurarse de activar estas "
+"opciones en <b>Preferencia</b> → <b>Imagen</b>."
 
 #. [advancement]: id={_ID}, description= 
 #: Naia/macros/amla.cfg:32
 msgid "‹Max XP +15%›"
-msgstr ""
+msgstr "‹+15% PX máx›"
 
 #. [color_range]: id=cyan
 #: Naia/core/display.cfg:11
 msgid "team_color^Cyan"
-msgstr ""
+msgstr "Cian"
 
 #. [color_range]: id=yellow
 #: Naia/core/display.cfg:17
 msgid "team_color^Yellow"
-msgstr ""
+msgstr "Amarillo"
 
 #. [color_range]: id=pink
 #: Naia/core/display.cfg:23
 msgid "team_color^Pink"
-msgstr ""
+msgstr "Rosado"
 
 #. [terrain_type]: id=wasteland
 #: Naia/terrain.cfg:19
 msgid "Wasteland"
-msgstr ""
+msgstr "Erial"
 
 #. [terrain_type]: id=earthy_rocky_cave
 #: Naia/terrain.cfg:30
 msgid "Earthy Rockbound Cave"
-msgstr ""
+msgstr "Cueva accidentada terrosa"
 
 #. [terrain_type]: id=abyss-volcanic
 #: Naia/terrain.cfg:42
 msgid "Volcanic Abyss"
-msgstr ""
+msgstr "Abismo volcánico"
 
 #. [terrain_type]: id=dark-hive-floor
 #. [terrain_type]: id=dark-hive-surface
@@ -2783,22 +3159,22 @@ msgstr ""
 #: Naia/terrain.cfg:55 Naia/terrain.cfg:64 Naia/terrain.cfg:74
 #: Naia/terrain.cfg:247
 msgid "Dark Hive"
-msgstr ""
+msgstr "Colmena oscura"
 
 #. [terrain_type]: id=overlay-banner-uria
 #: Naia/terrain.cfg:92
 msgid "Banner (Uria)"
-msgstr ""
+msgstr "Estandarte (Uria)"
 
 #. [terrain_type]: id=overlay-banner-merthiaal
 #: Naia/terrain.cfg:101
 msgid "Banner (Merthiaal)"
-msgstr ""
+msgstr "Estandarte (Merthiaal)"
 
 #. [terrain_type]: id=overlay-statue-adavyan
 #: Naia/terrain.cfg:110
 msgid "Statue (Adavyan)"
-msgstr ""
+msgstr "Estatua (Adavyan)"
 
 #. [terrain_type]: id=overlay-stone-wall-moss-se
 #. [terrain_type]: id=overlay-stone-wall-moss-sw
@@ -2817,36 +3193,36 @@ msgstr "Puerta"
 #. [terrain_type]: id=portal_gate_golden_n
 #: Naia/terrain.cfg:172 Naia/terrain.cfg:184 Naia/terrain.cfg:197
 msgid "Event Gate"
-msgstr ""
+msgstr "Puerta de evento"
 
 #. [terrain_type]: id=portal_gate_golden_open_sw
 #. [terrain_type]: id=portal_gate_golden_open_se
 #. [terrain_type]: id=portal_gate_golden_open_n
 #: Naia/terrain.cfg:210 Naia/terrain.cfg:221 Naia/terrain.cfg:233
 msgid "Open Event Gate"
-msgstr ""
+msgstr "Puerta de evento abierta"
 
 #. [terrain_type]: id=overlay-pit
 #: Naia/terrain.cfg:246
 msgid "Hive Cell"
-msgstr ""
+msgstr "Celda de colmena"
 
 #. [terrain_type]: id=overlay-flat
 #: Naia/terrain.cfg:260
 msgid "Flat Overlay"
-msgstr ""
+msgstr "Capa llana"
 
 #. [terrain_type]: id=overlay-rough
 #: Naia/terrain.cfg:272
 msgid "Rough Overlay"
-msgstr ""
+msgstr "Capa abrupta"
 
 #. [terrain_type]: id=overlay-fakeshroud
 #: Naia/terrain.cfg:283
 msgid "Fake Shroud"
-msgstr ""
+msgstr "Oscuridad falsa"
 
 #. [editor_group]: id=wesnoth-UMC-Naia
 #: Naia/loader.cfg:92
 msgid "Project Ethea"
-msgstr ""
+msgstr "Proyecto Ethea"
