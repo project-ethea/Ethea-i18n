@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fr_0.6.71\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-13 19:15 UTC\n"
+"POT-Creation-Date: 2020-06-21 06:46 UTC\n"
 "PO-Revision-Date: 2012-04-20 15:19+0200\n"
 "Last-Translator: Guillaume Pascal <guillaume.pascal43@laposte.net>\n"
 "Language-Team: french\n"
@@ -34,7 +34,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:102
+#: Invasion_from_the_Unknown/_main.cfg:98
 #, fuzzy
 msgid "IftU"
 msgstr "OI-1"
@@ -47,8 +47,8 @@ msgstr "OI-1"
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
-#: Invasion_from_the_Unknown/_main.cfg:170
-#: Invasion_from_the_Unknown/_main.cfg:106
+#: Invasion_from_the_Unknown/_main.cfg:166
+#: Invasion_from_the_Unknown/_main.cfg:102
 msgid "Invasion from the Unknown"
 msgstr "L'Obscure Invasion"
 
@@ -56,7 +56,7 @@ msgstr "L'Obscure Invasion"
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
-#: Invasion_from_the_Unknown/_main.cfg:132
+#: Invasion_from_the_Unknown/_main.cfg:128
 msgid "Episode I: Seeking the Light"
 msgstr "Épisode I : À la recherche de la lumière"
 
@@ -75,7 +75,7 @@ msgstr "Version :"
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:146
+#: Invasion_from_the_Unknown/_main.cfg:142
 msgid "Episode II: Armageddon"
 msgstr "Épisode II : Armageddon"
 
@@ -17148,7 +17148,7 @@ msgstr ""
 msgid "Living units (except bats) are subject to dehydration in this scenario"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:28
+#: Invasion_from_the_Unknown/_main.cfg:24
 msgid ""
 "Greetings, translators!\n"
 "\n"
@@ -17157,43 +17157,43 @@ msgid ""
 "shared Naia library."
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:78
+#: Invasion_from_the_Unknown/_main.cfg:74
 msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:88
+#: Invasion_from_the_Unknown/_main.cfg:84
 msgid "for Wesnoth 1.14"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:93
+#: Invasion_from_the_Unknown/_main.cfg:89
 #, fuzzy
 msgid "Version"
 msgstr "Version :"
 
-#: Invasion_from_the_Unknown/_main.cfg:94
+#: Invasion_from_the_Unknown/_main.cfg:90
 msgid "Feedback and bug reports:"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:105
+#: Invasion_from_the_Unknown/_main.cfg:101
 msgid "To be continued..."
 msgstr "À suivre..."
 
-#: Invasion_from_the_Unknown/_main.cfg:124
+#: Invasion_from_the_Unknown/_main.cfg:120
 #, fuzzy
 msgid "Easy"
 msgstr "(Facile)"
 
-#: Invasion_from_the_Unknown/_main.cfg:125
+#: Invasion_from_the_Unknown/_main.cfg:121
 #, fuzzy
 msgid "Normal"
 msgstr "(Normal)"
 
-#: Invasion_from_the_Unknown/_main.cfg:126
+#: Invasion_from_the_Unknown/_main.cfg:122
 msgid "Hard"
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:132
+#: Invasion_from_the_Unknown/_main.cfg:128
 msgid ""
 "Long after the Fall, the last forest elves on the Great Continent are forced "
 "to abandon their secluded home and forge an unprecedented alliance in hopes "
@@ -17205,25 +17205,25 @@ msgid ""
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:140
-#: Invasion_from_the_Unknown/_main.cfg:155
+#: Invasion_from_the_Unknown/_main.cfg:136
+#: Invasion_from_the_Unknown/_main.cfg:151
 msgid "difficulty_menu^Fighter"
 msgstr "Guerrier"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:141
-#: Invasion_from_the_Unknown/_main.cfg:156
+#: Invasion_from_the_Unknown/_main.cfg:137
+#: Invasion_from_the_Unknown/_main.cfg:152
 msgid "difficulty_menu^Captain"
 msgstr "Capitaine"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:142
-#: Invasion_from_the_Unknown/_main.cfg:157
+#: Invasion_from_the_Unknown/_main.cfg:138
+#: Invasion_from_the_Unknown/_main.cfg:153
 msgid "difficulty_menu^Marshal"
 msgstr "Maréchal"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:146
+#: Invasion_from_the_Unknown/_main.cfg:142
 #, fuzzy
 msgid ""
 "As the dark veil of Chaos engulfs the land, an assorted group of foolish "
@@ -17240,40 +17240,49 @@ msgstr ""
 "mais tous courageux, et redécouvrez des secrets oubliés de l'histoire."
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:13
+#: Invasion_from_the_Unknown/about.cfg:7
 msgid "Creator and Lead Designer"
 msgstr "Créateur et concepteur principal"
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:21
+#: Invasion_from_the_Unknown/about.cfg:15
 msgid "Campaign Maintenance"
 msgstr "Maintenance de la campagne"
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:30
+#: Invasion_from_the_Unknown/about.cfg:24
 msgid "Graphics"
 msgstr "Graphismes"
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:197
+#: Invasion_from_the_Unknown/about.cfg:191
+#, fuzzy
+msgid "Aragwaith Faction"
+msgstr "Les aragwaiths"
+
+#. [about]
+#: Invasion_from_the_Unknown/about.cfg:202
 msgid "Music"
 msgstr "Musique"
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:213
+#: Invasion_from_the_Unknown/about.cfg:221
+msgid "Translations"
+msgstr "Traductions"
+
+#. [about]
+#: Invasion_from_the_Unknown/about.cfg:232
 #, fuzzy
 msgid "Additional Thanks to"
 msgstr "Remerciements spéciaux à"
 
 #. [entry]
-#: Invasion_from_the_Unknown/about.cfg:283
+#: Invasion_from_the_Unknown/about.cfg:306
 msgid "You, for playing this campaign"
 msgstr "Vous, pour jouer à cette campagne"
 
-#. [entry]
-#: Invasion_from_the_Unknown/about.cfg:286
-msgid "Anyone else I could forget to mention"
-msgstr "Et tous ceux que j'ai pu oublier de mentionner"
+#~ msgid "Anyone else I could forget to mention"
+#~ msgstr "Et tous ceux que j'ai pu oublier de mentionner"
 
 #~ msgid "Hidden touchplate triggered. A wall moves."
 #~ msgstr "Plaque cachée activée. Un mur bouge."
@@ -26718,9 +26727,6 @@ msgstr "Et tous ceux que j'ai pu oublier de mentionner"
 #~ msgid "That’s...horrible..."
 #~ msgstr "C'est... horrible..."
 
-#~ msgid "The Aragwaithi"
-#~ msgstr "Les aragwaiths"
-
 #~ msgid ""
 #~ "The Aragwaithi and the orcs might start a full-scale war, but I’m afraid "
 #~ "that the devotion and fanatism of these vassals will assure our defeat. I "
@@ -28848,9 +28854,6 @@ msgstr "Et tous ceux que j'ai pu oublier de mentionner"
 #~ "essaye de désorienter ses adversaires en tenant une arme différente dans "
 #~ "chaque main. Combattant tenace, il sait adapter son type de combat à la "
 #~ "situation."
-
-#~ msgid "Translations"
-#~ msgstr "Traductions"
 
 #~ msgid ""
 #~ "True enough. But you cannot blindly face an unknown enemy on the "
