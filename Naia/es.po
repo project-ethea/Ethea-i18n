@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-06-25 01:05 UTC\n"
-"PO-Revision-Date: 2020-06-23 00:10-0400\n"
+"PO-Revision-Date: 2020-06-24 21:09-0400\n"
 "Last-Translator: Iris Morelle <shadowm@wesnoth.org>\n"
 "Language-Team: Spanish <i18n@wesnoth.org>\n"
 "Language: es\n"
@@ -17,23 +17,22 @@ msgstr ""
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:228
 msgid "advancements^Display:"
-msgstr ""
+msgstr "Visualizar:"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:239
 msgid "advancements^Acquired"
-msgstr ""
+msgstr "Adquiridos"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:249
 msgid "advancements^Available"
-msgstr ""
+msgstr "Disponibles"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:259
-#, fuzzy
 msgid "advancements^All"
-msgstr "Avances de Unidad"
+msgstr "Todos"
 
 #. [lua]: amla
 #. [set_menu_item]: id=amla_menu
@@ -44,27 +43,27 @@ msgstr "Avances de Unidad"
 #. [lua]: pango_amla_counted_list
 #: Naia/lua/gui/amla_list.lua:470
 msgid "unknown AMLA"
-msgstr ""
+msgstr "ASMN desconocido"
 
 #. [lua]: rebuild
 #: Naia/lua/gui/amla_list.lua:790
 msgid "advancements^disabled by:"
-msgstr ""
+msgstr "desactivado por:"
 
 #. [lua]: rebuild
 #: Naia/lua/gui/amla_list.lua:794
 msgid "advancements^requires:"
-msgstr ""
+msgstr "requiere:"
 
 #. [lua]: rebuild
 #: Naia/lua/gui/amla_list.lua:802
 msgid "advancements^max. times:"
-msgstr ""
+msgstr "núm. máximo:"
 
 #. [lua]: rebuild
 #: Naia/lua/gui/amla_list.lua:828
 msgid "advancements^Advance to: %s"
-msgstr ""
+msgstr "Avanzar a: %s"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:180 Naia/lua/gui/feedback.lua:132
@@ -3565,7 +3564,7 @@ msgstr "‹+15% PX máx›"
 
 #: Naia/macros/amla.cfg:77
 msgid "Vitality: hitpoints +3"
-msgstr ""
+msgstr "Vitalidad: puntos de vida +3"
 
 #. [color_range]: id=cyan
 #: Naia/core/display.cfg:11
