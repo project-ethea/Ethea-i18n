@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-23 04:00 UTC\n"
+"POT-Creation-Date: 2020-06-25 01:05 UTC\n"
 "PO-Revision-Date: 2012-04-06 18:36+0100\n"
 "Last-Translator: Aleph <alemalito@hotmail.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -14,9 +14,55 @@ msgstr ""
 "X-Poedit-Language: Italian\n"
 "X-Poedit-Country: ITALY\n"
 
-#. [lua]: unit_amlas
-#: Naia/lua/gui/amla_list.lua:353
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:228
+msgid "advancements^Display:"
+msgstr ""
+
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:239
+msgid "advancements^Acquired"
+msgstr ""
+
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:249
+msgid "advancements^Available"
+msgstr ""
+
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:259
+msgid "advancements^All"
+msgstr ""
+
+#. [lua]: amla
+#. [set_menu_item]: id=amla_menu
+#: Naia/lua/gui/amla_list.lua:366 Naia/macros/amla.cfg:6
 msgid "Unit Advancements"
+msgstr ""
+
+#. [lua]: pango_amla_counted_list
+#: Naia/lua/gui/amla_list.lua:470
+msgid "unknown AMLA"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:790
+msgid "advancements^disabled by:"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:794
+msgid "advancements^requires:"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:802
+msgid "advancements^max. times:"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:828
+msgid "advancements^Advance to: %s"
 msgstr ""
 
 #. [lua]: preshow
@@ -3009,8 +3055,12 @@ msgid ""
 msgstr ""
 
 #. [advancement]: id={_ID}, description= 
-#: Naia/macros/amla.cfg:32
+#: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
+msgstr ""
+
+#: Naia/macros/amla.cfg:77
+msgid "Vitality: hitpoints +3"
 msgstr ""
 
 #. [color_range]: id=cyan
@@ -3116,7 +3166,7 @@ msgid "Fake Shroud"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:92
+#: Naia/loader.cfg:100
 #, fuzzy
 msgid "Project Ethea"
 msgstr "Proteggeteli!"

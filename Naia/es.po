@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-23 04:00 UTC\n"
+"POT-Creation-Date: 2020-06-25 01:05 UTC\n"
 "PO-Revision-Date: 2020-06-23 00:10-0400\n"
 "Last-Translator: Iris Morelle <shadowm@wesnoth.org>\n"
 "Language-Team: Spanish <i18n@wesnoth.org>\n"
@@ -14,10 +14,57 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 20.04.1\n"
 
-#. [lua]: unit_amlas
-#: Naia/lua/gui/amla_list.lua:353
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:228
+msgid "advancements^Display:"
+msgstr ""
+
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:239
+msgid "advancements^Acquired"
+msgstr ""
+
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:249
+msgid "advancements^Available"
+msgstr ""
+
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:259
+#, fuzzy
+msgid "advancements^All"
+msgstr "Avances de Unidad"
+
+#. [lua]: amla
+#. [set_menu_item]: id=amla_menu
+#: Naia/lua/gui/amla_list.lua:366 Naia/macros/amla.cfg:6
 msgid "Unit Advancements"
 msgstr "Avances de Unidad"
+
+#. [lua]: pango_amla_counted_list
+#: Naia/lua/gui/amla_list.lua:470
+msgid "unknown AMLA"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:790
+msgid "advancements^disabled by:"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:794
+msgid "advancements^requires:"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:802
+msgid "advancements^max. times:"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:828
+msgid "advancements^Advance to: %s"
+msgstr ""
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:180 Naia/lua/gui/feedback.lua:132
@@ -2680,34 +2727,34 @@ msgid ""
 msgstr ""
 "Mucho tiempo antes de la llegada de los humanos, una civilización avanzada "
 "llamada los Argazar creó una nueva forma de vida combinando las "
-"características de todas las demás criaturas que conocían. Estos seres"
-" conocidos como los «invencibles» o «Shaxthal» estaban originalmente"
-" destinados a ser la base de sus investigaciones para conseguir la"
-" inmortalidad. Sin embargo, la nación enemiga de Rythé obligó a los Argazar a"
-" utilizar sus creaciones para la guerra, atrayendo así la atención de una"
-" fuerza misteriosa y poderosa.\n"
+"características de todas las demás criaturas que conocían. Estos seres "
+"conocidos como los «invencibles» o «Shaxthal» estaban originalmente "
+"destinados a ser la base de sus investigaciones para conseguir la "
+"inmortalidad. Sin embargo, la nación enemiga de Rythé obligó a los Argazar a "
+"utilizar sus creaciones para la guerra, atrayendo así la atención de una "
+"fuerza misteriosa y poderosa.\n"
 "\n"
-"Tras un golpe devastador que envenenó el aire y casi hizo desaparecer su"
-" civilización por completo, los remanentes de los Argazar se vieron obligados"
-" a huir a un mundo primitivo «más allá del velo» llamado Irdya. Ya que la"
-" vida en la superficie les resultó imposible, los Argazar intentaron"
-" reconstruir su civilización bajo tierra. Sin embargo, las pocas criaturas"
-" Shaxthal que trajeron consigo manifestaron inesperadamente mentes propias y"
-" se rebelaron contra sus creadores. De paso, empezaron a asimilar a los"
-" sobrevivientes y engendrar nuevas generaciones con cuerpos nuevos y más"
-" sofisticados.\n"
+"Tras un golpe devastador que envenenó el aire y casi hizo desaparecer su "
+"civilización por completo, los remanentes de los Argazar se vieron obligados "
+"a huir a un mundo primitivo «más allá del velo» llamado Irdya. Ya que la "
+"vida en la superficie les resultó imposible, los Argazar intentaron "
+"reconstruir su civilización bajo tierra. Sin embargo, las pocas criaturas "
+"Shaxthal que trajeron consigo manifestaron inesperadamente mentes propias y "
+"se rebelaron contra sus creadores. De paso, empezaron a asimilar a los "
+"sobrevivientes y engendrar nuevas generaciones con cuerpos nuevos y más "
+"sofisticados.\n"
 "\n"
-"Con poco más de unas docenas de Argazar restantes, finalmente encontraron un"
-" modo de interrumpir las capacidades reproductivas de los Shaxthal, masacrar"
-" a la mayoría de las criaturas, y poner a unos cuantos especímenes en"
-" hibernación para futuras investigaciones. Mientras los últimos de su especie"
-" perecían, la esperanza de sus historiadores fue que algún día una nueva"
-" civilización emergiere y trajera a los Argazar de vuelta a la vida"
-" utilizando los conocimientos de los que dejaron registro en sus muchos"
-" glifos de cristal.\n"
+"Con poco más de unas docenas de Argazar restantes, finalmente encontraron un "
+"modo de interrumpir las capacidades reproductivas de los Shaxthal, masacrar "
+"a la mayoría de las criaturas, y poner a unos cuantos especímenes en "
+"hibernación para futuras investigaciones. Mientras los últimos de su especie "
+"perecían, la esperanza de sus historiadores fue que algún día una nueva "
+"civilización emergiere y trajera a los Argazar de vuelta a la vida "
+"utilizando los conocimientos de los que dejaron registro en sus muchos "
+"glifos de cristal.\n"
 "\n"
-"Jamás se enterarían de que la primera raza que descubrió su legado no tenía"
-" intención alguna de utilizar sus enseñanzas para el bien."
+"Jamás se enterarían de que la primera raza que descubrió su legado no tenía "
+"intención alguna de utilizar sus enseñanzas para el bien."
 
 #. [race]: id=aragwaith
 #: Naia/units/humans.cfg:5
@@ -3511,10 +3558,14 @@ msgstr ""
 "unidades quietas, así que se le recomienda asegurarse de activar estas "
 "opciones en <b>Preferencia</b> → <b>Imagen</b>."
 
-#. [advancement]: id={_ID}, description=
-#: Naia/macros/amla.cfg:32
+#. [advancement]: id={_ID}, description= 
+#: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr "‹+15% PX máx›"
+
+#: Naia/macros/amla.cfg:77
+msgid "Vitality: hitpoints +3"
+msgstr ""
 
 #. [color_range]: id=cyan
 #: Naia/core/display.cfg:11
@@ -3617,7 +3668,7 @@ msgid "Fake Shroud"
 msgstr "Oscuridad falsa"
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:92
+#: Naia/loader.cfg:100
 msgid "Project Ethea"
 msgstr "Proyecto Ethea"
 

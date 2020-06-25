@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fr_0.6.71\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-23 04:00 UTC\n"
+"POT-Creation-Date: 2020-06-25 01:05 UTC\n"
 "PO-Revision-Date: 2018-08-10 20:50+0100\n"
 "Last-Translator: \n"
 "Language-Team: french\n"
@@ -13,9 +13,55 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 1.5.7\n"
 
-#. [lua]: unit_amlas
-#: Naia/lua/gui/amla_list.lua:353
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:228
+msgid "advancements^Display:"
+msgstr ""
+
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:239
+msgid "advancements^Acquired"
+msgstr ""
+
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:249
+msgid "advancements^Available"
+msgstr ""
+
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:259
+msgid "advancements^All"
+msgstr ""
+
+#. [lua]: amla
+#. [set_menu_item]: id=amla_menu
+#: Naia/lua/gui/amla_list.lua:366 Naia/macros/amla.cfg:6
 msgid "Unit Advancements"
+msgstr ""
+
+#. [lua]: pango_amla_counted_list
+#: Naia/lua/gui/amla_list.lua:470
+msgid "unknown AMLA"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:790
+msgid "advancements^disabled by:"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:794
+msgid "advancements^requires:"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:802
+msgid "advancements^max. times:"
+msgstr ""
+
+#. [lua]: rebuild
+#: Naia/lua/gui/amla_list.lua:828
+msgid "advancements^Advance to: %s"
 msgstr ""
 
 #. [lua]: preshow
@@ -3423,8 +3469,12 @@ msgstr ""
 "sélectionnées dans <b>Préférences</b> → <b>Affichage</b>."
 
 #. [advancement]: id={_ID}, description= 
-#: Naia/macros/amla.cfg:32
+#: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
+msgstr ""
+
+#: Naia/macros/amla.cfg:77
+msgid "Vitality: hitpoints +3"
 msgstr ""
 
 #. [color_range]: id=cyan
@@ -3528,7 +3578,7 @@ msgid "Fake Shroud"
 msgstr "Faux voile"
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:92
+#: Naia/loader.cfg:100
 msgid "Project Ethea"
 msgstr "projet Ethea"
 
