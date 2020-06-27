@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-06-25 01:05 UTC\n"
-"PO-Revision-Date: 2020-05-17 13:37+0300\n"
+"PO-Revision-Date: 2020-06-27 12:57+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: none\n"
 "Language: ru\n"
@@ -12,28 +12,27 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:228
 msgid "advancements^Display:"
-msgstr ""
+msgstr "Отображение:"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:239
 msgid "advancements^Acquired"
-msgstr ""
+msgstr "Обретённые"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:249
 msgid "advancements^Available"
-msgstr ""
+msgstr "Доступные"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:259
-#, fuzzy
 msgid "advancements^All"
-msgstr "Продвижение Бойца"
+msgstr "Все"
 
 #. [lua]: amla
 #. [set_menu_item]: id=amla_menu
@@ -44,27 +43,27 @@ msgstr "Продвижение Бойца"
 #. [lua]: pango_amla_counted_list
 #: Naia/lua/gui/amla_list.lua:470
 msgid "unknown AMLA"
-msgstr ""
+msgstr "неизвестное улучшение"
 
 #. [lua]: rebuild
 #: Naia/lua/gui/amla_list.lua:790
 msgid "advancements^disabled by:"
-msgstr ""
+msgstr "отключено из-за"
 
 #. [lua]: rebuild
 #: Naia/lua/gui/amla_list.lua:794
 msgid "advancements^requires:"
-msgstr ""
+msgstr "требуется:"
 
 #. [lua]: rebuild
 #: Naia/lua/gui/amla_list.lua:802
 msgid "advancements^max. times:"
-msgstr ""
+msgstr "макс. число:"
 
 #. [lua]: rebuild
 #: Naia/lua/gui/amla_list.lua:828
 msgid "advancements^Advance to: %s"
-msgstr ""
+msgstr "Продвинуться в “%s”"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:180 Naia/lua/gui/feedback.lua:132
@@ -627,7 +626,6 @@ msgstr "Дух воды"
 
 #. [unit_type]: id=Water Spirit, race=spirit
 #: Naia/units/spirits/Water_Spirit.cfg:20
-#, fuzzy
 msgid ""
 "Tidal waves of water have been known to acquire their own consciousness and "
 "mind and break free of their summoners’ influence. The result is a more "
@@ -651,16 +649,14 @@ msgstr "Ожившие волны"
 
 #. [unit_type]: id=Water Tidal, race=spirit
 #: Naia/units/spirits/Water_Tidal.cfg:19
-#, fuzzy
 msgid ""
 "It is said that the world is mostly composed of water. It would be natural, "
 "then, to conjecture that water may have its own will and that its power can "
 "be summoned by expert magi for nefarious purposes."
 msgstr ""
 "Говорят, что мир в основном состоит из воды. Тогда было бы естественно "
-"предположить, что у воды может быть своя собственная воля и что ее сила "
-"может быть использована опытным магом для неблаговидных дел. К сожалению, "
-"дела обстоят именно так."
+"предположить, что вода может приобрести свою собственную волю и что ее сила "
+"может быть использована опытным магом для неблаговидных дел."
 
 #. [unit_type]: id=Rock Golem, race=spirit
 #: Naia/units/spirits/Rock_Golem.cfg:5
@@ -739,7 +735,6 @@ msgstr "Кардинал Хаоса"
 
 #. [unit_type]: id=Chaos Cardinal, race=undead
 #: Naia/units/undead/Chaos_Cardinal.cfg:19
-#, fuzzy
 msgid ""
 "Two centuries before the birth of the Chaos Empire, its forefathers and "
 "their revered Dark Lady found themselves challenged by a barbaric people "
@@ -1811,7 +1806,6 @@ msgstr "Колдунья"
 
 #. [unit_type]: id=Aragwaith Sorceress, race=aragwaith
 #: Naia/units/humans/Aragwaith_Sorceress.cfg:19
-#, fuzzy
 msgid ""
 "The mighty Aragwaith Sorceresses are agile like the wind. They can confound "
 "their opponents by standing in front of them seemingly defenseless; once the "
@@ -1822,11 +1816,10 @@ msgid ""
 msgstr ""
 "Могучие эрагвийские колдуньи изящны как ветер. В схватке они ставят "
 "противника в замешательство своим безоружным внешним видом; затем, когда тот "
-"перейдёт в наступление, он выяснит, что жертва оказалась позади него, "
-"готовая нанести смертельный удар. В бою эти колдуньи настольно страшны, что "
-"даже их товарищи в тайне следят за ними, конечно, с безопасного расстояния. "
-"В былые времена даже придворные ордена магов Веснота относились к этим "
-"благородным колдуньям с уважением и опаской."
+"перейдёт в наступление, выяснится, что жертва оказалась позади него, готовая "
+"нанести смертельный удар. Из-за их обширного, проникновенного познания как "
+"оборонительной, так и наступательной магии даже высочайшие чины эрагвийцев "
+"относятся к этим женщинам с трепетом и благоговением."
 
 #. [unit_type]: id=Doom Guard, race=human
 #: Naia/units/humans/Chaos_Doom_Guard.cfg:5
@@ -2299,7 +2292,6 @@ msgstr "Стражник"
 
 #. [unit_type]: id=Aragwaith Guard, race=aragwaith
 #: Naia/units/humans/Aragwaith_Guard.cfg:25
-#, fuzzy
 msgid ""
 "Chosen from among the toughest Swordsmen, Aragwaith Guards opt to forgo "
 "their mobility in favor of the advantages that armor brings to their "
@@ -2307,9 +2299,10 @@ msgid ""
 "to the battlefield during war, their role is always the same: defending "
 "their country’s nobility."
 msgstr ""
-"Стражники, отобранные из самых стойких меченосцев, по собственной воле "
-"жертвуют своей подвижностью ради крепкой брони. На караульных постах, во "
-"время мира или на поле брани их цель одна — защита знати Эрагвийцев."
+"Стражники, отобранные из самых стойких меченосцев, решают обменять свою "
+"подвижность на крепкой брони, чтобы повысить стойкость. На караульных постах "
+"во время мира, в смертельных схватках на поле брани их цель одна — защита "
+"знати эрагвийцев."
 
 #. [unit_type]: id=Hell Guardian, race=human
 #: Naia/units/humans/Chaos_Hell_Guardian.cfg:5
@@ -2335,7 +2328,6 @@ msgstr "Великолучник"
 
 #. [unit_type]: id=Aragwaith Greatbow, race=aragwaith
 #: Naia/units/humans/Aragwaith_Greatbow.cfg:18
-#, fuzzy
 msgid ""
 "Finally moving on from the dirk and dagger to the sword, the Greatbows are "
 "superior to the Strongbows in melee combat, although not as much as the "
@@ -2345,11 +2337,11 @@ msgid ""
 "person other than the owner trying to use them could suffer serious injuries."
 msgstr ""
 "Наконец перейдя от кортика и кинжала к мечу, Великолучник превосходит "
-"Сильного Лучника, но всё ещё слабее Повергателя. Его лук, однако, настоящий "
-"шедевр оружейного мастерства. Он создаётся несколько месяцев, а каждая "
-"стрела изготавливается самим лучником под его особенности. Из-за невероятной "
-"силы, необходимой для натяжения лука, никто, кроме создателя, не способен "
-"выстрелить из него без вреда для здоровья."
+"Сильного Лучника в ближнем бою, хотя и не так сильно, как Повергатель. Его "
+"лук, однако, настоящий шедевр оружейного мастерства. Он создаётся несколько "
+"месяцев, а каждая стрела изготавливается самим лучником под его особенности. "
+"Из-за невероятной силы, необходимой для натяжения лука, никто, кроме "
+"создателя, не способен выстрелить из него без вреда для здоровья."
 
 #. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
 #: Naia/units/humans/Aragwaith_Swordsmaster.cfg:5
@@ -2358,7 +2350,6 @@ msgstr "Мастер меча"
 
 #. [unit_type]: id=Aragwaith Swordsmaster, race=aragwaith
 #: Naia/units/humans/Aragwaith_Swordsmaster.cfg:19
-#, fuzzy
 msgid ""
 "Aragwaith Swordsmasters have endured years of rigorous military training, "
 "and survived countless ferocious battles. Their swordplay prowess is "
@@ -2367,14 +2358,11 @@ msgid ""
 "it, they take up responsibility for teaching the young, passing the martial "
 "traditions of the Aragwaithi onto future generations."
 msgstr ""
-"Мастера мечей не получают своё звание незаслуженно. Они выдержали годы "
-"изнурительных эрагвийских тренировок и прошли через много жестоких сражений. "
-"Об их мастерстве говорят с восхищением те немногие враги, которые лицезрели "
-"его — и остались в живых.\n"
-"\n"
-"Получив свой титул, Мастера мечей берут ответственность за обучение молодых "
-"своему искусству, передавая из поколения в поколение славные военные "
-"традиции эрагвийцев."
+"Мастера мечей выдержали годы изнурительных эрагвийских тренировок и "
+"преодолели гору жестоких сражений. Об их мастерстве говорят с восхищением те "
+"немногие враги, которые лицезрели его — и остались в живых. Получив свой "
+"титул, Мастера мечей ответственны за обучение молодых своему искусству, "
+"передавая из поколения в поколение славные военные традиции эрагвийцев."
 
 #. [unit_type]: id=Aragwaith Archer, race=aragwaith
 #: Naia/units/humans/Aragwaith_Archer.cfg:5
@@ -2489,7 +2477,6 @@ msgstr "Маг Хаоса"
 
 #. [unit_type]: id=Chaos Magus, race=human
 #: Naia/units/humans/Chaos_Invoker_Magus.cfg:25
-#, fuzzy
 msgid ""
 "When not busy sermonising their devout followers, the Chaos Magi put their "
 "craft to use supporting the Empire’s troops with fearsome infernal magic. "
@@ -2499,14 +2486,13 @@ msgid ""
 "death becomes paramount if they are to achieve — or surpass — the greatness "
 "of their elders."
 msgstr ""
-"Во время, когда они не заняты чтением проповедей своим покорным "
-"последователям, Маги Хаоса применяют своё мастерство для поддержки Имперских "
-"войск грозной инфернальной магией. За мощь, которую они несут, однако, "
-"приходится дорого платить: их тела постепенно поглощаются силой, не "
-"предназначенной быть когда-либо освоенной человеком, оставляя их уязвимыми к "
-"некоторым видам магии. Именно поэтому исследование новых методов бессмертия "
-"становится их главной целью, если они хотят достигнуть — или даже превзойти "
-"— могущество их учителей."
+"Во время, свободное от проповедей своим покорным последователям, Маги Хаоса "
+"применяют своё мастерство, чтобы поддерживать Имперские войска грозной "
+"инфернальной магией. За мощь, которую они несут, впрочем, приходится дорого "
+"платить: их тела постепенно поглощает сила, что не была предназначена для "
+"рода человеческого, оставляя их уязвимыми к некоторым видам магии. Именно "
+"поэтому исследование новых методов бессмертия становится их главной целью, "
+"если они хотят достигнуть — или даже превзойти — могущество их учителей."
 
 #. [unit_type]: id=Chaos Marauder, race=human
 #: Naia/units/humans/Chaos_Marauder.cfg:5
@@ -2599,6 +2585,16 @@ msgid ""
 "their skulls shattered by a red energy blast originating from the creatures’ "
 "maws, or are ripped to shreds in an instant by their teeth and claws."
 msgstr ""
+"Когда из всей тьмы чудовищ легионов Хаоса появляются самые устрашающие — эти "
+"чужеродные боевые твари, известные как ‘Шаксталы’, можно сказать наверняка: "
+"пленных Повелители решили не брать. С их неестественной силой и прочностью "
+"экзоскелета не сравнится ни одно живое существо из Ирдии, а то, что они "
+"способны с относительной лёгкостью опустошить вражеские армии и разрушить "
+"укрепления, делает Шаксталов превосходным сопровождением демонических орд. "
+"Немногие дураки, которые когда-то пытались сражаться с ними наедине, как "
+"правило, едва ли хоть что-то расскажут: чудовища либо дробят их черепа "
+"энергетическим ударом, происходящим из глаз этих тварей, либо просто в "
+"мгновения разрывают их на части зубами и когтями."
 
 #. [race]: id=shaxthal, description={SHAXTHAL_RACE_DESCRIPTION}
 #: Naia/units/shaxthal.cfg:9
@@ -2645,6 +2641,33 @@ msgid ""
 "Unbeknownst to them, the first race to discover their legacy would have no "
 "intention of using any of their findings for good."
 msgstr ""
+"Задолго до прибытия людей, продвинутая цивилизация, названная Аргазар, "
+"создала новую форму жизни, соединив качества всех известных им существ. Эти "
+"твари, известные как ‘непобедимые’ или ‘Шаксталы’, изначально должны были "
+"стать основой исследований для достижения бессмертия. Однако, враждебное "
+"государство Рутэ заставило Аргазаров приспособить их создания для военных "
+"целей, таким образом они привлекли внимание таинственного и могущественного "
+"врага.\n"
+"\n"
+"По прошествии сокрушительного удара, что практически стёр их цивилизацию с "
+"лица планеты и сделал воздух непригодным для дыхания, остаткам Аргазар "
+"пришлось бежать “за грань пустоты”, в первобытный мир под названием Ирдия. "
+"Жизнь на поверхности оказалась невозможной, поэтому Аргазары попытались "
+"возродить цивилизацию под землёй. В то же время немногие Шаксталы, которых "
+"они принесли с собой, неожиданно начали проявлять свой собственный разум и "
+"восстали против своих создателей. Со временем они стали поглощать выживших и "
+"порождать новые поколения со всё возрастающей сложностью тел.\n"
+"\n"
+"Когда от Аргазар осталось едва лишь несколько десятков, они наконец выяснили "
+"способ подрыва способности Шаксталов к размножению и истребили большинство "
+"существ — остаток вида поместили в состояние анабиоза для дальнейших "
+"исследований. Со временем последние представители народа умерли, однако их "
+"историки сохранили надежду, что когда-нибудь возникнет новая цивилизация, и "
+"она возродит Аргазар с помощью знаний, которые они записали во множестве "
+"кристаллов.\n"
+"\n"
+"Они и не догадывались, что первая раса, которая обнаружила их наследие, "
+"собиралась использовать его совсем не для добрых целей."
 
 #. [race]: id=aragwaith
 #: Naia/units/humans.cfg:5
@@ -3051,7 +3074,6 @@ msgstr "ужас"
 
 #. [leadership]: id=terror
 #: Naia/macros/abilities.cfg:118
-#, fuzzy
 msgid ""
 "This unit can frighten enemy units that are next to it, making them fight "
 "worse.\n"
@@ -3060,11 +3082,11 @@ msgid ""
 "enemy unit of lower level is adjacent and engages in combat, its attacks do "
 "15% less damage times the difference in their levels + 15%."
 msgstr ""
-"Этот воин вселяет ужас в находящихся рядом с ним вражеских бойцов, заставляя "
-"их сражаться хуже.\n"
+"Этот воин вселяет ужас в соседних с ним вражеских бойцов, заставляя их "
+"сражаться хуже.\n"
 "\n"
-"Когда вражеский воин меньшего или того же уровня находится рядом и участвует "
-"в бою, его атака причиняет на 15% меньше урона за каждый уровень в разнице."
+"Когда вражеский воин меньшего уровня находится рядом и участвует в бою, его "
+"атака причиняет на 15% меньше урона +15% за каждый уровень в разнице."
 
 #. [heals]: id=sylvan_essence_healing_and_curing
 #. [illuminates]: id=sylvan_essence_illum
@@ -3432,14 +3454,14 @@ msgstr ""
 "бойцов, так что удостоверьтесь, что они разрешены настройками (<b>Настройки</"
 "b> → <b>Графика</b>)."
 
-#. [advancement]: id={_ID}, description= 
+#. [advancement]: id={_ID}, description=
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr "‹Макс ОП +15%›"
 
 #: Naia/macros/amla.cfg:77
 msgid "Vitality: hitpoints +3"
-msgstr ""
+msgstr "Живучесть: +3 к здоровью"
 
 #. [color_range]: id=cyan
 #: Naia/core/display.cfg:11
