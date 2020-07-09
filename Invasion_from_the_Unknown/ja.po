@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-IftU 1.8.x\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-03 08:52 UTC\n"
+"POT-Creation-Date: 2020-07-09 10:38 UTC\n"
 "PO-Revision-Date: 2010-12-14 22:16+0900\n"
 "Last-Translator: R.N <dragonfly65th@yahoo.co.jp>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -27,41 +27,60 @@ msgstr ""
 "最初にマップ上のキャラクターを選択する時、彼らに関する簡潔な人物描写を見たい"
 "ですか？"
 
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:48
+msgid "End Campaign"
+msgstr ""
+
+#. [lua]: wesnoth.wml_actions.outro_teaser
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:216
+msgid ""
+"And thus, the group embarked upon a new quest.\n"
+"\n"
+"A quest not for blood, but for knowledge."
+msgstr ""
+
+#. [lua]: wesnoth.wml_actions.outro_teaser
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:220
+#, fuzzy
+msgid "Continued in..."
+msgstr "引き続きエピソード II をプレーする"
+
+#. [lua]: wesnoth.wml_actions.outro_teaser
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:220
+#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:68
+#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:69
+#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:70
+msgid "After the Storm"
+msgstr ""
+
+#. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:90
+#: Invasion_from_the_Unknown/_main.cfg:98
 #, fuzzy
 msgid "IftU"
 msgstr "IftU-1"
 
 #. [lua]: r
 #. [campaign]: id=Invasion_from_the_Unknown_unit_tree
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:96
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
-#: Invasion_from_the_Unknown/_main.cfg:158
-#: Invasion_from_the_Unknown/_main.cfg:94
+#: Invasion_from_the_Unknown/_main.cfg:166
+#: Invasion_from_the_Unknown/_main.cfg:102
 msgid "Invasion from the Unknown"
 msgstr "未知よりの侵略"
 
 #. [lua]: r
 #. [campaign]
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
-#: Invasion_from_the_Unknown/_main.cfg:120
+#: Invasion_from_the_Unknown/_main.cfg:128
 msgid "Episode I: Seeking the Light"
 msgstr "エピソードI：光を求めて"
 
 #. [lua]: r
 #. [scenario]: id=13x_Intermission
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:65
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:96
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
 #: Invasion_from_the_Unknown/scenarios/13x_Inter.cfg:5
@@ -71,16 +90,12 @@ msgstr "面白いわ。"
 
 #. [lua]: r
 #. [campaign]
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:134
+#: Invasion_from_the_Unknown/_main.cfg:142
 msgid "Episode II: Armageddon"
 msgstr "エピソードII：最終戦争"
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:67
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:68
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:69
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:68
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:69
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:70
@@ -88,19 +103,25 @@ msgid "AtS"
 msgstr ""
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:67
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:68
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:69
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:68
+#, fuzzy
+msgid "Episode I: Fear"
+msgstr "エピソードII：最終戦争"
+
+#. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:69
+#, fuzzy
+msgid "Episode II: Fate"
+msgstr "エピソードII：最終戦争"
+
+#. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:70
-msgid "After the Storm"
+msgid "Final"
 msgstr ""
 
 #. [lua]: r
 #. [scenario]: id=24_Epilogue
 #. [part]
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:70
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:71
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:5
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:596
@@ -108,57 +129,20 @@ msgid "Epilogue"
 msgstr "エピローグ"
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:148
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:123
 #, fuzzy
 msgid "Continue Playing"
 msgstr "引き続きエピソード II をプレーする"
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:159
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:134
 msgid "Quit Game"
-msgstr ""
-
-#. [lua]: wesnoth.wml_actions.character_class_prompt
-#: Invasion_from_the_Unknown/lua/gui/character_class_prompt.lua:133
-msgid "Go"
 msgstr ""
 
 #. [lua]: wesnoth.theme_items.unit_status
 #: Invasion_from_the_Unknown/lua/theme.lua:17
 msgid "dehydrated: This unit is dehydrated."
 msgstr ""
-
-#. [lua]: wesnoth.wml_actions.dehydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:72
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:77
-msgid "female^dehydrated"
-msgstr "渇いた"
-
-#. [lua]: wesnoth.wml_actions.dehydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:74
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:76
-msgid "dehydrated"
-msgstr "渇いた"
-
-#. [lua]: wesnoth.wml_actions.hydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:121
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:130
-#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:134
-msgid "female^refreshed"
-msgstr "回復した"
-
-#. [lua]: wesnoth.wml_actions.hydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:123
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:129
-#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:133
-msgid "refreshed"
-msgstr "回復した"
 
 #. [scenario]: id=19x_Crossroads
 #. [part]
@@ -1934,19 +1918,6 @@ msgstr ""
 msgid ""
 "No, no, it’s nothing like that. I just want to speak to my comrades again — "
 "it has been far too long since I last saw their faces."
-msgstr ""
-
-#. [transient_message]
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:260
-msgid ""
-"And thus, the group embarked upon a new quest.\n"
-"\n"
-"A quest not for blood, but for knowledge."
-msgstr ""
-
-#. [transient_message]
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:264
-msgid "Continued in <i>After the Storm</i>..."
 msgstr ""
 
 #. [scenario]: id=18_Ashes_of_Wesmere, type=Walking Corpse,Soulless, type=Walking Corpse,Soulless
@@ -15548,6 +15519,28 @@ msgstr "損害が吸収された"
 msgid "unpetrified"
 msgstr ""
 
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:76
+msgid "dehydrated"
+msgstr "渇いた"
+
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:77
+msgid "female^dehydrated"
+msgstr "渇いた"
+
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:129
+#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:133
+msgid "refreshed"
+msgstr "回復した"
+
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:130
+#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:134
+msgid "female^refreshed"
+msgstr "回復した"
+
 #: Invasion_from_the_Unknown/macros/character-defines.cfg:8
 msgid "Galas"
 msgstr "Galas"
@@ -16502,26 +16495,26 @@ msgstr ""
 msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:93
+#: Invasion_from_the_Unknown/_main.cfg:101
 msgid "To be continued..."
 msgstr "続く……"
 
-#: Invasion_from_the_Unknown/_main.cfg:112
+#: Invasion_from_the_Unknown/_main.cfg:120
 #, fuzzy
 msgid "Easy"
 msgstr "（簡単）"
 
-#: Invasion_from_the_Unknown/_main.cfg:113
+#: Invasion_from_the_Unknown/_main.cfg:121
 #, fuzzy
 msgid "Normal"
 msgstr "（普通）"
 
-#: Invasion_from_the_Unknown/_main.cfg:114
+#: Invasion_from_the_Unknown/_main.cfg:122
 msgid "Hard"
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:120
+#: Invasion_from_the_Unknown/_main.cfg:128
 msgid ""
 "Long after the Fall, the last forest elves on the Great Continent are forced "
 "to abandon their secluded home and forge an unprecedented alliance in hopes "
@@ -16533,25 +16526,25 @@ msgid ""
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:136
 #, fuzzy
 msgid "difficulty_menu^Ascetic"
 msgstr "隊長"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:129
+#: Invasion_from_the_Unknown/_main.cfg:137
 #, fuzzy
 msgid "difficulty_menu^Mystic"
 msgstr "元帥"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:130
+#: Invasion_from_the_Unknown/_main.cfg:138
 #, fuzzy
 msgid "difficulty_menu^Avatar"
 msgstr "隊長"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:134
+#: Invasion_from_the_Unknown/_main.cfg:142
 #, fuzzy
 msgid ""
 "As the dark veil of Chaos engulfs the land, an assorted group of foolish "
@@ -16566,19 +16559,19 @@ msgstr ""
 "な生者と死者の戦士達を勝利に導き、失われた歴史の秘密を再発見せよ。"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:143
+#: Invasion_from_the_Unknown/_main.cfg:151
 #, fuzzy
 msgid "difficulty_menu^Disciple"
 msgstr "戦士"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:144
+#: Invasion_from_the_Unknown/_main.cfg:152
 #, fuzzy
 msgid "difficulty_menu^Lich"
 msgstr "戦士"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:145
+#: Invasion_from_the_Unknown/_main.cfg:153
 #, fuzzy
 msgid "difficulty_menu^Ancient Lich"
 msgstr "戦士"

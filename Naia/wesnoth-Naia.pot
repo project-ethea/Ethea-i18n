@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 20200628+dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-03 08:52 UTC\n"
+"POT-Creation-Date: 2020-07-09 10:38 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,52 +31,59 @@ msgid "advancements^All"
 msgstr ""
 
 #. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:335
+msgid "Not all advancements for this unit are available yet"
+msgstr ""
+
+#. [lua]: amla
 #. [set_menu_item]: id=amla_menu
-#: Naia/lua/gui/amla_list.lua:366
+#: Naia/lua/gui/amla_list.lua:384
 #: Naia/macros/amla.cfg:6
 msgid "Unit Advancements"
 msgstr ""
 
+#. [lua]: amla
+#: Naia/lua/gui/amla_list.lua:412
+msgid "advancements^Preview selected"
+msgstr ""
+
 #. [lua]: pango_amla_counted_list
-#: Naia/lua/gui/amla_list.lua:470
+#: Naia/lua/gui/amla_list.lua:505
 msgid "unknown AMLA"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:814
+#: Naia/lua/gui/amla_list.lua:858
 msgid "advancements^disabled by:"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:818
+#: Naia/lua/gui/amla_list.lua:862
 msgid "advancements^requires:"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:826
+#: Naia/lua/gui/amla_list.lua:870
 msgid "advancements^max. times:"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:852
+#: Naia/lua/gui/amla_list.lua:896
 msgid "advancements^Advance to: %s"
 msgstr ""
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:180
-#: Naia/lua/gui/feedback.lua:132
 msgid "An inconsistency has been detected, and the scenario might not continue working as originally intended."
 msgstr ""
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:181
-#: Naia/lua/gui/feedback.lua:133
 msgid "The following WML condition was unexpectedly reached:"
 msgstr ""
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:185
-#: Naia/lua/gui/feedback.lua:140
 msgid "Message:"
 msgstr ""
 
@@ -92,13 +99,11 @@ msgstr ""
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:210
-#: Naia/lua/gui/feedback.lua:146
 msgid "Error"
 msgstr ""
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:211
-#: Naia/lua/gui/feedback.lua:147
 msgid "Details"
 msgstr ""
 
@@ -108,13 +113,8 @@ msgid "Notice"
 msgstr ""
 
 #. [lua]: wesnoth.wml_actions.item_prompt
-#: Naia/lua/gui/item_prompt.lua:139
+#: Naia/lua/gui/item_prompt.lua:140
 msgid "Do you want this unit to pick up this item?"
-msgstr ""
-
-#. [lua]: preshow
-#: Naia/lua/gui/feedback.lua:136
-msgid "Please report this to the campaign maintainer!"
 msgstr ""
 
 #. [lua]: do_host_minimum_version_unmet
@@ -2015,7 +2015,7 @@ msgstr ""
 #: Naia/terrain.cfg:57
 #: Naia/terrain.cfg:66
 #: Naia/terrain.cfg:76
-#: Naia/terrain.cfg:273
+#: Naia/terrain.cfg:278
 msgid "Dark Hive"
 msgstr ""
 
@@ -2042,69 +2042,69 @@ msgid "Banner (Uria)"
 msgstr ""
 
 #. [terrain_type]: id=overlay-banner-merthiaal
-#: Naia/terrain.cfg:127
+#: Naia/terrain.cfg:128
 msgid "Banner (Merthiaal)"
 msgstr ""
 
 #. [terrain_type]: id=overlay-statue-adavyan
-#: Naia/terrain.cfg:136
+#: Naia/terrain.cfg:138
 msgid "Statue (Adavyan)"
 msgstr ""
 
 #. [terrain_type]: id=overlay-stone-wall-moss-se
 #. [terrain_type]: id=overlay-stone-wall-moss-sw
-#: Naia/terrain.cfg:147
-#: Naia/terrain.cfg:158
+#: Naia/terrain.cfg:150
+#: Naia/terrain.cfg:161
 msgid "Wall Moss"
 msgstr ""
 
 #. [terrain_type]: id=overlay-gate-se
 #. [terrain_type]: id=overlay-gate-sw
-#: Naia/terrain.cfg:171
-#: Naia/terrain.cfg:181
+#: Naia/terrain.cfg:174
+#: Naia/terrain.cfg:184
 msgid "Gate"
 msgstr ""
 
 #. [terrain_type]: id=portal_gate_golden_sw
 #. [terrain_type]: id=portal_gate_golden_se
 #. [terrain_type]: id=portal_gate_golden_n
-#: Naia/terrain.cfg:198
-#: Naia/terrain.cfg:210
-#: Naia/terrain.cfg:223
+#: Naia/terrain.cfg:201
+#: Naia/terrain.cfg:214
+#: Naia/terrain.cfg:227
 msgid "Event Gate"
 msgstr ""
 
 #. [terrain_type]: id=portal_gate_golden_open_sw
 #. [terrain_type]: id=portal_gate_golden_open_se
 #. [terrain_type]: id=portal_gate_golden_open_n
-#: Naia/terrain.cfg:236
-#: Naia/terrain.cfg:247
-#: Naia/terrain.cfg:259
+#: Naia/terrain.cfg:240
+#: Naia/terrain.cfg:252
+#: Naia/terrain.cfg:264
 msgid "Open Event Gate"
 msgstr ""
 
 #. [terrain_type]: id=overlay-pit
-#: Naia/terrain.cfg:272
+#: Naia/terrain.cfg:277
 msgid "Hive Cell"
 msgstr ""
 
 #. [terrain_type]: id=overlay-flat
-#: Naia/terrain.cfg:286
+#: Naia/terrain.cfg:292
 msgid "Flat Overlay"
 msgstr ""
 
 #. [terrain_type]: id=overlay-rough
-#: Naia/terrain.cfg:298
+#: Naia/terrain.cfg:304
 msgid "Rough Overlay"
 msgstr ""
 
 #. [terrain_type]: id=overlay-fakeshroud
-#: Naia/terrain.cfg:309
+#: Naia/terrain.cfg:315
 msgid "Fake Shroud"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:100
+#: Naia/loader.cfg:99
 msgid "Project Ethea"
 msgstr ""
 

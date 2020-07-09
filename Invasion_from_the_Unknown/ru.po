@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-03 08:52 UTC\n"
+"POT-Creation-Date: 2020-07-09 10:38 UTC\n"
 "PO-Revision-Date: 2020-07-09 10:07+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -28,40 +28,62 @@ msgstr ""
 "Вы хотите видеть краткое описание персонажа, когда впервые выбираете его на "
 "карте?"
 
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:48
+msgid "End Campaign"
+msgstr ""
+
+#. [lua]: wesnoth.wml_actions.outro_teaser
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:216
+msgid ""
+"And thus, the group embarked upon a new quest.\n"
+"\n"
+"A quest not for blood, but for knowledge."
+msgstr ""
+"Итак, отряд отправился в новый поход.\n"
+"\n"
+"Не ради крови, а ради знаний."
+
+#. [lua]: wesnoth.wml_actions.outro_teaser
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:220
+#, fuzzy
+msgid "Continued in..."
+msgstr "Продолжить игру"
+
+#. [lua]: wesnoth.wml_actions.outro_teaser
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:220
+#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:68
+#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:69
+#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:70
+msgid "After the Storm"
+msgstr "После Бури"
+
+#. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:90
+#: Invasion_from_the_Unknown/_main.cfg:98
 msgid "IftU"
 msgstr "ВизН"
 
 #. [lua]: r
 #. [campaign]: id=Invasion_from_the_Unknown_unit_tree
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:96
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
-#: Invasion_from_the_Unknown/_main.cfg:158
-#: Invasion_from_the_Unknown/_main.cfg:94
+#: Invasion_from_the_Unknown/_main.cfg:166
+#: Invasion_from_the_Unknown/_main.cfg:102
 msgid "Invasion from the Unknown"
 msgstr "Вторжение из Неведомого"
 
 #. [lua]: r
 #. [campaign]
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
-#: Invasion_from_the_Unknown/_main.cfg:120
+#: Invasion_from_the_Unknown/_main.cfg:128
 msgid "Episode I: Seeking the Light"
 msgstr "Эпизод I: В поисках Света"
 
 #. [lua]: r
 #. [scenario]: id=13x_Intermission
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:65
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:96
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
 #: Invasion_from_the_Unknown/scenarios/13x_Inter.cfg:5
@@ -70,16 +92,12 @@ msgstr "Интермиссия"
 
 #. [lua]: r
 #. [campaign]
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:134
+#: Invasion_from_the_Unknown/_main.cfg:142
 msgid "Episode II: Armageddon"
 msgstr "Эпизод II: Армагеддон"
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:67
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:68
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:69
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:68
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:69
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:70
@@ -87,19 +105,25 @@ msgid "AtS"
 msgstr "ПБ"
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:67
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:68
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:69
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:68
+#, fuzzy
+msgid "Episode I: Fear"
+msgstr "Эпизод II: Армагеддон"
+
+#. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:69
+#, fuzzy
+msgid "Episode II: Fate"
+msgstr "Эпизод II: Армагеддон"
+
+#. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:70
-msgid "After the Storm"
-msgstr "После Бури"
+msgid "Final"
+msgstr ""
 
 #. [lua]: r
 #. [scenario]: id=24_Epilogue
 #. [part]
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:70
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:71
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:5
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:596
@@ -107,56 +131,19 @@ msgid "Epilogue"
 msgstr "Эпилог"
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:148
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:123
 msgid "Continue Playing"
 msgstr "Продолжить игру"
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:159
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:134
 msgid "Quit Game"
 msgstr "Выйти из игры"
-
-#. [lua]: wesnoth.wml_actions.character_class_prompt
-#: Invasion_from_the_Unknown/lua/gui/character_class_prompt.lua:133
-msgid "Go"
-msgstr "Да"
 
 #. [lua]: wesnoth.theme_items.unit_status
 #: Invasion_from_the_Unknown/lua/theme.lua:17
 msgid "dehydrated: This unit is dehydrated."
 msgstr "обезвоживание: Этот боец обезвожен"
-
-#. [lua]: wesnoth.wml_actions.dehydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:72
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:77
-msgid "female^dehydrated"
-msgstr "обезвожена"
-
-#. [lua]: wesnoth.wml_actions.dehydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:74
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:76
-msgid "dehydrated"
-msgstr "обезвожен"
-
-#. [lua]: wesnoth.wml_actions.hydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:121
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:130
-#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:134
-msgid "female^refreshed"
-msgstr "освежилась"
-
-#. [lua]: wesnoth.wml_actions.hydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:123
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:129
-#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:133
-msgid "refreshed"
-msgstr "освежился"
 
 #. [scenario]: id=19x_Crossroads
 #. [part]
@@ -2141,22 +2128,6 @@ msgid ""
 msgstr ""
 "Нет, нет, ничего подобного. Я лишь хочу вновь с ними поговорить — я так "
 "давно не видел их лица."
-
-#. [transient_message]
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:260
-msgid ""
-"And thus, the group embarked upon a new quest.\n"
-"\n"
-"A quest not for blood, but for knowledge."
-msgstr ""
-"Итак, отряд отправился в новый поход.\n"
-"\n"
-"Не ради крови, а ради знаний."
-
-#. [transient_message]
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:264
-msgid "Continued in <i>After the Storm</i>..."
-msgstr "Продолжение следует в <i>После Бури</i> (“After the Storm”) …"
 
 #. [scenario]: id=18_Ashes_of_Wesmere, type=Walking Corpse,Soulless, type=Walking Corpse,Soulless
 #. [part]
@@ -18416,6 +18387,28 @@ msgstr "урон поглощён"
 msgid "unpetrified"
 msgstr "освобождён"
 
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:76
+msgid "dehydrated"
+msgstr "обезвожен"
+
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:77
+msgid "female^dehydrated"
+msgstr "обезвожена"
+
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:129
+#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:133
+msgid "refreshed"
+msgstr "освежился"
+
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:130
+#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:134
+msgid "female^refreshed"
+msgstr "освежилась"
+
 #: Invasion_from_the_Unknown/macros/character-defines.cfg:8
 msgid "Galas"
 msgstr "Галас"
@@ -19399,24 +19392,24 @@ msgstr "для Битвы за Веснот 1.14"
 msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
 msgstr "Аддон с музыкой “<i>IftU Music</i>” <b>не установлен</b>."
 
-#: Invasion_from_the_Unknown/_main.cfg:93
+#: Invasion_from_the_Unknown/_main.cfg:101
 msgid "To be continued..."
 msgstr "Продолжение следует..."
 
-#: Invasion_from_the_Unknown/_main.cfg:112
+#: Invasion_from_the_Unknown/_main.cfg:120
 msgid "Easy"
 msgstr "Лёгкий"
 
-#: Invasion_from_the_Unknown/_main.cfg:113
+#: Invasion_from_the_Unknown/_main.cfg:121
 msgid "Normal"
 msgstr "Нормальный"
 
-#: Invasion_from_the_Unknown/_main.cfg:114
+#: Invasion_from_the_Unknown/_main.cfg:122
 msgid "Hard"
 msgstr "Сложный"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:120
+#: Invasion_from_the_Unknown/_main.cfg:128
 msgid ""
 "Long after the Fall, the last forest elves on the Great Continent are forced "
 "to abandon their secluded home and forge an unprecedented alliance in hopes "
@@ -19434,22 +19427,22 @@ msgstr ""
 "(Средний уровень сложности, 13 сценариев.)"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:136
 msgid "difficulty_menu^Ascetic"
 msgstr "Отшельница"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:129
+#: Invasion_from_the_Unknown/_main.cfg:137
 msgid "difficulty_menu^Mystic"
 msgstr "Посвящённая"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:130
+#: Invasion_from_the_Unknown/_main.cfg:138
 msgid "difficulty_menu^Avatar"
 msgstr "Воплощённая"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:134
+#: Invasion_from_the_Unknown/_main.cfg:142
 msgid ""
 "As the dark veil of Chaos engulfs the land, an assorted group of foolish "
 "heroes prepares a counter-attack against their enemies with one unique goal "
@@ -19466,17 +19459,17 @@ msgstr ""
 "(Средний уровень сложности, 10 сценариев.)"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:143
+#: Invasion_from_the_Unknown/_main.cfg:151
 msgid "difficulty_menu^Disciple"
 msgstr "Тёмный маг"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:144
+#: Invasion_from_the_Unknown/_main.cfg:152
 msgid "difficulty_menu^Lich"
 msgstr "Лич"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:145
+#: Invasion_from_the_Unknown/_main.cfg:153
 msgid "difficulty_menu^Ancient Lich"
 msgstr "Древний лич"
 
@@ -19519,6 +19512,12 @@ msgstr "Отдельное спасибо"
 #: Invasion_from_the_Unknown/about.cfg:309
 msgid "You, for playing this campaign"
 msgstr "Вам, за игру в эту кампанию"
+
+#~ msgid "Go"
+#~ msgstr "Да"
+
+#~ msgid "Continued in <i>After the Storm</i>..."
+#~ msgstr "Продолжение следует в <i>После Бури</i> (“After the Storm”) …"
 
 #~ msgid "Vitality: hitpoints +3 ‹Max XP +20%›"
 #~ msgstr "Живучесть: макс. здоровье +3 ‹Макс ОП +20%›"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-03 08:52 UTC\n"
+"POT-Creation-Date: 2020-07-09 10:38 UTC\n"
 "PO-Revision-Date: 2009-11-22 11:49+0100\n"
 "Last-Translator: Kádár-Németh Krisztián <krisztian.kad@gmail.com>\n"
 "Language-Team: Hungarian <wesnoth-hungtrans@gna.org>\n"
@@ -30,42 +30,65 @@ msgstr ""
 "Szeretnéd, ha a hősök első kiválasztásakor egy rövid jellemzés jelenne meg "
 "róluk?"
 
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:48
+msgid "End Campaign"
+msgstr ""
+
+#. [lua]: wesnoth.wml_actions.outro_teaser
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:216
+#, fuzzy
+msgid ""
+"And thus, the group embarked upon a new quest.\n"
+"\n"
+"A quest not for blood, but for knowledge."
+msgstr ""
+"És így hőseink egy új utazásra indultak; nem a vérszomj, hanem a tudásvágy "
+"vezérelte őket. A vihar után...vihar után..."
+
+#. [lua]: wesnoth.wml_actions.outro_teaser
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:220
+#, fuzzy
+msgid "Continued in..."
+msgstr "Folytatás a II. résszel"
+
+#. [lua]: wesnoth.wml_actions.outro_teaser
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
+#: Invasion_from_the_Unknown/lua/gui/outro_teaser.lua:220
+#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:68
+#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:69
+#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:70
+#, fuzzy
+msgid "After the Storm"
+msgstr "éteri vihar"
+
+#. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:90
+#: Invasion_from_the_Unknown/_main.cfg:98
 #, fuzzy
 msgid "IftU"
 msgstr "RI-1"
 
 #. [lua]: r
 #. [campaign]: id=Invasion_from_the_Unknown_unit_tree
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:96
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
-#: Invasion_from_the_Unknown/_main.cfg:158
-#: Invasion_from_the_Unknown/_main.cfg:94
+#: Invasion_from_the_Unknown/_main.cfg:166
+#: Invasion_from_the_Unknown/_main.cfg:102
 msgid "Invasion from the Unknown"
 msgstr "Rejtélyes invázió"
 
 #. [lua]: r
 #. [campaign]
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
-#: Invasion_from_the_Unknown/_main.cfg:120
+#: Invasion_from_the_Unknown/_main.cfg:128
 #, fuzzy
 msgid "Episode I: Seeking the Light"
 msgstr "A Világosság keresése"
 
 #. [lua]: r
 #. [scenario]: id=13x_Intermission
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:65
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:96
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
 #: Invasion_from_the_Unknown/scenarios/13x_Inter.cfg:5
@@ -75,17 +98,13 @@ msgstr "Érdekes."
 
 #. [lua]: r
 #. [campaign]
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:134
+#: Invasion_from_the_Unknown/_main.cfg:142
 #, fuzzy
 msgid "Episode II: Armageddon"
 msgstr "II. rész "
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:67
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:68
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:69
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:68
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:69
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:70
@@ -93,20 +112,25 @@ msgid "AtS"
 msgstr ""
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:67
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:68
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:69
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:68
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:69
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:70
 #, fuzzy
-msgid "After the Storm"
-msgstr "éteri vihar"
+msgid "Episode I: Fear"
+msgstr "I. rész"
+
+#. [lua]: r
+#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:69
+#, fuzzy
+msgid "Episode II: Fate"
+msgstr "I. rész"
+
+#. [lua]: r
+#: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:70
+msgid "Final"
+msgstr ""
 
 #. [lua]: r
 #. [scenario]: id=24_Epilogue
 #. [part]
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:70
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:71
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:5
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:596
@@ -114,57 +138,20 @@ msgid "Epilogue"
 msgstr "Epilógus"
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:148
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:123
 #, fuzzy
 msgid "Continue Playing"
 msgstr "Folytatás a II. résszel"
 
 #. [lua]: r
-#: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:159
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:134
 msgid "Quit Game"
-msgstr ""
-
-#. [lua]: wesnoth.wml_actions.character_class_prompt
-#: Invasion_from_the_Unknown/lua/gui/character_class_prompt.lua:133
-msgid "Go"
 msgstr ""
 
 #. [lua]: wesnoth.theme_items.unit_status
 #: Invasion_from_the_Unknown/lua/theme.lua:17
 msgid "dehydrated: This unit is dehydrated."
 msgstr ""
-
-#. [lua]: wesnoth.wml_actions.dehydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:72
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:77
-msgid "female^dehydrated"
-msgstr "kiszáradás"
-
-#. [lua]: wesnoth.wml_actions.dehydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:74
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:76
-msgid "dehydrated"
-msgstr "kiszáradás"
-
-#. [lua]: wesnoth.wml_actions.hydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:121
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:130
-#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:134
-msgid "female^refreshed"
-msgstr "felfrissülés"
-
-#. [lua]: wesnoth.wml_actions.hydrate_unit
-#. [unstore_unit]
-#: Invasion_from_the_Unknown/lua/dehydration.lua:123
-#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:129
-#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:133
-msgid "refreshed"
-msgstr "felfrissülés"
 
 #. [scenario]: id=19x_Crossroads
 #. [part]
@@ -1973,22 +1960,6 @@ msgstr ""
 msgid ""
 "No, no, it’s nothing like that. I just want to speak to my comrades again — "
 "it has been far too long since I last saw their faces."
-msgstr ""
-
-#. [transient_message]
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:260
-#, fuzzy
-msgid ""
-"And thus, the group embarked upon a new quest.\n"
-"\n"
-"A quest not for blood, but for knowledge."
-msgstr ""
-"És így hőseink egy új utazásra indultak; nem a vérszomj, hanem a tudásvágy "
-"vezérelte őket. A vihar után...vihar után..."
-
-#. [transient_message]
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:264
-msgid "Continued in <i>After the Storm</i>..."
 msgstr ""
 
 #. [scenario]: id=18_Ashes_of_Wesmere, type=Walking Corpse,Soulless, type=Walking Corpse,Soulless
@@ -16037,6 +16008,28 @@ msgstr "elnyelt ütés"
 msgid "unpetrified"
 msgstr ""
 
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:76
+msgid "dehydrated"
+msgstr "kiszáradás"
+
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:77
+msgid "female^dehydrated"
+msgstr "kiszáradás"
+
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:129
+#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:133
+msgid "refreshed"
+msgstr "felfrissülés"
+
+#. [unstore_unit]
+#: Invasion_from_the_Unknown/macros/dehydration-implementation.cfg:130
+#: Invasion_from_the_Unknown/macros/dehydration-utils.cfg:134
+msgid "female^refreshed"
+msgstr "felfrissülés"
+
 #: Invasion_from_the_Unknown/macros/character-defines.cfg:8
 msgid "Galas"
 msgstr "Galas"
@@ -17002,25 +16995,25 @@ msgstr ""
 msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:93
+#: Invasion_from_the_Unknown/_main.cfg:101
 msgid "To be continued..."
 msgstr "Folytatása következik..."
 
-#: Invasion_from_the_Unknown/_main.cfg:112
+#: Invasion_from_the_Unknown/_main.cfg:120
 msgid "Easy"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:113
+#: Invasion_from_the_Unknown/_main.cfg:121
 #, fuzzy
 msgid "Normal"
 msgstr "(Átlagos)"
 
-#: Invasion_from_the_Unknown/_main.cfg:114
+#: Invasion_from_the_Unknown/_main.cfg:122
 msgid "Hard"
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:120
+#: Invasion_from_the_Unknown/_main.cfg:128
 msgid ""
 "Long after the Fall, the last forest elves on the Great Continent are forced "
 "to abandon their secluded home and forge an unprecedented alliance in hopes "
@@ -17032,25 +17025,25 @@ msgid ""
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:136
 #, fuzzy
 msgid "difficulty_menu^Ascetic"
 msgstr "Kapitány"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:129
+#: Invasion_from_the_Unknown/_main.cfg:137
 #, fuzzy
 msgid "difficulty_menu^Mystic"
 msgstr "Marsall"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:130
+#: Invasion_from_the_Unknown/_main.cfg:138
 #, fuzzy
 msgid "difficulty_menu^Avatar"
 msgstr "Kapitány"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:134
+#: Invasion_from_the_Unknown/_main.cfg:142
 #, fuzzy
 msgid ""
 "As the dark veil of Chaos engulfs the land, an assorted group of foolish "
@@ -17067,19 +17060,19 @@ msgstr ""
 "elveszett titkait."
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:143
+#: Invasion_from_the_Unknown/_main.cfg:151
 #, fuzzy
 msgid "difficulty_menu^Disciple"
 msgstr "Harcos"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:144
+#: Invasion_from_the_Unknown/_main.cfg:152
 #, fuzzy
 msgid "difficulty_menu^Lich"
 msgstr "Harcos"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:145
+#: Invasion_from_the_Unknown/_main.cfg:153
 #, fuzzy
 msgid "difficulty_menu^Ancient Lich"
 msgstr "Harcos"
@@ -21105,9 +21098,6 @@ msgstr "Neked, aki játszol a hadjárattal"
 
 #~ msgid "Enzal"
 #~ msgstr "Enzal"
-
-#~ msgid "Episode I:"
-#~ msgstr "I. rész"
 
 #~ msgid ""
 #~ "Er, as Althurin said, it's not a children playground. Nasty unspeakable "
