@@ -1,18 +1,18 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-07-03 08:52 UTC\n"
-"PO-Revision-Date: 2020-05-17 13:38+0300\n"
+"PO-Revision-Date: 2020-07-09 10:07+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
-"Language-Team: none\n"
+"Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #. [lua]: wesnoth.wml_actions.character_descriptions_prompt
 #: Invasion_from_the_Unknown/lua/gui/character_descriptions_prompt.lua:23
@@ -18759,6 +18759,10 @@ msgid ""
 "Maximum Level Advancements (AMLAs)</b>. You can learn more about those by "
 "right-clicking her and choosing the <b>Unit Advancements</b> option."
 msgstr ""
+"Будучи бойцом высокого уровня под вашим управлением, Анлиндэ обладает "
+"особыми <b>Улучшениями После Максимального Уровня (УПМУ)</b>. Вы можете "
+"узнать о них больше, нажав на неё правой кнопкой мыши и выбрав в списке "
+"<b>Продвижение Бойца</b>."
 
 #. [transient_message]
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:126
@@ -18767,6 +18771,10 @@ msgid ""
 "Level Advancements (AMLAs)</b>. You can learn more about those by right-"
 "clicking her and choosing the <b>Unit Advancements</b> option."
 msgstr ""
+"Будучи бойцом высокого уровня под вашим управлением, Элиния обладает особыми "
+"<b>Улучшениями После Максимального Уровня (УПМУ)</b>. Вы можете узнать о них "
+"больше, нажав на неё правой кнопкой мыши и выбрав в списке <b>Продвижение "
+"Бойца</b>."
 
 #: Invasion_from_the_Unknown/macros/objective-utils.cfg:10
 msgid "Initial objectives:"
@@ -19427,21 +19435,18 @@ msgstr ""
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:128
-#, fuzzy
 msgid "difficulty_menu^Ascetic"
-msgstr "Капитан"
+msgstr "Отшельница"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:129
-#, fuzzy
 msgid "difficulty_menu^Mystic"
-msgstr "Маршал"
+msgstr "Посвящённая"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:130
-#, fuzzy
 msgid "difficulty_menu^Avatar"
-msgstr "Капитан"
+msgstr "Воплощённая"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:134
@@ -19462,21 +19467,18 @@ msgstr ""
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:143
-#, fuzzy
 msgid "difficulty_menu^Disciple"
-msgstr "Новобранец"
+msgstr "Тёмный маг"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:144
-#, fuzzy
 msgid "difficulty_menu^Lich"
-msgstr "Новобранец"
+msgstr "Лич"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:145
-#, fuzzy
 msgid "difficulty_menu^Ancient Lich"
-msgstr "Новобранец"
+msgstr "Древний лич"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:7
@@ -19496,7 +19498,7 @@ msgstr "Графика"
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:194
 msgid "Aragwaith Faction"
-msgstr "Фракция Эрагвийцев"
+msgstr "Фракция Эрагвиецев"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:205

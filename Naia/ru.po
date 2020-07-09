@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-07-03 08:52 UTC\n"
-"PO-Revision-Date: 2020-06-27 12:57+0300\n"
+"PO-Revision-Date: 2020-07-09 09:59+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
-"Language-Team: none\n"
+"Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3506,17 +3506,17 @@ msgstr "Тёмный Улей"
 #. [terrain_type]: id=overlay-great-tree-oak-dead
 #: Naia/terrain.cfg:94 Naia/terrain.cfg:106
 msgid "Great Tree"
-msgstr ""
+msgstr "Большое дерево"
 
 #. [terrain_type]: id=overlay-great-tree-snow
 #: Naia/terrain.cfg:95
 msgid "Snowy Great Tree"
-msgstr ""
+msgstr "Заснеженное большое дерево"
 
 #. [terrain_type]: id=overlay-great-tree-oak-dead
 #: Naia/terrain.cfg:107
 msgid "Dead Great Oak Tree"
-msgstr ""
+msgstr "Мёртвое большое дерево дуба"
 
 #. [terrain_type]: id=overlay-banner-uria
 #: Naia/terrain.cfg:118
