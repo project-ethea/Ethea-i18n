@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-25 01:05 UTC\n"
+"POT-Creation-Date: 2020-07-03 08:52 UTC\n"
 "PO-Revision-Date: 2008-12-30 08:03+0200\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
@@ -45,22 +45,22 @@ msgid "unknown AMLA"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:790
+#: Naia/lua/gui/amla_list.lua:814
 msgid "advancements^disabled by:"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:794
+#: Naia/lua/gui/amla_list.lua:818
 msgid "advancements^requires:"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:802
+#: Naia/lua/gui/amla_list.lua:826
 msgid "advancements^max. times:"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:828
+#: Naia/lua/gui/amla_list.lua:852
 msgid "advancements^Advance to: %s"
 msgstr ""
 
@@ -2827,12 +2827,12 @@ msgid "Wasteland"
 msgstr "Bataklık"
 
 #. [terrain_type]: id=earthy_rocky_cave
-#: Naia/terrain.cfg:30
+#: Naia/terrain.cfg:31
 msgid "Earthy Rockbound Cave"
 msgstr ""
 
 #. [terrain_type]: id=abyss-volcanic
-#: Naia/terrain.cfg:42
+#: Naia/terrain.cfg:44
 msgid "Volcanic Abyss"
 msgstr ""
 
@@ -2840,70 +2840,86 @@ msgstr ""
 #. [terrain_type]: id=dark-hive-surface
 #. [terrain_type]: id=dark-hive-lair
 #. [terrain_type]: id=overlay-pit
-#: Naia/terrain.cfg:55 Naia/terrain.cfg:64 Naia/terrain.cfg:74
-#: Naia/terrain.cfg:247
+#: Naia/terrain.cfg:57 Naia/terrain.cfg:66 Naia/terrain.cfg:76
+#: Naia/terrain.cfg:273
 msgid "Dark Hive"
 msgstr "Karanlık Kovan"
 
+#. [terrain_type]: id=overlay-great-tree-snow
+#. [terrain_type]: id=overlay-great-tree-oak-dead
+#: Naia/terrain.cfg:94 Naia/terrain.cfg:106
+msgid "Great Tree"
+msgstr ""
+
+#. [terrain_type]: id=overlay-great-tree-snow
+#: Naia/terrain.cfg:95
+msgid "Snowy Great Tree"
+msgstr ""
+
+#. [terrain_type]: id=overlay-great-tree-oak-dead
+#: Naia/terrain.cfg:107
+msgid "Dead Great Oak Tree"
+msgstr ""
+
 #. [terrain_type]: id=overlay-banner-uria
-#: Naia/terrain.cfg:92
+#: Naia/terrain.cfg:118
 msgid "Banner (Uria)"
 msgstr ""
 
 #. [terrain_type]: id=overlay-banner-merthiaal
-#: Naia/terrain.cfg:101
+#: Naia/terrain.cfg:127
 msgid "Banner (Merthiaal)"
 msgstr ""
 
 #. [terrain_type]: id=overlay-statue-adavyan
-#: Naia/terrain.cfg:110
+#: Naia/terrain.cfg:136
 msgid "Statue (Adavyan)"
 msgstr ""
 
 #. [terrain_type]: id=overlay-stone-wall-moss-se
 #. [terrain_type]: id=overlay-stone-wall-moss-sw
-#: Naia/terrain.cfg:121 Naia/terrain.cfg:132
+#: Naia/terrain.cfg:147 Naia/terrain.cfg:158
 msgid "Wall Moss"
 msgstr ""
 
 #. [terrain_type]: id=overlay-gate-se
 #. [terrain_type]: id=overlay-gate-sw
-#: Naia/terrain.cfg:145 Naia/terrain.cfg:155
+#: Naia/terrain.cfg:171 Naia/terrain.cfg:181
 msgid "Gate"
 msgstr "Geçit"
 
 #. [terrain_type]: id=portal_gate_golden_sw
 #. [terrain_type]: id=portal_gate_golden_se
 #. [terrain_type]: id=portal_gate_golden_n
-#: Naia/terrain.cfg:172 Naia/terrain.cfg:184 Naia/terrain.cfg:197
+#: Naia/terrain.cfg:198 Naia/terrain.cfg:210 Naia/terrain.cfg:223
 msgid "Event Gate"
 msgstr ""
 
 #. [terrain_type]: id=portal_gate_golden_open_sw
 #. [terrain_type]: id=portal_gate_golden_open_se
 #. [terrain_type]: id=portal_gate_golden_open_n
-#: Naia/terrain.cfg:210 Naia/terrain.cfg:221 Naia/terrain.cfg:233
+#: Naia/terrain.cfg:236 Naia/terrain.cfg:247 Naia/terrain.cfg:259
 msgid "Open Event Gate"
 msgstr ""
 
 #. [terrain_type]: id=overlay-pit
-#: Naia/terrain.cfg:246
+#: Naia/terrain.cfg:272
 #, fuzzy
 msgid "Hive Cell"
 msgstr "Kovan Nöbetçisi"
 
 #. [terrain_type]: id=overlay-flat
-#: Naia/terrain.cfg:260
+#: Naia/terrain.cfg:286
 msgid "Flat Overlay"
 msgstr ""
 
 #. [terrain_type]: id=overlay-rough
-#: Naia/terrain.cfg:272
+#: Naia/terrain.cfg:298
 msgid "Rough Overlay"
 msgstr ""
 
 #. [terrain_type]: id=overlay-fakeshroud
-#: Naia/terrain.cfg:283
+#: Naia/terrain.cfg:309
 msgid "Fake Shroud"
 msgstr ""
 

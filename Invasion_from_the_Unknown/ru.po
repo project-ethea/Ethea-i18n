@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-06-21 06:46 UTC\n"
+"POT-Creation-Date: 2020-07-03 08:52 UTC\n"
 "PO-Revision-Date: 2020-05-17 13:38+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: none\n"
@@ -33,7 +33,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:98
+#: Invasion_from_the_Unknown/_main.cfg:90
 msgid "IftU"
 msgstr "ВизН"
 
@@ -45,8 +45,8 @@ msgstr "ВизН"
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
-#: Invasion_from_the_Unknown/_main.cfg:166
-#: Invasion_from_the_Unknown/_main.cfg:102
+#: Invasion_from_the_Unknown/_main.cfg:158
+#: Invasion_from_the_Unknown/_main.cfg:94
 msgid "Invasion from the Unknown"
 msgstr "Вторжение из Неведомого"
 
@@ -54,7 +54,7 @@ msgstr "Вторжение из Неведомого"
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:64
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:120
 msgid "Episode I: Seeking the Light"
 msgstr "Эпизод I: В поисках Света"
 
@@ -72,7 +72,7 @@ msgstr "Интермиссия"
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt2.lua:66
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:142
+#: Invasion_from_the_Unknown/_main.cfg:134
 msgid "Episode II: Armageddon"
 msgstr "Эпизод II: Армагеддон"
 
@@ -486,8 +486,8 @@ msgstr "Элиния и Мал Кешар должны найти выход и�
 #: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1382
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:227
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:231
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:596
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:909
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:598
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:911
 msgid "Death of Elynia"
 msgstr "Смерть Элинии"
 
@@ -535,8 +535,8 @@ msgstr "Смерть Элинии"
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:228
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:232
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:68
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:597
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:910
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:599
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:912
 msgid "Death of Mal Keshar"
 msgstr "Уничтожение Мал Кешара"
 
@@ -1151,8 +1151,8 @@ msgstr "Галас, Элиния или Мал Кешар должны найт�
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:234
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:230
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:66
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:595
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:908
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:597
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:910
 msgid "Death of Galas"
 msgstr "Смерть Галаса"
 
@@ -1172,8 +1172,8 @@ msgstr "Смерть Галаса"
 #: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1173
 #: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1384
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:233
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:598
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:911
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:600
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:913
 msgid "Death of Lédinor"
 msgstr "Смерть Лединора"
 
@@ -1206,7 +1206,7 @@ msgstr "Контрольная точка достигнута"
 #: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:411
 #: Invasion_from_the_Unknown/scenarios/16_Dawn_of_War.cfg:488
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:208
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:886
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:888
 msgid "Huh?"
 msgstr "Ах?"
 
@@ -11486,23 +11486,23 @@ msgid "Yes, <b>yes</b>, <b>YES! AhahahahahahahaHAHAHAHAHA!!!</b>"
 msgstr "Да, <b>да</b>, <b>ДА! АхахахахахахахаХАХАХАХАХА!!!</b>"
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1228
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1226
 msgid "Quickly! We have no time to waste."
 msgstr "Быстрее! Мы не можем терять время попусту."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1272
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1270
 msgid ""
 "You know, Galas... It’s very strange for somebody like me to say this but..."
 msgstr "Галас, ты знаешь… Странно это говорить, но…"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1277
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1275
 msgid "What is it?"
 msgstr "В чём дело?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1282
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1280
 msgid ""
 "... Just stay close to me at all times. It would do us no good if the "
 "shadows took over your body again."
@@ -11511,12 +11511,12 @@ msgstr ""
 "твой разум вновь захватят тени."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1287
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1285
 msgid "... Very well."
 msgstr "… Как скажешь."
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1292
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1290
 msgid ""
 "Alas, if Galas and the Lady are to succeed in their mission we must stay "
 "here and fend off the enemy reinforcements. I can’t help but wonder what "
@@ -11527,7 +11527,7 @@ msgstr ""
 "враг поджидает эту безрассудную ватагу…"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1303
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1301
 msgid ""
 "This is hopeless, Galas. We took too long, and now enemy reinforcements are "
 "approaching from all directions!"
@@ -15586,13 +15586,13 @@ msgid "Vyta"
 msgstr "Вита"
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:593
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:905
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:595
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:907
 msgid "Find the entrance to the lair of the Chaos Emperor"
 msgstr "Найдите проход в логово Императора Хаоса"
 
 #. [message]: speaker=Igor
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:634
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:636
 msgid ""
 "I didn’t think the demons’ homeland would be such a... cold... place— "
 "<b>ATCHOO!!!</b>"
@@ -15600,20 +15600,20 @@ msgstr ""
 "Ух ты, не думал, что родина демонов окажется такой… холодной— <b>АПЧХИ!!!</b>"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:639
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:641
 msgid "I have to say, I never expected Inferno to be such a cold place."
 msgstr ""
 "Честно сказать, не ждал, что Инферно окажется таким холодным местечком."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:645
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:647
 msgid ""
 "Yes, there does not appear to be anything but more snow in the distance. Who "
 "knew!"
 msgstr "Да, в дали ничего, кроме снега. Кто ж знал!"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:650
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:652
 msgid ""
 "I assume this is but a small land in a much larger realm. The stories speak "
 "of far more varied locations, much like Irdya itself."
@@ -15622,7 +15622,7 @@ msgstr ""
 "Инферно пестрит самыми разнообразными землями, как и сама Ирдия."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:655
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:657
 msgid ""
 "Surely the Emperor chose this location in order to have a nigh-on unlimited "
 "water supply for his ostentatious capital, then."
@@ -15632,7 +15632,7 @@ msgstr ""
 "столицы."
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:667
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:669
 msgid ""
 "Come to think of it, there <b>is</b> nothing but snow in sight, indeed. Does "
 "anyone else find this troubling?"
@@ -15641,24 +15641,24 @@ msgstr ""
 "напрягает?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:672
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:674
 msgid "You are right, the solitude of this place doesn’t bode well."
 msgstr "Ты прав, покой этого места не предвещает ничего хорошего."
 
 #. [message]: speaker=Erathan
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:706
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:711
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:708
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:713
 msgid "I spot a few foes over there."
 msgstr "Вижу нескольких врагов."
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:750
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:752
 msgid "Welcome! Welcome all to my lair, foolish creatures!"
 msgstr "Добро пожаловать! Добро пожаловать в моё логово, глупцы!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:757
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:759
 msgid ""
 "It’s that infuriating laugh again! Oh, I swear, the moment I get my hands on "
 "that pretentious bastard..."
@@ -15667,7 +15667,7 @@ msgstr ""
 "самодовольного ублюдка…"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:839
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:841
 msgid ""
 "The protection enchantment shielding this gate is far too strong. May I "
 "suggest searching for another way to open it?"
@@ -15676,12 +15676,12 @@ msgstr ""
 "открыть?"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:844
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:846
 msgid "Union?"
 msgstr "Что насчёт Союза?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:849
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:851
 msgid ""
 "I would rather avoid unnecessary use of it while we are in this place... I "
 "hope you can understand why."
@@ -15690,7 +15690,7 @@ msgstr ""
 "почему…"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:856
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:858
 msgid ""
 "... Yes... I <i>think</i> I see where this is going. Very well, then. Let us "
 "do things your way."
@@ -15699,14 +15699,14 @@ msgstr ""
 "твоему."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:881
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:883
 msgid ""
 "Hey, what do we have here... Cockatrices! There are cockatrices roaming "
 "about this place!"
 msgstr "Эй, что у нас тут… Кокетрасы! Кокетрасы идут!"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:891
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:893
 msgid ""
 "Bird-like creatures which are said to have the ability to turn any living "
 "thing to stone with a single glance. They are not natural denizens of our "
@@ -15717,7 +15717,7 @@ msgstr ""
 "искусство."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:896
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:898
 msgid ""
 "Yes, yes — all right, attention everyone! Avoid direct eye contact with "
 "these pests or you <i>will</i> regret it!"
@@ -15726,7 +15726,7 @@ msgstr ""
 "<i>сильно</i> об этом пожалеете!"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:901
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:903
 msgid ""
 "I believe I can remove the effects of their magic with a spell. However, "
 "should any victim come to harm while petrified..."
@@ -15735,24 +15735,24 @@ msgstr ""
 "окаменевшем состоянии…"
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:907
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:909
 msgid "Elynia is petrified by an enemy unit"
 msgstr "Элиния окаменела"
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:917
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:919
 msgid ""
 "Elynia can revert the effects of petrification on adjacent player units at "
 "the start of each turn"
 msgstr "Элиния может расколдовать соседних бойцов в начале каждого хода"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:936
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:938
 msgid "I can’t... help you... now..."
 msgstr "Я не смогу… помочь вам…"
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:964
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:966
 msgid ""
 "You are not able to activate this sealed glyph. Perhaps you should send "
 "Elynia or Mal Keshar to investigate instead."
@@ -15761,17 +15761,17 @@ msgstr ""
 "следует послать сюда Элинию или Мал Кешара."
 
 #. [unit]: type=Chimera, id=Knidaril
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1012
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1014
 msgid "Knidaril"
 msgstr "Нидарил"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1064
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1066
 msgid "This is quite obviously an invitation into a trap. Shall we heed it?"
 msgstr "Очевидно, это — приглашение в ловушку. Примем ли мы его?"
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1069
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1071
 msgid ""
 "This whole place feels like a trap to me. On the other hand, if we don’t "
 "come to him..."
@@ -15779,7 +15779,7 @@ msgstr ""
 "Да всё это место – ловушка! С другой стороны, если мы не придём к нему…"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1074
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1076
 msgid ""
 "... he will come to us. Even then, I think we should first look around for "
 "anything that could help us — weapons, information, anything."
@@ -15788,7 +15788,7 @@ msgstr ""
 "помочь: оружие, сведения – да всё, что угодно."
 
 #. [scenario]: id=23A_Into_the_Lair, type=Cockatrice}
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1097
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1099
 msgid ""
 "Uria insists on the necessity of handing control of Irdya over to someone "
 "more experienced if everything goes according to plan. She says she will "
@@ -15813,7 +15813,7 @@ msgstr ""
 "задания и надеяться, что она не выяснит это."
 
 #. [scenario]: id=23A_Into_the_Lair, type=Cockatrice}
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1103
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1105
 msgid ""
 "The Light of the soul, the Darkness of the mind. Two opposing aspects that "
 "govern our existence and give way to life. Never fully overlapping, but also "
@@ -15834,15 +15834,15 @@ msgstr ""
 "увидели что-то, приближающееся к нам в конце времён?"
 
 #. [scenario]: id=23A_Into_the_Lair, type=Cockatrice}
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1107
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1111
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1109
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1113
 msgid ""
 "The glyph’s contents seem to be in a language you have never read nor heard "
 "before."
 msgstr "Содержимое кристалла записано на неведомом вам языке."
 
 #. [scenario]: id=23A_Into_the_Lair, type=Cockatrice}
-#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1109
+#: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:1111
 msgid ""
 "Unlike the Seer, Uria believes that our fate can be changed by our actions, "
 "that there is no single path to the same destination, and that, like the "
@@ -18752,6 +18752,22 @@ msgstr ""
 "Тем не менее, он не приспособлен к бою на открытой местности, поэтому "
 "тщательно выбирайте место, из которого он будет стрелять!"
 
+#. [transient_message]
+#: Invasion_from_the_Unknown/macros/first-time-help.cfg:114
+msgid ""
+"As a high-level unit under your control, Anlindë has special <b>After "
+"Maximum Level Advancements (AMLAs)</b>. You can learn more about those by "
+"right-clicking her and choosing the <b>Unit Advancements</b> option."
+msgstr ""
+
+#. [transient_message]
+#: Invasion_from_the_Unknown/macros/first-time-help.cfg:126
+msgid ""
+"As a high-level unit under your control, Elynia has special <b>After Maximum "
+"Level Advancements (AMLAs)</b>. You can learn more about those by right-"
+"clicking her and choosing the <b>Unit Advancements</b> option."
+msgstr ""
+
 #: Invasion_from_the_Unknown/macros/objective-utils.cfg:10
 msgid "Initial objectives:"
 msgstr "Первоначальное задание:"
@@ -19244,72 +19260,67 @@ msgstr ""
 "Эта атака доступна только при нападении на живые цели и всегда имеет 100% "
 "вероятность попадания вне зависимости от защиты обороняющегося."
 
-#. [advancement]
-#: Invasion_from_the_Unknown/macros/amla.cfg:8
-msgid "Vitality: hitpoints +3 ‹Max XP +20%›"
-msgstr "Живучесть: макс. здоровье +3 ‹Макс ОП +20%›"
-
-#: Invasion_from_the_Unknown/macros/amla.cfg:23
+#: Invasion_from_the_Unknown/macros/amla.cfg:14
 msgid "Faerie touch: add drains special"
 msgstr "Прикосновение: добавляет высасывание"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:40
+#: Invasion_from_the_Unknown/macros/amla.cfg:31
 msgid "Gossamer: strikes +1"
 msgstr "Путы: +1 атака"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:58
+#: Invasion_from_the_Unknown/macros/amla.cfg:49
 msgid "Strength I: hitpoints +4, melee damage +1"
 msgstr "Сила I: +4 очка здоровья, +1 к урону в ближнем бою"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:77
+#: Invasion_from_the_Unknown/macros/amla.cfg:68
 msgid "Strength II: hitpoints +4, melee strikes +1"
 msgstr "Сила II: +4 очка здоровья, +1 удар в ближнем бою"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:96
+#: Invasion_from_the_Unknown/macros/amla.cfg:87
 msgid "Strength III: hitpoints +5"
 msgstr "Сила III: +5 очков здоровья"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:110
+#: Invasion_from_the_Unknown/macros/amla.cfg:101
 msgid "Strength IV: hitpoints +5, melee damage +1"
 msgstr "Сила IV: +5 очков здоровья, +1 к урону в ближнем бою"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:129
+#: Invasion_from_the_Unknown/macros/amla.cfg:120
 msgid "Strength V: hitpoints +7"
 msgstr "Сила V: +7 очков здоровья"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:143
+#: Invasion_from_the_Unknown/macros/amla.cfg:134
 msgid "Focus I: faerie fire damage +1"
 msgstr "Фокус I: +1 к урону волшебного огня"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:157
+#: Invasion_from_the_Unknown/macros/amla.cfg:148
 msgid "Focus II: faerie fire strikes +1"
 msgstr "Фокус II: +1 атака волшебного огня"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:171
+#: Invasion_from_the_Unknown/macros/amla.cfg:162
 msgid "Focus III: ensnare strikes +1"
 msgstr "Фокус III: +1 атака путами"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:185
+#: Invasion_from_the_Unknown/macros/amla.cfg:176
 msgid "Shielding I: arcane resistance +10%"
 msgstr "Защита I: сопротивление мистическому урону +10%"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:201
+#: Invasion_from_the_Unknown/macros/amla.cfg:192
 msgid "Shielding II: arcane resistance +10%, impact resistance +10%"
 msgstr "Защита II: сопротивление мистическому и крушащему урону +10%"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:218
+#: Invasion_from_the_Unknown/macros/amla.cfg:209
 msgid "Shielding III: arcane resistance +10%, cold resistance +10%"
 msgstr "Защита III: сопротивление мистическому урону и холоду +10%"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:239
+#: Invasion_from_the_Unknown/macros/amla.cfg:230
 msgid "Thorns I: new attack (ranged/pierce 10×2, magical+drains)"
 msgstr "Шипы I: новая атака (дальний/колющий 10×2, магия+высасывает)"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:263
+#: Invasion_from_the_Unknown/macros/amla.cfg:254
 msgid "Thorns II: strikes +1"
 msgstr "Шипы II: +1 атака шипами"
 
-#: Invasion_from_the_Unknown/macros/amla.cfg:278
+#: Invasion_from_the_Unknown/macros/amla.cfg:269
 msgid "Thorns III: damage +2"
 msgstr "Шипы III: +2 к урону шипами"
 
@@ -19364,40 +19375,40 @@ msgstr ""
 "и их общей библиотеки ‘Naia’ находится по адресу\n"
 "<https://github.com/project-ethea/Ethea-i18n/wiki>."
 
-#: Invasion_from_the_Unknown/_main.cfg:74
-msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
-msgstr "Аддон с музыкой “<i>IftU Music</i>” <b>не установлен</b>."
-
-#: Invasion_from_the_Unknown/_main.cfg:84
-msgid "for Wesnoth 1.14"
-msgstr "для Битвы за Веснот 1.14"
-
-#: Invasion_from_the_Unknown/_main.cfg:89
+#: Invasion_from_the_Unknown/_main.cfg:69
 msgid "Version"
 msgstr "Версия"
 
-#: Invasion_from_the_Unknown/_main.cfg:90
+#: Invasion_from_the_Unknown/_main.cfg:70
 msgid "Feedback and bug reports:"
 msgstr "Обратная связь и сообщения об ошибках:"
 
-#: Invasion_from_the_Unknown/_main.cfg:101
+#: Invasion_from_the_Unknown/_main.cfg:73
+msgid "for Wesnoth 1.14"
+msgstr "для Битвы за Веснот 1.14"
+
+#: Invasion_from_the_Unknown/_main.cfg:82
+msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
+msgstr "Аддон с музыкой “<i>IftU Music</i>” <b>не установлен</b>."
+
+#: Invasion_from_the_Unknown/_main.cfg:93
 msgid "To be continued..."
 msgstr "Продолжение следует..."
 
-#: Invasion_from_the_Unknown/_main.cfg:120
+#: Invasion_from_the_Unknown/_main.cfg:112
 msgid "Easy"
 msgstr "Лёгкий"
 
-#: Invasion_from_the_Unknown/_main.cfg:121
+#: Invasion_from_the_Unknown/_main.cfg:113
 msgid "Normal"
 msgstr "Нормальный"
 
-#: Invasion_from_the_Unknown/_main.cfg:122
+#: Invasion_from_the_Unknown/_main.cfg:114
 msgid "Hard"
 msgstr "Сложный"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:120
 msgid ""
 "Long after the Fall, the last forest elves on the Great Continent are forced "
 "to abandon their secluded home and forge an unprecedented alliance in hopes "
@@ -19415,25 +19426,25 @@ msgstr ""
 "(Средний уровень сложности, 13 сценариев.)"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:136
-#: Invasion_from_the_Unknown/_main.cfg:151
-msgid "difficulty_menu^Fighter"
-msgstr "Новобранец"
-
-#. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:137
-#: Invasion_from_the_Unknown/_main.cfg:152
-msgid "difficulty_menu^Captain"
+#: Invasion_from_the_Unknown/_main.cfg:128
+#, fuzzy
+msgid "difficulty_menu^Ascetic"
 msgstr "Капитан"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:138
-#: Invasion_from_the_Unknown/_main.cfg:153
-msgid "difficulty_menu^Marshal"
+#: Invasion_from_the_Unknown/_main.cfg:129
+#, fuzzy
+msgid "difficulty_menu^Mystic"
 msgstr "Маршал"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:142
+#: Invasion_from_the_Unknown/_main.cfg:130
+#, fuzzy
+msgid "difficulty_menu^Avatar"
+msgstr "Капитан"
+
+#. [campaign]
+#: Invasion_from_the_Unknown/_main.cfg:134
 msgid ""
 "As the dark veil of Chaos engulfs the land, an assorted group of foolish "
 "heroes prepares a counter-attack against their enemies with one unique goal "
@@ -19448,6 +19459,24 @@ msgstr ""
 "разгадку забытых секретов былого.\n"
 "\n"
 "(Средний уровень сложности, 10 сценариев.)"
+
+#. [campaign]
+#: Invasion_from_the_Unknown/_main.cfg:143
+#, fuzzy
+msgid "difficulty_menu^Disciple"
+msgstr "Новобранец"
+
+#. [campaign]
+#: Invasion_from_the_Unknown/_main.cfg:144
+#, fuzzy
+msgid "difficulty_menu^Lich"
+msgstr "Новобранец"
+
+#. [campaign]
+#: Invasion_from_the_Unknown/_main.cfg:145
+#, fuzzy
+msgid "difficulty_menu^Ancient Lich"
+msgstr "Новобранец"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:7
@@ -19465,29 +19494,32 @@ msgid "Graphics"
 msgstr "Графика"
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:191
+#: Invasion_from_the_Unknown/about.cfg:194
 msgid "Aragwaith Faction"
 msgstr "Фракция Эрагвийцев"
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:202
+#: Invasion_from_the_Unknown/about.cfg:205
 msgid "Music"
 msgstr "Музыка"
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:221
+#: Invasion_from_the_Unknown/about.cfg:224
 msgid "Translations"
 msgstr "Перевод"
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:232
+#: Invasion_from_the_Unknown/about.cfg:235
 msgid "Additional Thanks to"
 msgstr "Отдельное спасибо"
 
 #. [entry]
-#: Invasion_from_the_Unknown/about.cfg:306
+#: Invasion_from_the_Unknown/about.cfg:309
 msgid "You, for playing this campaign"
 msgstr "Вам, за игру в эту кампанию"
+
+#~ msgid "Vitality: hitpoints +3 ‹Max XP +20%›"
+#~ msgstr "Живучесть: макс. здоровье +3 ‹Макс ОП +20%›"
 
 #~ msgid "Anyone else I could forget to mention"
 #~ msgstr "И всем, кого забыли упомянуть"
