@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-09 10:38 UTC\n"
+"POT-Creation-Date: 2020-07-09 10:43 UTC\n"
 "PO-Revision-Date: 2020-06-24 21:09-0400\n"
 "Last-Translator: Iris Morelle <shadowm@wesnoth.org>\n"
 "Language-Team: Spanish <i18n@wesnoth.org>\n"
@@ -3610,12 +3610,6 @@ msgstr "Abismo volcánico"
 #: Naia/terrain.cfg:278
 msgid "Dark Hive"
 msgstr "Colmena oscura"
-
-#. [terrain_type]: id=overlay-great-tree-snow
-#. [terrain_type]: id=overlay-great-tree-oak-dead
-#: Naia/terrain.cfg:94 Naia/terrain.cfg:106
-msgid "Great Tree"
-msgstr ""
 
 #. [terrain_type]: id=overlay-great-tree-snow
 #: Naia/terrain.cfg:95

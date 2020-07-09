@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fr_0.6.71\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-09 10:38 UTC\n"
+"POT-Creation-Date: 2020-07-09 10:43 UTC\n"
 "PO-Revision-Date: 2018-08-10 20:50+0100\n"
 "Last-Translator: \n"
 "Language-Team: french\n"
@@ -3520,12 +3520,6 @@ msgstr "Abysse volcanique"
 #: Naia/terrain.cfg:278
 msgid "Dark Hive"
 msgstr "Ruche des ténèbres"
-
-#. [terrain_type]: id=overlay-great-tree-snow
-#. [terrain_type]: id=overlay-great-tree-oak-dead
-#: Naia/terrain.cfg:94 Naia/terrain.cfg:106
-msgid "Great Tree"
-msgstr ""
 
 #. [terrain_type]: id=overlay-great-tree-snow
 #: Naia/terrain.cfg:95

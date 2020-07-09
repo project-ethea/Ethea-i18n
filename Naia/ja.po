@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-IftU 1.8.x\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-09 10:38 UTC\n"
+"POT-Creation-Date: 2020-07-09 10:43 UTC\n"
 "PO-Revision-Date: 2010-12-14 22:16+0900\n"
 "Last-Translator: R.N <dragonfly65th@yahoo.co.jp>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -3158,12 +3158,6 @@ msgstr "火山の底"
 #: Naia/terrain.cfg:278
 msgid "Dark Hive"
 msgstr "暗い巣"
-
-#. [terrain_type]: id=overlay-great-tree-snow
-#. [terrain_type]: id=overlay-great-tree-oak-dead
-#: Naia/terrain.cfg:94 Naia/terrain.cfg:106
-msgid "Great Tree"
-msgstr ""
 
 #. [terrain_type]: id=overlay-great-tree-snow
 #: Naia/terrain.cfg:95

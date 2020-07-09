@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 20200628+dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-09 10:38 UTC\n"
+"POT-Creation-Date: 2020-07-09 10:43 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2017,13 +2017,6 @@ msgstr ""
 #: Naia/terrain.cfg:76
 #: Naia/terrain.cfg:278
 msgid "Dark Hive"
-msgstr ""
-
-#. [terrain_type]: id=overlay-great-tree-snow
-#. [terrain_type]: id=overlay-great-tree-oak-dead
-#: Naia/terrain.cfg:94
-#: Naia/terrain.cfg:106
-msgid "Great Tree"
 msgstr ""
 
 #. [terrain_type]: id=overlay-great-tree-snow

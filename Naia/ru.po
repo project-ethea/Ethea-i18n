@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-09 10:38 UTC\n"
+"POT-Creation-Date: 2020-07-09 10:43 UTC\n"
 "PO-Revision-Date: 2020-07-09 09:59+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -3509,12 +3509,6 @@ msgid "Dark Hive"
 msgstr "Тёмный Улей"
 
 #. [terrain_type]: id=overlay-great-tree-snow
-#. [terrain_type]: id=overlay-great-tree-oak-dead
-#: Naia/terrain.cfg:94 Naia/terrain.cfg:106
-msgid "Great Tree"
-msgstr "Большое дерево"
-
-#. [terrain_type]: id=overlay-great-tree-snow
 #: Naia/terrain.cfg:95
 msgid "Snowy Great Tree"
 msgstr "Заснеженное большое дерево"
@@ -3589,6 +3583,9 @@ msgstr "Ложная Мгла"
 #: Naia/loader.cfg:99
 msgid "Project Ethea"
 msgstr "Проект Этея"
+
+#~ msgid "Great Tree"
+#~ msgstr "Большое дерево"
 
 #~ msgid "Please report this to the campaign maintainer!"
 #~ msgstr "Пожалуйста, доложите об этом разработчику кампании!"

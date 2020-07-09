@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-09 10:38 UTC\n"
+"POT-Creation-Date: 2020-07-09 10:43 UTC\n"
 "PO-Revision-Date: 2008-12-30 08:03+0200\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
@@ -2849,12 +2849,6 @@ msgstr ""
 #: Naia/terrain.cfg:278
 msgid "Dark Hive"
 msgstr "Karanlık Kovan"
-
-#. [terrain_type]: id=overlay-great-tree-snow
-#. [terrain_type]: id=overlay-great-tree-oak-dead
-#: Naia/terrain.cfg:94 Naia/terrain.cfg:106
-msgid "Great Tree"
-msgstr ""
 
 #. [terrain_type]: id=overlay-great-tree-snow
 #: Naia/terrain.cfg:95
