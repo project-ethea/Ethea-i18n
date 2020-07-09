@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-07-09 10:43 UTC\n"
-"PO-Revision-Date: 2020-06-24 21:09-0400\n"
+"PO-Revision-Date: 2020-07-09 06:46-0400\n"
 "Last-Translator: Iris Morelle <shadowm@wesnoth.org>\n"
 "Language-Team: Spanish <i18n@wesnoth.org>\n"
 "Language: es\n"
@@ -38,6 +38,7 @@ msgstr "Todos"
 #: Naia/lua/gui/amla_list.lua:335
 msgid "Not all advancements for this unit are available yet"
 msgstr ""
+"No todos los avances de esta unidad se encuentran disponibles por el momento"
 
 #. [lua]: amla
 #. [set_menu_item]: id=amla_menu
@@ -47,9 +48,8 @@ msgstr "Avances de Unidad"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:412
-#, fuzzy
 msgid "advancements^Preview selected"
-msgstr "requiere:"
+msgstr "Visualizar selección"
 
 #. [lua]: pango_amla_counted_list
 #: Naia/lua/gui/amla_list.lua:505
@@ -3614,12 +3614,12 @@ msgstr "Colmena oscura"
 #. [terrain_type]: id=overlay-great-tree-snow
 #: Naia/terrain.cfg:95
 msgid "Snowy Great Tree"
-msgstr ""
+msgstr "Gran árbol nevado"
 
 #. [terrain_type]: id=overlay-great-tree-oak-dead
 #: Naia/terrain.cfg:107
 msgid "Dead Great Oak Tree"
-msgstr ""
+msgstr "Gran roble muerto"
 
 #. [terrain_type]: id=overlay-banner-uria
 #: Naia/terrain.cfg:118
