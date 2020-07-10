@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-07-10 11:30 UTC\n"
-"PO-Revision-Date: 2020-07-09 12:19+0300\n"
+"PO-Revision-Date: 2020-07-10 14:43+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -86,6 +86,8 @@ msgid ""
 "dazed: This unit is dazed. It suffers a -10% penalty to both its defense and "
 "chance to hit (except for magical attacks)."
 msgstr ""
+"частичное ослепление: Этот боец частично ослеплён. Его защита и вероятность "
+"попадания при атаке (кроме магических атак) уменьшаются на 10%."
 
 #. [lua]: wesnoth.theme_items.unit_status
 #: After_the_Storm/lua/theme.lua:41
@@ -2841,7 +2843,7 @@ msgstr "… И-и-и, мы в ловушке. Как предсказуемо."
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:713
 msgid ""
 "I know. Let us be on guard for whatever those voices were talking about."
-msgstr ""
+msgstr "Знаю. О чём бы ни говорили те голоса, будем наготове."
 
 #. [message]
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:838
@@ -2858,6 +2860,7 @@ msgstr "—Урия, будь ты проклята!"
 msgid ""
 "Hey, that conspicuous glowing orb embedded in its torso seems important!"
 msgstr ""
+"Эй, этот заметный светящийся шар, встроенный в её тело, выглядит важным!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:1010
@@ -2865,6 +2868,8 @@ msgid ""
 "Yes. It must be the very thing we have been searching for. Our timing "
 "couldn’t be any worse... Destroy it! Destroy it at all costs!"
 msgstr ""
+"Да. Должно быть, это — та самая штука, которую мы искали. Мы не могли "
+"опоздать ещё сильнее… Уничтожьте её! Уничтожьте её любой ценой!"
 
 #. [event]
 #. [then]
@@ -3691,6 +3696,8 @@ msgid ""
 "minions. Yes, it appears our presence is what has awakened them after so "
 "long."
 msgstr ""
+"На поверхности они вряд ли бы заметили эти порождения в спячке. Да, похоже, "
+"после стольких лет их разбудило наше присутствие."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:418
@@ -3698,6 +3705,8 @@ msgid ""
 "There was very little strength left in this guardian. I wonder who was the "
 "master of these minions before the place was abandoned?"
 msgstr ""
+"Стражник совсем обессилел. Интересно, кто был хозяином этих прислужников до "
+"того, как место забросили?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:423
@@ -4975,6 +4984,8 @@ msgid ""
 "swamps! We are not planning to retreat to the forests of the pointy-eared "
 "demons!"
 msgstr ""
+"Эй, грязные мягкокожие твари, это — ваша последняя возможность вернуть наши "
+"болота! Мы не собираемся отступать в леса остроухих чертей!"
 
 #. [message]: speaker=Tan-Vatar
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:648
@@ -4984,6 +4995,10 @@ msgid ""
 "very lands you took by force; after raiding our southern garrison, no less! "
 "If you believe we will accede now—"
 msgstr ""
+"Нам плевать на ваши нелепые разборки на восточной границе. Вы преступили "
+"наши границы и нарушили договор, а теперь вы требуете от нас те самые земли, "
+"которые вы отняли силой, когда совершили набег на наш южный гарнизон, не "
+"иначе! Если верите, что теперь мы согласимся—"
 
 #. [message]: speaker=Ishkaal
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:653
@@ -4993,16 +5008,20 @@ msgid ""
 "have razed every single one of your precious buildings to the ground. Go "
 "ahead, Rishix! Teach them a lesson!"
 msgstr ""
+"Катитесь к Тёмным Богам со своим договором! Слова орка не ценнее вони его "
+"дыхания! Быть может, вы признаете своё поражение, как только мы и камня на "
+"камне не оставим от ваших драгоценных зданий. Вперёд, Ришикс! Преподай им "
+"урок!"
 
 #. [message]: speaker=Rishix
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:658
 msgid "We’ll make these puny dirt-dwellers rue the day they were born!"
-msgstr ""
+msgstr "Мы заставим жалких земляных червей проклясть день, когда они родились!"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:715
 msgid "That city to the northwest... is it the port of Tirigaz?"
-msgstr ""
+msgstr "Город на северо-западе… и есть порт Тиригаз?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:720
@@ -5010,12 +5029,14 @@ msgid ""
 "Yes... it wasn’t so well fortified during my time. So many things have "
 "changed since then."
 msgstr ""
+"Да… в моё время он не был столь хорошо укреплён. С тех пор поменялось "
+"столько всего."
 
 #. [message]: speaker=Galas
 #. "Is that smoke I smell?"
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:726
 msgid "Is that smoke I— Wait, I hear steps..."
-msgstr ""
+msgstr "Это что, дым— Стойте, я слышу шаги…"
 
 #. [unit]: type=Orcish Crossbowman, id=Vuruk
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:743
@@ -5025,17 +5046,18 @@ msgstr "Вурук"
 #. [message]: speaker=Vuruk
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:760
 msgid "Hello, strangers! Are you loyal to the Grand Council?"
-msgstr ""
+msgstr "Здравствуйте, незнакомцы! Вы верны Великому Совету?"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:765
 msgid "Ehm..."
 msgstr "Эмм…"
 
+# Надеюсь, никто не станет использовать 'yes,we are.' ещё в каком-то месте, иначе это всё сломает --kabachuha
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:770
 msgid "Yes, we are."
-msgstr ""
+msgstr "Да, служить Великому Совету — наш священный долг."
 
 #. [message]: speaker=Vuruk
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:775
@@ -5046,11 +5068,16 @@ msgid ""
 "need to get to the city keep, but the journey across isn’t safe while those "
 "vermin roam about our lands!"
 msgstr ""
+"Подлые ящеры осадили порт Тиригаза, они не дают мне проникнуть в город, "
+"чтобы доставить некоторые важные новости нашему владыке. Я думаю, что скажу "
+"это за нас всех: мы были бы крайне благодарны за вашу поддержку. Мне нужно "
+"добраться до городской цитадели, но путь небезопасен, пока эти вредители "
+"шастают по нашим землям!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:780
 msgid "The enemies of our friends are our enemies. We can help you."
-msgstr ""
+msgstr "Враги наших друзей — наши враги. Мы вам поможем."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:785
@@ -5058,6 +5085,8 @@ msgid ""
 "(<i>whispering</i>) I am curious about their motives... Don’t you think your "
 "trust in the orcs could be misplaced?"
 msgstr ""
+"(<i>шёпотом</i>) Интересно, что их к этому побудило… Тебе не кажется, что "
+"твоё доверие к оркам стоит пересмотреть?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:790
@@ -5065,11 +5094,13 @@ msgid ""
 "We must stop and repel those saurians before they take over Tirigaz or the "
 "northern town that provides resources to the port."
 msgstr ""
+"Мы должны остановить и отбросить этих ящеров, пока они не захватили Тиригаз "
+"или северный городок, который поставляет в порт снабжение."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:801
 msgid "Vuruk, what is it that you need to report to the lord of Tirigaz?"
-msgstr ""
+msgstr "Вурук, что тебе нужно передать владыке Тиригаза?"
 
 #. [message]: speaker=Vuruk
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:806
@@ -5077,18 +5108,20 @@ msgid ""
 "Hmm... I fear it is nothing I’m allowed to share with anyone but Lord Tan-"
 "Vatar and his trusted commanders, at least not at this time."
 msgstr ""
+"Хмм… Боюсь, мне не дозволено говорить об этом ни с кем, кроме владыки Тан-"
+"Ватара и его преданных командиров, во всяком случае, не сейчас."
 
 #. [message]: speaker=Galas
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:811
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:369
 msgid "Fair enough."
-msgstr ""
+msgstr "Справедливо."
 
 #. [message]: speaker=Ishkaal
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:827
 msgid "Come in aid of your kin, friends from the deep sea!"
-msgstr ""
+msgstr "Придите и помогите вашему роду, друзья из пучины морской!"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:877
@@ -5096,22 +5129,24 @@ msgid ""
 "Ah, ha, ha, hah! They have the support of some wild creatures from the "
 "ocean! Nothing we cannot handle."
 msgstr ""
+"Ах-ха-ха-ха! Они призвали на помощь диких тварей океана! Но мы справимся и с "
+"ними."
 
 #. [message]
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:941
 msgid "Where did all these damned creatures come from?"
-msgstr ""
+msgstr "Откуда родом все эти проклятые создания?"
 
 #. [message]: speaker=Ishkaal
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:950
 msgid "This is turning out to be much harder than we expected..."
-msgstr ""
+msgstr "Всё оказывается труднее, чем мы ожидали…"
 
 #. [message]: speaker=Vuruk
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1022
 msgid ""
 "Arthol is being ransacked by the saurians! Now there’s no hope for Tirigaz!"
-msgstr ""
+msgstr "Артол разграбляют ящеры! Теперь для Тиригаза нет надежды!"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1043
@@ -5119,11 +5154,13 @@ msgid ""
 "Tirigaz has been captured! Our mission has failed, and we won’t be able to "
 "reach Zocthanol now!"
 msgstr ""
+"Тиригаз захвачен! Наша миссия провалена: теперь мы не сможем достичь "
+"Зоктанола!"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1072
 msgid "No! I’ve got to... uuugh..."
-msgstr ""
+msgstr "Нет! Я должен… ууугх…"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1084
@@ -5131,48 +5168,50 @@ msgid ""
 "We let the orcish messenger perish on the battlefield! The lord of Tirigaz "
 "is not going to like this..."
 msgstr ""
+"Мы позволили посланнику орков погибнуть на поле боя! Владыке Тиригаза это не "
+"понравится…"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1099
 msgid "The treacherous ones cannot win! Eeaack..."
-msgstr ""
+msgstr "Изменники не должны победить! Ееаакк…"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1123
 msgid "Damn you, dirt-dwellers!"
-msgstr ""
+msgstr "Будьте вы прокляты, грязные черви!"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1148
 msgid ""
 "I have been struck down by the damned minions of a lich! This is not fair!"
-msgstr ""
+msgstr "Меня одолели чёртовы прислужники лича! Это несправедливо!"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1167
 msgid ""
 "Accursed lich! May the Dark Gods smite you down for this atrocity— Eaugh!!!"
-msgstr ""
+msgstr "Проклятый лич! Да покарают тебя Тёмные Боги за это злоде— Еааагг!!!"
 
 #. [message]: speaker=Ishkaal
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1186
 msgid "Noooooo! You’ll suffer for this atrocity!"
-msgstr ""
+msgstr "Неееееет! Вы поплатитесь за это зверство!"
 
 #. [message]: speaker=second_unit
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1206
 msgid "Ha, ha, ha! Die, fool!"
-msgstr ""
+msgstr "Ха, ха, ха! Сдохни, болван!"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1211
 msgid "No! The city will fall... without my leadership... *ack*"
-msgstr ""
+msgstr "Нет! Город падёт… без моего руководства… *ахх*"
 
 #. [message]: speaker=Ishkaal
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1216
 msgid "Take that, orcish scum! Your leader is dead now, and your city is ours!"
-msgstr ""
+msgstr "Вот вам, оркские мрази! Ваш предводитель мёртв, а город теперь наш!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1228
@@ -5180,16 +5219,17 @@ msgid ""
 "The commander of the defense of Tirigaz has been slain! The city won’t "
 "resist for much longer now..."
 msgstr ""
+"Командующий обороной Тиригаза повержен! Теперь город долго не продержится…"
 
 #. [message]
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1250
 msgid "Don’t get any closer to our villages, you vermin!"
-msgstr ""
+msgstr "Держитесь подальше от наших деревень, вредители!"
 
 #. [message]: speaker=Ishkaal
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1255
 msgid "Crush their villages into the ground!"
-msgstr ""
+msgstr "Сравняйте их деревни с землёй!"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1289
@@ -5197,6 +5237,7 @@ msgid ""
 "These villages belong to the lord of Tirigaz! We must protect them, not "
 "capture them!"
 msgstr ""
+"Эти деревни принадлежат владыке Тиригаза! Мы защищать их, а не захватывать!"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1314
@@ -5207,11 +5248,16 @@ msgid ""
 "tree, but by the time you approach it she has seemingly vanished. In the "
 "hurry to return to the fray you almost slip on a puddle."
 msgstr ""
+"Вода в фонтане переполняется необычной энергией.\n"
+"\n"
+"На мгновение Вам чудится файери странной внешности, посмеивающаяся за "
+"ближайшим деревом, но когда Вы к ней подходите, она исчезает, будто её и не "
+"было. Спеша вернуться к битве, Вы едва не поскользнулись в луже."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1325
 msgid "The fountain’s water continues to overflow with an unusual energy."
-msgstr ""
+msgstr "Вода в фонтане продолжает переполнятся необычной энергией."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1347
@@ -5229,6 +5275,8 @@ msgid ""
 "The Naiad’s spell blesses anyone who takes a swim in the water of this "
 "fountain with newfound vim and courage."
 msgstr ""
+"Заклятье Наяды благословляет того, кто окунётся в воды этого фонтана, "
+"упорством и мужеством."
 
 #. [unit]: type=Orcish Warrior, id=Vitork
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1425
@@ -5246,6 +5294,8 @@ msgid ""
 "This is an important battle you’ve helped us win, travelers. The city of "
 "Tirigaz shall be eternally thankful for your assistance."
 msgstr ""
+"Вы помогли нам одержать верх в очень важном сражении, путники. Город Тиригаз "
+"будет вечно благодарен за вашу поддержку."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1446
@@ -5253,11 +5303,13 @@ msgid ""
 "It is our duty to assist our allies in these times. However, I believe this "
 "soldier has something to tell you..."
 msgstr ""
+"Наш долг — помогать союзникам в эти времена. Однако, мне кажется, у этого "
+"солдата есть, что Вам сказать…"
 
 #. [message]: speaker=Vitork
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1451
 msgid "Vuruk, brother, you made it! Did you discover anything new?"
-msgstr ""
+msgstr "Вурук, братец, ты справился! Ты узнал что-нибудь новое?"
 
 #. [message]: speaker=Vuruk
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1456
@@ -5265,6 +5317,8 @@ msgid ""
 "Ha, indeed! I need to talk with you about it later, but now I must report to "
 "the chieftains."
 msgstr ""
+"Хах, верно! Я поговорю с тобой позднее — сейчас я должен доложить об этом "
+"вождям."
 
 #. [message]: speaker=Tan-Vatar
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1461
@@ -5272,6 +5326,8 @@ msgid ""
 "I see you helped Vuruk return home safe and sound. Well done! So, what can "
 "we do for you to repay our debt?"
 msgstr ""
+"Гляжу, вы помогли Вуруку добраться до дома целым и невредимым. Неплохо! "
+"Итак, что мы можем сделать для вас, чтобы отплатить наш долг?"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1466
@@ -5279,6 +5335,8 @@ msgid ""
 "Um, we are currently looking for transportation services. We must sail the "
 "open ocean to find a certain island..."
 msgstr ""
+"Умм, сейчас мы ищем средства передвижения. Нам нужно отправиться в плавание "
+"по открытому морю, чтобы найти кое-какой остров…"
 
 #. [message]: speaker=Tan-Vatar
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1471
@@ -5290,6 +5348,13 @@ msgid ""
 "you see! Why would anyone want to travel so far into unknown waters, when "
 "there are plenty of safer unexplored lands awaiting back whence you came?"
 msgstr ""
+"Простите за грубость, но только дурачьё осмелиться выплыть в <i>открытое "
+"море</i>! Никто из тех, кто отважился покорять дальние воды, не вернулся "
+"целым, никогда! Никто не знает, что за существа населяют Великий океан! "
+"Никто не знает наверняка, что лежит за горизонтом, но ничем хорошим оно не "
+"является, как вы догадываетесь! Зачем кому-либо потребовалось бы отправиться "
+"так далеко через неведомые воды, тогда как есть ещё много неисследованных "
+"земель там, откуда вы пришли?"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1476
@@ -5297,6 +5362,7 @@ msgid ""
 "We have a mission to complete, but much like Vuruk’s, it is not something we "
 "should discuss with..."
 msgstr ""
+"У нас есть задание, но нам, как и Вуруку, не стоит об этом рассказывать…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1481
@@ -5305,11 +5371,14 @@ msgid ""
 "the Great Continent went to. We need to gather some information from them — "
 "as part of a mission for the Grand Council."
 msgstr ""
+"Мы знаем местоположение одного острова, куда отправился некоторый народ, "
+"который раньше проживал на Большом Континенте. Нам нужно узнать от них кое-"
+"какие сведения — в составе миссии Великого Совета."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1486
 msgid "Uh, huh."
-msgstr ""
+msgstr "Ой-ой-ой."
 
 #. [message]: speaker=Tan-Vatar
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1491
@@ -5319,6 +5388,9 @@ msgid ""
 "appropriate crew for you, but at least I can give you one of our fastest "
 "transport vessels."
 msgstr ""
+"Великого Совета? Что же вы сразу не сказали! Мы сделаем всё, чтобы помочь "
+"вам с вашим заданием. Будет сложно подобрать вам приемлемый экипаж, но я "
+"хотя бы смогу передать вам одно из наших быстроходных суден."
 
 #. [scenario]: id=02_High_Pass
 #. [part]
@@ -6582,6 +6654,7 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:544
 msgid "I’m certain we’ll be able to tell once we find it."
 msgstr ""
+"Уверена, как только мы до него доберёмся, нам его ни с чем не перепутать."
 
 #. [part]
 #: After_the_Storm/episode1/storytxt.cfg:19
@@ -7477,7 +7550,7 @@ msgstr ""
 "надеялись, что его последователи прекратят идущую войну. В это время Галас и "
 "его невероятная горстка героев отправились назад в северные земли, чтобы "
 "заручится поддержкой для следующего похода.\n"
-"!!Внимание, перевод ещё не окончен: готово 55%. Следите за обновлениями и "
+"!!Внимание, перевод ещё не окончен: готово 57%. Следите за обновлениями и "
 "Дискордом Веснота."
 
 #. [campaign]: id=After_the_Storm_I
@@ -7780,6 +7853,9 @@ msgstr ""
 #. [transient_message]
 #: After_the_Storm/macros/unit-utils.cfg:173
 #, fuzzy
+#| msgid ""
+#| "You will not be able to recall or recruit any units until the end of the "
+#| "mission"
 msgid ""
 "You are no longer able to recruit Ghosts for the remainder of this scenario."
 msgstr "Вы не сможете призывать или вербовать бойцов до конца задания"
@@ -8627,7 +8703,7 @@ msgstr ""
 #. [dummy]: id=seismic
 #: After_the_Storm/macros/weapon-specials.cfg:23
 msgid "seismic"
-msgstr ""
+msgstr "землетрясение"
 
 #. [dummy]: id=seismic
 #: After_the_Storm/macros/weapon-specials.cfg:24
@@ -9163,9 +9239,8 @@ msgstr "Хемерилъель"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1094
-#, fuzzy
 msgid "Uria be damned... Why did it have to be you?"
-msgstr "Будь проклята Урия… Почему это должна была быть именно ты?"
+msgstr "Проклятье Урии… Почему это должна была быть именно ты?"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1129
@@ -9907,13 +9982,11 @@ msgstr "Мал Вреллеру"
 
 #. [message]
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:511
-#, fuzzy
 msgid "The promised time has come, heiress."
 msgstr "Обещанное время пришло, наследница."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:539
-#, fuzzy
 msgid "So it has."
 msgstr "Воистину."
 
@@ -20817,8 +20890,8 @@ msgstr ""
 "её непроницаемую пелену — ночь не вечна, и даже среди хаоса надежда сияет "
 "нам, подобно маяку, что поможет победить наши худшие страхи и воссоединит "
 "нас с судьбой.\n"
-"!!Внимание, перевод ещё не окончен: готово 55%. Следите за обновлениями и "
-"Дискордом Веснота."
+"!!Внимание, перевод ещё не окончен: готово 57%. Следите за обновлениями и "
+"Дискордом Веснота"
 
 #. [campaign]: id=After_the_Storm_III
 #: After_the_Storm/episode3/menu.cfg:28
@@ -22664,6 +22737,10 @@ msgid ""
 "However, she still has access to Ghost line units left in her recall list, "
 "and she is now able to recruit Vampire Bats."
 msgstr ""
+"Элиния больше не может вербовать Приведений.\n"
+"\n"
+"Однако у неё все ещё есть доступ к призрачным бойцам, оставшимся в списке "
+"призыва, и теперь она может вербовать Летучих мышей."
 
 #. [message]: speaker=Gerumanen
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:683
@@ -24690,12 +24767,15 @@ msgid ""
 "However, because Zynara is not as powerful as Mal Keshar, her abilities have "
 "certain restrictions:"
 msgstr ""
+"Теперь вы можете призывать нежить.\n"
+"\n"
+"Однако поскольку Зайнара не так сильна, как Мал Кешар, её способности "
+"ограничены:"
 
 #. [transient_message]
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:580
-#, fuzzy
 msgid "You cannot recruit Vampire Bats."
-msgstr "Теперь вы можете призывать нежить."
+msgstr "Вы не можете вербовать летучих мышей."
 
 #. [transient_message]
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:581
@@ -24703,6 +24783,8 @@ msgid ""
 "Zynara can only control up to <b>$player_ghost_limit</b> units from the "
 "<b>Ghost</b> unit line at a time."
 msgstr ""
+"Зайнара может удерживать под своей властью до <b>$player_ghost_limit</"
+"b>бойцов линии продвижения <b>Приведения</b> одновременно."
 
 #. [transient_message]
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:582
@@ -24711,11 +24793,15 @@ msgid ""
 "lose control of a random Ghost line unit and become unable to recruit—but "
 "not recall—more for the remainder of the scenario."
 msgstr ""
+"Если вы попытаетесь завербовать дополнительное приведение, вы <b>навсегда</"
+"b> потеряете власть над случайным призрачным бойцом и не сможете вербовать — "
+"но не призывать — больше до конца сценария."
 
 #. [transient_message]
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:583
 msgid "Ghost line units in your recall list also count towards the limit."
 msgstr ""
+"Призрачные бойцы в вашем списке призыва также вносят вклад в этот предел."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:603
