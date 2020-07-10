@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-07-09 10:43 UTC\n"
-"PO-Revision-Date: 2020-07-09 09:59+0300\n"
+"PO-Revision-Date: 2020-07-10 08:49+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -22,7 +22,7 @@ msgstr "Отображение:"
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:239
 msgid "advancements^Acquired"
-msgstr "Обретённые"
+msgstr "Полученные"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:249
@@ -37,7 +37,7 @@ msgstr "Все"
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:335
 msgid "Not all advancements for this unit are available yet"
-msgstr ""
+msgstr "Доступны ещё не все продвижения этого бойца"
 
 #. [lua]: amla
 #. [set_menu_item]: id=amla_menu
@@ -47,9 +47,8 @@ msgstr "Продвижение Бойца"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:412
-#, fuzzy
 msgid "advancements^Preview selected"
-msgstr "требуется:"
+msgstr "Предпросмотр выбора"
 
 #. [lua]: pango_amla_counted_list
 #: Naia/lua/gui/amla_list.lua:505
@@ -3460,7 +3459,7 @@ msgstr ""
 "бойцов, так что удостоверьтесь, что они разрешены настройками (<b>Настройки</"
 "b> → <b>Графика</b>)."
 
-#. [advancement]: id={_ID}, description= 
+#. [advancement]: id={_ID}, description=
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr "‹Макс ОП +15%›"
@@ -3584,11 +3583,11 @@ msgstr "Ложная Мгла"
 msgid "Project Ethea"
 msgstr "Проект Этея"
 
-#~ msgid "Great Tree"
-#~ msgstr "Большое дерево"
-
 #~ msgid "Please report this to the campaign maintainer!"
 #~ msgstr "Пожалуйста, доложите об этом разработчику кампании!"
+
+#~ msgid "Great Tree"
+#~ msgstr "Большое дерево"
 
 #~ msgid ""
 #~ "Long before the arrival of humans, the ancient Argazar civilization "
