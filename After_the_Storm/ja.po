@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: After the Storm - Japanese\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-10 11:30 UTC\n"
+"POT-Creation-Date: 2020-07-12 11:35 UTC\n"
 "PO-Revision-Date: 2016-05-22 01:16+0000\n"
 "Last-Translator: RatArmy <broadbarredfirefish@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/wesnoth-jp/after-the-storm/"
@@ -1733,7 +1733,7 @@ msgstr "team_name^Elynia"
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:83
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:132
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:169
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:298
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:302
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:241
 msgid "team_name^Enemies"
 msgstr "敵"
@@ -1768,14 +1768,14 @@ msgstr "Elgamal"
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:210
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:868
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:247
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1450
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1521
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:582
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:586
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:655
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:672
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:520
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:534
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1082
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:524
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:538
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1087
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:163
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:565
 msgid "Defeat all enemy leaders"
@@ -1805,7 +1805,7 @@ msgstr "全ての敵リーダーを倒す"
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:924
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:1040
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:241
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:517
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:519
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:252
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:212
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:352
@@ -1850,14 +1850,14 @@ msgstr "全ての敵リーダーを倒す"
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:588
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:891
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:657
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:522
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1084
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:526
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1089
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:124
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:352
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:366
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1020
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1343
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1429
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:387
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1041
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1364
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1450
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:346
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:927
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:165
@@ -1900,7 +1900,7 @@ msgstr "Elyniaの死"
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:925
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:1041
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:242
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:518
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:520
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:253
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:213
 #: After_the_Storm/episode1/scenarios/10_Tears.cfg:353
@@ -1928,7 +1928,7 @@ msgstr "Mal Kesharの死"
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:99
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:252
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:675
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:537
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:541
 msgid "Death of Horo"
 msgstr "Horoの死"
 
@@ -1944,7 +1944,7 @@ msgstr "Horoの死"
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:100
 #: After_the_Storm/episode1/scenarios/08_Fear.cfg:253
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:676
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:538
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:542
 msgid "Death of Kyara"
 msgstr "Kyaraの死"
 
@@ -2302,14 +2302,14 @@ msgstr "大評議会"
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:328
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:446
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_2.cfg:514
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:542
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:565
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:267
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:585
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:888
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:615
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1017
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1340
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1426
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1038
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1361
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1447
 #: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:265
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:159
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:400
@@ -2340,7 +2340,7 @@ msgstr "GalasとElynia、Mal KesharをEldáinの要塞へと移動する"
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:923
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:1039
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:240
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:516
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:518
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:251
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:870
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_1.cfg:1108
@@ -3148,40 +3148,40 @@ msgid "<i>... I’ll be alone again...</i>"
 msgstr "<i>... また一人になるの...</i>"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2219
+#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2225
 msgid "The spell... I must use the spell..."
 msgstr "転移の呪文… あれを使わないと…"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2235
+#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2241
 msgid "<i>... I lost </i>much<i> more than that long ago...</i>"
 msgstr "… 私は<i>ずっと昔に</i>、もっとたくさんの物を<i>失ったわ</i>"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2245
+#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2251
 msgid "<i>... We aren’t that different after all...</i>"
 msgstr "<i>… 結局は、あなたと私は変わらないのよ…</i>"
 
 #. [message]: speaker=narrator
 #. Callback to AtS E1S12 "The Queen".
-#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2257
+#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2263
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4546
 msgid "<i>... a greater cause, one that transcends the fate of Irdya...</i>"
 msgstr "<i>… Irdyaの運命にも勝る大義…</i>"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2268
+#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2274
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:1292
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3764
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1462
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1467
 msgid "I..."
 msgstr "私は…"
 
 #. [message]: speaker=narrator
 #. [side]: type=Guardian of Life Uria, id=Uria
 #. [event]
-#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2286
-#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2307
+#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2292
+#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2313
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:37
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:758
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2235
@@ -3189,12 +3189,12 @@ msgid "Uria"
 msgstr "Uria"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2287
+#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2293
 msgid "<i>Do you truly think you can fight me?</i>"
 msgstr "<i>本気で私に挑むつもりか？</i>"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2308
+#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2314
 msgid ""
 "<i>You don’t have the power of the Union to help you anymore. Your friends "
 "are gone. Our power is unlimited. You cannot win.</i>"
@@ -3203,12 +3203,12 @@ msgstr ""
 "限だ。お前に勝機など無い。</i>"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2334
+#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2340
 msgid "... must..."
 msgstr "... やらなきゃ..."
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2423
+#: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2429
 msgid "<i>... Where am I?</i>"
 msgstr "<i>... ここはどこ？</i>"
 
@@ -4181,15 +4181,16 @@ msgstr "彼がこんなことを望むはずがない。彼は… Uriaに操ら�
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:1199
+#, fuzzy
 msgid ""
-"So, have you forgotten what he said? “I chose my fate — I guess this is what "
-"I deserved from the beginning.” I know, his last words were very vague, but "
-"it certainly sounded like he was well aware of what he was doing the whole "
-"time. Perhaps it was not his intention to cause harm to <i>you</i> in "
-"particular, but the damage he caused throughout the continent, in the name "
-"of Uria, to the things you protect... did it not affect you? Furthermore, it "
-"seemed like Uria felt his loss. If he was a mere puppet of hers, would she "
-"have resented his death so much?"
+"So, have you forgotten what he said? “I guess I had this coming ever since "
+"then.” I know, his last words were very vague, but it certainly sounded like "
+"he was well aware of what he was doing the whole time. Perhaps it was not "
+"his intention to cause harm to <i>you</i> in particular, but the damage he "
+"caused throughout the continent, in the name of Uria, to the things you "
+"protect... did it not affect you? Furthermore, it seemed like Uria felt his "
+"loss. If he was a mere puppet of hers, would she have resented his death so "
+"much?"
 msgstr ""
 "Arganの言ったことを忘れたのか？「私は自分の運命を選んだ。こうなることは初めか"
 "ら決まっていたような気がする。」Arganの最後の言葉はあいまいだったが、彼自身は"
@@ -5116,63 +5117,63 @@ msgid "SW: Province of Wyndill"
 msgstr "南西：Wyndill州"
 
 #. [event]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:514
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:516
 msgid "Defeat both enemy leaders"
 msgstr "敵のリーダーを両方倒す"
 
 #. [event]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:519
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:521
 msgid "Death of Vuruk or the ally leader"
 msgstr "Vurukまたは同盟軍のリーダーの死"
 
 #. [event]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:520
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:522
 msgid "The port of Tirigaz or the town of Arthol are captured by the enemy"
 msgstr "Tirigaz港かArtholの町が敵に奪取される"
 
 #. [value]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:538
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:540
 msgid "170 gold! It seems it was a trading ship!"
 msgstr "170枚の金貨だ！この船は貿易船だったようだ！"
 
 #. [value]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:539
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:541
 msgid "You retrieve 170 pieces of gold."
 msgstr "170枚の金貨を手に入れた。"
 
 #. [value]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:543
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:545
 msgid "Bah, only 25 pieces of gold. Better than nothing, I guess."
 msgstr "ふん、たったの25枚か。無いよりはましだろう。"
 
 #. [value]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:544
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:546
 msgid "You retrieve 25 pieces of gold."
 msgstr "25枚の金貨を手に入れた。"
 
 #. [value]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:548
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:550
 msgid "Two pieces of gold? Damn, this must be a joke!"
 msgstr "たった2枚だと？くそ、冗談だろ！"
 
 #. [value]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:549
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:551
 msgid "You retrieve two pieces of gold."
 msgstr "2枚の金貨を手に入れた。"
 
 #. [value]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:553
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:555
 msgid "Well, well, 50 pieces of gold can be put to good use!"
 msgstr "よし、いいぞ、50枚の金貨だ。何か良いことに使ってやろう！"
 
 #. [value]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:554
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:556
 msgid "You retrieve 50 pieces of gold."
 msgstr "50枚の金貨を手に入れた。"
 
 #. [message]: speaker=Ishkaal
 #. The pointy-eared demons here are the elves.
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:643
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:645
 msgid ""
 "You filthy soft-skinned beasts, this is your last opportunity to return our "
 "swamps! We are not planning to retreat to the forests of the pointy-eared "
@@ -5182,7 +5183,7 @@ msgstr ""
 "もの森に撤退などするつもりは無い！"
 
 #. [message]: speaker=Tan-Vatar
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:648
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:650
 msgid ""
 "We care nothing for your stupid conflicts on the eastern borders. You "
 "trespassed our frontiers and broke our treaty, and now you ask from us the "
@@ -5194,7 +5195,7 @@ msgstr ""
 "降伏させたいのなら…"
 
 #. [message]: speaker=Ishkaal
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:653
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:655
 msgid ""
 "To the Dark Gods with you and your treaty! The words of an orc are no more "
 "meaningful than his fetid breath! Maybe you’ll admit your defeat once we "
@@ -5206,17 +5207,17 @@ msgstr ""
 "降伏するであろう。行くぞ、Rishixよ！奴らに思い知らせてやるのだ！"
 
 #. [message]: speaker=Rishix
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:658
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:660
 msgid "We’ll make these puny dirt-dwellers rue the day they were born!"
 msgstr "この惨めなゴミどもに、生まれてきたことを後悔させてやりましょうぞ！"
 
 #. [message]: speaker=Galas
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:715
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:717
 msgid "That city to the northwest... is it the port of Tirigaz?"
 msgstr "あの北東の町が… Tirigazの港か？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:720
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:722
 msgid ""
 "Yes... it wasn’t so well fortified during my time. So many things have "
 "changed since then."
@@ -5226,32 +5227,32 @@ msgstr ""
 
 #. [message]: speaker=Galas
 #. "Is that smoke I smell?"
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:726
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:728
 msgid "Is that smoke I— Wait, I hear steps..."
 msgstr "あれは…煙か…待て、足音がするぞ…"
 
 #. [unit]: type=Orcish Crossbowman, id=Vuruk
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:743
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:745
 msgid "Vuruk"
 msgstr "Vuruk"
 
 #. [message]: speaker=Vuruk
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:760
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:762
 msgid "Hello, strangers! Are you loyal to the Grand Council?"
 msgstr "よう、よそ者たちよ！あんたらは大評議会側の者かい？"
 
 #. [message]: speaker=Mal Keshar
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:765
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:767
 msgid "Ehm..."
 msgstr "うーむ…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:770
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:772
 msgid "Yes, we are."
 msgstr "そうよ。"
 
 #. [message]: speaker=Vuruk
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:775
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:777
 msgid ""
 "Those vile saurians hold the port of Tirigaz under siege, leaving me unable "
 "to reach the city to deliver some important news to our lord. I think I "
@@ -5264,12 +5265,12 @@ msgstr ""
 "で行かなきゃいけねえんだが、あの虫けらのおかげで危険だぜ。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:780
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:782
 msgid "The enemies of our friends are our enemies. We can help you."
 msgstr "味方の敵は私達にとっても敵よ。協力しましょう。"
 
 #. [message]: speaker=Mal Keshar
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:785
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:787
 msgid ""
 "(<i>whispering</i>) I am curious about their motives... Don’t you think your "
 "trust in the orcs could be misplaced?"
@@ -5278,7 +5279,7 @@ msgstr ""
 "ぞ？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:790
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:792
 msgid ""
 "We must stop and repel those saurians before they take over Tirigaz or the "
 "northern town that provides resources to the port."
@@ -5287,12 +5288,12 @@ msgstr ""
 "提供しているから。"
 
 #. [message]: speaker=Galas
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:801
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:803
 msgid "Vuruk, what is it that you need to report to the lord of Tirigaz?"
 msgstr "Vuruk、君はTirigazの首長へ何を報告するつもりなんだ？"
 
 #. [message]: speaker=Vuruk
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:806
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:808
 msgid ""
 "Hmm... I fear it is nothing I’m allowed to share with anyone but Lord Tan-"
 "Vatar and his trusted commanders, at least not at this time."
@@ -5302,42 +5303,42 @@ msgstr ""
 
 #. [message]: speaker=Galas
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:811
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:813
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:369
 msgid "Fair enough."
 msgstr "了解。"
 
 #. [message]: speaker=Ishkaal
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:827
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:829
 msgid "Come in aid of your kin, friends from the deep sea!"
 msgstr "手をかしてくれ、深海の友たちよ！"
 
 #. [message]: speaker=Mal Keshar
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:877
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:879
 msgid ""
 "Ah, ha, ha, hah! They have the support of some wild creatures from the "
 "ocean! Nothing we cannot handle."
 msgstr "ハッハッハー！海から野生動物を呼び出したぞ！我々にはできん芸当だ！"
 
 #. [message]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:941
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:943
 msgid "Where did all these damned creatures come from?"
 msgstr "このいまいましい連中はどこから来たのだ？"
 
 #. [message]: speaker=Ishkaal
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:950
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:952
 #, fuzzy
 msgid "This is turning out to be much harder than we expected..."
 msgstr "思っていたよりも戦況は厳しいようだな。"
 
 #. [message]: speaker=Vuruk
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1022
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1024
 msgid ""
 "Arthol is being ransacked by the saurians! Now there’s no hope for Tirigaz!"
 msgstr "トカゲたちArtholを略奪してやがる！もうTirigazはおしまいだ！"
 
 #. [message]: speaker=Galas
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1043
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1045
 msgid ""
 "Tirigaz has been captured! Our mission has failed, and we won’t be able to "
 "reach Zocthanol now!"
@@ -5346,12 +5347,12 @@ msgstr ""
 "ない！"
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1072
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1074
 msgid "No! I’ve got to... uuugh..."
 msgstr "くそっ！俺がいかねば…ウゥゥ…"
 
 #. [message]: speaker=Galas
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1084
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1086
 msgid ""
 "We let the orcish messenger perish on the battlefield! The lord of Tirigaz "
 "is not going to like this..."
@@ -5360,68 +5361,68 @@ msgstr ""
 "ないだろう…"
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1099
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1101
 msgid "The treacherous ones cannot win! Eeaack..."
 msgstr "裏切り者に勝利などない！イィィク…"
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1123
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1125
 msgid "Damn you, dirt-dwellers!"
 msgstr "不潔な生き物め！"
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1148
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1150
 msgid ""
 "I have been struck down by the damned minions of a lich! This is not fair!"
 msgstr "リッチの手先などにやられてしまうとは！不公平だ！"
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1167
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1169
 msgid ""
 "Accursed lich! May the Dark Gods smite you down for this atrocity— Eaugh!!!"
 msgstr "いまいましいリッチめ！貴様に闇の神の罰が下らんことを…エァゥ！！！"
 
 #. [message]: speaker=Ishkaal
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1186
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1188
 msgid "Noooooo! You’ll suffer for this atrocity!"
 msgstr "おのれぇぇぇ！この罪は償ってもらうぞ！"
 
 #. [message]: speaker=second_unit
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1206
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1208
 msgid "Ha, ha, ha! Die, fool!"
 msgstr "ハッハッハ！死ね、愚か者め！"
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1211
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1213
 msgid "No! The city will fall... without my leadership... *ack*"
 msgstr "やめろ！俺がいなくては… 町が… うっ"
 
 #. [message]: speaker=Ishkaal
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1216
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1218
 msgid "Take that, orcish scum! Your leader is dead now, and your city is ours!"
 msgstr ""
 "降伏しろ、オークのクズどもめ！お前たちのリーダーは死んだぞ。町は我々のもの"
 "だ！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1228
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1230
 msgid ""
 "The commander of the defense of Tirigaz has been slain! The city won’t "
 "resist for much longer now..."
 msgstr "Tirigazの司令官が亡くなったわ！もうあの町は持たないわ…"
 
 #. [message]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1250
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1252
 msgid "Don’t get any closer to our villages, you vermin!"
 msgstr "村に近づくなよ、虫けらどもめ！"
 
 #. [message]: speaker=Ishkaal
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1255
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1257
 msgid "Crush their villages into the ground!"
 msgstr "奴らの村を粉砕しろ！"
 
 #. [message]: speaker=Galas
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1289
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1291
 msgid ""
 "These villages belong to the lord of Tirigaz! We must protect them, not "
 "capture them!"
@@ -5430,7 +5431,7 @@ msgstr ""
 "ならない！"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1314
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1316
 msgid ""
 "The fountain’s water is overflowing with an unusual energy.\n"
 "\n"
@@ -5440,39 +5441,39 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1325
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1327
 msgid "The fountain’s water continues to overflow with an unusual energy."
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1347
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1351
 msgid "(<i>jumps in</i>) Wheeeeeeee!!!"
 msgstr ""
 
 #. [transient_message]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1395
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1399
 msgid "Shimmering Fountain"
 msgstr ""
 
 #. [transient_message]
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1398
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1402
 msgid ""
 "The Naiad’s spell blesses anyone who takes a swim in the water of this "
 "fountain with newfound vim and courage."
 msgstr ""
 
 #. [unit]: type=Orcish Warrior, id=Vitork
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1425
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1429
 msgid "Vitork"
 msgstr "Vitork"
 
 #. [message]: speaker=Galas
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1436
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1440
 msgid "Yes! We did it!"
 msgstr "よし！終わったようだ！"
 
 #. [message]: speaker=Tan-Vatar
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1441
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1445
 msgid ""
 "This is an important battle you’ve helped us win, travelers. The city of "
 "Tirigaz shall be eternally thankful for your assistance."
@@ -5481,7 +5482,7 @@ msgstr ""
 "続けよう。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1446
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1450
 msgid ""
 "It is our duty to assist our allies in these times. However, I believe this "
 "soldier has something to tell you..."
@@ -5490,19 +5491,19 @@ msgstr ""
 "あるそうよ…"
 
 #. [message]: speaker=Vitork
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1451
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1455
 msgid "Vuruk, brother, you made it! Did you discover anything new?"
 msgstr "おお、Vuruk。兄弟よ、成し遂げたか！何か新たな発見はあったのか？"
 
 #. [message]: speaker=Vuruk
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1456
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1460
 msgid ""
 "Ha, indeed! I need to talk with you about it later, but now I must report to "
 "the chieftains."
 msgstr "ああ、もちろんだ！後で話すぜ。だがリーダーに言うのが先だ。"
 
 #. [message]: speaker=Tan-Vatar
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1461
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1465
 msgid ""
 "I see you helped Vuruk return home safe and sound. Well done! So, what can "
 "we do for you to repay our debt?"
@@ -5511,7 +5512,7 @@ msgstr ""
 "ことはないだろうか？"
 
 #. [message]: speaker=Mal Keshar
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1466
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1470
 msgid ""
 "Um, we are currently looking for transportation services. We must sail the "
 "open ocean to find a certain island..."
@@ -5520,7 +5521,7 @@ msgstr ""
 "ならん。"
 
 #. [message]: speaker=Tan-Vatar
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1471
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1475
 msgid ""
 "I mean no offense, but only fools would dare sail the <i>open ocean</i>! "
 "Nobody has ventured into farther waters and returned in one piece, ever! "
@@ -5536,7 +5537,7 @@ msgstr ""
 "いこうとするのだ？"
 
 #. [message]: speaker=Mal Keshar
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1476
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1480
 msgid ""
 "We have a mission to complete, but much like Vuruk’s, it is not something we "
 "should discuss with..."
@@ -5545,7 +5546,7 @@ msgstr ""
 "す訳には…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1481
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1485
 msgid ""
 "We know the location of a certain isle where some people who once lived on "
 "the Great Continent went to. We need to gather some information from them — "
@@ -5555,12 +5556,12 @@ msgstr ""
 "に移り住んだ。その者達から情報を集めたいの — これは大評議会の使令の一部よ。"
 
 #. [message]: speaker=Mal Keshar
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1486
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1490
 msgid "Uh, huh."
 msgstr "あー、うん。"
 
 #. [message]: speaker=Tan-Vatar
-#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1491
+#: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1495
 msgid ""
 "The Grand Council? Why didn’t you say so in the first place! We’ll do "
 "anything we can to help you in your mission. It’ll be difficult to gather an "
@@ -7918,9 +7919,9 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:179
 #: After_the_Storm/episode3/characters.cfg:5
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:777
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:344
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:369
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:487
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:350
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:375
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:493
 #: After_the_Storm/episode2/characters.cfg:5
 #: After_the_Storm/episode2/characters.cfg:18
 msgid "Elynia"
@@ -8359,7 +8360,7 @@ msgstr "Nar-homoth"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/macros/character-defines.cfg:79
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:865
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:886
 msgid "Mal Hekuba"
 msgstr "Mal Hekuba"
 
@@ -9310,7 +9311,7 @@ msgstr "Uria"
 #. [side]: type=Chaos Sharpshooter, id=General Ramzal
 #. [hidden_unit]: type=Chaos Sharpshooter, id=General Ramzal
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:135
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:598
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:603
 msgid "General Ramzal"
 msgstr "Ramzal将軍"
 
@@ -9377,20 +9378,20 @@ msgstr "全ての敵リーダーを倒し、主塔を奪取する"
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:293
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:607
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1131
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:546
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1452
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:569
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1523
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:590
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:271
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:589
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:892
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:658
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:629
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:523
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1085
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:367
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1021
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1344
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1430
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:527
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1090
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:388
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1042
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1365
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1451
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:347
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:928
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:166
@@ -9416,16 +9417,16 @@ msgstr "Anyaの死"
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:294
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:608
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1132
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1453
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1524
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:591
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:659
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:630
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:524
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1086
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:368
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1022
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1345
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1431
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:528
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1091
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:389
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1043
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1366
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1452
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:348
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:929
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:167
@@ -9454,15 +9455,15 @@ msgstr "Durvanの死"
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:295
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:609
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1133
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:547
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1454
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:570
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1525
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:592
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:272
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:590
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:893
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:660
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:631
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:525
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:529
 msgid "Death of Irylean"
 msgstr "Iryleanの死"
 
@@ -9472,8 +9473,8 @@ msgstr "Iryleanの死"
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:296
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:610
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1134
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:548
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1455
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:571
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1526
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:632
 msgid "Death of Ergea"
 msgstr "Ergeaの死"
@@ -9484,8 +9485,8 @@ msgstr "Ergeaの死"
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:297
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:611
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1135
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:549
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1456
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:572
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1527
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:633
 msgid "Death of Cron"
 msgstr "Cronの死"
@@ -10669,7 +10670,7 @@ msgstr ""
 #. [message]: speaker=Elyssa
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:391
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1423
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1428
 msgid "Elynia?"
 msgstr "Elynia？"
 
@@ -11002,50 +11003,56 @@ msgstr "Zaraphor"
 msgid "Elesmeera"
 msgstr "Elesmeera"
 
+#. [side]
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:334
+#, fuzzy
+msgid "team_name^?"
+msgstr "Anya"
+
 #. [label]
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:336
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:354
 msgid "Ivæthea’s Bridge"
 msgstr "Ivætheaの橋"
 
 #. [label]
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:341
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:359
 msgid "North Keep"
 msgstr "北の主塔"
 
 #. [label]
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:346
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:364
 msgid "South Keep"
 msgstr "南の主塔"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:398
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:418
 msgid "North Kelenvar"
 msgstr "北 Kelenvar"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:416
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:436
 msgid "South Kelenvar"
 msgstr "南 Kelenvar"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:434
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:454
 msgid "<s>Moon Guard Post</s>"
 msgstr "<s>衛星守備基地</s>"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:543
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:566
 msgid "Capture Zaraphor’s keep and castle before turn 10"
 msgstr "10ターンまでにZaraphorの主塔と城を奪う"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:545
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:568
 msgid ""
 "Any number of enemy leaders standing on Zaraphor’s keep and castle by the "
 "start of turn 10"
 msgstr "10ターン開始時にZaraphorの主塔か城上で敵リーダーが生きている"
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:564
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:587
 msgid ""
 "My scouts have just informed me that the bulk of the region’s defenses are "
 "already in motion and heading for our present location. They shall be here "
@@ -11056,12 +11063,12 @@ msgstr ""
 "がいるのか、それとも…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:573
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:596
 msgid "... She is not coming back, is she?"
 msgstr "…彼女は戻ってないの？"
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:578
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:601
 msgid ""
 "She must have had a good reason for leaving us like this, Anya. Well... I "
 "hope so, anyway. My lady, what about those reinforcements?"
@@ -11070,7 +11077,7 @@ msgstr ""
 "貴婦人様、それで援軍はどうなっているのですか？"
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:590
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:613
 msgid ""
 "The old fort near the river city guards a second portal leading to the "
 "northern lands whence you came. I had arranged for your allies to arrive "
@@ -11082,7 +11089,7 @@ msgstr ""
 "外の展開で作戦全体の成功が危うくなっている。"
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:596
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:619
 msgid ""
 "We must secure that fort as swiftly as we may. It is only a few hours before "
 "dawn breaks. If we manage to distract our enemies for long enough, Elynia "
@@ -11093,7 +11100,7 @@ msgstr ""
 "だろう。"
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:606
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:629
 msgid ""
 "The inhabitants of these lands are not too satisfied with the Iron Triad’s "
 "management. I advise that we try to gain their support and stir up a "
@@ -11105,17 +11112,17 @@ msgstr ""
 "だろう。"
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:611
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:634
 msgid "Let us get moving then. Anya shall lead the way!"
 msgstr "では、動きましょう。Anyaが指揮するのよ！"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:616
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:639
 msgid "I... shall?"
 msgstr "私…が？"
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:621
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:644
 msgid ""
 "That’s what Elynia said in that note, did she not? But you don’t need to "
 "worry about the management aspect — we can help you with that. Your darkness "
@@ -11130,17 +11137,17 @@ msgstr ""
 "られる別の<i>誰か</i>が。私が言いたいことがわかるかしら。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:626
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:649
 msgid "... Wait... you mean..."
 msgstr "…待って…それって…"
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:631
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:654
 msgid "Yes!"
 msgstr "ええ！"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:636
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:659
 msgid ""
 "(<i>annoyed</i>) Your rationale seems rather perverse, and it’s slightly "
 "offensive considering I have never... unlike... Ack! How about... we just... "
@@ -11150,40 +11157,40 @@ msgstr ""
 "るんじゃ… 私は…そんなのじゃない…… もうっ！それでどうするの…前へ…進むの？"
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:641
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:664
 msgid "I support the motion. This is no time for such frivolous chatter."
 msgstr ""
 "指示を出すのは手伝おう。そんなつまらないおしゃべりをしている時間は無いのだか"
 "らな。"
 
 #. [transient_message]
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:647
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:670
 msgid "You can now recruit the following unit types:"
 msgstr "あなたは以下の種類のユニットを雇用できるようになりました:"
 
 #. [transient_message]
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:650
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:673
 msgid "Demon"
 msgstr "デーモン"
 
 #. [message]: speaker=Jarayavel
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:672
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:695
 msgid "So bold— argh..."
 msgstr "なんと大胆な— ああっ……"
 
 #. [message]: speaker=Mereldyan
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:684
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:707
 msgid "The Fist shall not tolerate your intrusion..."
 msgstr "「拳」はきっと貴様等の侵入を許さない…"
 
 #. [message]: speaker=Zaraphor
 #. The 'Fist' is a yet unseen male demon.
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:697
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:720
 msgid "The Fist knows... He knows everything... Flee while you can..."
 msgstr "「拳」は知っている…彼は全てを知っている…逃げられる内に逃げるんだな…"
 
 #. [message]: speaker=Elesmeera
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:709
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:732
 msgid ""
 "No, n— please no! My fair lady of the Storms, I— I did not have a choice! "
 "The Fist— I— I—"
@@ -11192,7 +11199,7 @@ msgstr ""
 "です！「拳」が— 私は— 私は—"
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:714
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:737
 msgid ""
 "You betrayed me and my people. There is only one possible punishment for "
 "such a grave misdeed under my rule and you are well aware what it is."
@@ -11201,65 +11208,65 @@ msgstr ""
 "ただ一つだ、お前も良く知っていることだろう？"
 
 #. [message]: speaker=Elesmeera
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:719
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:742
 msgid "No! I beg you—"
 msgstr "そんな！どうかお許しを—"
 
 #. [unit]: id=Theneryr, type=Bowman
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:745
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:768
 msgid "Theneryr"
 msgstr "Theneryr"
 
 #. [unit]: id=Maergon, type=Bowman
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:760
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:783
 msgid "Maergon"
 msgstr "Maergon"
 
 #. [unit]: id=Sergalyr, type=Spearman
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:775
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:798
 msgid "Sergalyr"
 msgstr "Sergalyr"
 
 #. [unit]: id=Muthel, type=Thief
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:790
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:813
 msgid "Muthel"
 msgstr "Muthel"
 
 #. [unit]: id=Cyrelean, type=Thief
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:807
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:830
 msgid "Cyrelean"
 msgstr "Cyrelean"
 
 #. [message]: speaker=Cyrelean
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:821
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:844
 msgid ""
 "The old order is coming to an end at last, and in time, freedom will be ours!"
 msgstr "古い秩序はついに終焉を迎える！今こそ自由を我らの手に！"
 
 #. [message]: speaker=Sergalyr
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:826
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:849
 msgid ""
 "Let us purge the foul worshipers of Uria and reclaim our ancestors’ lands!"
 msgstr "腐ったUriaの崇拝者を排除し、先祖の土地を取り戻すぞ！"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:853
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:876
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:1006
 msgid "Both playing teams retrieve $temp_gold_retrieval_amount pieces of gold."
 msgstr "操作している両方のチームが $temp_gold_retrieval_amount枚の金貨を得た。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:889
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:912
 msgid "I don’t understand... It should be dawn already!"
 msgstr "どういうこと… とっくに夜明けが来ているはずよ！"
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:894
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:917
 msgid "The... day of the Longest Night... This does not bode well."
 msgstr "これは…明けない夜… 幸先が悪いな。"
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:916
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:939
 msgid ""
 "We failed to secure that portal in time! Without those reinforcements we "
 "will never make it! Retreat!"
@@ -11268,37 +11275,37 @@ msgstr ""
 "退！"
 
 #. [event]: type=Shaxthal War Drone, type=Shaxthal Enforcer Drone, type=Shaxthal Demolisher Drone, type=Chaos Cataphract, id=Celwyngyr, type=Chaos Soulhunter, id=Morol, type=Lich, id=Mal Fyrgwynn, type=Demon Warrior, id=Demon Lord Alavys
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1130
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1153
 msgid "Celwyngyr"
 msgstr "Celwyngyr"
 
 #. [event]: type=Shaxthal War Drone, type=Shaxthal Enforcer Drone, type=Shaxthal Demolisher Drone, type=Chaos Cataphract, id=Celwyngyr, type=Chaos Soulhunter, id=Morol, type=Lich, id=Mal Fyrgwynn, type=Demon Warrior, id=Demon Lord Alavys
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1148
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1171
 msgid "Morol"
 msgstr "Morol"
 
 #. [event]: type=Shaxthal War Drone, type=Shaxthal Enforcer Drone, type=Shaxthal Demolisher Drone, type=Chaos Cataphract, id=Celwyngyr, type=Chaos Soulhunter, id=Morol, type=Lich, id=Mal Fyrgwynn, type=Demon Warrior, id=Demon Lord Alavys
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1166
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1189
 msgid "Mal Fyrgwynn"
 msgstr "Mal Fyrgwynn"
 
 #. [event]: type=Shaxthal War Drone, type=Shaxthal Enforcer Drone, type=Shaxthal Demolisher Drone, type=Chaos Cataphract, id=Celwyngyr, type=Chaos Soulhunter, id=Morol, type=Lich, id=Mal Fyrgwynn, type=Demon Warrior, id=Demon Lord Alavys
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1201
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1239
 msgid "Demon Lord Alavys"
 msgstr "デーモンの貴族 Alavys"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1368
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1439
 msgid "Uh... It seems we arrived just in time."
 msgstr "うう…時間通りに着いたようだな。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1394
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1465
 msgid "Durvan! I thought you would be on your way back home by now!"
 msgstr "Durvan！今頃は故郷へ戻っているところだと思っていたわ！"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1399
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1470
 msgid ""
 "I changed my mind, I guess? I can’t shake off the feeling that I’ll regret "
 "this later, though. Where is Elynia?"
@@ -11307,12 +11314,12 @@ msgstr ""
 "でElyniaはどこだ？"
 
 #. [message]: speaker=Irylean
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1404
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1475
 msgid "We don’t know."
 msgstr "わからないわ。"
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1412
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1483
 msgid ""
 "You may discuss that at a later time. For now, it is of utmost importance "
 "that we distract or take down Kalari’s military. I am confident that the "
@@ -11323,7 +11330,7 @@ msgstr ""
 "ている。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1417
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1488
 msgid ""
 "It’s really General Bardyl and Elynia who should get the credit, not me. I "
 "merely asked him to lend us a hand, and he gladly acceded, most likely in "
@@ -11336,7 +11343,7 @@ msgstr ""
 "どと呼ばれる立場じゃない。"
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1423
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1494
 msgid ""
 "You may discuss that at a later time. For now, it is of utmost importance "
 "that we distract or take down Kalari’s military. However, I expected Sir "
@@ -11347,7 +11354,7 @@ msgstr ""
 "たが。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1428
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1499
 msgid ""
 "General Bardyl wouldn’t accede to spending more lives on a pointless mission "
 "after Elynia decided to part ways with him before they could properly "
@@ -11360,7 +11367,7 @@ msgstr ""
 "どと呼ばれる立場じゃない。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1435
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1506
 msgid ""
 "Time is of the essence, Durvan. We need to get moving while the darkness can "
 "provide us with an advantage."
@@ -11369,13 +11376,13 @@ msgstr ""
 "の。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1440
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1511
 msgid ""
 "Sure, these men and women thirst for the blood of these fiends. Lead the way!"
 msgstr "わかった、こいつらもあの悪魔共の血に飢えている。案内を頼む！"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1474
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1545
 msgid ""
 "So, Elynia went on a mission to infiltrate the Iron Council’s citadel? What "
 "kind of nonsense is that?"
@@ -11384,7 +11391,7 @@ msgstr ""
 "ことを？"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1479
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1550
 msgid ""
 "According to Ergea she went to locate some kind of weapon buried beneath "
 "Kalari. I am really worried for her. She just left during the night without "
@@ -11401,7 +11408,7 @@ msgstr ""
 "わ。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1488
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1559
 msgid ""
 "And then there is this inexplicable unending darkness. It <i>is</i> our "
 "element, yet I can’t help but find all this dreadfully unnatural and "
@@ -11411,7 +11418,7 @@ msgstr ""
 "域ではあるんだけど、どうしても不自然で恐ろしくて、とっても嫌な予感がするの。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1493
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1564
 msgid ""
 "Yes... yes, it is. Maybe I shouldn’t have allowed Ergea to convince me to "
 "come here."
@@ -11420,13 +11427,13 @@ msgstr ""
 "かもな。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1498
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1569
 msgid "Ah, so you came back to us because she asked you to?"
 msgstr "ああ、それじゃあ彼女に頼まれたから戻ってきたの？"
 
 #. [message]: speaker=Durvan
 #. The first 'you' is singular; the second 'you' is plural.
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1505
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1576
 msgid ""
 "Er... well, I admit that before she asked me I already wanted to see whether "
 "you were all right... I mean, you people."
@@ -11435,27 +11442,37 @@ msgstr ""
 "のが本心だ。……おっと、お前たち全員を含んだことだからな。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1510
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1581
 msgid "Hm. I see."
 msgstr "ふーん、そうなんだぁ。"
 
 #. [message]: speaker=Cron
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1525
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1596
 msgid "Cron likes the sound of bones breaking under his hammer."
 msgstr "Cron、Cronのハンマーで骨を潰す音好き。"
 
 #. [message]: speaker=Cron
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1540
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1611
 msgid "Cron enjoys crushing insolent vermin to death."
 msgstr "Cron生意気な害虫を殺すの楽しい。"
 
 #. [message]: speaker=second_unit
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1545
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1616
 msgid "Get away from me, you beast!"
 msgstr "近寄るな、このケダモノめ！"
 
+#. [message]: speaker=narrator
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1645
+msgid ""
+"Into the fountain of courage.\n"
+"\n"
+"Down the river of fear.\n"
+"\n"
+"A light in the darkness she patiently awaits."
+msgstr ""
+
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1568
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1658
 msgid ""
 "Taking their river settlements, vanquishing their leaders, and leaving their "
 "troops in utter disarray ought to be enough to keep the Iron Council "
@@ -11467,7 +11484,7 @@ msgstr ""
 "撃をしかける時だ。"
 
 #. [message]: speaker=Ergea
-#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1579
+#: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1669
 msgid ""
 "The situation is not as favorable as I wished. We ought to take the fight "
 "closer to the Iron Council’s citadel if we want to keep their attention away "
@@ -12512,9 +12529,9 @@ msgstr "技術者"
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:137
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:168
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:204
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:241
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:261
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:284
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:253
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:273
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:298
 #: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:53
 #: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:75
 #: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:95
@@ -14050,7 +14067,7 @@ msgstr "Aradellys"
 #. [unit]
 #. [unit]: type=Chaos Magus, id=Kri'tan
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:168
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:394
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:398
 msgid "Kri’tan"
 msgstr "Kri’tan"
 
@@ -14833,7 +14850,7 @@ msgstr "Anya…"
 #. [message]: speaker=Anya
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:793
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1428
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1433
 msgid "Yes?"
 msgstr "何？"
 
@@ -20160,7 +20177,7 @@ msgstr "中央主塔内のポータルを確保する"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:674
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:536
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:540
 msgid "Death of General Bardyl"
 msgstr "Bardyl将軍の死"
 
@@ -21469,111 +21486,111 @@ msgid "Karathas"
 msgstr "Karathas"
 
 #. [unit]: type=Chaos Headhunter, id=Meryrcor
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:164
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:168
 msgid "Meryrcor"
 msgstr "Meryrcor"
 
 #. [unit]: type=Chaos Headhunter, id=Delvryd
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:178
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:182
 msgid "Delvryd"
 msgstr "Delvryd"
 
 #. [unit]: type=Chaos Marauder, id=Cervan
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:193
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:197
 msgid "Cervan"
 msgstr "Cervan"
 
 #. [unit]: type=Demon Warrior, id=Borothas
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:233
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:237
 msgid "Borothas"
 msgstr "Borothas"
 
 #. [unit]: type=Demon Warrior, id=Galthera-Irul
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:249
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:253
 msgid "Galthera-Irul"
 msgstr "Galthera-Irul"
 
 #. [unit]: type=Demon Zephyr, id=Zilrynea
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:265
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:269
 msgid "Zilrynea"
 msgstr "Zilrynea"
 
 #. [unit]: type=Demon Zephyr, id=Igryella
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:280
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:284
 msgid "Igryella"
 msgstr "Igryella"
 
 #. [side]: type=Chaos Heavy Longbowman, id=Loras-Chalzerg
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:314
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:318
 msgid "Loras-Chalzerg"
 msgstr "Loras-Chalzerg"
 
 #. [unit]: type=Doom Guard, id=Sargan
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:337
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:341
 msgid "Sargan"
 msgstr "Sargan"
 
 #. [unit]: type=Doom Guard, id=Rohalar
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:351
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:355
 msgid "Rohalar"
 msgstr "Rohalar"
 
 #. [unit]: type=Chaos Arbalestier, id=Vryncthan
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:366
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:370
 msgid "Vryncthan"
 msgstr "Vryncthan"
 
 #. [unit]: type=Dark Knight, id=Gellerdyl
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:380
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:384
 msgid "Gellerdyl"
 msgstr "Gellerdyl"
 
 #. [unit]: type=Demon Zephyr, id=Therelei
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:409
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:413
 msgid "Therelei"
 msgstr "Therelei"
 
 #. [unit]: type=Demon Zephyr, id=Avralereon
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:425
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:429
 msgid "Avralereon"
 msgstr "Avralereon"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:544
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:548
 msgid ""
 "You’ll continue to control General Bardyl and his troops until the end of "
 "the next scenario"
 msgstr "次のシナリオの終わりまでBardyl将軍と彼の軍勢を操作できます"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:555
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:559
 msgid "This is taking too long — I begin to worry for Elynia..."
 msgstr "遅いわ —  Elyniaのこと心配になってきた…"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:562
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:566
 msgid "Nah, there she comes."
 msgstr "その必要はないぞ、戻って来た。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:592
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:596
 msgid "Elynia, you are back! Is that... the journal?"
 msgstr "Elynia、おかえり！それは… 日誌？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:597
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:601
 msgid "That’s correct."
 msgstr "ええ、まさに。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:602
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:606
 msgid ""
 "So, is that General Bardyl fellow going to help us assault Aran-Balgur then?"
 msgstr ""
 "それで、Bardyl将軍は俺たちがAran-Balgurを攻撃するのを手伝ってくれるのか？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:607
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:611
 msgid ""
 "Indeed he is, but not specifically because of my advice; he was already "
 "giving consideration to the idea because of a rumor that’s been running "
@@ -21589,7 +21606,7 @@ msgstr ""
 "は間違いなさそうだわ。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:612
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:616
 #, fuzzy
 msgid ""
 "I shudder to wonder exactly how this information was obtained. I know from "
@@ -21602,17 +21619,17 @@ msgstr ""
 "れているし、魔術師やデーモンは強力すぎて抑え込めないわ。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:617
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:621
 msgid "I guess now we should all advance towards Aran-Balgur?"
 msgstr "それで、私達もみんなでAran-Balgurへ向かうんだよね？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:622
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:626
 msgid "Exactly. And we should be careful."
 msgstr "ええ、注意しながら進まないといけないわ。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:639
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:643
 #, fuzzy
 msgid ""
 "The road to the south leading to Aran-Balgur is said to be well protected by "
@@ -21630,27 +21647,27 @@ msgstr ""
 "うね。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:644
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:648
 msgid "So it rests on us and our followers, I take it."
 msgstr "ということは、後は俺達次第ということか、わかった。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:649
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:653
 msgid "Exactly."
 msgstr "そういうことね。"
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:676
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:680
 msgid "And so, it begins."
 msgstr "では始めるぞ。"
 
 #. [message]: speaker=Kyara
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:684
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:688
 msgid "If you don’t mind me asking, sir, are you sure about this?"
 msgstr "閣下、よろしければお聞かせ下さい。本当に大丈夫なんでしょうか？"
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:689
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:693
 msgid ""
 "Of course I am. The Grand Council has neglected us for long enough, and "
 "those damned bastards from hell are getting increasingly bored of playing "
@@ -21666,18 +21683,18 @@ msgstr ""
 "ことだろう。"
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:755
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:759
 msgid "Lord Nar-hamoth demands the blood of the northern scum! Charge!"
 msgstr "Nar-hamoth卿が北のクズ共の血を欲しておられる！突撃！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:770
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:774
 msgid ""
 "I remember that name — I believe it’s one of the fiends of the Iron Triad."
 msgstr "聞いたことのある名前ね — そいつは鉄の三議長の一人だったはず。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:775
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:779
 msgid ""
 "So the rumors Elorran heard are true? That guy is said to be the least "
 "competent Demon Lord of all, and yet Uria trusts him over most for some "
@@ -21687,12 +21704,12 @@ msgstr ""
 "一番無能だったのに、何かの理由でUriaには一番信用されてたみたい。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:780
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:784
 msgid "We’ll soon see how competent he is on the battlefield, then."
 msgstr "彼が戦場でどれだけ優秀かはすぐにわかることになるわね。"
 
 #. [message]: speaker=Nar-hamoth
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:856
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:860
 #, fuzzy
 msgid ""
 "So you finally decided to challenge me directly? Hopefully this will be an "
@@ -21700,37 +21717,37 @@ msgid ""
 msgstr "ほう、お前は直接俺に挑むことにしたのか？少しは楽しませてくれよ！"
 
 #. [message]: speaker=Nar-hamoth
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:873
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:877
 msgid "Die, pathetic Irdyan rats! DIE!"
 msgstr ""
 
 #. [message]: speaker=Nar-hamoth
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:966
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:970
 msgid ""
 "Ha! Not bad, but I was just warming up! Now, let us see if you can handle "
 "THIS!"
 msgstr ""
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:996
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1000
 msgid "Oh, come on! That’s just cheating!"
 msgstr ""
 
 #. [message]: speaker=Nar-hamoth
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1007
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1011
 msgid ""
 "You do not tire of combat easily, eh? I’m impressed! Shall we have a third "
 "round then?"
 msgstr ""
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1013
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1017
 #, fuzzy
 msgid "Will you stop doing that, you fiend?!"
 msgstr "もう質問は止めてくれない？"
 
 #. [message]: speaker=Nar-hamoth
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1022
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1026
 msgid ""
 "Ha! Your strength and resourcefulness have not gone unnoticed by the "
 "Guardian of Life! I too can respect an enemy that perseveres against "
@@ -21738,12 +21755,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Nar-hamoth
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1048
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1052
 msgid "Alas, that stubbornness of yours shall be your and your kind’s undoing!"
 msgstr ""
 
 #. [message]: speaker=Nar-hamoth
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1063
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1067
 msgid ""
 "Hm. Very impressive, indeed. Despite being such lowly rats, you sure seem to "
 "be capable of grand feats when given the right motivation. Ahh, yes, as that "
@@ -21753,17 +21770,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1068
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1072
 msgid "Stop him before he escapes!"
 msgstr ""
 
 #. [message]: speaker=Nar-hamoth
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1073
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1077
 msgid "I shall eagerly await the day we meet again!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1100
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1104
 #, fuzzy
 msgid ""
 "... Fleeing the battlefield seems a conventional tactic for the highest-"
@@ -21777,20 +21794,20 @@ msgstr ""
 "はできないのかも。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1105
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1109
 #, fuzzy
 msgid "That may have been for the best, though."
 msgstr "そっちの方がまだいいかも。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1110
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1114
 msgid ""
 "Perhaps. Still, I would be grateful if I never had to deal with their "
 "limitless arrogance again."
 msgstr ""
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1128
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1132
 msgid ""
 "This operation was a disastrous mistake. Their shock troops are heading here "
 "now, and the faerie’s reinforcements are all but useless. Perhaps if we "
@@ -21801,7 +21818,7 @@ msgstr ""
 "ろうか。"
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1136
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1140
 msgid ""
 "Well played, faerie. Not only you deliberately misled us about your numbers, "
 "but you also omitted the fact that you consort with necromancers. This "
@@ -21812,7 +21829,7 @@ msgstr ""
 "ぞ。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1141
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1145
 msgid ""
 "Not necessarily. Today’s events would indicate that together we can build a "
 "formidable opposition force. Is this not what you wanted? An opportunity to "
@@ -21828,7 +21845,7 @@ msgstr ""
 "か？Glamdrolの事件からどれだけの数の戦士が脱走しましたか？"
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1146
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1150
 msgid ""
 "I specifically pointed out your deception; I did not say I would retract, "
 "and that’s not an option at this point unless I were looking for a mutiny. "
@@ -21839,14 +21856,14 @@ msgstr ""
 "しい。とりあえず貴様に一言いっておきたかっただけだ。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1155
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1159
 msgid ""
 "Elynia, are you sure about this? You did admit before that your judgment "
 "might not be—"
 msgstr "Elynia、ホントに良いの？前にあなたが下した判断はこうじゃない—"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1160
+#: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1164
 msgid ""
 "I’m not really heeding my judgment anymore, girl. It’s just a hunch I "
 "have... I have to return to Kalari and find this Demon Lord of the Storms, "
@@ -21868,47 +21885,47 @@ msgid "team_name^Elorran"
 msgstr "Elorran"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:175
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:180
 msgid "Eluclya"
 msgstr "Eluclya"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:183
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:188
 msgid "Nalan"
 msgstr "Nalan"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:191
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:196
 msgid "Crendil"
 msgstr "Crendil"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:201
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:206
 msgid "Zareth"
 msgstr "Zareth"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:210
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:215
 msgid "Gecelan"
 msgstr "Gecelan"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:219
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:224
 msgid "Aragea"
 msgstr "Aragea"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:232
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:237
 msgid "Elytha"
 msgstr "Elytha"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:241
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:246
 msgid "Unia"
 msgstr "Unia"
 
 #. [message]: speaker=Eluclya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:258
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:263
 msgid ""
 "My lady, since you are returning to the Far North we thought we should let "
 "you know you can count on our help. Should you need fighters or a healer..."
@@ -21917,12 +21934,12 @@ msgstr ""
 "えておりました。戦士やヒーラーはお役にたてないでしょうか…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:263
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:268
 msgid "I appreciate your offer, and you can come with us if you wish."
 msgstr "そう言ってくれて感謝するわ。そう望むのなら、私達と一緒に行きましょう。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:269
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:274
 msgid ""
 "These three loyal elves—Eluclya, Nalan and Crendil—will be available for you "
 "to recall from now on."
@@ -21931,13 +21948,13 @@ msgstr ""
 "す。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:274
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:279
 msgid ""
 "Elynia, I’m not sure leaving most of our men behind is actually a good idea."
 msgstr "Elynia、多くの仲間をここに置いていくのは良い考えには思えないのだが。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:279
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:284
 msgid ""
 "I prefer that they stay here to investigate the ruins for us and assist the "
 "elves should the Empire send more troops back here. Anya can teleport them "
@@ -21950,7 +21967,7 @@ msgstr ""
 "わ。それに、私の力不足のおかげで既に余計な時間を使わせてしまったみたいだし。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:284
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:289
 msgid ""
 "Don’t say such things — it’s not your fault! Teleportation is a very "
 "complicated and dangerous skill to learn for those who weren’t born with the "
@@ -21960,7 +21977,7 @@ msgstr ""
 "人以外にとっては、転移の術って複雑で、それに危険なんだから！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:291
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:296
 msgid ""
 "If you say so, girl. (<i>smiling</i>) I suppose it’s not my place to argue "
 "with a creature of the darkness."
@@ -21969,23 +21986,23 @@ msgstr ""
 "う考えてもあなたの方が詳しいみたい。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:300
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:305
 msgid "Let’s return."
 msgstr "戻りましょう。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:305
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:310
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:831
 msgid "Very well!"
 msgstr "わかりましたぁ！！"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:476
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:481
 msgid "Where are we? Where is everyone?"
 msgstr "俺たちはどこにいるんだ？皆はどこだ？"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:485
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:490
 msgid ""
 "While Anya and Durvan contemplate their surroundings, Elynia picks up a "
 "necklace identical to Anya’s, covered in blood."
@@ -21994,144 +22011,144 @@ msgstr ""
 "首飾りを拾いあげた。血に染まったその首飾りを。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:495
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:500
 msgid "This does not bode well."
 msgstr "嫌な予感がするわ。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:500
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:505
 msgid "That trail... No..."
 msgstr "この跡は… そんな……"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:514
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:519
 msgid "Please tell me they’re not..."
 msgstr "どうしてみんなが居ないの……"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:570
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:575
 msgid "... May the Lords of Light have mercy..."
 msgstr "……光の神々の御慈悲がありますように…"
 
 #. [hidden_unit]: type=Demon Grunt, id=Sibul
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:622
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:627
 msgid "Sibul"
 msgstr "Sibul"
 
 #. [hidden_unit]: type=Chaos Marauder, id=Vrenmark
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:644
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:649
 msgid "Vrenmark"
 msgstr "Vrenmark"
 
 #. [hidden_unit]: type=Demon Grunt
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:672
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:677
 msgid "Amphael"
 msgstr "Amphael"
 
 #. [hidden_unit]: type=Demon
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:686
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:691
 msgid "Vrena"
 msgstr "Vrena"
 
 #. [hidden_unit]: type=Dark Knight
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:699
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:704
 msgid "Zulter"
 msgstr "Zulter"
 
 #. [hidden_unit]: type=Blood Imp
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:714
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:719
 msgid "Sharghel"
 msgstr "Sharghel"
 
 #. [hidden_unit]: type=Demon Zephyr
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:728
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:733
 msgid "Riza"
 msgstr "Riza"
 
 #. [hidden_unit]: type=Fire Faerie
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:741
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:746
 msgid "Malryne"
 msgstr "Malryne"
 
 #. [hidden_unit]: type=Chaos Invader
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:754
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:759
 msgid "Faras"
 msgstr "Faras"
 
 #. [hidden_unit]: type=Demon
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:768
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:773
 msgid "Vulmorse"
 msgstr "Vulmorse"
 
 #. [hidden_unit]: type=Demon
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:782
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:787
 msgid "El-Daghard"
 msgstr "El-Daghard"
 
 #. [hidden_unit]: type=Imp
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:795
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:800
 msgid "Knox"
 msgstr "Knox"
 
 #. [hidden_unit]: type=Demon Zephyr
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:808
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:813
 msgid "Shege Ros"
 msgstr "Shege Ros"
 
 #. [hidden_unit]: type=Chaos Invoker
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:820
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:825
 msgid "Azora"
 msgstr "Azora"
 
 #. [hidden_unit]: type=Demon
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:833
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:838
 msgid "Kalehmar"
 msgstr "Kalehmar"
 
 #. [hidden_unit]: type=Demon
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:847
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:852
 msgid "Zharma"
 msgstr "Zharma"
 
 #. [hidden_unit]: type=Imp
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:859
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:864
 msgid "Drogor"
 msgstr "Drogor"
 
 #. [hidden_unit]: type=Demon
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:913
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:918
 msgid "Kyanala"
 msgstr "Kyanala"
 
 #. [hidden_unit]: type=Demon
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:928
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:933
 msgid "Shergal"
 msgstr "Shergal"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:945
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:950
 msgid "This... is quite the bloody mess..."
 msgstr "これは… なんという有様だ…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:955
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:960
 msgid "Anya... I..."
 msgstr "Anya… 私は…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:965
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:970
 msgid "... I— I advise you don’t come outside—"
 msgstr "…私は— 私はあなたはこっちへ来ない方が良いと思うわ—"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1021
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1026
 msgid "(<i>crying</i>) No..."
 msgstr "(<i>泣きながら</i>)そんな…"
 
 #. [message]: speaker=General Ramzal
 #. The full title is "The Fist of Uria", and is male, but this is supposed
 #. to be unclear at this point in order to mess with Elynia's head.
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1040
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1045
 msgid ""
 "There they are! Just like the Fist told us, they would turn up soon looking "
 "for their fallen friends. Would that our pets had lingered around for long "
@@ -22142,7 +22159,7 @@ msgstr ""
 "これまでだ — さあ、今回限りで終わりにしてやんな！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1045
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1050
 msgid ""
 "Search the settlement for survivors, gather any living humans from the "
 "nearby villages, and try to locate Elorran and Tara’s remains."
@@ -22151,12 +22168,12 @@ msgstr ""
 "Taraの遺体を見つけましょう。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1050
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1055
 msgid "Elynia...? What’s your plan?"
 msgstr "Elynia…？何をしようと？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1055
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1060
 msgid ""
 "We will make the demons pay for this atrocity. That is all I know and care "
 "about for the moment."
@@ -22165,12 +22182,12 @@ msgstr ""
 "いついたことは無いわ。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1103
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1108
 msgid "Anya... I’m truly sorry for all this. It all has been my fault..."
 msgstr "Anya… 本当にごめんなさい。これは全部私のせいね…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1113
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1118
 msgid ""
 "(<i>still crying</i>) Don’t blame yourself. This... we knew it would happen. "
 "It would happen sooner or later."
@@ -22179,7 +22196,7 @@ msgstr ""
 "たの。遅かれ早かれこれは起こってしまうことだったの。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1119
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1124
 msgid ""
 "I just... I just hoped I’d have a chance to say goodbye to them. They... "
 "they took care of me for so long, ever since I was abandoned... as a child."
@@ -22188,7 +22205,7 @@ msgstr ""
 "世話をしてくれたから。私が子供の時に… 棄てられてからずっと。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1128
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1133
 msgid ""
 "I could never understand. I had heard stories about your kind... And then I "
 "met you, and I saw you and that elvish lady, and the other elves... You have "
@@ -22203,7 +22220,7 @@ msgstr ""
 "た私をそんな風には思ってくれなかった。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1134
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1139
 msgid ""
 "They hate us. Perhaps out of fear, or out of ignorance. Or simply because we "
 "are not like them."
@@ -22212,7 +22229,7 @@ msgstr ""
 "しかしたら、単に彼らと違う姿をしていたからかもしれない。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1140
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1145
 msgid ""
 "Thirteen years ago, Tara found me in the forest. I was cold, starving, and "
 "frightened. She brought me to Elorran, and together they raised me since "
@@ -22226,17 +22243,17 @@ msgstr ""
 "達も妨害を受けることはなかっただろうし、それに、それに…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1169
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1174
 msgid "... They taught me many things. But most importantly..."
 msgstr "……あの人達は私にいろんなことを教えてくれた。でも一番大事なことは…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1198
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1203
 msgid "They taught me to smile."
 msgstr "あの人達は私に「笑う」ことを教えてくれた。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1207
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1212
 msgid ""
 "My mission failed. I brought you back, but we don’t have the Ruby, and "
 "Elorran and Tara can’t help us anymore. But... I’m sure all this had to "
@@ -22249,27 +22266,27 @@ msgstr ""
 "感じられなかったとしても。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1213
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1218
 msgid "If we are still alive, it must mean something..."
 msgstr "私達が生きている限り、そこにはきっと何か意味があるはず…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1222
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1227
 msgid "It must mean our purpose in this game hasn’t been fulfilled yet."
 msgstr "このゲームにおける私達の存在意義はきっとまだ果たしきれていない。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1231
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1236
 msgid "I will follow you until the end... what else is there for me to do."
 msgstr "私は最期まであなたについていく…… 私には他にできることはないから。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1245
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1250
 msgid "You are all I have now."
 msgstr "私にはあなたしかいないの。"
 
 #. [message]: speaker=General Ramzal
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1267
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1272
 msgid ""
 "I’ve been eagerly awaiting the opportunity to behold the Lady of Light’s "
 "impaled torso, but that won’t happen now, for my presence is required in "
@@ -22282,22 +22299,22 @@ msgstr ""
 "しておくんだぞ。"
 
 #. [unit]: type=Chaos Razerman, id=Glorderon
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1298
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1303
 msgid "Glorderon"
 msgstr "Glorderon"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1330
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1335
 msgid "What was that explosion? The volcano?"
 msgstr "今の爆発は何？火山？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1335
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1340
 msgid "No. It was much farther from this region..."
 msgstr "違うわ。ここの近くにそんなのはなかったはずよ…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1345
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1350
 msgid ""
 "The explosion definitely came from Raelthyn. There’s an enormous cloud of "
 "smoke coming from that direction. This... I suppose this explains why I "
@@ -22308,32 +22325,32 @@ msgstr ""
 "いね。"
 
 #. [message]: speaker=Glorderon
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1357
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1362
 msgid "This... isn’t po—"
 msgstr "こんな… あり…"
 
 #. [message]: speaker=Sibul
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1369
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1374
 msgid "Damn you, creatures— Grargh!!!"
 msgstr "ちくしょう— ガァァァ！！！"
 
 #. [message]: speaker=Vrenmark
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1381
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1386
 msgid "Ah, yes, you can kill me now, but at the end of the day—"
 msgstr "ああ、そうだな、ここで俺を殺しても、いずれは…"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1397
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1402
 msgid "Elynia, can I talk to you for a moment?"
 msgstr "Elynia、ちょっといいか？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1402
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1407
 msgid "You mean... Well, yes, of course."
 msgstr "どうし… ああ、そういうことね、もちろん大丈夫よ。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1407
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1412
 msgid ""
 "(<i>aside</i>) We found a witness. He claims a demon and a faerie were "
 "amongst the many victims of a number of mechanical birds who descended from "
@@ -22346,7 +22363,7 @@ msgstr ""
 "とTaraは…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1412
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1417
 msgid ""
 "(<i>aside</i>) I understand. Why... Why did it have to end like this...? "
 "Just when I thought we had a chance to rally demonkind against Uria..."
@@ -22357,14 +22374,14 @@ msgstr ""
 
 #. [message]: speaker=Anya
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1433
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:955
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1438
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:976
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1229
 msgid "What are we going to do now?"
 msgstr "それでこれからどうする？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1442
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1447
 msgid ""
 "I don’t know anymore. If Raelthyn has fallen, then all hope is lost; the "
 "Chaos Empire has won the war, and Uria is now able to do whatever she wants "
@@ -22380,12 +22397,12 @@ msgstr ""
 "びることができるでしょう。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1447
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1452
 msgid "What if we left the Great Continent instead?"
 msgstr "大陸を離れるというのはどうなんだ？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1452
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1457
 msgid ""
 "The elves in Zocthanol Isle told us their merfolk allies had evidence that "
 "only the Great Northern Ice Plains remain besides this continent. We would "
@@ -22398,24 +22415,24 @@ msgstr ""
 "はどう思う？"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1457
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1462
 msgid "You aren’t suggesting we just sit here and do nothing, are you?"
 msgstr ""
 "とは言っても、ここでぼんやり座って何もしない、なんて言いたいわけじゃないだろ"
 "う？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1471
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1476
 msgid "... guess I am."
 msgstr "……それでもいいかもね。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1480
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1485
 msgid "Elynia, please! Just... let’s go back to Raelthyn."
 msgstr "Elynia、お願い！まずは… Raelthynへ戻ろうよ。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1485
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1490
 msgid ""
 "To see more of this? Do you really want to see more senseless destruction? "
 "Do you really want me to lead you to another devastated battlefield littered "
@@ -22426,7 +22443,7 @@ msgstr ""
 "いって欲しいとあなたは思うの？"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1490
+#: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1495
 msgid "I feel this is not over yet. Let’s go back. Please..."
 msgstr "まだ終わっていないように感じるの。戻りましょう。お願い…"
 
@@ -23537,7 +23554,7 @@ msgstr ""
 #. [part]
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/storytxt.cfg:447
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:287
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:293
 msgid "And then..."
 msgstr "そして…"
 
@@ -23792,7 +23809,11 @@ msgstr "Cron"
 msgid "Ergea"
 msgstr "Ergea"
 
-#: After_the_Storm/episode3/characters.cfg:223
+#: After_the_Storm/episode3/characters.cfg:148
+msgid "Eidyia"
+msgstr ""
+
+#: After_the_Storm/episode3/characters.cfg:237
 msgid ""
 "Certain high-level units in this campaign under your control — such as "
 "Elynia and Anya — have special <b>After Maximum Level Advancements (AMLAs)</"
@@ -23967,37 +23988,37 @@ msgid "Alareanthalcan"
 msgstr "Alareanthalcan"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:364
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:385
 msgid "Defeat the false Lady of Light"
 msgstr "偽りの光の淑女を倒す"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:411
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:432
 msgid "Another gate..."
 msgstr "また別のゲート…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:485
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:506
 msgid "Look! It’s the impostor again!"
 msgstr "見て！またあの偽者！"
 
 #. [message]: speaker=Lady of Light
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:502
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:523
 msgid "I have to destroy her... yes, I have to... I must not fail this time..."
 msgstr "私はあいつを破壊しなければ… …ええ、やらなければ…… 今回は失敗できない…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:511
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:532
 msgid "So here you are, traitor."
 msgstr "あら、また会ったわね、反逆者さん。"
 
 #. [message]: speaker=Lady of Light
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:526
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:547
 msgid "I AM NOT A TRAITOR! I’LL DESTROY YOU THIS TIME!"
 msgstr "<b>私は反逆者ではない！今度こそお前を破壊してやる！</b>"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:531
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:552
 msgid ""
 "I have had enough of this — surround her and strike her down! Do not let her "
 "get away!"
@@ -24005,12 +24026,12 @@ msgstr ""
 "もう聞き飽きたわ — さぁ包囲して、そして彼女を打ち倒すわ！逃しちゃダメよ！"
 
 #. [message]: speaker=Lady of Light
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:561
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:582
 msgid "No... Let me go!"
 msgstr "そんな……見逃して！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:584
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:605
 msgid ""
 "You and your accursed allies have been conspiring against us and the Grand "
 "Council of the Northern Peoples, sowing strife and destruction. Whoever you "
@@ -24023,54 +24044,54 @@ msgstr ""
 "場所は存在しないわ。"
 
 #. [message]: speaker=Lady of Light
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:589
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:610
 msgid "... Elynia... please..."
 msgstr "… Elynia…… お願い…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:594
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:615
 msgid "Leave this world <b>now</b>, and never return again!"
 msgstr "<b>今すぐ</b>この世界から出ていきなさい、永遠に！"
 
 #. [modify_unit]: id=Ivyel
 #. [unit]: type=Shaxthal Infiltrator, id=Ivyel
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:624
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:645
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2096
 msgid "Ivyel"
 msgstr "Ivyel"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:646
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:667
 msgid "(<i>confused</i>) What is this?"
 msgstr "(<i>混乱して</i>) これは一体何？"
 
 #. [message]: speaker=Ivyel
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:655
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:676
 msgid "... Please... don’t... attack me..."
 msgstr "…私を…攻撃……しないで…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:660
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:681
 msgid "But... how... how is this possible?"
 msgstr "でも… どうやって…… どうやってこんなことを？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:678
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:699
 msgid "This doesn’t make sense!"
 msgstr "わけがわからないわ！"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:688
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:709
 msgid "(<i>cackling</i>)"
 msgstr "(<i>甲高い笑い声</i>)"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:693
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:714
 msgid "Who is that?!"
 msgstr "誰！？"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:703
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:724
 msgid ""
 "(<i>more cackling</i>) <i>What do you think of our first complete "
 "infiltrator? It took us great effort to design and build such perfection.</i>"
@@ -24079,7 +24100,7 @@ msgstr ""
 "してここまでの完成度に到達させるのはそれなりに大変だったぞ。</i>"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:712
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:733
 msgid ""
 "(<i>angry</i>) I know you... You are one of the members of the Iron Council, "
 "Mal Hekuba!"
@@ -24087,30 +24108,30 @@ msgstr ""
 "(<i>怒って</i>) お前だったのね… お前は鉄の議会のメンバーの一人、Mal Hekuba！"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:744
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:765
 msgid "Did you miss me, Elynia?"
 msgstr "そんなに私が恋しかったのかい、Elynia？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:759
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:780
 msgid ""
 "... I couldn’t possibly wish harder for you and your friends’ destruction."
 msgstr "……お前とお前のお仲間の破壊以上に強く願えることは私にはないわ。"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:764
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:785
 msgid "Ha, ha, but that’s not going to happen in your lifetime, or is it?"
 msgstr ""
 "ハッハッハッ、しかしそれはどうやら君が生きている間に起こることではなさそうだ"
 "なぁ、そうは思わんかね？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:832
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:853
 msgid "Where are you? Stop fooling around and show yourself, you—"
 msgstr "どこに逃げたの？いい加減、ふざけるのはやめて姿を見せなさい、お前—"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:839
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:860
 msgid ""
 "I understand that you must be confused and enraged after losing your friends "
 "to such a pointless cause, and traveling so far only to slaughter the same "
@@ -24121,17 +24142,17 @@ msgstr ""
 "くわかるぞぉ！"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:854
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:875
 msgid "It appears to be just an illusion..."
 msgstr "単なる幻影だったみたい…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:859
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:880
 msgid "Destroying you is NOT a pointless cause!"
 msgstr "お前を破壊することは<b>無意味な目的などではない</b>！"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:871
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:892
 msgid ""
 "But of course it is! You cannot destroy us! Not without the power of the "
 "Union, anyway, which you left behind in Uria’s sacred domain when you "
@@ -24142,13 +24163,13 @@ msgstr ""
 "たところに置いてきてしまったからなぁ。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:875
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:896
 msgid "I still have the Ruby of Fire!"
 msgstr "私にはまだ炎のルビーがあるわ！"
 
 #. [event]
 #. "Argan’s treacherous little girl" refers to Elyssa.
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:879
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:900
 msgid ""
 "That understandably attractive relic is not important for <i>me</i>. Argan’s "
 "treacherous little girl likes to think of it as if it were unique and "
@@ -24159,13 +24180,13 @@ msgstr ""
 "て、Uriaにもそう信じ込ませていた — しかし、実際にはそうではない。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:887
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:908
 msgid "What are you babbling about?"
 msgstr "あら、どんなすごい秘密を教えてくれるのかしら？"
 
 #. [event]
 #. "Her finding out" refers to Elyssa.
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:891
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:912
 msgid ""
 "The first set of replicas of Yechnagoth’s heart were lost when you and your "
 "pathetic lackey destroyed our base in Wesmere, but I have had plenty of time "
@@ -24180,12 +24201,12 @@ msgstr ""
 "る。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:899
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:920
 msgid "Are you working against Uria’s will, then?"
 msgstr "それじゃあなたはUriaの意志に逆らっているのね？"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:917
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:938
 msgid ""
 "(<i>losing his temper</i>) We cannot speak to her directly! We can only do "
 "so through that treacherous wench, who keeps the Dark Lady’s heart within "
@@ -24196,7 +24217,7 @@ msgstr ""
 "の闇の貴婦人の心臓を埋め込んだあの娘を通さないとなぁ！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:928
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:949
 msgid ""
 "... We... We destroyed Wesmere... Yechnagoth’s heart wasn’t there?! What did "
 "we destroy when we..."
@@ -24205,7 +24226,7 @@ msgstr ""
 "じゃあ私達が破壊したものは…"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:931
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:952
 msgid ""
 "The energy that should have destroyed you was released from the <i>second</"
 "i> replica of her heart, and various experimental units stored in the same "
@@ -24219,7 +24240,7 @@ msgstr ""
 
 #. [event]
 #. "Argan’s pet" is Elyssa.
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:934
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:955
 msgid ""
 "Nevertheless, I do not have time to continue talking to you. Right now, I "
 "need to go to tend to some... rituals. Ivyel was created to destroy both you "
@@ -24232,17 +24253,17 @@ msgstr ""
 "だ、お前にとってそれが最後の機会だろうしな。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:939
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:960
 msgid "(<i>more cackling</i>)"
 msgstr "(<i>一際甲高い笑い声</i>)"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:960
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:981
 msgid "Those bastards can’t get away with this! My lady, we must do something!"
 msgstr "あのロクでなしはただではおけない！お嬢、やらなきゃいけないぞ！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:969
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:990
 msgid ""
 "I don’t think we have the power necessary to destroy the artifacts that Mal "
 "Hekuba is going to use to..."
@@ -24251,7 +24272,7 @@ msgstr ""
 "とは思えないわ…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:974
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:995
 msgid ""
 "Of course we do! We didn’t come all the way from the northern lands risking "
 "that blasted Ruby for nothing! Whatever that lich is going to do, it will "
@@ -24263,7 +24284,7 @@ msgstr ""
 "れちゃうよ！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:979
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1000
 msgid ""
 "The last time we fought against that power, I lost a friend, and the vast "
 "plains of Wesmere vanished with his remains..."
@@ -24272,7 +24293,7 @@ msgstr ""
 "平原が消滅してしまった…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:984
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1005
 msgid ""
 "Any course of action at this point will inevitably lead to someone’s "
 "destruction, but I’m sure we can do it this time! If the lich is going to "
@@ -24285,7 +24306,7 @@ msgstr ""
 "も！"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:989
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1010
 msgid ""
 "I don’t truly understand most of this nonsense about hearts and Yechnagoth, "
 "but I reckon we need to destroy the lich and the impostor — and we can’t do "
@@ -24296,14 +24317,14 @@ msgstr ""
 "はできそうにないんだ。"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:994
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1015
 msgid ""
 "We don’t have much time! That thing we just fought could be back at any "
 "moment!"
 msgstr "時間がないわ！さっき戦ったあれがいつ戻ってきてもおかしくないんだから！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1003
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1024
 msgid ""
 "I appreciate your support... I don’t think I could have come this far alone. "
 "And I don’t want to force you to follow me..."
@@ -24312,54 +24333,54 @@ msgstr ""
 "わ。だから、無理して私について来てとは言えないわ…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1008
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1029
 msgid "Of course not! We are your friends!"
 msgstr "無理する必要なんてないから！だって友達なんだし！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1013
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1034
 msgid "Let’s find that foul fiend and destroy him once and for all."
 msgstr "あの悪魔を見つけて破壊して、もうこれっきりにしましょう。"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1018
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1427
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1039
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1448
 #: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:334
 msgid "Proceed further underground with Elynia to find Mal Hekuba"
 msgstr "Mal Hekubaを探すためにElyniaがさらに地下深くへと進む"
 
 #. [message]: speaker=Alareanthalcan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1171
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1192
 msgid "They are getting closer to the control chamber! Get them, quickly!"
 msgstr "やつらが制御チャンバーに近づいてきている！排除しろ、速やかに！"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1176
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1197
 msgid "I don’t like the sound of that..."
 msgstr "なんか嫌な感じの音が聞こえる…"
 
 #. [message]: speaker=Stalygvan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1230
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1251
 msgid "You! You can’t stop our master! You can’t—"
 msgstr "貴様！貴様にわれらのマスターはとめられん！貴様には—"
 
 #. [event]: id=Kardas
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1247
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1268
 msgid "Kardas"
 msgstr "Kardas"
 
 #. [message]: speaker=Kardas
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1261
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1282
 msgid "My lady! At last, I found you! I know where the lich is!"
 msgstr "淑女様！やっと見つけた！私はあのリッチがどこにいるのか知ってます！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1266
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1287
 msgid "Speak."
 msgstr "言って。"
 
 #. [message]: speaker=Kardas
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1289
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1310
 msgid ""
 "The catacombs below guard an artifact of some sort. Nobody knows exactly "
 "what it is, but we know the entrance is protected by a gate controlled by "
@@ -24370,58 +24391,254 @@ msgstr ""
 "御されています。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1332
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1353
 msgid "Let’s find those crystals, then."
 msgstr "じゃあ、その水晶を探しましょう。"
 
 #. [event]: id=Kardas
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1341
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1362
 msgid ""
 "Locate and activate the three control crystals to open the central gates"
 msgstr "中央のゲートを開けるため、三つの水晶を探し、起動させる"
 
 #. [message]: speaker=Elathea
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1359
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1380
 msgid "May Uria punish you all for this—"
 msgstr "Uriaのお怒りがお前に降りますように—"
 
 #. [message]: speaker=Dorghazaquiel
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1371
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1392
 msgid "Nooooaaagh... it hurts!!!"
 msgstr "うわぁぁぁあああ…痛いぃ！！"
 
 #. [message]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1388
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1409
 msgid "The beast’s body is dissolving into slime!"
 msgstr "ケダモノの体が泥のように溶けた！"
 
 #. [message]: speaker=Alareanthalcan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1445
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1466
 msgid "Even though I have fallen, you are no match for my master’s power!"
 msgstr "例え私が倒れようと、貴様はマスターの足元にも及ばん！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1450
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1471
 msgid "We’ll see about that very soon."
 msgstr "それはすぐにわかることよ。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1476
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1497
 msgid "What in blazes is that creature?!"
 msgstr "この生き物は一体何だ？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1481
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1502
 msgid "Don’t meet its gaze! It will drain your life force!"
 msgstr "視線を合わさないで！そいつは生気を吸収してくるわ！"
 
+#. [message]: speaker=narrator
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1527
+msgid ""
+"The whirlpool is overflowing with an unusual energy.\n"
+"\n"
+"A dark energy."
+msgstr ""
+
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1509
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1546
+msgid "Hm, what is this? There seems to be something at the bottom..."
+msgstr ""
+
+#. [message]: speaker=Durvan
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1551
+msgid ""
+"I wouldn’t get too close if I were you. It could be another one of those "
+"biomechanical abominations."
+msgstr ""
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1556
+msgid ""
+"I mean, it doesn’t look like there are any creatures in the water anyway. "
+"(<i>touches the water</i>)"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1565
+#, fuzzy
+msgid "Anya, what are you doing?"
+msgstr "それで何をしようと言うのだ？"
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1570
+msgid "Er, ummm... nothing! I just— <b>AAAAAAAAAAAHHHH!!!</b>"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1591
+msgid "Elynia and Durvan"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1593
+msgid "ANYA!!!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1612
+#, fuzzy
+msgid "No... please don’t do this to me—"
+msgstr "…私を…攻撃……しないで…"
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1618
+msgid "I am all right!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1624
+#, fuzzy
+msgid "... Anya? Where are you???"
+msgstr "… あなたは誰？"
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1645
+msgid ""
+"I don’t really know? The current dragged me into a small chamber that seems "
+"to be right below where you are. I think I may be able to get back to you? "
+"Good thing I can swim."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1650
+msgid ""
+"Yes, you can swim... but I cannot. You should return to us before anything "
+"happens to you down there."
+msgstr ""
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1655
+msgid ""
+"Nah, it will be fine. Don’t worry about me. I am just going to do a little "
+"exploring down here and come back."
+msgstr ""
+
+#. [transient_message]
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1663
+msgid ""
+"Anya can return to the main area by going back through the whirlpool, in a "
+"similar fashion to how units can teleport between villages they already "
+"control."
+msgstr ""
+
+#. [transient_message]
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1693
+msgid "Mermaid’s Pendant"
+msgstr ""
+
+#. [transient_message]
+#. The sudden shift to second person narration is quite
+#. intentional. You will see more of this throughout Episode 3.
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1697
+msgid ""
+"This beautiful pendant made from an iridescent conch shines all the colors "
+"of the rainbow under the light cast on the altar. The spectacle is "
+"absolutely mesmerizing, but you figure you need to find out what uses this "
+"marvelous item has.\n"
+"\n"
+"Unfortunately, there is absolutely nothing engraved on it or the altar that "
+"could possibly be of help to you. How disappointing, you think. Maybe this "
+"little adventure was an absolute waste of time. But something in your mind "
+"tells you that perhaps you are supposed to wait for the right person and the "
+"right opportunity to make use of the artifact. When is that going to be, you "
+"wonder? The answer eludes you.\n"
+"\n"
+"You should probably go back to Elynia for the time being."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1727
+msgid "So, how was your little adventure?"
+msgstr ""
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1732
+msgid "Well, I found this on an altar! It’s so shiny!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1737
+msgid ""
+"... A seashell pendant? How did it find its way here, so far from the ocean?"
+msgstr ""
+
+#. [message]: speaker=Durvan
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1742
+msgid ""
+"It could be some kind of keepsake the elves brought here when they first "
+"arrived?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1747
+msgid "That is the most likely answer, yes."
+msgstr ""
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1752
+msgid ""
+"Do you think it has magical properties? Maybe I can summon water creatures! "
+"Or water... projectiles of some kind? Perhaps I can shoot bubbles!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1761
+msgid "No... I am afraid there is no magic in this pendant at all."
+msgstr ""
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1766
+#, fuzzy
+msgid "Wh... what."
+msgstr "あれは……何だったんだ？"
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1775
+msgid ""
+"Did I actually just risk my life fighting that... giant... spider... to "
+"obtain a completely mundane pendant?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1780
+msgid "So it would seem."
+msgstr ""
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1789
+msgid ""
+"... Oh well... At least it’s pretty! I’m going to keep it if you don’t mind."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1794
+msgid ""
+"Sure. Just... don’t do that again, please? You had us really worried for a "
+"moment there."
+msgstr ""
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1799
+msgid "I know, I’m sorry..."
+msgstr ""
+
+#. [message]: speaker=Anya
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1824
 msgid "It is probably too late to stop that lich by now..."
 msgstr "もうあのリッチを止めるのは手遅れかも…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1520
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1835
 msgid "Make haste!"
 msgstr "急いで！"
 
@@ -28164,7 +28381,7 @@ msgid "Fate"
 msgstr "運命"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:212
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:218
 msgid ""
 "Severely injured, Elynia manages to escape from the underground base as the "
 "energy destroys Mal Hekuba and his minions."
@@ -28173,12 +28390,12 @@ msgstr ""
 "の、なんとか地下基地から脱出することに成功した。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:251
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:257
 msgid "Ungh..."
 msgstr "うう…"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:261
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:267
 msgid ""
 "Just as she tries, to no avail, to stand up, Elynia senses the presence of "
 "creatures of some sort amidst the dense night fog."
@@ -28187,12 +28404,12 @@ msgstr ""
 "に何か生き物の気配を感じ取っていた。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:325
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:331
 msgid "... darkness."
 msgstr "…暗闇。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:335
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:341
 #, fuzzy
 msgid "<i>I cannot bring myself to kill someone so much weaker than I.</i>"
 msgstr "<i>私より圧倒的に弱い者を殺すことはできないわ。</i>"
@@ -28202,12 +28419,12 @@ msgstr "<i>私より圧倒的に弱い者を殺すことはできないわ。</i
 #. herself uttered once (near the end of IftU), but also that
 #. she is hearing them in her voice, possibly as a result of a
 #. head trauma-induced hallucination.
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:350
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:356
 msgid "<i>Are those my words?</i>"
 msgstr "<i>これはあの時私が言った言葉？</i>"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:360
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:366
 msgid "(<i>in a seductive tone</i>) <i>It would be unfair... and cruel...</i>"
 msgstr ""
 "(<i>魅惑的な声色</i>) <i>それは正しいことじゃなくて… そして残酷なこと…</i>"
@@ -28215,14 +28432,14 @@ msgstr ""
 #. [message]: speaker=narrator
 #. See the previous implication. This is why the line is "who
 #. are you?" and not "who is there?".
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:373
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:379
 msgid "<i>Who are you?</i>"
 msgstr "<i>誰なの？</i>"
 
 #. [message]: speaker=narrator
 #. Take note of the description. She continues to do this for
 #. the remainder of the scene.
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:399
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:405
 msgid ""
 "The demoness stared directly into her eyes, with a deeply unsettling, "
 "emotionless expression."
@@ -28231,12 +28448,12 @@ msgstr ""
 "無表情に。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:409
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:415
 msgid "Elynia was still unable to stand up and defend herself."
 msgstr "Elyniaはまだ起き上がって自分の身を守ることができなかった。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:415
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:421
 msgid ""
 "As Elyssa bent down to reach her head, Elynia prepared for the inevitable."
 msgstr ""
@@ -28244,7 +28461,7 @@ msgstr ""
 "悟を決めた。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:425
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:431
 msgid ""
 "But instead of dealing the killing blow, Elyssa stroked the elf’s hair — the "
 "expression on her face unchanged — and continued to speak in a soft tone of "
@@ -28254,13 +28471,13 @@ msgstr ""
 "は無い — そして柔らかな口調で話し始めた。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:434
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:440
 msgid "I don’t want to kill you."
 msgstr "私はあなたを殺したくない。"
 
 #. [message]: speaker=Elyssa
 #. "He" refers to Argan.
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:444
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:450
 msgid "You spared my life, just like he did."
 msgstr "あなたは私の命を助けてくれた、そう、彼がそうしてくれたように。"
 
@@ -28272,7 +28489,7 @@ msgstr "あなたは私の命を助けてくれた、そう、彼がそうして
 #. also knows for a fact that Elynia won't actually step aside.
 #. Finally, the person who "didn't give [her] a choice" is
 #. Uria.
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:460
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:466
 msgid ""
 "I’m truly sorry about your friends. She didn’t give me a choice. Now, just "
 "let me take what I need, and die in peace if you need to — otherwise, don’t "
@@ -28285,7 +28502,7 @@ msgstr ""
 "わ。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:474
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:480
 msgid ""
 "Elynia felt the exchange could have taken place at a better time, and not "
 "during such a terrible display of weakness."
@@ -28294,24 +28511,24 @@ msgstr ""
 "時に起こっていればよかったのに、と思った。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:489
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:495
 msgid "<i>... Why... why do you do this...</i>"
 msgstr "<i>…なぜ …なぜこんなことを…</i>"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:498
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:504
 msgid "... Because it’s all I have left, my dear."
 msgstr "…なぜって、こうするしかなかっただけよ、わたしの大切な人。"
 
 #. [message]: speaker=Elyssa
 #. Still sardonic.
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:543
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:549
 msgid "... And thank you for getting rid of that bothersome upstart for me."
 msgstr ""
 "… それと私のためにあのうっとうしい成り上がりを始末してくれてありがとう。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/12_Fate.cfg:569
+#: After_the_Storm/episode2/scenarios/12_Fate.cfg:575
 msgid "<i>... Elynia?</i>"
 msgstr "<i>…Elynia？</i>"
 
@@ -28961,11 +29178,16 @@ msgstr ""
 
 #. [terrain_type]: id=dry_grassland_elven_castle
 #: After_the_Storm/terrain.cfg:22
-msgid "Elvish Castle on Dry Grassland"
-msgstr "乾燥した草原のエルフの城"
+msgid "Dry Elven Castle"
+msgstr ""
+
+#. [terrain_type]: id=dry_grassland_elven_castle_ruin
+#: After_the_Storm/terrain.cfg:35
+msgid "Dry Elven Castle Ruin"
+msgstr ""
 
 #. [terrain_type]: id=starfield
-#: After_the_Storm/terrain.cfg:37
+#: After_the_Storm/terrain.cfg:50
 msgid "Starfield"
 msgstr "星域"
 
@@ -29066,6 +29288,9 @@ msgstr "追加の謝辞"
 #: After_the_Storm/about.cfg:196
 msgid "You, for playing this campaign"
 msgstr "このキャンペーンをプレイしてくれたあなた"
+
+#~ msgid "Elvish Castle on Dry Grassland"
+#~ msgstr "乾燥した草原のエルフの城"
 
 #~ msgid ""
 #~ "You can once again recruit undead units.\n"
