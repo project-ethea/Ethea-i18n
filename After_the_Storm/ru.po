@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-07-12 11:35 UTC\n"
-"PO-Revision-Date: 2020-07-14 12:34+0300\n"
+"PO-Revision-Date: 2020-07-23 14:22+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: Poedit 2.4\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n"
 "%100<12 || n%100>14) ? 1 : 2);\n"
 
@@ -8447,28 +8447,35 @@ msgid ""
 "You cannot end your turn; however, you can move your units around freely, ignoring "
 "their maximum movement points"
 msgstr ""
+"Вы не можете окончить Ваш ход; однако Вы можете свободно передвигать бойцов, не "
+"обращая внимание на их максимальное число ходов"
 
 #: After_the_Storm/macros/objective-utils.cfg:22
 msgid ""
 "You cannot end your turn; however, you can move your leader unit around freely, "
 "ignoring its maximum movement points"
 msgstr ""
+"Вы не можете окончить Ваш ход; однако Вы можете свободно передвигать Вашего лидера без "
+"ограничения на максимальное число ходов"
 
 #: After_the_Storm/macros/objective-utils.cfg:26
 msgid "Move units next to other units or objects of interest to trigger actions"
 msgstr ""
+"Передвигайте бойцов к другим бойцам или предметам внимания, чтобы запустить действия"
 
 #: After_the_Storm/macros/objective-utils.cfg:30
 msgid ""
 "A bind spell disallows Elynia from moving when she is not within Elyssa's maximum "
 "movement range"
 msgstr ""
+"Заклинание привязки запрещает Элинии двигаться вне области максимального передвижения "
+"Элиссы."
 
 #: After_the_Storm/macros/objective-utils.cfg:31
 msgid ""
 "You will need to synchronize both characters’ movements to prevent Elynia from lagging "
 "behind"
-msgstr ""
+msgstr "Вам придётся двигать оба персонажа сообща, чтобы не допустить отставание Элинии"
 
 #. The Fire Guardian unit type name translation may be found in the
 #. wesnoth-units textdomain in mainline.
@@ -8476,10 +8483,12 @@ msgstr ""
 msgid ""
 "Fire Guardians can be summoned by right clicking on a vacant hex adjacent to Elyssa"
 msgstr ""
+"Огнестражи могут быть призваны нажатием правой кнопки мыши на свободное поле, соседнее "
+"с Элиссой"
 
 #: After_the_Storm/macros/objective-utils.cfg:38
 msgid "You may only have six Fire Guardians on the map at any given time"
-msgstr ""
+msgstr "Вы можете держать на карте только шесть Огнестражей одновременно"
 
 #: After_the_Storm/macros/amla-galas.cfg:13
 msgid "Stealth: ambush ability"
@@ -8571,12 +8580,17 @@ msgid ""
 "if— Wait, this is not a potion, it’s fire essence! Yes! It might not last very long, "
 "but we can at least set all these disgusting creatures ablaze!"
 msgstr ""
+"Хм, пузырёк с зельем? Удивительно, что оно осталось нетронутым после стольких веков. "
+"Интересно, что будет, если— Постойте, это не зелье, это — эссенция огня! Да! Долго она "
+"вряд ли продержится, но мы хотя бы поджарим всех этих гадких созданий!"
 
 #: After_the_Storm/macros/items.cfg:47
 msgid ""
 "We should let this be used by one of our sword wielders. Or... perhaps even Mal "
 "Keshar’s skeleton fighters might be able to use it somehow — just a thought."
 msgstr ""
+"Нам следует дать её одному из наших меченосцев. Или… быть может, даже скелеты Мал "
+"Кешара смогут ей как-то воспользоваться — но это просто предположение."
 
 #. [object]: id=fire_essence_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:53
@@ -8590,6 +8604,9 @@ msgid ""
 "allows them to deal <b>fire</b> damage. Its power only lasts until the end of the "
 "scenario."
 msgstr ""
+"Этот пузырёк содержит огненное вещество, которое повышает урон бойца в ближнем бою на "
+"1 и позволяет ему наносить урон <b>огнём</b>. Его сила действует только до конца "
+"сценария."
 
 #: After_the_Storm/macros/items.cfg:81
 msgid ""
@@ -8597,12 +8614,17 @@ msgid ""
 "harder to penetrate with conventional weapons, at the cost of becoming more vulnerable "
 "to certain kinds of magic. We should choose carefully who shall have it."
 msgstr ""
+"Янтарный амулет… говорят, кожа тех, кто носит подобный предмет, становится гораздо "
+"крепче, и её труднее пробить обычным оружием; цена за это — уязвимость к некоторым "
+"видам магии. Мы должны тщательно продумать, кому его взять."
 
 #: After_the_Storm/macros/items.cfg:82
 msgid ""
 "We might want to give the amulet to some other living creature. I reckon our "
 "spellcasters in particular have no use for this artifact."
 msgstr ""
+"Нам стоит отдать амулет какому-то другому живому существу. Как я знаю, для наших "
+"колдунов этот артефакт бесполезен."
 
 #. [object]: id=amber_ward_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:88
@@ -8616,6 +8638,9 @@ msgid ""
 "<b>impact</b> and <b>pierce</b>) by <b>15%</b> and decreases their <b>arcane</b> "
 "resistance by 10%."
 msgstr ""
+"Этот амулет повышает сопротивление носителя к физическому урону (<b>режущему</b>, "
+"<b>крушащему</b> и <b>колющему</b>) на <b>15%</b> и уменьшает сопротивление к "
+"<b>мистическому</b> урону на 10%."
 
 #: After_the_Storm/macros/items.cfg:111
 msgid ""
@@ -8635,12 +8660,30 @@ msgid ""
 "No matter, we should just get on with it and give it to one of our most skilled "
 "archers."
 msgstr ""
+"Да не может быть такого… Но нет! Это — легендарный Крисвеленский лук! Сказание гласит, "
+"что однажды ночью 1064 года от основания Веснота заблудший эльф, знаток мистических "
+"искусств, по счастливой случайности наткнулся на рыбацкую деревушку Крисвелен как раз "
+"в то время, когда её осадили враждебные орки. Однако несравненная удаль лучников на "
+"защите деревни повергла эльфа в изумление, ибо никогда доселе люди не превосходили "
+"эльфийский род во владении стрелой и луком. Он был настолько впечатлён, что после "
+"битвы он использовал своё волшебство и на прощание оставил Крисвеленцам подарок: "
+"зачарованный лук — этот лук наполнял любую стрелу, какую бы ни выпускали сквозь него, "
+"могущественной ледяной магией, способной замедлить цель до скорости улитки.\n"
+"\n"
+"Естественно, достоверность этой истории подвергали сомнению бесчисленное число раз, "
+"тем более что никто не нашёл ни одного правдоподобного свидетельства существования "
+"этого лука, и большинство источников упоминают, что эльфу было свыше тысячи лет — "
+"представьте себе, какое безумство! Но какими судьбами сей лук забросило настолько "
+"далеко от горного хребта Гламдрола в эту местность? Ладно, хватит трепаться, просто "
+"передадим его одному из наших лучших лучников и продолжим сражение."
 
 #: After_the_Storm/macros/items.cfg:114
 msgid ""
 "We really need to give this to someone who is actually able to use a bow... Even one "
 "of our undead archers should do since the magic stems from the bow itself."
 msgstr ""
+"Нам действительно нужно передать его кому-то, кто на самом деле сможет использовать "
+"лук… Сойдёт и один из наших неживых лучников, ведь волшебство исходит из самого лука."
 
 #. [object]: id=bow_of_kysvelen
 #: After_the_Storm/macros/items.cfg:120
@@ -8654,6 +8697,9 @@ msgid ""
 "Rather disappointingly, it does nothing to increase the damage dealt by the unit. Its "
 "power is only active on offense."
 msgstr ""
+"В этом легендарном луке покоится мощное колдовство стихии, способное замедлять цель. К "
+"разочарованию, он никак не увеличивает наносимый бойцом урон. Его сила работает только "
+"при наступлении."
 
 #. [effect]
 #: After_the_Storm/macros/items.cfg:128
@@ -8669,12 +8715,20 @@ msgid ""
 "a bloodthirsty lunatic marching to battle with us? It may be too big a risk for us "
 "given our current situation."
 msgstr ""
+"Судя по содержанию этого пузырька, это — зелье неистовства, и его здесь хватит на "
+"недели! Поговаривают, всего лишь нескольких капель хватит, чтобы пробудить в воине "
+"первородные инстинкты и превратить его в неостановимую, убийственную силу… что, "
+"естественно, идёт не без некоторых тревожных последствий. Мы уверены, что в наших "
+"рядах должен сражаться кровожадный безумец? В текущем положении это может подвергнуть "
+"нас чересчур большой опасности."
 
 #: After_the_Storm/macros/items.cfg:158
 msgid ""
 "This potion will only be useful to someone wielding a proper weapon for close combat. "
 "And no, a Necromancer’s staff does <i>not</i> count."
 msgstr ""
+"Это зелье будет полезно только тому, кто владеет подходящим оружием для ближнего боя. "
+"И да, посох некроманта <i>не считается</i>."
 
 #. [trait]: id=bloodlust
 #: After_the_Storm/macros/items.cfg:166
@@ -8714,6 +8768,16 @@ msgid ""
 " &#8226; impact: <span color='#0d0'>+10%</span> resistance\n"
 " &#8226; pierce: <span color='#0d0'>+10%</span> resistance"
 msgstr ""
+"Это зелье увеличивает урон бойца на <b>1</b> и добавляет особенность <b>берсерк</b> к "
+"его атакам ближнего боя. Помимо того, здоровье бойца увеличивается на <b>15%</b>, и "
+"его сопротивления к видам урона изменяются следующим образом:\n"
+"\n"
+"&#8226; к мистическому: <span color='#d00'>-20%</span>\n"
+"&#8226; к режущему: <span color='#0d0'>+10%</span>\n"
+"&#8226; к холоду: <span color='#0d0'>+5%</span>\n"
+"&#8226; к огню: <span color='#0d0'>+5%</span>\n"
+"&#8226; к крушащему: <span color='#0d0'>+10%</span>\n"
+"&#8226; к колющему: <span color='#0d0'>+10%</span>"
 
 #: After_the_Storm/macros/items.cfg:235
 msgid ""
@@ -8722,6 +8786,9 @@ msgid ""
 "carry on your back.” I have a feeling it’s going to be very useful to us in the near "
 "future."
 msgstr ""
+"На этом блестящем серебряном кольце выгравированы какие-то руны, едва ли в них что-то "
+"различишь… “Тот, кто наденет сие кольцо, станет быстр и грациозен, не важно, какая "
+"ноша будет у него на спине.” Кажется, в скором будущем оно нам очень пригодится."
 
 #: After_the_Storm/macros/items.cfg:236
 msgid ""
@@ -8729,6 +8796,9 @@ msgid ""
 "supporters as well, I suppose. Wait, do those pesky bats count as living creatures? I "
 "don’t even know."
 msgstr ""
+"Увы, только живые люди могут воспользоваться этим кольцом. И наши последователи "
+"файери, я полагаю. Подождите, считаются ли эти гадкие летучие мыши за живых существ? "
+"Даже и не знаю."
 
 #. [object]: id=ring_of_agility_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:240
@@ -8741,6 +8811,8 @@ msgid ""
 "This ring grants its bearer swifter movement (<b>1</b> extra movement point) and "
 "increased defense (by <b>5%</b>) on all terrains."
 msgstr ""
+"Это кольцо дарит носящему его быстроту передвижения (<b>+1</b> к скорости) и "
+"увеличенную защиту (<b>+5%</b>) на всех видах местности."
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/items.cfg:276
@@ -8763,11 +8835,12 @@ msgstr "Он пуст."
 
 #: After_the_Storm/macros/items.cfg:302
 msgid "This small vial seems to still have essence left in it..."
-msgstr ""
+msgstr "Похоже, в небольшом пузырьке всё ещё осталась эссенция…"
 
 #: After_the_Storm/macros/items.cfg:303
 msgid "We should let this be used by someone who excels at fighting in close quarters."
 msgstr ""
+"Нужно, чтобы это использовал кто-нибудь, кто превосходно сражается в ближнем бою."
 
 #. [object]: id=fire_essence_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:309
@@ -8782,6 +8855,10 @@ msgid ""
 "to <b>fire</b>. The unit’s fire resistance is increased by <b>10%</b> and its cold "
 "resistance decreased by <b>5%</b>."
 msgstr ""
+"Этот пузырёк содержит очищенную форму эссенции огня, которая, будто бы навеки "
+"сохраняет своё действие. Урон бойца в ближнем бою увеличивается на <b>1</b> и "
+"становится <b>огненным</b>. Сопротивление бойца огню увеличивается на <b>10%</b>, а "
+"его сопротивление холоду уменьшается на <b>5%</b>."
 
 #. [effect]
 #. [trait]: id=staff_of_akhlys_lvl1_tag
@@ -8796,6 +8873,8 @@ msgid ""
 "So the lich was carrying this staff... Ugh, it’s all covered in filth and dry rotten "
 "flesh. How about we let Irylean take a look at it instead?"
 msgstr ""
+"Итак, лич нёс этот посох… Ух, он весь покрыт грязью и сухой гнилой плотью. Возможно, "
+"Ирилеан стоит на него взглянуть?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/macros/items.cfg:392
@@ -8804,6 +8883,8 @@ msgid ""
 "feeling I am the only one who is willing to experiment with it, so... I may as well "
 "just grab it, don’t you think?"
 msgstr ""
+"Должно быть, лич использовал мощь посоха, чтобы отравлять нас. Меня не покидает "
+"чувство, что я одна хочу его испытать, поэтому… я возьму его себе, если не возражаете?"
 
 #. [object]: id=staff_of_akhlys
 #: After_the_Storm/macros/items.cfg:413
@@ -8819,6 +8900,12 @@ msgid ""
 "\n"
 "It is a good thing that undead wielders are immune to the staff’s aura."
 msgstr ""
+"Витиеватый посох неизвестного происхождения производит болезненную ауру, которую "
+"избегают даже пещерные существа. Сопротивление носительницы к <b>мистическому</b> "
+"урону уменьшается на <b>10%</b>, а её атака в ближнем бою и мистическая магия "
+"<b>отравляют</b> цель.\n"
+"\n"
+"Хорошо, что неживые носители не подвержены ауре посоха."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/macros/items.cfg:434
@@ -8827,6 +8914,9 @@ msgid ""
 "know, this is one of those times I feel that perhaps it’s time for me to have a proper "
 "look into the whole lichdom business — it may save me a lot of trouble in the long run."
 msgstr ""
+"Ух… Теперь… мне совсем нехорошо… Надеюсь, это скоро пройдёт. Знаете, в такое время "
+"начинаешь задумываться, не посмотреть бы потщательнее на все эти дела про обращение в "
+"лича — в конечном счёте это избавит меня от многих неудобств."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/macros/items.cfg:439
@@ -8835,6 +8925,8 @@ msgid ""
 "situation under control and that you aren’t being affected by the power of your new "
 "toy at all."
 msgstr ""
+"Чтобы чуть-чуть облегчить себе жизнь, я буду считать, что ты держишь всё в своих руках "
+"и что на тебя никак не влияет мощь твоей новой игрушки."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/macros/items.cfg:444
@@ -8842,6 +8934,8 @@ msgid ""
 "I will be all right, I just... need a few minutes while I throw up in the corner over "
 "there."
 msgstr ""
+"Со мной всё будет хорошо, я просто… уединюсь в этом углу на несколько минут. Меня… "
+"тошнит…"
 
 #: After_the_Storm/macros/amla-elynia.cfg:16
 msgid "Strength I: hitpoints +4, melee damage +1"
@@ -8923,19 +9017,23 @@ msgstr "Волшебный Огонь V: +1 к урону"
 msgid ""
 " On death, this unit destroys all adjacent hexes and units, and the hex they are "
 "standing on."
-msgstr ""
+msgstr " При своей гибели этот боец уничтожит все соседние поля вместе с бойцами на них."
 
 #: After_the_Storm/macros/special-notes.cfg:9
 msgid ""
 " This unit will instantly regenerate half of the damage deal on it with non-arcane "
 "attacks, unless it would otherwise kill it."
 msgstr ""
+" Этот боец мгновенно восстановит половину нанесённого ему не мистического урона, если "
+"только он не убьёт бойца сразу."
 
 #: After_the_Storm/macros/special-notes.cfg:12
 msgid ""
 " This unit is able to disrupt its opponent’s zone of control with a powerful attack, "
 "only available during offense."
 msgstr ""
+" Этот боец способен лишить врага его зоны контроля при помощи мощной атаки, доступной "
+"только при наступлении."
 
 #. [dummy]: id=stun
 #: After_the_Storm/macros/weapon-specials.cfg:12
@@ -8948,6 +9046,8 @@ msgid ""
 "This attack puts enormous pressure on the opponent, disrupting its zone of control if "
 "a hit is landed. Not active on defense."
 msgstr ""
+"Эта атака производит огромное давление на врага, лишая его зоны контроля при удачном "
+"попадании. Не работает при обороне."
 
 #. [dummy]: id=seismic
 #: After_the_Storm/macros/weapon-specials.cfg:23
@@ -8963,6 +9063,11 @@ msgid ""
 "The exact amount of damage dealt will vary for each affected unit according to their "
 "resistances, and it will not kill units other than the original target."
 msgstr ""
+"При первом попадании за ход эта атака наносит 75% урона ударной волной всем вражеским "
+"бойцам, соседним с целью, и с вероятностью 25% замедлит и ошеломит как их, так и цель "
+"(рассчитывается отдельно для каждого бойца). Точное количество нанесённого урона для "
+"каждого подверженного бойца зависит от его сопротивляемости, и атака не может убить "
+"бойцов, кроме первоначальной цели."
 
 #. [attacks]: id=shock
 #: After_the_Storm/macros/weapon-specials.cfg:43
@@ -8994,6 +9099,12 @@ msgid ""
 "Magical attacks will still have a 70% chance to hit.\n"
 "Marksman attacks are only affected if the chance to hit is greater than 60%."
 msgstr ""
+"При попадании этой атаки враг терпит 10% уменьшение как его защиты, так и вероятности "
+"попадания при атаки на один ход. Другие особенности, которые влияют на вероятность "
+"попадания (к примеру, магия и меткость) имеют преимущество над этим действием.\n"
+"\n"
+"Магические атаки все ещё будут попадать с вероятностью 70%.\n"
+"Меткие атаки будут подвержены только, если вероятность попадания выше 60%."
 
 #. [advancement]: id=amla_tree_lock_ui
 #: After_the_Storm/macros/amla.cfg:12
@@ -9283,7 +9394,7 @@ msgstr "Смерть Крона"
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:344
 msgid "I’m not sure this is a good idea."
-msgstr "Я не уверен, что это хорошая мысль."
+msgstr "Мне кажется, это не слишком хорошая мысль."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:349
@@ -13839,7 +13950,7 @@ msgstr "Ерууног"
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2248
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2365
 msgid "Locate the entrance to the lowest level"
-msgstr ""
+msgstr "Найдите вход на самый нижний уровень"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:467
@@ -20795,7 +20906,7 @@ msgstr ""
 "маяку, что поможет победить наши худшие страхи и воссоединит нас с судьбой.\n"
 "\n"
 "!!!Внимание, Эпизод 3 ещё не переведён до конца, следите за обновлениями и Дискордом "
-"Веснота! Пожалуйста, пишите ошибки, которые вы заметили, и неточности туда же --"
+"Веснота! Пожалуйста, пишите ошибки, которые вы заметили, и неточности туда же. --"
 "@kabachuha"
 
 #. [campaign]: id=After_the_Storm_III
