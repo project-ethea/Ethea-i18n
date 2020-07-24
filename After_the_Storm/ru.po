@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-07-24 06:57 UTC\n"
-"PO-Revision-Date: 2020-07-23 14:22+0300\n"
+"PO-Revision-Date: 2020-07-24 10:31+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -941,6 +941,10 @@ msgid ""
 "Emperor, rumors of the presence of these figures of legend on Irdya abound "
 "and instill great fear among the ill-equipped armies of the northern lands."
 msgstr ""
+"Только могущественнейшим из демонов дозволено служить Урии в качестве её "
+"величайших вассалов, правителей разношёрстных народов Инферно. После падения "
+"Императора Хаоса слухи о присутствии этих легендарных фигур в Ирдии сеют "
+"великий страх и смятение среди плохо вооружённых армий северных земель."
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -1047,7 +1051,7 @@ msgstr ""
 #. [attack]: type=impact
 #: After_the_Storm/units/demons/Storm_Slashing_Gale.cfg:47
 msgid "wind crush"
-msgstr ""
+msgstr "крушащий ветер"
 
 #. [attack]: type=arcane
 #: After_the_Storm/units/demons/Storm_Slashing_Gale.cfg:59
@@ -1366,14 +1370,13 @@ msgstr "огненный меч"
 
 #. [attack]: type=impact
 #: After_the_Storm/units/faeries/Naiad.cfg:49
-#, fuzzy
 msgid "naia touch"
-msgstr "мистическое прикосновение"
+msgstr "прикосновение найи"
 
 #. [attack]: type=impact
 #: After_the_Storm/units/faeries/Naiad.cfg:62
 msgid "tidal wave"
-msgstr ""
+msgstr "приливная волна"
 
 #. [unit_type]: id=Night Nymph, race=faerie
 #: After_the_Storm/units/faeries/Dark_Night_Nymph.cfg:5
@@ -5519,7 +5522,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1316
-#, fuzzy
 msgid ""
 "The fountain’s water is overflowing with an unusual energy.\n"
 "\n"
@@ -5529,9 +5531,9 @@ msgid ""
 msgstr ""
 "Вода в фонтане переполняется необычной энергией.\n"
 "\n"
-"На мгновение Вам чудится файери странной внешности, посмеивающаяся за "
-"ближайшим деревом, но когда Вы к ней подходите, она исчезает, будто её и не "
-"было. Спеша вернуться к битве, Вы едва не поскользнулись в луже."
+"На мгновение Вам чудится файери странной внешности, наблюдающая за Вами из-"
+"за ближайшего дерева, но когда Вы к ней подходите, она исчезает, будто её и "
+"не было. Спеша вернуться к битве, Вы едва не поскользнулись в луже."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1327
@@ -8741,13 +8743,12 @@ msgstr ""
 #. [resistance]: id=aqueous
 #: After_the_Storm/macros/abilities.cfg:57
 msgid "aqueous"
-msgstr ""
+msgstr "водянистый"
 
 #. [resistance]: id=aqueous
 #: After_the_Storm/macros/abilities.cfg:58
-#, fuzzy
 msgid "female^aqueous"
-msgstr "неистовство"
+msgstr "водянистая"
 
 #. [resistance]: id=aqueous
 #: After_the_Storm/macros/abilities.cfg:59
@@ -8757,6 +8758,10 @@ msgid ""
 "HP at the start of every turn when positioned on those terrains, but it will "
 "not remove poison from itself."
 msgstr ""
+"Сопротивление бойца к не-мистическому урону утроены, до максимума в 60%, во "
+"время обороны на водяной, болотистой местности или на рифах. Он также "
+"восстановит себе 8 ЗД в начале каждого хода на этой местности, но не "
+"избавится от яда."
 
 #. [dummy]: id=aspect_of_darkness
 #: After_the_Storm/macros/abilities.cfg:109
@@ -9393,7 +9398,7 @@ msgstr ""
 #. [object]: id=xiaels_blessing
 #: After_the_Storm/macros/items.cfg:457
 msgid "Xia’el’s Blessing"
-msgstr ""
+msgstr "Благословление Ксиаэль"
 
 #. [object]: id=xiaels_blessing
 #: After_the_Storm/macros/items.cfg:459
@@ -9404,11 +9409,16 @@ msgid ""
 "the trait itself is permanent, new recruits will no longer receive the trait "
 "if you lose Daeira."
 msgstr ""
+"Этот боец способен наложить на всех файери на её стороне особенность "
+"<b>искра</b>, которая позволит им не воспринимать снижение урона в "
+"зависимости от времени суток, увеличит их здоровье на 15%, а их "
+"сопротивление к не-мистическому урону на 5%. Хотя эта особенность постоянно, "
+"новые бойцы больше её не получат, если Вы потеряете Дэйру."
 
 #. [dummy]: id=xiaels_blessing
 #: After_the_Storm/macros/items.cfg:474
 msgid "xia’el’s blessing"
-msgstr ""
+msgstr "благословление ксиаэль"
 
 #. [dummy]: id=xiaels_blessing
 #: After_the_Storm/macros/items.cfg:475
@@ -9417,22 +9427,27 @@ msgid ""
 "lets them ignore time of day penalties, increases their hitpoints by 15%, "
 "and their resistances to non-arcane damage by 5%."
 msgstr ""
+"Этот боец способен наложить на всех файери на её стороне особенность искра, "
+"которая позволит им не воспринимать снижение урона в зависимости от времени "
+"суток, увеличит их здоровье на 15%, а их сопротивление к не-мистическому "
+"урону на 5%."
 
 #. [trait]: id=kindled
 #: After_the_Storm/macros/items.cfg:552
 msgid "kindled"
-msgstr ""
+msgstr "искра"
 
 #. [trait]: id=kindled
 #: After_the_Storm/macros/items.cfg:553
-#, fuzzy
 msgid "female^kindled"
-msgstr "ошеломлена"
+msgstr "искра"
 
 #. [trait]: id=kindled
 #: After_the_Storm/macros/items.cfg:554
 msgid "Ignores time of day penalties and has increased physical attributes"
 msgstr ""
+"Не воспринимает снижение урона от времени суток, физические характеристики "
+"повышены"
 
 #. [trait]: id=kindled
 #: After_the_Storm/macros/items.cfg:555
@@ -9441,6 +9456,9 @@ msgid ""
 "increased by 15%, and their resistance to non-arcane damage is increased by "
 "5%."
 msgstr ""
+"Бойцы с этой способностью не воспринимают снижение урона в зависимости от "
+"времени суток, их здоровье повышено на 15%, а их сопротивление к не-"
+"мистическому урону увеличено на 5%."
 
 #: After_the_Storm/macros/amla-elynia.cfg:16
 msgid "Strength I: hitpoints +4, melee damage +1"
@@ -9944,6 +9962,7 @@ msgstr ""
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:385
 #, fuzzy
+#| msgid "Who goes there?"
 msgid "Who are they?"
 msgstr "Кто идёт?"
 
@@ -10085,7 +10104,7 @@ msgstr "Найдите коменданта крепости"
 #. The ‘Four’ are individuals of indeterminate genders.
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:704
 msgid "The Infertile Mother shall give birth to Four."
-msgstr ""
+msgstr "Бесплодная Мать родит Четырёх."
 
 #. [event]
 #. Except for the ‘Four’, these names refer to inanimate objects.
@@ -10094,6 +10113,8 @@ msgid ""
 "These Four shall seek shelter in the Second. The First shall be consumed, "
 "the Tree shall be infected."
 msgstr ""
+"Эти Четыре будут искать убежища во Втором. Первый будет поглощён, и Древо "
+"поразит болезнь."
 
 #. [event]
 #. These names also refer to inanimate objects.
@@ -10102,6 +10123,8 @@ msgid ""
 "The missing Fifth shall provide knowledge. The Eleventh and the Twelfth "
 "shall provide hope."
 msgstr ""
+"Недостающий Пятый передаст знание. Одиннадцатый и Двенадцатый предоставят "
+"надежду."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:979
@@ -10128,7 +10151,7 @@ msgstr ""
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1006
 msgid "Don’t all these creatures worship darkness, though?"
-msgstr ""
+msgstr "Разве все эти существа не служат тьме?"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1015
@@ -10150,11 +10173,12 @@ msgstr "Проклятье Урии… Почему это должна была
 #. [event]
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1184
 msgid "Vanquish Demon Lord Hemérilyel"
-msgstr "Победите Лорда Демона Хемерилъель"
+msgstr "Победите Владыку Демонов Хемерилъель"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1211
 #, fuzzy
+#| msgid "Niry? Where did you go?"
 msgid "Wait... Where did Daeira go?"
 msgstr "Нири? Куда ты ушла?"
 
@@ -10228,17 +10252,17 @@ msgstr "Гляньте! Ещё один сад!"
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1723
 msgid ""
 "There must be a way to open these walls again— Anya, where are you going?"
-msgstr ""
+msgstr "Должен быть способ вновь открыть эти стены— Аня, куда ты идёшь?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1752
 msgid "I— All right. Durvan, can you help—"
-msgstr ""
+msgstr "Я— Ладно. Дюрван, не мог бы ты мне помочь—"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1759
 msgid "Oh, very well, then. I suppose Cron can help me—"
-msgstr ""
+msgstr "Ох, что ж, замечательно. Полагаю, меня выручит Крон—"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1814
@@ -10246,22 +10270,24 @@ msgid ""
 "This garden cannot physically be here — I fear that it might be an illusion "
 "cast by Zhangor."
 msgstr ""
+"Но сад не может быть здесь физически — боюсь, это иллюзия, навеянная "
+"Жангором."
 
 #. [message]: speaker=Anya
 #. Again, the Fire of Uria is Elyssa.
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1820
 msgid "Didn’t you say he would be in the citadel fighting the Fire of Uria?"
-msgstr ""
+msgstr "Разве Вы не говорили, что он будет сражаться с Огнём Урии в цитадели?"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1825
 msgid "More specifically, our Seer said—"
-msgstr ""
+msgstr "Если быть точным, наша Зрящая сказала—"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1834
 msgid "No... That cannot be right."
-msgstr ""
+msgstr "Нет… Не может быть такого."
 
 #. [message]: speaker=narrator
 #. [unit]: id=Zhangor, type=Angel of Blood
@@ -10295,7 +10321,7 @@ msgstr "Кто здесь?!"
 #. [event]: id=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1881
 msgid "Did you truly think I would not find out about your plans, Ergea?"
-msgstr ""
+msgstr "Ты и правда думала, что я не узнаю о твоих планах, Эргея?"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1889
@@ -10304,22 +10330,25 @@ msgstr "Жангор."
 
 #. [event]: id=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1892
+#, fuzzy
 msgid ""
 "Did you not know that I have my own informants everywhere throughout "
 "Urvatha? Of course I would make sure to subvert the Seer’s prophecy in "
 "advance."
 msgstr ""
+"Разве ты не знала, что мои информаторы разбросаны по всему Урвату? Конечно, "
+"я бы заранее подорвал пророчество Зрящей."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1910
 msgid "Anya, teleport us away from this place at once."
-msgstr ""
+msgstr "Аня, телепортируй нас отсюда, сейчас же."
 
 #. [message]: speaker=Anya
 #. "... something blocking my [teleport] power."
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1916
 msgid "I can’t! I am trying but there seems to be something—"
-msgstr ""
+msgstr "Не получается! Я пытаюсь, но здесь будто есть что-то—"
 
 #. [event]: id=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1919
@@ -10342,6 +10371,9 @@ msgid ""
 "that took her will be extinguished next. I will deal with you all later... "
 "assuming anything remains by then."
 msgstr ""
+"Ты хочешь увидеть её вновь, не так ли? Но её время уже истекло, а тёмный "
+"огонь, что поглотил её, будет затушен следующим. Я управлюсь со всеми вами "
+"позднее… если, конечно, к тому времени хоть что-то останется."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1984
@@ -10394,9 +10426,8 @@ msgstr "Шаксталы"
 #. [side]
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:76
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:334
-#, fuzzy
 msgid "team_name^?"
-msgstr "Аня"
+msgstr "?"
 
 #. [message]: speaker=narrator
 #. The narrator refers to Anya in second person throughout
@@ -10540,6 +10571,7 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:573
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:837
 #, fuzzy
+#| msgid "What do you want from us?"
 msgid "What do you mean?"
 msgstr "Что вам от нас надо?"
 
@@ -10636,6 +10668,7 @@ msgstr ""
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:651
 #, fuzzy
+#| msgid "You have not answered... my question..."
 msgid "I have so many questions..."
 msgstr "Ты не ответил… на мой вопрос…"
 
@@ -10818,6 +10851,7 @@ msgstr ""
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:780
 #, fuzzy
+#| msgid "We don’t know."
 msgid "You did not know."
 msgstr "Мы не знаем."
 
@@ -10847,6 +10881,7 @@ msgstr ""
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:825
 #, fuzzy
+#| msgid "What are we going to do now?"
 msgid "What am I supposed to do now?"
 msgstr "Что нам теперь делать?"
 
@@ -12135,12 +12170,14 @@ msgstr ""
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1908
 #, fuzzy
+#| msgid "What do you want from us?"
 msgid "What does your heart tell you?"
 msgstr "Что вам от нас надо?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1923
 #, fuzzy
+#| msgid "I must go now."
 msgid "I want to know..."
 msgstr "Мне пора."
 
@@ -12261,6 +12298,7 @@ msgstr ""
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1995
 #, fuzzy
+#| msgid "What have we done?"
 msgid "What happened next?"
 msgstr "Что мы натворили?"
 
@@ -12545,6 +12583,7 @@ msgstr ""
 #. [then]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2271
 #, fuzzy
+#| msgid "Naron"
 msgid "Charon"
 msgstr "Нарон"
 
@@ -12588,6 +12627,7 @@ msgstr ""
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2320
 #, fuzzy
+#| msgid "It would be an honor to fight alongside you, sir."
 msgid "And now, I shall fight alongside you."
 msgstr "Было бы честью сражаться на вашей стороне, господин."
 
@@ -16339,6 +16379,7 @@ msgstr ""
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2244
 #, fuzzy
+#| msgid "Summon Fire Guardian"
 msgid "Elyssa can now summon Fire Guardians."
 msgstr "Призвать Огнестража"
 
@@ -22953,7 +22994,7 @@ msgstr "Эргея"
 
 #: After_the_Storm/episode3/characters.cfg:148
 msgid "Naiad"
-msgstr ""
+msgstr "Наяда"
 
 #: After_the_Storm/episode3/characters.cfg:260
 msgid ""
@@ -23084,7 +23125,7 @@ msgstr "Я всех вас подвела…"
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/deaths.cfg:204
 msgid "This battle is not mine to fight. Farewell, Anya."
-msgstr ""
+msgstr "Это — не моя война. Прощай, Аня."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/deaths.cfg:215
