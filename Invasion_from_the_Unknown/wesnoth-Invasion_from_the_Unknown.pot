@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 2.1.3+dev\n"
+"Project-Id-Version: 2.1.4.1+dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-09 10:38 UTC\n"
+"POT-Creation-Date: 2020-07-25 12:49 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4011,7 +4011,7 @@ msgstr ""
 
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/16_Dawn_of_War.cfg:1543
-msgid "Galas, this is supposed to be an </i>infiltration<i> mission. It would be unwise to let your men come with us. We can’t even guarantee our own survival!"
+msgid "Galas, this is supposed to be an <b>infiltration</b> mission. It would be unwise to let your men come with us. We can’t even guarantee our own survival!"
 msgstr ""
 
 #. [message]: speaker=Galas
