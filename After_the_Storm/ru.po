@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-07-28 14:02 UTC\n"
-"PO-Revision-Date: 2020-07-26 16:14+0300\n"
+"PO-Revision-Date: 2020-07-28 16:16+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -1391,6 +1391,10 @@ msgid ""
 "kind. Many fables revolve around men who were lured into following these "
 "beautiful temptresses to their homes, never to be seen ever again."
 msgstr ""
+"Говорят, что тёмные файери из-за жизни в отдалённых и опасных средах "
+"обитания лишились какого бы то ни было сочувствия ко всем, кто не из их "
+"рода. Хотят многочисленные слухи о том, что мужчин, которых этих файери "
+"заманили своей красотой в лесную чащу, больше никогда не видели вновь."
 
 #. [attack]: type=cold
 #: After_the_Storm/units/faeries/Dark_Night_Nymph.cfg:52
@@ -9961,9 +9965,8 @@ msgstr ""
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:385
-#, fuzzy
 msgid "Who are they?"
-msgstr "Кто идёт?"
+msgstr "Кто они?"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:390
@@ -10176,14 +10179,13 @@ msgstr "Победите Владыку Демонов Хемерилъель"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1211
-#, fuzzy
 msgid "Wait... Where did Daeira go?"
-msgstr "Нири? Куда ты ушла?"
+msgstr "Постойте… Куда делась Дэйра?"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1216
 msgid "Who?"
-msgstr ""
+msgstr "Кто?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1221
@@ -10328,7 +10330,6 @@ msgstr "Жангор."
 
 #. [event]: id=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1892
-#, fuzzy
 msgid ""
 "Did you not know that I have my own informants everywhere throughout "
 "Urvatha? Of course I would make sure to subvert the Seer’s prophecy in "
@@ -10664,9 +10665,8 @@ msgstr ""
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:652
-#, fuzzy
 msgid "I have so many questions..."
-msgstr "Ты не ответил… на мой вопрос…"
+msgstr "У меня так много вопросов…"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:657
@@ -10846,9 +10846,8 @@ msgstr ""
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:781
-#, fuzzy
 msgid "You did not know."
-msgstr "Мы не знаем."
+msgstr "Ты не знала."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:788
@@ -10875,9 +10874,8 @@ msgstr ""
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:826
-#, fuzzy
 msgid "What am I supposed to do now?"
-msgstr "Что нам теперь делать?"
+msgstr "Что мне теперь делать?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:831
@@ -11772,18 +11770,18 @@ msgstr "Демон"
 #. [message]: speaker=Jarayavel
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:698
 msgid "So bold— argh..."
-msgstr ""
+msgstr "Как дерзко— аргг…"
 
 #. [message]: speaker=Mereldyan
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:710
 msgid "The Fist shall not tolerate your intrusion..."
-msgstr ""
+msgstr "Кулак не смирится с вашим вторжением…"
 
 #. [message]: speaker=Zaraphor
 #. The 'Fist' is a yet unseen male demon.
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:723
 msgid "The Fist knows... He knows everything... Flee while you can..."
-msgstr ""
+msgstr "Кулак знает… Он всё знает… Бегите, пока можете…"
 
 #. [message]: speaker=Elesmeera
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:735
@@ -11791,6 +11789,7 @@ msgid ""
 "No, n— please no! My fair lady of the Storms, I— I did not have a choice! "
 "The Fist— I— I—"
 msgstr ""
+"Нет, п— прошу, нет! Моя госпожа Бурь, у— у меня не было выбора! Кулак— Я— Я—"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:740
@@ -11798,6 +11797,8 @@ msgid ""
 "You betrayed me and my people. There is only one possible punishment for "
 "such a grave misdeed under my rule and you are well aware what it is."
 msgstr ""
+"Ты предала меня и мой народ. При моём правлении есть только одно допустимое "
+"наказание за такое мерзкое преступление, и ты прекрасно знаешь, что это."
 
 #. [message]: speaker=Elesmeera
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:745
@@ -12154,7 +12155,7 @@ msgstr ""
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1888
 msgid "One question?"
-msgstr ""
+msgstr "Один вопрос?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1903
@@ -12163,20 +12164,18 @@ msgstr ""
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1908
-#, fuzzy
 msgid "What does your heart tell you?"
-msgstr "Что вам от нас надо?"
+msgstr "Что говорит тебе сердце?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1923
-#, fuzzy
 msgid "I want to know..."
-msgstr "Мне пора."
+msgstr "Я хотела знать…"
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1926
 msgid "Who are my real parents?"
-msgstr ""
+msgstr "Кто мои настоящие родители?"
 
 #. [message]: speaker=Daeira
 #. The Nameless Shapeshifter's pronouns are they/them. They are non-binary. I understand that this doesn't
@@ -12289,9 +12288,8 @@ msgstr ""
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1995
-#, fuzzy
 msgid "What happened next?"
-msgstr "Что мы натворили?"
+msgstr "Что случилось дальше?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2000
@@ -16372,9 +16370,8 @@ msgstr ""
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2244
-#, fuzzy
 msgid "Elyssa can now summon Fire Guardians."
-msgstr "Призвать Огнестража"
+msgstr "Элисса теперь может призывать Огнестражей"
 
 #. [message]: speaker=Jeru'unog
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2290
@@ -23746,14 +23743,13 @@ msgstr ""
 
 #. [event]
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:952
-#, fuzzy
 msgid ""
 "The energy that should have destroyed you was released from the <b>second</"
 "b> replica of her heart, and various experimental units stored in the same "
 "place. The third one still exists within our infiltrator, imbuing her with "
 "Yechnagoth’s grace and might — which is why your power is no match for hers."
 msgstr ""
-"Энергия, что должна была вас уничтожить, высвободилась из <i>второй</i> "
+"Энергия, что должна была вас уничтожить, высвободилась из <b>второй</b> "
 "копии её сердца и из различных опытных образцов, которых мы хранили в том же "
 "месте. Третья до сих пор работает в нашем внедрителе, наполняя Ивъел грацией "
 "и могуществом Йечнагот — вот почему твоей силе не сравниться с её."
