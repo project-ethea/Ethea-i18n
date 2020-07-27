@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: After the Storm - Japanese\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-25 12:49 UTC\n"
+"POT-Creation-Date: 2020-07-27 06:50 UTC\n"
 "PO-Revision-Date: 2016-05-22 01:16+0000\n"
 "Last-Translator: RatArmy <broadbarredfirefish@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/wesnoth-jp/after-the-storm/"
@@ -100,7 +100,7 @@ msgid ""
 msgstr ""
 
 #. [lua]: apply_seismic_status
-#: After_the_Storm/lua/After_the_Storm.lua:441
+#: After_the_Storm/lua/After_the_Storm.lua:448
 msgid "seism"
 msgstr ""
 
@@ -1151,8 +1151,8 @@ msgstr "やっちゃって。"
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3797
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3976
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4142
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2833
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3129
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2854
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3150
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2525
 #: After_the_Storm/episode3/storytxt.cfg:230
 #: After_the_Storm/episode3/storytxt.cfg:235
@@ -3118,8 +3118,8 @@ msgstr "Elynia様、これ以上ここに留まる訳にはいきません！"
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4177
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:513
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2116
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1757
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2137
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1778
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2158
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1011
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2879
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:757
@@ -3208,8 +3208,8 @@ msgstr "私は…"
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2292
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:2313
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:37
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:795
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2272
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:816
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2293
 msgid "Uria"
 msgstr "Uria"
 
@@ -3398,9 +3398,9 @@ msgstr "出口を探す"
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:537
 #: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:247
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2605
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2848
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2859
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3127
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2869
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2880
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3148
 #: After_the_Storm/episode2/scenarios/00_Transience.cfg:155
 msgid "Elyssa"
 msgstr "Elyssa"
@@ -3809,7 +3809,7 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:522
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:1221
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:1130
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3663
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3684
 msgid "Touchplate triggered. A wall moves."
 msgstr "タッチプレートが作動した。壁が動く。"
 
@@ -4549,9 +4549,9 @@ msgstr ""
 #. [message]: role=guard_2
 #. [option]
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:432
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3589
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3642
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2334
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3610
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3663
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2351
 msgid "Yes."
 msgstr "そうだ。"
 
@@ -9398,7 +9398,7 @@ msgstr "Zhangor"
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:196
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:310
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:25
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:53
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:74
 #: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:66
 #: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:87
 #: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:108
@@ -9447,14 +9447,14 @@ msgstr "Mal Therygos"
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2248
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2314
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2365
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:397
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:580
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1042
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2488
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3059
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3263
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3353
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3444
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:418
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:601
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1063
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2509
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3080
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3284
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3374
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3465
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:421
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1136
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:121
@@ -9610,10 +9610,10 @@ msgstr ""
 #. [message]: speaker=Argan
 #. [option]
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:361
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3209
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3615
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3725
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2340
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3230
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3636
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3746
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2357
 msgid "No."
 msgstr "いや。"
 
@@ -11138,7 +11138,7 @@ msgstr "さよなら、Kendyare。"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:328
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2088
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2109
 msgid "bind soul"
 msgstr "魂縛り"
 
@@ -12805,7 +12805,7 @@ msgstr "マップ上に８体までしかユニットを保持できません"
 #. [message]: speaker=memory!Elyssa
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:871
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:477
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2863
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2884
 msgid "What brings you here?"
 msgstr "何か用事でも？"
 
@@ -15061,7 +15061,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4537
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1465
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1486
 msgid "Ethealim"
 msgstr "Ethealim"
 
@@ -15222,6 +15222,11 @@ msgstr ""
 "例えどんな結果になろうと…… 誰を味方につけてでも、私は彼ら二人に立ち向かう。\n"
 "\n"
 "Uriaは止めねばならない。"
+
+#. [message]: speaker=Elyssa
+#: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4734
+msgid "... I give up. You are beyond useless."
+msgstr ""
 
 #. [scenario]: id=13_Epilogue
 #. [part]
@@ -16148,7 +16153,7 @@ msgstr "崩壊"
 #. [side]
 #. [side]: type=Boss Guardian of Darkness Elyssa
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:124
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:34
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:55
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:56
 #: After_the_Storm/episode2/scenarios/12_Fate.cfg:42
 #: After_the_Storm/episode2/scenarios/12_Fate.cfg:57
@@ -17115,6 +17120,13 @@ msgstr "妖精と人間に負けるとは！どうしてこんなことが？"
 msgid "I am <b>not</b> human."
 msgstr "私は人間<b>じゃない</b>。"
 
+#. [message]: speaker=Elyssa
+#: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2417
+msgid ""
+"... So, you obtain the power of a god and still manage to drag your feet all "
+"over the place for an eternity? Seriously? You don’t even walk!"
+msgstr ""
+
 #. [scenario]: id=02_01_Return_to_Raelthyn
 #. [part]
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:5
@@ -17711,27 +17723,27 @@ msgstr "ほう！良い時に来てくれた！"
 #. [transient_message]
 #. [scenario]: id=08A_Interim
 #. [part]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:325
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:346
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:5
 #: After_the_Storm/episode3/storytxt.cfg:384
 msgid "Interim"
 msgstr "幕間"
 
 #. [side]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:73
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:87
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:94
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:108
 msgid "team_name^Neutral"
 msgstr "中立"
 
 #. [side]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:101
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:122
 msgid "team_name^Gatekeeper"
 msgstr "門番"
 
 #. [message]: speaker=narrator
 #. The narrator refers to Elyssa in second person throughout
 #. this scenario.
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:357
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:378
 msgid ""
 "That is not entirely accurate. Of course you do have more specific goals in "
 "mind tonight, the longest of nights on Irdya.\n"
@@ -17752,7 +17764,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #. The 'Seer' is female, and no, she is not Valen.
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:368
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:389
 msgid ""
 "But the Seer told you about things to come. Things that did not make much "
 "sense to you at the time; things you promptly disregarded as long-winded "
@@ -17767,7 +17779,7 @@ msgstr ""
 "い。そして、残りのほとんどは忘れてしまった。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:374
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:395
 #, fuzzy
 msgid ""
 "Yet she sometimes does provide you clear instructions to follow. Darkness "
@@ -17796,12 +17808,12 @@ msgstr ""
 "さてどうする？"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:398
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:419
 msgid "Proceed to the meeting chamber"
 msgstr "会議室へ向かう"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:424
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:445
 msgid ""
 "There is nothing of interest whence you came. You should really get moving "
 "now."
@@ -17809,7 +17821,7 @@ msgstr ""
 "ここには興味深い物は何もない。あなたにはやらなければならないことがある。"
 
 #. [literal]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:437
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:458
 msgid ""
 "You have a very specific objective in mind at this particular time, and you "
 "are not really the type that gets distracted this easily. What were you "
@@ -17823,7 +17835,7 @@ msgstr ""
 "あなたはきっぱりと踵を返し、仕事に戻った。"
 
 #. [literal]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:442
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:463
 msgid ""
 "This is not where you should be heading right now, and you know it. Still, "
 "you cannot resist the urge to take a glance at this striking scenery. Who "
@@ -17836,7 +17848,7 @@ msgstr ""
 "こそが最高の建築家なのだろう。"
 
 #. [literal]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:445
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:466
 msgid ""
 "You take a glance at the wondrous carving on the enchanted gate. It is "
 "largely rusted and you can barely make out the details, and yet, your eyes "
@@ -17849,7 +17861,7 @@ msgstr ""
 "られた。"
 
 #. [literal]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:450
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:471
 msgid ""
 "It is an old enchanted gate, of course. You are not completely sure why you "
 "bothered casting these spells on most of the gates on this level, actually, "
@@ -17867,7 +17879,7 @@ msgstr ""
 "そろそろもっと生産的な作業にもどらないと。"
 
 #. [literal]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:455
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:476
 msgid ""
 "As much as you wish you had the ability, you cannot stop time, and destiny "
 "needs a helping hand to ensure that the events foretold for this night take "
@@ -17880,46 +17892,46 @@ msgstr ""
 "らねばならない。"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:581
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:602
 msgid "Activate the communicator"
 msgstr "通信機を起動する"
 
 #. [scenario]: id=08A_Interim
 #. The Seer of Uria is female.
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:607
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:628
 msgid "“The Seer”"
 msgstr ""
 
 #. [scenario]: id=08A_Interim
 #. The Mother is Uria herself.
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:610
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:631
 msgid "“The Mother”"
 msgstr ""
 
 #. [scenario]: id=08A_Interim
 #. The Fist is Zhangor.
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:613
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:634
 msgid "“The Fist”"
 msgstr ""
 
 #. [scenario]: id=08A_Interim
 #. The Shadow is Nar-hamoth.
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:616
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:637
 msgid "“The Shadow”"
 msgstr ""
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:809
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:830
 msgid "Ah, it is you."
 msgstr "ああ、お前か。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:814
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:835
 msgid "I believe you wanted to see me, my lady."
 msgstr "何か私に用事があるのだと思います、我が君。"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:819
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:840
 msgid ""
 "That is correct. Have the preparations for my arrival on Ethea been "
 "completed yet? I believe there is a certain nuisance remaining to be "
@@ -17929,12 +17941,12 @@ msgstr ""
 "らないはずだが。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:824
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:845
 msgid "I have been awaiting your order to destroy the Gatekeeper, my lady."
 msgstr "門番を破壊する命令をお待ちしておりました、我が君よ。"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:829
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:850
 msgid ""
 "Hm, hm, I appreciate your obedience, but in this case I would have preferred "
 "if you did it as soon as the breach was opened."
@@ -17943,7 +17955,7 @@ msgstr ""
 "たらすぐにやってくれると助かる。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:834
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:855
 #, fuzzy
 msgid ""
 "I assumed you would wait until you gathered further information on the "
@@ -17953,12 +17965,12 @@ msgstr ""
 "よ。彼は…"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:839
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:860
 msgid "Yes. He is already there."
 msgstr "ああ、彼は既にあそこにいる。"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:849
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:870
 msgid ""
 "But he is not cognizant of our schemes, is he? His people never noticed the "
 "supplies and equipment we stole from their world, so I am free to advance my "
@@ -17972,12 +17984,12 @@ msgstr ""
 
 #. [message]: speaker=Elyssa
 #. The Body of the Union
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:855
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:876
 msgid "... the Body..."
 msgstr "…あの体を…"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:860
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:881
 msgid ""
 "Will you please stop wasting everyone’s time and destroy that hideous thing "
 "at once? And... once you are done, come back to me."
@@ -17986,27 +17998,27 @@ msgstr ""
 "終わったら、私のところへ戻ってくるのだ。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:865
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:886
 msgid "Yes. As you command, my lady."
 msgstr "はい、仰せのままに、我が君よ。"
 
 #. [unit]: type=Lumeril Guard, id=Halbadrel
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:911
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:932
 msgid "Halbadrel"
 msgstr "Halbadrel"
 
 #. [unit]: type=Demon Zephyr, id=Sheelevrea
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:926
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:947
 msgid "Sheelevrea"
 msgstr "Sheelevrea"
 
 #. [unit]: type=Gutwrencher Imp, id=Kraador
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:940
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:961
 msgid "Kraador"
 msgstr "Kraador"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:958
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:979
 msgid ""
 "You guess it cannot be helped. Things are going to get more complicated than "
 "you wanted. As usual."
@@ -18015,7 +18027,7 @@ msgstr ""
 "いた。いつもどおりに。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:989
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1010
 msgid ""
 "These security measures are inconvenient at times. If that stupid faerie and "
 "her accomplices did not have access to teleport spells, you would be able to "
@@ -18033,17 +18045,17 @@ msgstr ""
 "は心底願っていた。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1035
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1056
 msgid "Of course, you are not <i>too</i> concerned about it."
 msgstr "もちろん、そのようなことをそんなに心配しているわけではない。"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1043
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1064
 msgid "Proceed to the transport glyph"
 msgstr "転送ルーンへ進む"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1070
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1091
 msgid ""
 "Your mission now is to slay the Gatekeeper. Bothering Uria again before you "
 "are done would be absurdly reckless."
@@ -18052,65 +18064,65 @@ msgstr ""
 "はバカバカしいほどに無謀だ。"
 
 #. [message]: speaker=Sheelevrea
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1089
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1110
 msgid "Hahahaha! Look, it is Uria’s little pet! Isn’t she adorable?"
 msgstr "ハハハハハ！見てよ、Uriaのかわいいペットだ！カワイイよねー！"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1094
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1115
 msgid "You are obstructing the way. Get out."
 msgstr "邪魔よ。どきなさい。"
 
 #. [message]: speaker=Halbadrel
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1099
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1120
 msgid "As you wish."
 msgstr "仰せのままに。"
 
 #. [message]: speaker=Sheelevrea
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1106
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1127
 msgid "Hee hee hee!"
 msgstr "へっへっへっ！"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1144
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1165
 msgid ""
 "An old, rusted ring with no special powers whatsoever. It is absolutely "
 "useless to you."
 msgstr "古くて、錆びた指輪で、何の特別な力ももっていない。無用の品だ。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1161
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1182
 msgid "Just an old crate. There is nothing of value in it."
 msgstr "ただの古い木箱だ。価値があるものは何も入ってない。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1357
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1378
 msgid "The unnatural air in this place makes you feel uneasy."
 msgstr "この場所の不自然な空気はあなたを不安にさせた。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1373
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1394
 msgid "On the other side of the breach, the Gatekeeper on Ethea awaits..."
 msgstr "裂け目の反対側にはEtheaの門番が待ち構えていた…"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1404
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1425
 msgid "... There is no going back now..."
 msgstr "…もはや後へは退けない…"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1448
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1469
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1382
 msgid "...!"
 msgstr "…！"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1458
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1479
 msgid "<i>Have you forgotten who you are?</i>"
 msgstr "<i>あなたは自分が誰だったかを忘れたの？</i>"
 
 #. [message]: speaker=Ethealim
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1477
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1498
 msgid "Are you deceiving yourself?"
 msgstr "自分に嘘をついているの？"
 
@@ -18118,22 +18130,22 @@ msgstr "自分に嘘をついているの？"
 #. [message]: speaker=Ethealim
 #. [message]: speaker=Elynia
 #. [part]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1482
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1488
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1503
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1509
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:724
 #: After_the_Storm/episode3/storytxt.cfg:61
 msgid "Who are you?"
 msgstr "あなたは誰？"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1493
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1514
 msgid ""
 "I asked the question first. I was told Gatekeepers are not sentient "
 "creatures."
 msgstr "私が先に質問したの。門番が知性のある生き物だとは聞いていないわ。"
 
 #. [message]: speaker=Ethealim
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1499
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1520
 msgid ""
 "You let yourself be deceived by appearances in spite of the aspect you "
 "control. Why is that?"
@@ -18142,7 +18154,7 @@ msgstr ""
 "ことを？"
 
 #. [message]: speaker=Ethealim
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1546
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1567
 msgid ""
 "As the child of Uria and heiress of Merthiaal you are, you harbor great "
 "potential."
@@ -18151,17 +18163,17 @@ msgstr ""
 "わ。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1551
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1572
 msgid "You are mistaken. I am neither thing."
 msgstr "あなたは間違っているわ。私はそのどちらでもないわ。"
 
 #. [message]: speaker=Ethealim
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1557
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1578
 msgid "Are you not human? All humans everywhere are children of Uria."
 msgstr "あなたは人間じゃないの？全ての人間はUriaの子のはずよ。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1562
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1583
 msgid "I am not human. Not anymore."
 msgstr "私は人間じゃない。もう、ね。"
 
@@ -18169,7 +18181,7 @@ msgstr "私は人間じゃない。もう、ね。"
 #. 'designed' is used here in the sense of 'planned', 'intended', etc.
 #. The sentence here is supposed to imply the existence of one or more deities
 #. weaving every character's fate since before they were even born.
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1575
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1596
 msgid ""
 "The heart of Merthiaal lies within you as designed, but that does not change "
 "your true self."
@@ -18178,7 +18190,7 @@ msgstr ""
 "変えたりはしないのね。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1584
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1605
 msgid ""
 "I was not destined by the Tree to inherit Darkness... but that’s irrelevant "
 "either way. I have transcended the definition of a ‘human’ and become "
@@ -18188,17 +18200,17 @@ msgstr ""
 "いことね。私は「人間」の定義を逸脱して、そして何か別のものになったの。"
 
 #. [message]: speaker=Ethealim
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1590
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1611
 msgid "Have you? What does your heart tell you?"
 msgstr "そうなの？あなたの心は何と言っているの？"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1595
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1616
 msgid "My... heart...?"
 msgstr "私の…心…？"
 
 #. [message]: speaker=Ethealim
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1601
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1622
 msgid ""
 "The path of Darkness is a convoluted and deceptive one. Whereas your "
 "predecessor placed an excessive emphasis on her feelings to the detriment of "
@@ -18211,12 +18223,12 @@ msgstr ""
 "あなたは…"
 
 #. [message]: speaker=Ethealim
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1607
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1628
 msgid "... you have allowed others to <i>distort</i> your identity..."
 msgstr "…あなたは他人が自己を歪めることを受け入れてしまったのね…"
 
 #. [message]: speaker=Ethealim
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1615
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1636
 msgid ""
 "Uria’s corrupting influence is hampering your personal growth and tearing "
 "your being apart, just as she wants."
@@ -18225,7 +18237,7 @@ msgstr ""
 "バラバラに引き裂かれている。彼女が望んだままに。"
 
 #. [message]: speaker=Ethealim
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1625
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1646
 msgid ""
 "Tearing souls apart is what a corrupted Guardian of Life does best. But... "
 "can <i>you</i> escape her influence?"
@@ -18234,12 +18246,12 @@ msgstr ""
 "響から逃げられないの？"
 
 #. [message]: speaker=Ethealim
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1635
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1656
 msgid "Can you escape her destructive grasp..."
 msgstr "彼女の破滅的な支配から逃れることはできないの…？"
 
 #. [message]: speaker=Ethealim
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1645
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1666
 msgid ""
 "... before she utterly destroys your soul and seizes Darkness through your "
 "empty shell?"
@@ -18248,7 +18260,7 @@ msgstr ""
 "に入れる前に？"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1663
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1684
 msgid ""
 "(<i>frantic</i>) Bind the soul to stone— turn the memories to dust— erase "
 "the spirit— shed the hollow SHELL!"
@@ -18257,12 +18269,12 @@ msgstr ""
 "て！"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1770
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1791
 msgid "Damn you, Zhangor. Damn you and your stinking lies."
 msgstr "Zhangorの畜生め。臭い嘘までつきやがって。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1911
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1932
 msgid ""
 "Of course, she was not counting on the spell Uria taught you for the "
 "mission. Or was she?"
@@ -18271,7 +18283,7 @@ msgstr ""
 "かった。いや、本当は知っていたのだろうか？"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1917
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1938
 msgid ""
 "You have not felt so stupid in a long time. Zhangor’s ruse was simply too "
 "obvious to fall for — Uria would not have asked you to destroy the "
@@ -18295,7 +18307,7 @@ msgstr ""
 "う仮定が必要ではあるのだが。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1925
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1946
 #, fuzzy
 msgid ""
 "Maybe you were too hasty in disposing of the creature, though. She seemed to "
@@ -18311,7 +18323,7 @@ msgstr ""
 "かった。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1931
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1952
 msgid ""
 "Regardless of the intentions of Delethia’s offspring, she managed to stir up "
 "uncomfortable thoughts in your mind with her meddling. You decide to sweep "
@@ -18323,17 +18335,17 @@ msgstr ""
 "な雑念は追い払ってしまいたいのだが。"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1938
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1959
 msgid "Report to Uria in the meeting chamber again"
 msgstr "会議室で再びUriaに報告する"
 
 #. [message]: speaker=Sheelevrea
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1984
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2005
 msgid "Ahahahaha! Hey, hey! Did you have fun down there? Hahahahaha!"
 msgstr "アハハハハ！ネーネー！そっちは楽しかったの？ハハハハハ！"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1989
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2010
 msgid ""
 "Not really. There was only one Gatekeeper and I was prepared to perform many "
 "more soul bind spells tonight."
@@ -18342,7 +18354,7 @@ msgstr ""
 "を唱える用意があるわよ。"
 
 #. [message]: speaker=Halbadrel
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1994
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2015
 msgid ""
 "That seems rather wasteful and improbable. Lord Zhangor said you needed "
 "Uria’s help to cast those."
@@ -18351,17 +18363,17 @@ msgstr ""
 "Uriaの助けが要るんだろう。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1999
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2020
 msgid "Zhangor, you say?"
 msgstr "Zhangor、と言ったかしら？"
 
 #. [message]: speaker=Sheelevrea
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2004
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2025
 msgid "Hahahahaha!"
 msgstr "ハハハハハ！"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2009
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2030
 msgid ""
 "Ah, I see. Good to know it was he who sent you here, but I fear you have "
 "been misinformed about the power I wield. Regardless, I have to wonder: why "
@@ -18372,7 +18384,7 @@ msgstr ""
 "で、なぜこの場所、私の領域にいるのかしら？"
 
 #. [message]: speaker=Halbadrel
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2014
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2035
 msgid ""
 "Lord Zhangor wanted us to keep you in check, naturally. There are various "
 "disturbing rumors running around surrounding your habits and plans, you see."
@@ -18382,7 +18394,7 @@ msgstr ""
 "だろう？"
 
 #. [message]: speaker=Sheelevrea
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2019
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2040
 msgid ""
 "Some say you like inviting people to dine in your cell. They say... that you "
 "invite humans and demons... to eat their succulent flesh when you are... "
@@ -18393,7 +18405,7 @@ msgstr ""
 "そのジューシーな肉を食っちまうんだとさぁ！ハハハハハ！！"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2024
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2045
 msgid ""
 "(<i>monotone</i>) Ha, ha, ha. I can see why some of you might believe such a "
 "thing. But trust me, I am not the one who revels in chaos, destruction, and "
@@ -18404,13 +18416,13 @@ msgstr ""
 "あなた達は<i>彼</i>を代わりに監視したほうがいいんじゃないかしら。とはいえ…"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2052
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2073
 #, fuzzy
 msgid "I absolutely <i>detest</i> your obnoxious laugh, girl."
 msgstr "小娘、私はお前の不愉快な笑い声が本当に<i>大嫌い</i>だ。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2124
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2145
 msgid ""
 "You grab the crystal orb containing the soul of your nameless victim and "
 "fling it against the wall, shattering it; the irregular shards are scattered "
@@ -18424,7 +18436,7 @@ msgstr ""
 "…少なくとも、あなたは彼女に名前がないと<i>思っていた</i>。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2147
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2168
 msgid ""
 "Their leader seems quite impressed by your little demonstration and orders "
 "his minion to pick up the shards. Hopefully he will choose to leave you "
@@ -18437,13 +18449,13 @@ msgstr ""
 "弱った様子をZhangorの下僕に見せるのは得策ではなかった。"
 
 #. [message]: speaker=Halbadrel
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2156
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2177
 msgid "Lord Zhangor will hear of this."
 msgstr "Zhangor様もすぐにこのことを知るだろう。"
 
 #. [message]: speaker=Elyssa
 #. 'however' is used here in the sense of "in whatever manner/fashion/form".
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2162
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2183
 msgid ""
 "(<i>monotone</i>) Oh, excellent, however should I express my gratitude! I "
 "was actually worried for a moment that I would have to send him the shards "
@@ -18456,12 +18468,12 @@ msgstr ""
 "きませんのですから。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2169
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2190
 msgid "Please, <i>do</i> send him my regards."
 msgstr "<i>どうぞ</i>私の敬意を彼にお伝え下さい。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2286
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2307
 msgid ""
 "The Gatekeeper on Ethea is no more, my lady. The breach from Urvatha is now "
 "clear for you to cross."
@@ -18470,7 +18482,7 @@ msgstr ""
 "おりません。"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2295
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2316
 msgid ""
 "Hm, hm, I see. Well done, my Fire. Your success pleases me... greatly. Hm... "
 "I have a question for you."
@@ -18479,13 +18491,13 @@ msgstr ""
 "む…一つお前に聞いておきたいことがある。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2300
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2341
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2321
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2362
 msgid "Yes, my lady?"
 msgstr "なんでしょう？"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2305
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2326
 msgid ""
 "Lord Zhangor informed me earlier of a... <i>revolt</i> organized by the "
 "stormkind witch. But from what he said I gather that the once-blessed faerie "
@@ -18496,7 +18508,7 @@ msgstr ""
 "ているようだ。何か知っているか？"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2310
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2331
 msgid ""
 "The faerie was supposed to lead the Irdyan troops from the North but "
 "abandoned her duty on the surface before their arrival. She made it to the "
@@ -18507,7 +18519,7 @@ msgstr ""
 "た。"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2315
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2336
 msgid ""
 "Ah, hm, yes. Everyone had been looking forward to that confrontation ever "
 "since it was foretold by the Seer — it was an inevitability. Well, I assume "
@@ -18518,7 +18530,7 @@ msgstr ""
 "いつは…"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2321
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2342
 msgid ""
 "I killed her just as you wished, my lady. (<i>smirking</i>) Hekuba’s "
 "necrophages took care of the rest for me. I would have loved to present you "
@@ -18532,7 +18544,7 @@ msgstr ""
 "かったのですが。私も残念です、彼女の髪の毛を本当に気に入っておりましたから。"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2326
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2347
 msgid ""
 "No! I would not tolerate you wearing the scalp of that wretched creature "
 "anywhere near me; not to mention that some of your followers could get the "
@@ -18543,17 +18555,17 @@ msgstr ""
 "して欲しいものだな？"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2331
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2352
 msgid "My apologies, my lady."
 msgstr "申し訳ありません、我が君。"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2336
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2357
 msgid "Moving on..."
 msgstr "次の話だ…"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2346
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2367
 msgid ""
 "I have transferred Irdya’s control to Lord Zhangor. You are relieved from "
 "your duty as my Fire."
@@ -18561,12 +18573,12 @@ msgstr ""
 "Irdyaの支配はZhangor卿に任せることにした。お前は私の炎としての任を解かれる。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2355
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2376
 msgid "M— my lady?"
 msgstr "わ—我が君よ？"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2360
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2381
 msgid ""
 "I refuse to acknowledge your reaction as one of surprise, Elyssa. Did you "
 "truly think I would ask you to lend him the bulk of the Triad’s troops "
@@ -18580,7 +18592,7 @@ msgstr ""
 "に、彼に仕えることだ。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2365
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2386
 msgid ""
 "But you promised that Irdya would be under my control soon... Zhangor would "
 "assist you on Ethea!"
@@ -18589,7 +18601,7 @@ msgstr ""
 "きでしょう！"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2370
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2391
 msgid ""
 "You ought to watch your tone, girl — do not forget that I can end your life "
 "and destroy your soul at any time I please. If you want the ball of dirt you "
@@ -18601,12 +18613,12 @@ msgstr ""
 "たな領主と取引でもしたらどうだ。わかったか？"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2375
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2396
 msgid "I... understand, my lady."
 msgstr "わ…わかりました、我が君。"
 
 #. [message]: speaker=Uria
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2380
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2401
 msgid ""
 "Excellent then. Hm, hm, I am sure Zhangor will be as pleased as I to count "
 "on your assistance with exterminating the vermin brought by the faerie. We "
@@ -18617,7 +18629,7 @@ msgstr ""
 "はっはっ！"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2434
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2455
 msgid ""
 "That damned shapeshifter scum should have stayed half-dead in that putrid "
 "pit. Stupid Uria and her irritating obsession with the bastard. You can only "
@@ -18636,7 +18648,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #. This line refers to Elynia as a 'piece', but it'd be nice to keep the gender
 #. ambiguous whenever possible.
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2444
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2465
 msgid ""
 "Time to check on your pivotal piece in the ruined laboratory. Maybe you "
 "should try to remember a few things along the way; open some of those rusty "
@@ -18652,12 +18664,12 @@ msgstr ""
 "次の行動を起こす前に、この要塞で集められる全ての情報を集めなければならない。"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2489
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2510
 msgid "Enter the ruined laboratory"
 msgstr "研究所の廃墟に入る"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2526
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2547
 msgid ""
 "There is no use in attempting to activate the communicator at this time. "
 "Uria has probably left her fortress on Urvatha already, Zhangor is busy "
@@ -18672,24 +18684,24 @@ msgstr ""
 "もないだろう。今議論できる相手は誰もいない。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2552
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2573
 msgid "Touchplate triggered. A road rises from the depths."
 msgstr "タッチプレートが起動した。道が深淵より浮かび上がった。"
 
 #. [item_choice_dialog]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2575
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2596
 msgid "The Original Ten"
 msgstr "原始の十人"
 
 #. [option]
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2578
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2644
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2599
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2665
 msgid "Life"
 msgstr "命"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2579
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2600
 msgid ""
 "The force that governs the birth of all creatures in our reality. Incarnated "
 "by the Guardian of Life, also known as Uria, Guardian of the Legacy and the "
@@ -18699,12 +18711,12 @@ msgstr ""
 "貴婦人、命の女神、といった名でも知られる、命の守護者によって体現される。"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2583
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2604
 msgid "Water"
 msgstr "水"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2584
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2605
 msgid ""
 "The element common to the origins of all life in our reality, as well as its "
 "sustainment and destruction. Incarnated by the Guardian of Water, also known "
@@ -18715,12 +18727,12 @@ msgstr ""
 "れる。"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2588
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2609
 msgid "Thunder"
 msgstr "雷"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2589
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2610
 msgid ""
 "The spark that keeps life in motion, the arbiter in a chaotic reality doomed "
 "to an ephemeral eternity of strife. Incarnated by the Guardian of Thunder, "
@@ -18733,13 +18745,13 @@ msgstr ""
 
 #. [option]
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2593
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2667
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2614
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2688
 msgid "Earth"
 msgstr "大地"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2594
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2615
 msgid ""
 "The shelter that harbors the promise of life, the energy that kindles the "
 "mystic in a dying reality. Incarnated by the Guardian of Earth, also known "
@@ -18751,12 +18763,12 @@ msgstr ""
 "られる、大地の守護者によって体現される。"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2598
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2619
 msgid "Fire"
 msgstr "炎"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2599
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2620
 msgid ""
 "The aspect that fuels life through love, the flame that sustains the forge "
 "of knowledge in a reality where ignorance has ensnared its hopeless "
@@ -18769,14 +18781,14 @@ msgstr ""
 
 #. [option]
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2603
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2692
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2706
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2624
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2713
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2727
 msgid "Darkness"
 msgstr "闇"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2604
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2625
 msgid ""
 "The aspect of the free will necessary for life to progress, the precursor "
 "and successor of light in a reality devoid of ultimate intent. Incarnated by "
@@ -18788,12 +18800,12 @@ msgstr ""
 "られる、闇の守護者によって体現される。"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2608
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2629
 msgid "Light"
 msgstr "光"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2609
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2630
 msgid ""
 "The aspect of the constancy from which life springs, the successor and "
 "precursor of darkness in a reality unprepared for its end. Incarnated by the "
@@ -18805,12 +18817,12 @@ msgstr ""
 "の守護者によって体現される。"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2613
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2634
 msgid "Air"
 msgstr "空気"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2615
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2636
 msgid ""
 "The aspect of the kiss that insufflates life, the breath that preserves life "
 "in a decaying reality. Incarnated by the Guardian of Air, also known as "
@@ -18822,12 +18834,12 @@ msgstr ""
 "守護者によって体現される。"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2619
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2640
 msgid "Ice"
 msgstr "氷"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2620
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2641
 msgid ""
 "The aspect that is the cold touch that ends life, the substance that holds "
 "treasures for those daring to explore the confines of a shrinking reality. "
@@ -18839,12 +18851,12 @@ msgstr ""
 "れる、氷の守護者によって体現される。"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2624
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2645
 msgid "Existence"
 msgstr "存在"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2625
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2646
 msgid ""
 "The aspect that binds all life together, the empty canvas from which a "
 "corrupted reality was created. Incarnated by the Guardian of Existence, also "
@@ -18856,7 +18868,7 @@ msgstr ""
 "の守護者によって体現される。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2645
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2666
 msgid ""
 "The aspect of Life deals primarily with the creation and sustainment of "
 "life, as well as the very essence of being in all of its manifestations.\n"
@@ -18882,7 +18894,7 @@ msgstr ""
 "れていない。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2668
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2689
 msgid ""
 "The aspect of Earth is one of four aspects directly connected to Life in a "
 "supporting role, paving the way for creation.\n"
@@ -18921,7 +18933,7 @@ msgstr ""
 "れていない。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2693
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2714
 msgid ""
 "Unlike the majority of the aspects constituting reality, Darkness and Light "
 "are derived from the nature of the First Gods themselves, stemming from "
@@ -18964,7 +18976,7 @@ msgstr ""
 "きなかった。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2708
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2729
 msgid ""
 "Not having learned her own song beforehand, Merthiaal could not assume full "
 "control of her new powers. Instead of becoming the true goddess she desired "
@@ -19001,12 +19013,12 @@ msgstr ""
 "はYaraeの意志で、代わりに墓地が残されていた。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2731
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2752
 msgid "Biomechanical Engineering Laboratory 03"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2732
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2753
 msgid ""
 "FACILITY CONDEMNED\n"
 "\n"
@@ -19014,7 +19026,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2800
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2821
 msgid ""
 "A particularly irksome disadvantage of living forever is that you very "
 "easily forget things that happened over a century ago if you do not take "
@@ -19033,7 +19045,7 @@ msgstr ""
 "ということには大きな努力を要するのだ…"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2842
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2863
 msgid ""
 "It is him, the tortured man to whom you owe your life, even though you did "
 "not ask for it.\n"
@@ -19047,12 +19059,12 @@ msgstr ""
 "この光景は馴染み深かったが、これがいつのことだったかは正確には思い出せない。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2851
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2872
 msgid "<i>You have not visited me in a long time.</i>"
 msgstr "<i>久しぶりね。</i>"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2868
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2889
 msgid ""
 "Do I really need a reason? Uria is busy unearthing some ruins on Urvatha — "
 "she will not notice my absence. I just wanted to see you."
@@ -19061,12 +19073,12 @@ msgstr ""
 "気にしないだろう。私は君に会いたかったのだ。"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2886
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2907
 msgid "I have to admit that I expected a warmer reception."
 msgstr "私としては、もう少し暖かい出迎えを期待していたのだがね。"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2891
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2912
 msgid ""
 "I suppose... it’s hard to be enthusiastic about a visit from someone who has "
 "only spoken to me through crystal projections for over a century. It almost "
@@ -19076,18 +19088,18 @@ msgstr ""
 "る気には中々なれないわね。もう他人みたいなものでしょ… 初めて会ったばかりの…"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2896
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2917
 msgid "Does it now?"
 msgstr "今もそう思っているのか？"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2919
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2940
 msgid "I missed you... I really, really did."
 msgstr "寂しかった… 本当、本当に寂しかった。"
 
 #. [message]: speaker=Argan
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2924
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2945
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:848
 msgid "But..."
 msgstr "……"
@@ -19095,19 +19107,19 @@ msgstr "……"
 #. [message]: speaker=Argan
 #. [message]: speaker=Zynara
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2933
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2954
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:276
 #: After_the_Storm/episode2/scenarios/03_02_Revelations.cfg:236
 msgid "I see..."
 msgstr "わかった……"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2950
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2971
 msgid "How have things been around here? Any progress?"
 msgstr "それでどうなっている？何か進展は？"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2957
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2978
 msgid ""
 "With Nar-hamoth around I haven’t been able to continue with my search. But I "
 "went to Ghoram-Dul the other day and asked the Seer about her and—"
@@ -19116,7 +19128,7 @@ msgstr ""
 "Dulへ行って、あの星読みに彼女のことそして—"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2962
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2983
 msgid ""
 "Not the faerie. The hive in the Grenmar region. I believe its construction "
 "should be nearly finished by now?"
@@ -19125,7 +19137,7 @@ msgstr ""
 "いるはずだな？"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2971
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2992
 msgid ""
 "Did you come here just to ask me about such banal matters, or because you "
 "wanted to see me?"
@@ -19134,7 +19146,7 @@ msgstr ""
 "たの？"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2976
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2997
 msgid ""
 "Do I have to choose between those two options? I did not expect you to be so "
 "demanding from your superiors, girl."
@@ -19143,12 +19155,12 @@ msgstr ""
 "は、全然思っていなかったな。"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2981
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3002
 msgid "<i>Superiors</i>, you say?"
 msgstr "上司<i>達</i>、って言った？"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2986
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3007
 msgid ""
 "I do not have all the time in the world for your empty questions. Will you "
 "answer, or—"
@@ -19157,7 +19169,7 @@ msgstr ""
 "か、それとも—"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2991
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3012
 msgid ""
 "Uria sent you, didn’t she? She sent you to keep track of my activities, as "
 "if I needed another Shadow of hers around here."
@@ -19166,7 +19178,7 @@ msgstr ""
 "が必要ということかしら。"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3000
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3021
 msgid ""
 "Oh, but of course. ‘Shadow’ really suits you better than it does that "
 "brainless brute, except most of the scum in this place prefers to add "
@@ -19177,13 +19189,13 @@ msgstr ""
 "を除けば、ね。"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3007
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3028
 msgid "You seem agitated—"
 msgstr "少し落ち着いた方が良い—"
 
 #. [message]: speaker=memory!Elyssa
 #. 'Monster' here refers to Uria.
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3013
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3034
 msgid ""
 "Dealing with your personality issues was exasperating enough back then; I "
 "will <b>not</b> bear talking to you now that you have become a puppet of "
@@ -19193,17 +19205,17 @@ msgstr ""
 "怪物の操り人形になった人と話すことなんて<b>できない</b>。出て行って。"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3018
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3039
 msgid "El— Elyssa—"
 msgstr "El— Elyssa—"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3023
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3044
 msgid "GET OUT!"
 msgstr "<b>出て行って！</b>"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3044
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3065
 msgid ""
 "For long you have tried to purge your memories revolving around Argan’s "
 "descent into insanity and the eventual fulfillment of his end of the bargain "
@@ -19227,7 +19239,7 @@ msgstr ""
 "完全に支配できるようになるだろう。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3052
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3073
 msgid ""
 "You decide to proceed further into the ruined laboratory and try to "
 "reminisce on better times."
@@ -19236,19 +19248,19 @@ msgstr ""
 "した。"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3060
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3081
 msgid ""
 "Proceed further into the ruined laboratory and try to reminisce on better "
 "times"
 msgstr "研究所の廃墟の奥へ進み、幸せな昔のことを思い出す"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3082
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3103
 msgid "Operating Room"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3083
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3104
 msgid ""
 "FACILITY CONDEMNED\n"
 "\n"
@@ -19256,7 +19268,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3114
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3135
 msgid ""
 "Some of the hive creatures have adopted these ruins as their home. You do "
 "not really mind them since they are completely harmless around those whom "
@@ -19276,19 +19288,19 @@ msgstr ""
 "れとは全く別の問題だ。"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3137
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3158
 msgid "Elyssa... There is something I need to know."
 msgstr "Elyssa… 聞いておかねばならないことがある。"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3146
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3167
 msgid ""
 "I thought I told you to go away. I am not interested in helping you anymore."
 msgstr ""
 "出て行って、って言ったはずだけど。あなたをこれ以上手伝ったりしたくはないわ。"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3151
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3172
 msgid ""
 "I <i>need</i> your help. Please... You are the only one I could ever trust "
 "who can use the powers of Darkness to block the Seer’s vision. I <i>need</i> "
@@ -19299,7 +19311,7 @@ msgstr ""
 "i>—"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3156
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3177
 msgid ""
 "Why did you not try to find her before surrendering your free will to Uria? "
 "If you truly loved the Lady of Light, the first thing you should have done "
@@ -19309,7 +19321,7 @@ msgstr ""
 "淑女を愛しているのなら、初めにしなくちゃいけなかったのは—"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3161
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3182
 msgid ""
 "I already told you... I did not choose to be stranded on Urvatha for so "
 "long. Uria does not want me to find Elynia yet. I am worried that her plans "
@@ -19320,25 +19332,25 @@ msgstr ""
 "のではないかと危惧している。そこで、私のためにもやって欲しいことがある…"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3166
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3187
 msgid "If you find Elynia, you must kill her."
 msgstr "Elyniaを見つけたら、お前は彼女を殺さねばならない。"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3183
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3204
 msgid "... Why?"
 msgstr "…どうして？"
 
 #. [message]: speaker=Argan
 #. The 'voice' Argan refers to is a female voice.
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3189
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3210
 msgid ""
 "Because it is something you must do. That is what I was told by the voice..."
 msgstr ""
 "なぜなら、それはお前がやらねばならないことだからだ。あの声は私にそう告げた…"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3194
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3215
 msgid ""
 "You... You are in even worse shape than I thought. I simply cannot fathom "
 "what is going through Uria’s mind as of late. Why would she trust <i>you</i> "
@@ -19349,7 +19361,7 @@ msgstr ""
 "に帝国の指揮権を与えて、<i>あなたを</i>信用しているの？"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3199
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3220
 msgid ""
 "No. Listen. You can consult with the Seer later — I am sure she knows of the "
 "voice as well, but she has always refused to speak with me. I have a "
@@ -19360,18 +19372,18 @@ msgstr ""
 "なのか心当たりがあるのだ…"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3204
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3225
 msgid "Does Uria need to know?"
 msgstr "それはUriaが知る必要があること？"
 
 #. [message]: speaker=memory!Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3214
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3235
 msgid ""
 "Very well, then. I hope the Seer will not inform her about this, though."
 msgstr "そういうこと、それならわかったわ。星読みが彼女に伝えないといいけど。"
 
 #. [message]: speaker=Argan
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3219
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3240
 msgid ""
 "I do not think she has found out about your search yet, has she? You know "
 "the Seer is as much your ally as she is Uria’s — she does not take sides. "
@@ -19386,7 +19398,7 @@ msgstr ""
 "借りる必要もない。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3231
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3252
 msgid ""
 "Many years later, Argan’s orders would take a turn for the worse, and you "
 "would happily comply with every single one. You do not really regret it in "
@@ -19412,12 +19424,12 @@ msgstr ""
 "そして本物の「魂を喰らう者」のように人々の精神を破壊ができて、そして…"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3264
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3285
 msgid "Proceed into the ruined room"
 msgstr "廃墟の部屋へ侵入する"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3289
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3310
 msgid ""
 "This is where Argan brought you back to life — or what remains of the place, "
 "in any case. You really threw a tantrum that night, blinded by the great "
@@ -19440,7 +19452,7 @@ msgstr ""
 "ちたい、そう感じる時はいつでも。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3297
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3318
 #, fuzzy
 msgid ""
 "The costs and risks of being a predestined guardian have not been properly "
@@ -19479,7 +19491,7 @@ msgstr ""
 "だった。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3307
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3328
 msgid ""
 "If the once Lady of Light had not killed him, Argan would be proud to see "
 "you execute his plans like clockwork.\n"
@@ -19516,7 +19528,7 @@ msgstr ""
 "い続けるだろう。たとえ彼が完全に消え去ってしまった今も、それは変わらない。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3348
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3369
 msgid ""
 "It feels as though you have been wasting your time with this pointless "
 "introspective for months, even though it has obviously been just an hour. "
@@ -19530,12 +19542,12 @@ msgstr ""
 "敵を殺すだけで良かったら、どれだけ気楽だっただろうか。"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3354
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3375
 msgid "Proceed into Elyssa’s cell"
 msgstr "Elyssaの部屋へ入る"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3376
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3397
 msgid ""
 "SUBJECT 00-44A CONTAINMENT CHAMBER\n"
 "\n"
@@ -19543,14 +19555,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3395
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3416
 msgid ""
 "The chest is empty. It has been decades since the last time anyone used it "
 "to deliver parcels to you."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3415
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3436
 #, fuzzy
 msgid ""
 "Kendyare is still here as you left her.\n"
@@ -19572,7 +19584,7 @@ msgstr ""
 "うしても。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3423
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3444
 msgid ""
 "You have not really spent as much time in this cell as you would if you were "
 "an ordinary creature. Thankfully, your body allows you to spend an "
@@ -19589,7 +19601,7 @@ msgstr ""
 "夢を見られるように、と願っていたが、事は悪化の一途をたどっていた。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3435
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3456
 #, fuzzy
 msgid ""
 "You think it is finally time to go and put those plans in motion. You glance "
@@ -19600,12 +19612,12 @@ msgstr ""
 "の部屋を一瞥した。この光景を忘れないようにするため。"
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3445
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3466
 msgid "Find the touchplate leading to the final room"
 msgstr "最後の部屋を開けるタッチプレートを探す"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3467
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3488
 msgid ""
 "Kendyare's ward against necromantic spells. Very useful against mundane "
 "enemy necromancers, absolutely useless against magic on lease from a "
@@ -19613,7 +19625,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3484
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3505
 msgid ""
 "This broken slab of rock used to be your bed. Last time you slept on it you "
 "had a little accident due to your nightmares. It did not make for the most "
@@ -19629,21 +19641,21 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3501
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3554
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3522
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3575
 #, fuzzy
 msgid "Your makeshift bed table. There is nothing remarkable about it."
 msgstr "ただの古い木箱だ。価値があるものは何も入ってない。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3518
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3539
 msgid ""
 "Just trash that has been lying around for ages. You are not going to touch "
 "it — who knows what kind of creatures have decided to make it their home."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3535
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3556
 msgid ""
 "Kendyare seems much brighter now than she did in life.\n"
 "\n"
@@ -19656,7 +19668,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3569
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3590
 msgid ""
 "This is an old poetry book you found amongst some ruins unearthed in the "
 "Silver Lands. You used to dedicate your life to collecting every single "
@@ -19671,12 +19683,12 @@ msgstr ""
 "なたの計画に一片たりとも役に立たない。しかし…この本はまだここにある。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3587
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3608
 msgid "Do you want to pick the book up?"
 msgstr "この本を拾うか？"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3600
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3621
 msgid ""
 "You take the book. A few loose pages slide onto the floor, and you pick them "
 "up."
@@ -19685,7 +19697,7 @@ msgstr ""
 "げた。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3610
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3631
 msgid ""
 "Of course. These are the pages you took from Argan’s journal some time after "
 "he became irreversibly incoherent."
@@ -19694,7 +19706,7 @@ msgstr ""
 "のつかないほどにおかしくなったしばらく後に。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3638
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3659
 msgid ""
 "Once you enter that room, there will be no going back.\n"
 "\n"
@@ -19705,12 +19717,12 @@ msgstr ""
 "それでも先へ進むか？"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3689
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3710
 msgid "This is all your fault, Argan."
 msgstr "全部あなたのせいよ、Argan。"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3698
+#: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3719
 msgid "I shouldn’t be the one to deal with this..."
 msgstr "これをするのは本当は私じゃなかったはずなのに…"
 
@@ -21862,12 +21874,12 @@ msgid "You cannot carry more than one barrel at once!"
 msgstr "あなたは一度に二個以上のタルを抱えられない！"
 
 #. [message]: race=human,orc,wolf,goblin,faerie,elf
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1617
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1621
 msgid "Fire in the hole!"
 msgstr "爆発するぞ！"
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1765
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1782
 msgid ""
 "Blast it, we have wasted our explosives on the battlefield instead of saving "
 "them for the main keep! We can’t continue like this — retreat!"
@@ -21876,19 +21888,19 @@ msgstr ""
 "退！"
 
 #. [message]: speaker=General Bardyl
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1947
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:1964
 msgid ""
 "Destroy that enormous monster before it gets a chance to rain its fire upon "
 "our troops!"
 msgstr "そのでかいのが俺達に炎の雨を降らせる前にしとめるんだ！"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2197
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2214
 msgid "But... how?"
 msgstr "これは…どういうことだ？"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2202
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2219
 msgid ""
 "Shapeshifters. They are somewhat different to other demons in that the more "
 "mature individuals are much harder to kill without arcane magic than the "
@@ -21900,17 +21912,17 @@ msgstr ""
 "たって言われてたのに。デーモンの貴族の誰かが奴隷として確保してたのかも。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2207
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2224
 msgid "How do you know that?"
 msgstr "どこでそれを知ったの？"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2212
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2229
 msgid "Well, Elorran did tell me a lot of things about them..."
 msgstr "えっと。Elorranはたくさんのことを教えてくれたから…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2221
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2238
 msgid ""
 "(<i>muttering to herself, aside</i>) ... mainly because I am one of them."
 msgstr ""
@@ -21918,37 +21930,37 @@ msgstr ""
 "の。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2240
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2257
 msgid "Finally, that thing was a real nuisance."
 msgstr "やっと終わりね、本当に迷惑な奴だったわ。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2253
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2270
 msgid "Are you leaving now, Elynia?"
 msgstr "もう行くのか、Elynia？"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2258
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2275
 msgid "Well..."
 msgstr "そうね…"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2260
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2277
 msgid "Yes, I think it is the right time."
 msgstr "そうね、そうしましょう。"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2264
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2281
 msgid "All right, then."
 msgstr "じゃあ行こう。"
 
 #. [option]
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2271
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2288
 msgid "No. Our allies still need our help."
 msgstr "まだ。友軍が私達の助けを必要としてるわ。"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2275
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2292
 msgid ""
 "As much as I dislike General Bardyl and his people, we wouldn’t have "
 "achieved this victory without them. I think it’s best to assist them until "
@@ -21960,12 +21972,12 @@ msgstr ""
 "に、ポータルについては留意しておきましょう。"
 
 #. [set_menu_item]: id=wmi_leave_battle
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2280
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2297
 msgid "Leave Battle"
 msgstr "戦場を離れる"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2320
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2337
 msgid ""
 "If you change your mind later, you can choose the <b>Leave Battle</b> option "
 "in the context menu by right-clicking on any unit or vacant hex."
@@ -21974,19 +21986,19 @@ msgstr ""
 "<b>戦場を離れる</b>を選ぶこともできます。"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2331
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2348
 msgid "Do you really wish to leave the battle?"
 msgstr "本当に戦場を離れますか？"
 
 #. [message]
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2403
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2420
 msgid ""
 "Call more reinforcements! We can’t afford to lose control of this region to "
 "these wretches!"
 msgstr "援軍を呼べ！この雑魚共にこの地域の支配権を渡す余裕はないんだぞ！"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2424
+#: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2441
 msgid "Let us find that portal."
 msgstr "ポータルを探しましょう。"
 
@@ -25558,9 +25570,10 @@ msgstr ""
 
 #. [event]
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:952
+#, fuzzy
 msgid ""
-"The energy that should have destroyed you was released from the <i>second</"
-"i> replica of her heart, and various experimental units stored in the same "
+"The energy that should have destroyed you was released from the <b>second</"
+"b> replica of her heart, and various experimental units stored in the same "
 "place. The third one still exists within our infiltrator, imbuing her with "
 "Yechnagoth’s grace and might — which is why your power is no match for hers."
 msgstr ""
