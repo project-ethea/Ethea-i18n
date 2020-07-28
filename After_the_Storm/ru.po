@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-07-28 14:02 UTC\n"
-"PO-Revision-Date: 2020-07-28 16:16+0300\n"
+"PO-Revision-Date: 2020-07-28 17:38+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -28762,9 +28762,8 @@ msgstr "Это — дерево бойцов для кампании “Посл
 
 #. [terrain_type]: id=blood_ford
 #: After_the_Storm/terrain.cfg:20
-#, fuzzy
 msgid "Blood Ford"
-msgstr "Кровавое ядро"
+msgstr "Кровавый брод"
 
 #. [terrain_type]: id=dry_grassland_elven_castle
 #: After_the_Storm/terrain.cfg:34
