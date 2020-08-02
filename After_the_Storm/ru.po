@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-08 04:50 UTC\n"
-"PO-Revision-Date: 2020-07-29 23:17+0300\n"
+"PO-Revision-Date: 2020-07-30 00:15+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -10667,7 +10667,7 @@ msgstr "У меня так много вопросов…"
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:657
 msgid "Xia’el does not have answers for you anymore, sadly."
-msgstr ""
+msgstr "Увы, у Ксиаэль больше нет для тебя ответов."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:667
@@ -10701,12 +10701,12 @@ msgstr ""
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:687
 msgid "(<i>sighs</i>) I understand. And... I’m sorry for my outburst."
-msgstr ""
+msgstr "(<i>вздыхает</i>) Понимаю. И… простите за мою выходку."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:692
 msgid "So, let us pick up from where we left last time..."
-msgstr ""
+msgstr "Итак, продолжим с того места, где остановились…"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:697
@@ -10922,7 +10922,7 @@ msgstr "Стена отодвигается."
 #. [event]
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:1015
 msgid "Find another access way to the breach site"
-msgstr ""
+msgstr "Найдите иной способ добраться до места разрыва"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:1025
@@ -10994,6 +10994,9 @@ msgid ""
 "\n"
 "This is absolutely pointless."
 msgstr ""
+"Ничего.\n"
+"\n"
+"В этом нет ни капли смысла."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:1155
@@ -11171,7 +11174,7 @@ msgstr "<i>... я нуждаюсь в тебе...</i>"
 msgid ""
 "You feel as though a certain other Guardian of Darkness may have missed "
 "something..."
-msgstr ""
+msgstr "Вы чувствуете, будто какой-то другой Страж Тьмы мог что-то упустить…"
 
 #. [scenario]: id=00_Opening
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:5
@@ -11184,6 +11187,8 @@ msgid ""
 "My lady, you have finally returned! I was concerned for you, since you left "
 "without notice! What do you have there?"
 msgstr ""
+"Госпожа, наконец Вы вернулись! Я волновалась за Вашу жизнь с тех пор, как Вы "
+"покинули нас и никому ничего не сказали! Что это тут у Вас?"
 
 #. [message]: speaker=Mal Kendria
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:125
@@ -11191,6 +11196,8 @@ msgid ""
 "The Ruby of Fire! You retrieved it, my lady! Was the faerie elf already "
 "dead, or did you kill her yourself?"
 msgstr ""
+"Рубин Огня! Вы добыли его, госпожа! Файери была уже мертва, или Вы сами "
+"прикончили её?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:154
@@ -11198,6 +11205,8 @@ msgid ""
 "She destroyed Hekuba for us first in the elves’ valley. Naturally, she paid "
 "the price."
 msgstr ""
+"Сперва она избавила нас от Хекубы в долине эльфов. Естественно, она за это "
+"поплатилась."
 
 #. [message]: speaker=Mal Kendria
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:159
@@ -11207,7 +11216,7 @@ msgstr "Так они уничтожили друг друга? Прелестн
 #. [message]: speaker=Mal Kendria
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:170
 msgid "So, what are we going to do now?"
-msgstr ""
+msgstr "Итак, что мы собираемся делать теперь?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:175
@@ -11221,11 +11230,14 @@ msgid ""
 "Glamdrol. Should you require his immediate presence here with us, I can "
 "summon him—"
 msgstr ""
+"Мне кажется, он занят сражением с остатками союзных войск около залива "
+"Гламдрола. Если Вам потребуется его немедленное присутствие здесь, с нами, я "
+"могу его призвать—"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:185
 msgid "That shall not be necessary. Not anymore."
-msgstr ""
+msgstr "Этого не потребуется. Уже нет."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:195
@@ -11234,6 +11246,10 @@ msgid ""
 "staff she holds changes its shape into a four-bladed weapon with the "
 "glowing, unshielded Ruby at its very end. The necromancer stares in awe..."
 msgstr ""
+"В то время, как Элисса произносит заклинание, неслыханное доселе Мал "
+"Кендрией, посох в её руке медленно преобразовывается в оружие с четырьмя "
+"лезвиями и светящимся, оголённым Рубином на самом конце. Некромантка смотрит "
+"с восхищением…"
 
 #. [message]: speaker=Mal Kendria
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:231
@@ -11247,12 +11263,17 @@ msgid ""
 "aura engulfs both former allies as the demoness advances towards the "
 "necromancer, now petrified with dread."
 msgstr ""
+"Но чувство сразу же исчезло, как только глаза Элиссы налились кроваво-"
+"красным светом. Зловещая аура начала всё сильнее обволакивать бывших "
+"союзников с каждым шагом демонессы к некромантке, теперь уже окаменевшей от "
+"страха."
 
+# я - поэт, зовусь Незнайка, от меня вам балалайка --kabachuha
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:274
 msgid ""
 "(<i>whispering</i>) Bind the soul to stone, turn the memories to dust..."
-msgstr ""
+msgstr "(<i>шёпотом</i>) Душу пусть поглотит камень, обращайтесь мысли в пыль…"
 
 #. [message]: speaker=Mal Kendria
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:291
@@ -11263,11 +11284,12 @@ msgstr "Г-г-госпожа…"
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:300
 msgid "(<i>whispering</i>) ... erase the spirit and shed the hollow shell."
 msgstr ""
+"(<i>шёпотом</i>) … дух сотрёт пусть адов пламень, и останется лишь гниль!"
 
 #. [message]: speaker=Mal Kendria
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:309
 msgid "... Elyssa... <small>I feel... <small>unwell...</small></small>"
-msgstr ""
+msgstr "... Элисса... <small>Мне... <small>нехорошо...</small></small>"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:314
@@ -11278,7 +11300,7 @@ msgstr "Прощай, Кендяра."
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:328
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2087
 msgid "bind soul"
-msgstr ""
+msgstr "душа поглощена"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:409
