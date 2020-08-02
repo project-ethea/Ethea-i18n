@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fr_0.6.71\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-09 10:43 UTC\n"
+"POT-Creation-Date: 2020-08-02 12:15 UTC\n"
 "PO-Revision-Date: 2018-08-10 20:50+0100\n"
 "Last-Translator: \n"
 "Language-Team: french\n"
@@ -280,7 +280,7 @@ msgid "Giant Ant"
 msgstr "Fourmi géante"
 
 #. [unit_type]: id=Giant Ant, race=monster
-#: Naia/units/monsters/Giant_Ant.cfg:19
+#: Naia/units/monsters/Giant_Ant.cfg:20
 msgid ""
 "Ants are common in almost any environment, from caverns deep under the earth "
 "to the tops of tall mountains. Those that live deep underground tend to grow "
@@ -340,7 +340,8 @@ msgstr "sabre-laser"
 #. [attack]: type=impact
 #: Naia/units/shaxthal/Fighter_Stormblade.cfg:42
 #: Naia/units/shaxthal/Drone_Protector.cfg:44
-#: Naia/units/shaxthal/Drone_Enforcer.cfg:57 Naia/units/shaxthal/Drone.cfg:56
+#: Naia/units/shaxthal/Drone_Enforcer.cfg:57
+#: Naia/units/shaxthal/Drone_Crude.cfg:56
 #: Naia/units/shaxthal/Drone_Runner.cfg:42
 #: Naia/units/shaxthal/Drone_Assault.cfg:44
 #: Naia/units/shaxthal/Drone_Sentry.cfg:54
@@ -468,38 +469,6 @@ msgstr ""
 "les drones sentinelles habitent au plus profond des ruches Shaxthal, "
 "protégeant leurs progénitures et leur territoire."
 
-#. [unit_type]: id=Shaxthal Drone, race=shaxthal
-#: Naia/units/shaxthal/Drone.cfg:5
-msgid "Drone"
-msgstr "Drone"
-
-#. [unit_type]: id=Shaxthal Drone, race=shaxthal
-#: Naia/units/shaxthal/Drone.cfg:26
-msgid ""
-"Unnatural. Bloodcurdling. Abominations. Of the many words used to describe "
-"the mechanical creatures known as the Shaxthals, these are the most often "
-"heard. Amongst their many legions, the lowly Drone is by far the most "
-"common, yet even it can tear down an enemy in an instant. A menacing hiss "
-"echoing through the gloom is enough to herald approaching death, either by "
-"the powerful blasts of energy they unleash from their maws or the Chaos "
-"legions never far behind.\n"
-"\n"
-"But among the few accounts that remain of the Shaxthals’ conquests, the most "
-"terrifying detail floating creatures of metal, the light glinting off a "
-"demonic, unwavering grin as they dispense death from above."
-msgstr ""
-"Surnaturelles. Assoiffés de sang. Abominations. Des nombreux mots utilisés "
-"pour qualifier les mécaniques connues sous le nom de Shaxthals, ce sont les "
-"plus souvent entendus. Parmi leurs nombreuses légions, les Drones inférieurs "
-"sont les plus communs, et encore ils peuvent tuer un ennemi en un instant. "
-"Un sifflement menaçant est suffisant pour avertir d'une mort imminente, soit "
-"par les puissantes explosions énergétiques qu'ils libèrent par leur mâchoire "
-"ou par les légions du Chaos qui ne sont jamais loin derrière.\n"
-"\n"
-"Mais d'après le peu de survivants des conquêtes shaxthals, le détail le plus "
-"terrifiant sur ces créatures de métal flottantes concerne cette lumière "
-"démoniaque accompagnant le sourire qu'ils arborent en dispensant la mort. "
-
 #. [unit_type]: id=Shaxthal War Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_War.cfg:7
 msgid "War Drone"
@@ -533,6 +502,38 @@ msgstr "lames de guerre"
 #: Naia/units/shaxthal/Drone_War.cfg:52
 msgid "energy burst"
 msgstr "attaque d'énergie."
+
+#. [unit_type]: id=Shaxthal Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Crude.cfg:5
+msgid "Drone"
+msgstr "Drone"
+
+#. [unit_type]: id=Shaxthal Drone, race=shaxthal
+#: Naia/units/shaxthal/Drone_Crude.cfg:26
+msgid ""
+"Unnatural. Bloodcurdling. Abominations. Of the many words used to describe "
+"the mechanical creatures known as the Shaxthals, these are the most often "
+"heard. Amongst their many legions, the lowly Drone is by far the most "
+"common, yet even it can tear down an enemy in an instant. A menacing hiss "
+"echoing through the gloom is enough to herald approaching death, either by "
+"the powerful blasts of energy they unleash from their maws or the Chaos "
+"legions never far behind.\n"
+"\n"
+"But among the few accounts that remain of the Shaxthals’ conquests, the most "
+"terrifying detail floating creatures of metal, the light glinting off a "
+"demonic, unwavering grin as they dispense death from above."
+msgstr ""
+"Surnaturelles. Assoiffés de sang. Abominations. Des nombreux mots utilisés "
+"pour qualifier les mécaniques connues sous le nom de Shaxthals, ce sont les "
+"plus souvent entendus. Parmi leurs nombreuses légions, les Drones inférieurs "
+"sont les plus communs, et encore ils peuvent tuer un ennemi en un instant. "
+"Un sifflement menaçant est suffisant pour avertir d'une mort imminente, soit "
+"par les puissantes explosions énergétiques qu'ils libèrent par leur mâchoire "
+"ou par les légions du Chaos qui ne sont jamais loin derrière.\n"
+"\n"
+"Mais d'après le peu de survivants des conquêtes shaxthals, le détail le plus "
+"terrifiant sur ces créatures de métal flottantes concerne cette lumière "
+"démoniaque accompagnant le sourire qu'ils arborent en dispensant la mort. "
 
 #. [unit_type]: id=Shaxthal Runner Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_Runner.cfg:5
@@ -2756,38 +2757,40 @@ msgstr ""
 "habituellement à compenser."
 
 #: Naia/units/demons.cfg:14
+#, fuzzy
 msgid ""
 "Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
 "Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,"
-"Andrealphus,Andromalius,Antares,Apep,Arael,Araqiel,Arioch,Arkanthor,Armaros,"
-"Asael,Asag,Asb'el,Ash,Asmodeus,Astaroth,Azazel,Baal,Baalberith,Balam,"
-"Balberith,Babeal,Baphomet,Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,"
-"Beelzebub,Behamoth,Behemoth,Beleth,Belial,Beliel,Belphegore,Belthazor,"
-"Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Calan,"
-"Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Chazaqiel,Chul,Corson,"
-"Daalberith,Dagon,Daniel,Dantalion,Decarabia,Deimos,Delchor,Demogorgon,Devan,"
-"Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,Espro,Espreon,Eurynomous,"
-"Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,Furfur,Gaap,"
-"Gader'el,Glasya-Labolas,Gusion,Gwiti,Haagenti,Hal,Hade,Hades,Humbaba,"
-"Hyperion,Iblis,Idoru,Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,"
-"Jutas,Juvart,Kabhanda,Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,"
-"Kimaris,Kobal,Kokabiel,Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,"
-"Lenthar,Lenvan,Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,"
-"Lucifuge Rofocale,Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,"
-"Marchocias,Maricha,Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,"
-"Merihim,Merloc,Moloch,Morax,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,"
-"Nati,Nebiros,Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,"
-"Optimus,Orcus,Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,"
-"Phlegathon,Phenex,Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,"
-"Pytho,Python,Pythos,Rahab,Rahovart,Ramiel,Raum,Ravanal,Raven,Razakel,Regent,"
-"Regulus,Rimmon,Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,"
-"Samigina,Samyaza,Santa,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,"
-"Sephit,Shaitan,Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,"
-"Sorum,Soufflet,Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Taurus,"
-"Teeraal,Temeluchus,Thammuz,Theracar,Thor,Thorin,Thurin,Triel,Troy,Turiel,"
-"Turin,Turon,Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,Verrine,Vine,"
-"Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Yuki,"
-"Zagan,Zama,Zaqiel,Zepar,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
+"Andrealphus,Andromalius,Antares,Apep,Arael,Araqiel,Ares,Ariel,Arioch,"
+"Arkanthor,Armaros,Asael,Asag,Asb'el,Ash,Asmodeus,Astaroth,Azariel,Azazel,"
+"Baal,Baalberith,Balam,Balberith,Babeal,Baphomet,Baraqel,Barbas,Barbatos,"
+"Batariel,Bathin,Beball,Beelzebub,Behamoth,Behemoth,Beleth,Belial,Beliel,"
+"Belphegore,Belthazor,Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,Botis,"
+"Buer,Bune,Caim,Calan,Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Charon,"
+"Chazaqiel,Chul,Corson,Cronos,Daalberith,Dagon,Daniel,Dantalion,Decarabia,"
+"Deimos,Delchor,Demogorgon,Devan,Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,"
+"Espro,Espreon,Eurynomous,Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,"
+"Forneus,Furcas,Furfur,Gaap,Gader'el,Glasya-Labolas,Goliath,Gusion,Gwiti,"
+"Haagenti,Hal,Hade,Hades,Helios,Hephaestus,Humbaba,Hyperion,Iblis,Idoru,Ivan,"
+"Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,Jutas,Juvart,Kabhanda,Kain,"
+"Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,Kimaris,Kobal,Kokabiel,Kokytos,"
+"Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,Lenthar,Lenvan,Leonard,"
+"Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,Lucifuge Rofocale,Maeglhir,"
+"Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,Marchocias,Maricha,Mastema,"
+"Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,Merihim,Merloc,Moloch,Morax,"
+"Mu,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,Nati,Nebiros,Neqa'el,"
+"Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,Orcus,Orias,"
+"Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,Phobos,"
+"Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,Pythos,Rahab,"
+"Rahovart,Ramiel,Raum,Ravanal,Raven,Razakel,Regent,Regulus,Rimmon,Rhotomago,"
+"Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,Samyaza,Santa,"
+"Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,Shamsiel,Shax,"
+"Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,Sorum,Soufflet,Spar,Stolas,"
+"Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Tartaros,Taurus,Teeraal,Temeluchus,"
+"Thammuz,Theracar,Thor,Thorin,Thurin,Tityos,Triel,Troy,Turiel,Turin,Turon,"
+"Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,Verrine,Vine,Vual,Xan,"
+"Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Yuki,Zagan,Zama,"
+"Zaqiel,Zepar,Zephyros,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
 msgstr ""
 "Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
 "Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,"
@@ -2822,27 +2825,31 @@ msgstr ""
 "Zagan,Zama,Zaqiel,Zepar,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
 
 #: Naia/units/demons.cfg:15
+#, fuzzy
 msgid ""
-"Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Alie,Aly,Alya,Ammit,Amy,Ania,Analia,"
-"Anadea,Anadya,Anna,Ariel,Ashtaroth,Astarte,Astoreth,Azura,Bellatrix,Beryla,"
-"Bruxe,Charis,Charybdis,Charon,Charusse,Chi,Chia,Dana,Dane,Dara,Darma,Dela,"
-"Delepitore,Delirya,Deluna,Demona,Deth,Devila,Devira,Devyan,Drama,Dul,Duna,"
-"Eisheth Zenunil,Elandra,Elenia,Elestria,Eloh,Elyna,Elynea,Elynia,Elyra,"
-"Elyria,Elyssa,Elyza,Empusa,Enea,Eryssa,Ethea,Euryale,Evila,Evira,Fae,Faira,"
-"Fania,Faria,Gaia,Gremory,Gresil,Hecate,Ira,Irda,Irdya,Irene,Iridya,Iril,"
-"Iruel,Isa,Issyl,Ivana,Ivyel,Izara,Jarla,Jevyan,Juno,Kaia,Kalah,Kalari,Kaleh,"
-"Kali,Kana,Karma,Kazen,Kendria,Kia,Kindite,Kuna,Kyrah,Lamashtu,Lamia,Lara,"
-"Leliel,Leviathan,Lilia,Lilim,Lilin,Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,"
-"Lucile,Luna,Lyda,Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,"
-"Midara,Mir,Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Naamah,Nadia,Naia,Nala,"
-"Nara,Narya,Nebula,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,Nora,Norma,"
-"Nyada,Nystra,Nyxa,Onoskelis,Pia,Prosperpine,Rangda,Rusalka,Sabata,Satana,"
-"Sela,Shar,Share,Sharael,Sheol,Selene,Shia,Sonnielion,Stheno,Sul,Summa,Sunna,"
-"Sycorax,Syl,Sylestria,Sylin,Sylith,Symia,Syn,Synara,Synestria,Tada,Talah,"
-"Talam,Taweret,Thanadria,Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,"
-"Tzitzimime,Uma,Umbria,Unarya,Unia,Unsere,Uzza,Vena,Verna,Verrier,Vepar,"
-"Vulpecula,Xandar,Xana,Xandria,Xeth,Xia,Xindra,Xindar,Yuki,Yun,Yuna,Yuni,Zana,"
-"Zephyr,Zhul,Zidya,Zilla,Zuna,Zynara,Zythara"
+"Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Aisa,Alie,Aly,Alya,Ammit,Amy,Ania,"
+"Analia,Anadea,Anadya,Angelia,Anna,Areza,Ariadne,Artien,Ashtaroth,Astarte,"
+"Astoreth,Atropos,Azura,Bellatrix,Beryla,Bruxe,Calliope,Charis,Charybdis,"
+"Charusse,Chi,Chia,Dana,Dane,Dara,Darma,Decima,Dela,Delepitore,Delirya,Deluna,"
+"Demona,Deth,Devila,Devira,Devyan,Dione,Drama,Dul,Duna,Eidyia,Eisheth Zenunil,"
+"Elandra,Electra,Elenia,Elestria,Eloh,Elyna,Elynea,Elynia,Elyra,Elyria,Elyssa,"
+"Elyza,Empusa,Enea,Eos,Eris,Eryssa,Ethea,Euryale,Evila,Evira,Fae,Faira,Fania,"
+"Faria,Fine,Gaia,Gremory,Gresil,Hecate,Hemera,Ira,Irda,Irdya,Irene,Iridya,"
+"Iril,Iris,Iruel,Isa,Issyl,Ivana,Ivyel,Izara,Jarla,Jevyan,Juno,Kaia,Kalah,"
+"Kalari,Kaleh,Kali,Kana,Karma,Karyna,Kazen,Kendria,Kia,Kindite,Kuna,Kyrah,"
+"Lachesis,Lailah,Lamashtu,Lamia,Lara,Leliel,Lethe,Leviathan,Lilia,Lilim,Lilin,"
+"Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,Lucile,Lucina,Lucine,Luna,Lyda,"
+"Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,Midara,Mintha,Mir,"
+"Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Myriam,Naamah,Nadia,Naia,Nala,Nara,"
+"Narya,Nebula,Nemesis,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,Nona,Nora,"
+"Norma,Nyada,Nystra,Nyx,Nyxa,Onoskelis,Pia,Proserpine,Rangda,Rhea,Rusalka,"
+"Sabata,Satana,Sela,Shar,Share,Sharael,Sheol,Selene,Shia,Sonnielion,Stheno,"
+"Styx,Sul,Summa,Sunna,Sycorax,Syl,Sylestria,Sylin,Sylith,Symia,Syn,Synara,"
+"Synestria,Tada,Talah,Talam,Taweret,Thanadria,Thanavryen,Thea,Thia,Thiana,"
+"Thiara,Tial,Tora,Tundra,Turen,Tzitzimime,Uma,Umbria,Unarya,Unia,Unsere,"
+"Urania,Uzza,Vena,Verna,Verrier,Vepar,Vulpecula,Xandar,Xana,Xandria,Xeth,Xia,"
+"Xindra,Xindar,Yuki,Yumi,Yun,Yuna,Yuni,Zana,Zhul,Zidya,Zilla,Zoe,Zoya,Zuna,"
+"Zynara,Zythara"
 msgstr ""
 "Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Alie,Aly,Alya,Ammit,Amy,Ania,Analia,"
 "Anadea,Anadya,Anna,Ariel,Ashtaroth,Astarte,Astoreth,Azura,Bellatrix,Beryla,"
@@ -3103,14 +3110,36 @@ msgstr ""
 "feront 15 % de dégâts en moins, et encore 15 % de moins pour chaque niveau "
 "d'écart entre eux et elle."
 
+#. [hides]: id=burrow
+#: Naia/macros/abilities.cfg:135
+msgid "burrow"
+msgstr ""
+
+#. [hides]: id=burrow
+#: Naia/macros/abilities.cfg:136
+#, fuzzy
+msgid "female^burrow"
+msgstr "en armure"
+
+#. [hides]: id=burrow
+#: Naia/macros/abilities.cfg:137
+msgid ""
+"If somehow forced to move into cave or stone walls, this unit can hide "
+"inside them and deal 50% more damage on defense.\n"
+"\n"
+"Enemy units cannot see this unit while it is inside walls, except if they "
+"have units next to it. Any enemy unit that first discovers this unit "
+"immediately loses all its remaining movement."
+msgstr ""
+
 #. [heals]: id=sylvan_essence_healing_and_curing
 #. [illuminates]: id=sylvan_essence_illum
-#: Naia/macros/abilities.cfg:142 Naia/macros/abilities.cfg:179
+#: Naia/macros/abilities.cfg:174 Naia/macros/abilities.cfg:211
 msgid "sylvan essence"
 msgstr "essence sylvaine"
 
 #. [heals]: id=sylvan_essence_healing_and_curing
-#: Naia/macros/abilities.cfg:143
+#: Naia/macros/abilities.cfg:175
 msgid ""
 "This unit can heal and cure friendly units on adjacent hexes every turn, to "
 "a base maximum of 8 HP. In vegetated terrains, it will conceal itself from "
@@ -3123,7 +3152,7 @@ msgstr ""
 "mais pas guérir du poison."
 
 #. [illuminates]: id=sylvan_essence_illum
-#: Naia/macros/abilities.cfg:180
+#: Naia/macros/abilities.cfg:212
 msgid ""
 "This unit illuminates the surrounding area, making lawful units fight "
 "better, and chaotic units fight worse. Any units adjacent to this unit will "
@@ -3156,18 +3185,18 @@ msgstr ""
 "tard."
 
 #. [message]: speaker=narrator
-#: Naia/macros/items.cfg:75
+#: Naia/macros/items.cfg:77
 msgid "Crystal Glyph"
 msgstr "Glyphe de cristal"
 
 #. [then]
 #. [else]
-#: Naia/macros/items.cfg:120 Naia/macros/items.cfg:129
+#: Naia/macros/items.cfg:122 Naia/macros/items.cfg:131
 msgid "Do you wish to be healed?"
 msgstr "Voulez-vous être soigné ?"
 
 #. [then]
-#: Naia/macros/items.cfg:122
+#: Naia/macros/items.cfg:124
 msgid ""
 "This magic glyph will completely restore this unit’s health. It will also "
 "unslow and cure it of poison, if applicable."
@@ -3176,39 +3205,39 @@ msgstr ""
 "poison et le ralentissement."
 
 #. [then]
-#: Naia/macros/items.cfg:125
+#: Naia/macros/items.cfg:127
 msgid "Note: this glyph may be used only once; afterwards, it will fade out."
 msgstr "Remarque : ce glyphe ne peut servir qu'une fois,après, il s'évanouira."
 
 #. [else]
-#: Naia/macros/items.cfg:132
+#: Naia/macros/items.cfg:134
 msgid "Note: this glyph may be used only once; afterwards it will fade out."
 msgstr ""
 "Remarque : ce glyphe ne peut servir qu'une fois; il s'évanouira après usage."
 
 #. [transient_message]
 #. [message]: speaker=narrator
-#: Naia/macros/items.cfg:187 Naia/macros/items.cfg:138
+#: Naia/macros/items.cfg:189 Naia/macros/items.cfg:140
 msgid "Crystal Glyph of Health"
 msgstr "Glyphe de soin en cristal"
 
 #. [unstore_unit]
-#: Naia/macros/items.cfg:175
+#: Naia/macros/items.cfg:177
 msgid "healed"
 msgstr "soigné"
 
 #. [unstore_unit]
-#: Naia/macros/items.cfg:176
+#: Naia/macros/items.cfg:178
 msgid "female^healed"
 msgstr "soignée"
 
 #. [transient_message]
-#: Naia/macros/items.cfg:189
+#: Naia/macros/items.cfg:191
 msgid "The unit is fully healed, cured and unslowed."
 msgstr "Cette unité est totalement remise."
 
 #. [message]: speaker=narrator
-#: Naia/macros/items.cfg:212
+#: Naia/macros/items.cfg:214
 msgid "Access granted."
 msgstr "Accès accordé."
 
@@ -3365,7 +3394,13 @@ msgstr ""
 " Cette unité peut effrayer l'ennemi adjacent, diminuant les dégâts qu'il "
 "provoque."
 
-#: Naia/macros/special-notes.cfg:33
+#: Naia/macros/special-notes.cfg:32
+msgid ""
+" This unit can hide in cave or stone walls to remain undetected by its "
+"enemies, as well as receive a 50% damage bonus on defense."
+msgstr ""
+
+#: Naia/macros/special-notes.cfg:36
 msgid ""
 " This unit cannot move to terrains other than water, castle and villages."
 msgstr ""
@@ -3593,7 +3628,7 @@ msgid "Fake Shroud"
 msgstr "Faux voile"
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:99
+#: Naia/loader.cfg:101
 msgid "Project Ethea"
 msgstr "projet Ethea"
 
