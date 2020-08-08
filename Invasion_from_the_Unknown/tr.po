@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-28 14:02 UTC\n"
+"POT-Creation-Date: 2020-08-08 04:50 UTC\n"
 "PO-Revision-Date: 2008-12-30 08:03+0200\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
@@ -144,8 +144,7 @@ msgstr "II. Perdeden devam"
 msgid "Quit Game"
 msgstr ""
 
-#. [lua]: wesnoth.theme_items.unit_status
-#: Invasion_from_the_Unknown/lua/theme.lua:17
+#: Invasion_from_the_Unknown/lua/theme.lua:11
 msgid "dehydrated: This unit is dehydrated."
 msgstr ""
 
@@ -171,8 +170,8 @@ msgstr "Kaos Tatar Yaycı"
 #: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:27
 #: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:63
 #: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:28
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:23
-#: Invasion_from_the_Unknown/scenarios/23By_Do_Us_Part_2.cfg:24
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:23
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:584
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:26
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:29
 msgid "team_name^Galas"
@@ -2213,7 +2212,7 @@ msgstr ""
 #. [side]
 #. [side]: type=Dead Shadow Master, id=Argan
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:53
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:37
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:37
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:49
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:176
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:297
@@ -2356,7 +2355,7 @@ msgstr ""
 #. [unit]: type=Master of Darkness, id=Argan
 #. [side]: type=Dead Shadow Master, id=Argan
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:701
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:46
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:46
 #, fuzzy
 msgid "Argan"
 msgstr "Turgan"
@@ -2718,7 +2717,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1492
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1529
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1659
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2000
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2001
 msgid "caption^Argan?"
 msgstr ""
 
@@ -2831,59 +2830,59 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1983
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1984
 msgid ""
 "Excuse me, did I miss anything? ... Oh! I guess you haven’t managed to "
 "strike down that pompous fool yet. Good, good."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1988
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1989
 msgid ""
 "Mal Keshar! Thank the Lords of Light — I thought I would never hear you "
 "speak again. Do you think you can still help us somehow?"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1993
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1994
 msgid ""
 "Help you? HA! Of course I can help you! It will take much more than some "
 "unfathomable ancient power to put me out of commission, boy."
 msgstr ""
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2001
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2002
 msgid "female^Put an end... to this... <b>NOW!</b>"
 msgstr ""
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2174
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2175
 msgid "Look out! Those creatures emerge from his body with each hit!"
 msgstr ""
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2190
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2191
 msgid "Energy... Yes... Feed me more energy..."
 msgstr ""
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2224
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2225
 msgid "No... Noooooo!!! My power... falters..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2245
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2246
 msgid "It’s— it’s tearing me apart—"
 msgstr ""
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2398
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2399
 #, fuzzy
 msgid "What just happened?"
 msgstr "Ne oldu?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2407
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2408
 #, fuzzy
 msgid "The prophecy... has been broken."
 msgstr "Kehanet artık gerçekleşmeyecek."
@@ -4150,29 +4149,29 @@ msgid "That bridge seems extremely unsafe."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1729
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1730
 msgid "At long last! Let us go, now."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1734
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1735
 #, fuzzy
 msgid "I have been waiting for this for too long."
 msgstr "Bunu uzun zamandır bekliyordum."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1739
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1740
 msgid "Wait, Galas, before continuing... only the two of us should enter."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1744
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1745
 #, fuzzy
 msgid "... Why?"
 msgstr "Efendim... neden?"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1749
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1750
 msgid ""
 "The regent lord of the elves is surely the only appropriate person to greet "
 "the Lady of Light and the Master of Darkness after such a long time, but "
@@ -4183,7 +4182,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1758
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1759
 msgid ""
 "I must say, I never expected such words from you, Anlindë. After so long, we "
 "are finally here, but not only thanks to you — we owe a great debt to Lady "
@@ -4192,30 +4191,30 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Unarye
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1764
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1765
 msgid ""
 "Me— meeting the Lady of Light in person? I would be greatly honored, my lord!"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1769
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1770
 msgid ""
 "Ah, so would I. Galas, you really are an example to follow for the other "
 "elves!"
 msgstr ""
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1774
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1775
 msgid "But I—"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1779
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1780
 msgid "You will allow them to come with us. This is an order, Anlindë."
 msgstr ""
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1788
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1789
 #, fuzzy
 msgid "... As you command, <i>my lord</i>."
 msgstr "Emredersin, komutanım"
@@ -8712,7 +8711,7 @@ msgstr "Ceğel"
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:418
 #: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:940
-#: Invasion_from_the_Unknown/scenarios/23By_Do_Us_Part_2.cfg:133
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:418
 msgid "Uh-oh."
 msgstr "Uh-oh."
 
@@ -12175,26 +12174,26 @@ msgstr ""
 msgid "Hm, fair enough, Althurin. We’ll gladly accept your help."
 msgstr ""
 
+#. [scenario]: id=23Bx_Do_Us_Part
 #. [scenario]: id=23Bx_Do_Us_Part_1
-#. [scenario]: id=23By_Do_Us_Part_2
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:5
-#: Invasion_from_the_Unknown/scenarios/23By_Do_Us_Part_2.cfg:5
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:5
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:566
 msgid "Do Us Part"
 msgstr ""
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:87
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:116
 msgid "Elynia..."
 msgstr "Elenya..."
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:106
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:140
 #, fuzzy
 msgid "... you betrayed... me..."
 msgstr "Elenya... bana ihanet... ettin..."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:111
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:145
 msgid ""
 "No, Argan. You are the one who betrayed me... me and the peoples of Irdya as "
 "well. The peoples we swore to defend until the end of time. You betrayed "
@@ -12202,33 +12201,33 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:116
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:150
 msgid ""
 "I did nothing but choose the right path for your sake. And this is how you "
 "repay me... Then again, I guess I had this coming ever since... then..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:121
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:155
 msgid ""
 "No, you never deserved any of this. If... None of this... none of this would "
 "have happened if I..."
 msgstr ""
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:129
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:163
 msgid "In the end... it is not your fault..."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:134
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:168
 msgid ""
 "You said that Uria turned you into this. What does she really want? What’s "
 "her goal in enslaving and desecrating Irdya?"
 msgstr ""
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:139
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:173
 msgid ""
 "Well... she will... she will avenge me... that is for sure. And now without "
 "the Union, you cannot— (<i>cough</i>) you cannot defeat... her... Even if "
@@ -12237,7 +12236,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:149
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:183
 msgid ""
 "Just as he said those words, Argan’s broken body suddenly convulsed, "
 "releasing a steaming mixture of blood and a thick yellow ooze from his mouth "
@@ -12247,14 +12246,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:157
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:191
 msgid ""
 "... And once Elynia moved closer within his grasp, he violently clenched at "
 "her arm. And with hurried breath, he asked:"
 msgstr ""
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:162
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:196
 msgid ""
 "Elynia... I beg of you... please forgive me. I allowed this to happen. I "
 "allowed her... to become who she is now... and control me... Promise me that "
@@ -12262,34 +12261,34 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:171
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:205
 msgid "Become... become what? Argan?"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:180
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:214
 msgid "Argan? What do you mean? What am I supposed to do? Argan?!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:185
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:219
 msgid ""
 "Argan! No, no, this can’t be happening, you can’t be doing this, I am trying "
 "to heal you, don’t you see? I..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:196
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:230
 msgid "Why don’t you say anything? Argan!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:205
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:239
 msgid "Mal Keshar, don’t you just stand there and watch, help me! Help him!"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:210
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:244
 msgid ""
 "There is nothing I can do. His spirit left us too quickly, and to pull him "
 "back into the physical realm after that... You do remember why that is the "
@@ -12297,8 +12296,37 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part_1.cfg:219
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:253
 msgid "At least he may finally rest now."
+msgstr ""
+
+#. [message]: speaker=Lédinor
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:357
+msgid ""
+"Argan’s journal — it was hidden beneath his robes. Elynia, my lady, if you "
+"allow me to speak my opinion: we should keep it, it may contain information "
+"that could prove useful later."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:366
+#, fuzzy
+msgid "Very well... But..."
+msgstr "Çok iyi."
+
+#. [message]: speaker=Elynia
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:375
+msgid "... I should be the one to carry this with me, no-one else."
+msgstr ""
+
+#. [message]: speaker=Galas
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:483
+msgid "The stronghold is crumbling down! We must leave immediately!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:488
+msgid "At least the Master of Darkness will have a proper burial."
 msgstr ""
 
 #. [scenario]: id=02_A_Real_Confrontation
@@ -13000,35 +13028,6 @@ msgid ""
 "Yes, I am absolutely certain they will, lord Galas. They have expressed an "
 "interest in seeing her — she’s quite a legend around here amongst the more "
 "educated Aragwaith leaders, it seems. Follow me."
-msgstr ""
-
-#. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23By_Do_Us_Part_2.cfg:90
-msgid ""
-"Argan’s journal — it was hidden beneath his robes. Elynia, my lady, if you "
-"allow me to speak my opinion: we should keep it, it may contain information "
-"that could prove useful later."
-msgstr ""
-
-#. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23By_Do_Us_Part_2.cfg:99
-#, fuzzy
-msgid "Very well... But..."
-msgstr "Çok iyi."
-
-#. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23By_Do_Us_Part_2.cfg:108
-msgid "... I should be the one to carry this with me, no-one else."
-msgstr ""
-
-#. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23By_Do_Us_Part_2.cfg:156
-msgid "The stronghold is crumbling down! We must leave immediately!"
-msgstr ""
-
-#. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23By_Do_Us_Part_2.cfg:161
-msgid "At least the Master of Darkness will have a proper burial."
 msgstr ""
 
 #. [scenario]: id=17_Voice_of_the_Armageddon
@@ -16717,29 +16716,29 @@ msgid "Graphics"
 msgstr "Çizimler"
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:194
+#: Invasion_from_the_Unknown/about.cfg:198
 #, fuzzy
 msgid "Aragwaith Faction"
 msgstr "Aragvaylar"
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:205
+#: Invasion_from_the_Unknown/about.cfg:209
 msgid "Music"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:224
+#: Invasion_from_the_Unknown/about.cfg:228
 msgid "Translations"
 msgstr ""
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:235
+#: Invasion_from_the_Unknown/about.cfg:239
 #, fuzzy
 msgid "Additional Thanks to"
 msgstr "Diğer teşekkür ettiklerim:"
 
 #. [entry]
-#: Invasion_from_the_Unknown/about.cfg:309
+#: Invasion_from_the_Unknown/about.cfg:313
 msgid "You, for playing this campaign"
 msgstr "Bu seferberliği oynadığınız için size"
 

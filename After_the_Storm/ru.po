@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-07-28 14:02 UTC\n"
+"POT-Creation-Date: 2020-08-08 04:50 UTC\n"
 "PO-Revision-Date: 2020-07-28 17:38+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -68,20 +68,11 @@ msgstr "Сочетание зеркально, и атаки могут быть
 msgid "Continue."
 msgstr "Продолжить."
 
-#. [lua]: wesnoth.theme_items.unit_status
-#: After_the_Storm/lua/theme.lua:20
-msgid ""
-"bound: This unit is bound to the movement range of another unit by a spell."
-msgstr ""
-"связана: Этот боец привязан заклятьем к дальности передвижения другого бойца."
-
-#. [lua]: wesnoth.theme_items.unit_status
-#: After_the_Storm/lua/theme.lua:27
+#: After_the_Storm/lua/theme.lua:11
 msgid "stunned: This unit is stunned. It cannot enforce its Zone of Control."
 msgstr "ошеломлен: Этот боец ошеломлен. Он не держит свою зону контроля."
 
-#. [lua]: wesnoth.theme_items.unit_status
-#: After_the_Storm/lua/theme.lua:34
+#: After_the_Storm/lua/theme.lua:17
 msgid ""
 "dazed: This unit is dazed. It suffers a -10% penalty to both its defense and "
 "chance to hit (except for magical attacks)."
@@ -89,16 +80,21 @@ msgstr ""
 "частичное ослепление: Этот боец частично ослеплён. Его защита и вероятность "
 "попадания при атаке (кроме магических атак) уменьшаются на 10%."
 
-#. [lua]: wesnoth.theme_items.unit_status
-#: After_the_Storm/lua/theme.lua:41
+#: After_the_Storm/lua/theme.lua:23
 msgid ""
 "absconding: This unit made use of its absconding ability during its previous "
 "turn."
 msgstr ""
 "скачок: Этот боец использовал способность 'скачок' во время предыдущего хода."
 
+#: After_the_Storm/lua/theme.lua:33
+msgid ""
+"bound: This unit is bound to the movement range of another unit by a spell."
+msgstr ""
+"связана: Этот боец привязан заклятьем к дальности передвижения другого бойца."
+
 #. [lua]: apply_seismic_status
-#: After_the_Storm/lua/After_the_Storm.lua:441
+#: After_the_Storm/lua/After_the_Storm.lua:458
 msgid "seism"
 msgstr "бдыщь!"
 
@@ -226,7 +222,7 @@ msgstr "коготь урвата"
 #. [attack]: type=arcane
 #. [event]
 #: After_the_Storm/units/shaxthal/Warlord_Elyssa_F.cfg:54
-#: After_the_Storm/units/undead/Chaos_Cardinal_Fused.cfg:45
+#: After_the_Storm/units/undead/Chaos_Cardinal_Fused.cfg:46
 #: After_the_Storm/units/alien-verlissh/Control_Spire.cfg:62
 #: After_the_Storm/units/alien-verlissh/Control_Spire.cfg:74
 #: After_the_Storm/units/faeries/Dark_Nightshade_Fire.cfg:72
@@ -301,7 +297,7 @@ msgid "female^Infiltrator"
 msgstr "Внедритель"
 
 #. [unit_type]: id=Shaxthal Infiltrator, race=shaxthal
-#: After_the_Storm/units/shaxthal/Infiltrator.cfg:15
+#: After_the_Storm/units/shaxthal/Infiltrator.cfg:16
 msgid ""
 "A creature made of flesh and steel, with the power of the arcane flame "
 "bestowed upon her and unconditional servitude as her only goal in life, this "
@@ -420,12 +416,12 @@ msgstr ""
 "способен направить её в поток, разрывающий души его беспомощных жертв."
 
 #. [attack]: type=cold
-#: After_the_Storm/units/undead/Chaos_Cardinal_Fused.cfg:57
+#: After_the_Storm/units/undead/Chaos_Cardinal_Fused.cfg:58
 msgid "chill tempest"
 msgstr "ледяная буря"
 
 #. [attack]: type=arcane
-#: After_the_Storm/units/undead/Chaos_Cardinal_Fused.cfg:69
+#: After_the_Storm/units/undead/Chaos_Cardinal_Fused.cfg:70
 msgid "breath of nyx"
 msgstr "дыханье никс"
 
@@ -1140,7 +1136,7 @@ msgstr "спасти его"
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4142
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2832
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3128
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2525
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2544
 #: After_the_Storm/episode3/storytxt.cfg:230
 #: After_the_Storm/episode3/storytxt.cfg:235
 #: After_the_Storm/episode3/storytxt.cfg:242
@@ -1842,27 +1838,27 @@ msgstr "Победите всех вражеских лидеров"
 #: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1080
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:124
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:352
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:387
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1041
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1364
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1450
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:396
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1054
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1377
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1463
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:346
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:927
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:165
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:268
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:273
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:567
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:162
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:510
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:163
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:403
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:563
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:336
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:664
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:935
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1247
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1658
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1875
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2251
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:424
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:760
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:991
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1305
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1838
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2060
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2412
 #: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:228
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:175
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:820
@@ -2300,18 +2296,18 @@ msgstr "Великий Совет"
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:585
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:888
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:463
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1038
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1361
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1447
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:265
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1051
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1374
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1460
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:270
 #: After_the_Storm/episode2/scenarios/01_By_the_Moonlight.cfg:159
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:400
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:333
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:661
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:932
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1244
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1655
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1872
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:421
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:757
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:988
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1302
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1835
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2057
 msgid "Current Objectives:"
 msgstr "Текущее задание:"
 
@@ -3123,7 +3119,7 @@ msgstr "Миледи, у нас больше нет времени!"
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1756
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2136
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1011
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2879
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2898
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:757
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:795
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:809
@@ -6998,7 +6994,7 @@ msgstr ""
 #. [message]: speaker=Mal Keshar
 #. [message]
 #: After_the_Storm/episode1/scenarios/09_The_Triad_part_2.cfg:806
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2085
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2101
 msgid "What the—"
 msgstr "Что за—"
 
@@ -8579,7 +8575,7 @@ msgstr "ошеломлён"
 
 #. [case]
 #: After_the_Storm/macros/character-defines.cfg:8
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2552
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2571
 msgid "Galas"
 msgstr "Галас"
 
@@ -8587,7 +8583,7 @@ msgstr "Галас"
 #. [case]
 #: After_the_Storm/macros/character-defines.cfg:27
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4545
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2558
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2577
 msgid "Mal Keshar"
 msgstr "Мал Кешар"
 
@@ -8597,7 +8593,7 @@ msgstr "Нар-хамот"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/macros/character-defines.cfg:79
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:886
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:899
 msgid "Mal Hekuba"
 msgstr "Мал Хекуба"
 
@@ -9820,22 +9816,22 @@ msgstr "Победите всех вражеских лидеров, чтобы 
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:477
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:527
 #: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1081
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:388
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1042
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1365
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1451
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:397
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1055
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1378
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1464
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:347
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:928
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:166
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:269
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:274
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:568
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:337
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:665
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:936
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1248
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1659
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1876
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2252
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:425
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:761
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:992
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1306
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1839
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2061
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2413
 #: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:229
 msgid "Death of Anya"
 msgstr "Смерть Ани"
@@ -9854,25 +9850,25 @@ msgstr "Смерть Ани"
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:478
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:528
 #: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1082
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:389
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1043
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1366
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1452
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:398
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1056
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1379
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1465
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:348
 #: After_the_Storm/episode2/scenarios/08_And_then_there_was_Chaos.cfg:929
 #: After_the_Storm/episode2/scenarios/05_The_Eastern_Front.cfg:167
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:270
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:275
 #: After_the_Storm/episode2/scenarios/07_Proximus.cfg:569
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:164
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:404
 #: After_the_Storm/episode2/scenarios/02_The_Heart_Forest.cfg:564
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:338
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:666
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:937
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1249
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1660
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1877
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2253
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:426
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:762
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:993
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1307
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1840
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2062
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2414
 #: After_the_Storm/episode2/scenarios/06_The_Voyage_Home.cfg:230
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:176
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:821
@@ -10295,9 +10291,9 @@ msgstr "Нет… Не может быть такого."
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1856
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1492
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1851
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2418
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3159
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3513
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2434
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3178
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3540
 msgid "Zhangor"
 msgstr "Жангор"
 
@@ -11046,7 +11042,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:1239
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:689
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:785
 msgid "Access granted."
 msgstr "Доступ разрешён."
 
@@ -11158,7 +11154,7 @@ msgstr ""
 #. [case]
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:1565
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3929
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2538
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2557
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:729
 #: After_the_Storm/episode3/characters.cfg:32
 #: After_the_Storm/episode2/characters.cfg:46
@@ -11338,7 +11334,7 @@ msgstr "Воистину."
 #. [side]: type=Guardian of Earth Aradellys, id=Aradellys
 #: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:229
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:60
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:4024
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:4051
 msgid "Aradellys"
 msgstr "Араделлис"
 
@@ -11546,36 +11542,36 @@ msgstr "Творческий Вклад"
 
 #. [credits_text]
 #. [about]
-#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1084
-#: After_the_Storm/about.cfg:94
+#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1085
+#: After_the_Storm/about.cfg:98
 msgid "Aragwaith Faction"
 msgstr "Фракция Эрагвийцев"
 
 #. [credits_text]
 #. [about]
-#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1090
-#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1101
-#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1110
-#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1119
-#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1128
-#: After_the_Storm/about.cfg:105
+#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1091
+#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1102
+#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1111
+#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1120
+#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1129
+#: After_the_Storm/about.cfg:109
 msgid "Music"
 msgstr "Музыка"
 
 #. [credits_text]
 #. [about]
-#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1136
-#: After_the_Storm/about.cfg:136
+#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1137
+#: After_the_Storm/about.cfg:140
 msgid "Translations"
 msgstr "Перевод"
 
 #. [credits_text]
-#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1143
+#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1144
 msgid "Additional Thanks"
 msgstr "Отдельное Спасибо"
 
 #. [credits_text]
-#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1189
+#: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:1190
 msgid "Thanks for playing"
 msgstr "И Вам, за игру в эту кампанию"
 
@@ -13585,15 +13581,15 @@ msgstr "Инженер"
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:171
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:199
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:234
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:47
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:79
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:107
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:137
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:168
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:204
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:253
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:273
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:298
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:48
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:80
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:108
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:138
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:169
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:205
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:254
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:274
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:299
 #: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:53
 #: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:75
 #: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:95
@@ -14386,7 +14382,7 @@ msgstr ""
 #. [case]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3426
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4553
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2531
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2550
 msgid "Niryone"
 msgstr "Нириона"
 
@@ -14453,7 +14449,7 @@ msgstr "Окончательное задание:"
 #. [message]: speaker=narrator
 #. [case]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3600
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2545
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2564
 msgid "Anlindë"
 msgstr "Анлиндэ"
 
@@ -18947,42 +18943,42 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:1950
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:1958
 msgid "What are you trying to do now?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:1967
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:1975
 msgid ""
 "His body is affixed to the ground, just avoid getting hit by his lightning!"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2243
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2259
 msgid ""
 "Oh, is that what we are doing now, Zhangor? I expected you to be more "
 "creative than this in a real fight."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2336
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2352
 msgid "Destroying these things is increasing my power somehow..."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2341
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2357
 msgid ""
 "There is something about the energy released by these cores, although I have "
 "a feeling Zhangor benefits from it as well."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2451
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2467
 msgid "Oh dear gods, will this ever stop?"
 msgstr ""
 
 #. [message]: speaker=Zhangor
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2460
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2476
 msgid ""
 "What is the matter, Guardians? Do you fear killing those of your own kin "
 "now? Have you not become accustomed to it over the course of your pathetic "
@@ -18990,12 +18986,12 @@ msgid ""
 msgstr ""
 
 #. [case]
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2572
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2591
 msgid "Delanith-Isáwen"
 msgstr "Деланит-Изавьен"
 
 #. [case]
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2578
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2597
 msgid "Reghara"
 msgstr "Регара"
 
@@ -19005,327 +19001,327 @@ msgstr "Регара"
 #. does not necessarily consider the real Anya to be the real Guardian of
 #. Darkness, and hence she might not hesitate in killing her. This
 #. ambiguity is intentional.
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2707
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2726
 msgid ""
 "I would hate to have to kill you... if you were the real Guardian of "
 "Darkness."
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2714
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2733
 msgid "You abandoned me..."
 msgstr ""
 
 #. [message]: speaker=Elynia
 #. ‘Demon’ here refers to Zhangor.
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2722
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2741
 msgid "Posing as my dearest friend will not save you from my wrath, demon!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2733
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2752
 msgid "You left me to die..."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2740
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2759
 msgid "Your imitation of Argan is once again absolutely pathetic."
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2747
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2766
 msgid "You betrayed me..."
 msgstr "Ты предала меня…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2754
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2773
 msgid "This cheap trick will not break me down this time."
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2765
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2784
 msgid "You killed me..."
 msgstr "Ты убила меня…"
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2772
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2791
 msgid ""
 "I could slaughter a whole host of these stupid elves a thousand times, "
 "Zhangor. Is this all you’ve got?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2779
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2798
 msgid "You failed to protect me..."
 msgstr "Ты меня не уберегла…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2786
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2805
 msgid "I no longer care for any of this, Zhangor. I no longer care."
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2797
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2816
 msgid ""
 "You are no small part of the cause of my departure from this world, you know."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2804
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2823
 msgid "I could not care less about a walking joke like you."
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2811
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2830
 msgid "You could have prevented my death, Elynia. You could have—"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2818
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2837
 msgid "No... there was nothing I could do. Stop this!"
 msgstr ""
 
 #. [message]: speaker=unit
 #. 'Her' refers to Elynia.
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2833
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2852
 msgid "I assume you are important to her in some way?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2840
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2859
 msgid ""
 "... You were too late to save me, Elynia. If only you had not allowed him "
 "into your heart—"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2847
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2866
 msgid "NO! I don’t want to remember this! I’LL KILL YOU!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2858
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2877
 msgid ""
 "With your power you surely could have banished those foul creatures to "
 "whence they came. Useless child."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2865
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2884
 msgid "... You peered into places you shouldn’t have, Zhangor."
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2872
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2891
 msgid "I wonder what became of my kind under your command..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2890
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2909
 msgid "HA! I hope you enjoyed your stay with us, sweetheart."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2897
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2916
 msgid "I’LL KILL YOU!"
 msgstr "Я  УБЬЮ  ТЕБЯ!"
 
 #. [message]: speaker=unit
 #. Use your imagination here. See also E3S7A.2's intro text.
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2905
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2924
 msgid ""
 "You must feel proud of yourself, allying with a mass-murderer like this c—"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2912
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2931
 msgid "That couldn’t possibly be my own memory... I don’t think..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2923
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2942
 msgid ""
 "For someone who wants so much to stop Uria, you are hardly any different "
 "from her kind."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2930
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2949
 msgid "... You are not wrong."
 msgstr ""
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2937
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2956
 msgid ""
 "Taking advantage of my protégé’s heart so soon after my death... You truly "
 "are a shameless creature."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2944
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2963
 msgid "I’ve had enough. You will not break me again."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2958
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2977
 msgid "... Is this..."
 msgstr "… Это …"
 
 #. [message]: speaker=unit
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2965
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2984
 msgid "Child..."
 msgstr "Дитя..."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2972
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2991
 msgid "M— mother...? No... NO! STOP!"
 msgstr "М— мать…? Нет… НЕТ! ОСТАНОВИСЬ!"
 
 #. [message]: speaker=Elyssa
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2992
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:2998
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3011
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3017
 msgid ""
 "They are manifestations of Zhangor’s will — not even real shapeshifters!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3133
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3152
 msgid "Brace yourself!"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3207
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3226
 msgid "Wh— what is... happening to him..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3212
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3231
 msgid "This is getting out of hand. We need to defeat him here and now!"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3217
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3236
 msgid "... to his body..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3228
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3247
 msgid "Elyssa? Are you still with me?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3237
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3256
 msgid ""
 "Is this... Is this the fate of our kind should we allow emotions to "
 "overpower our minds?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3247
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3266
 msgid ""
 "No... Zhangor devoured the heart of a Gatekeeper. He became like this of his "
 "own volition. Focus, Elyssa."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3258
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3277
 msgid "FOCUS!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3356
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3375
 msgid "He’s preparing to unleash a devastating attack, watch out!"
 msgstr ""
 
 #. [message]: speaker=Zhangor
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3488
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3515
 msgid "... You... CANNOT..."
 msgstr ""
 
 #. [message]: speaker=Zhangor
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3533
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3560
 msgid "... destroy ME..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3542
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3569
 msgid "Do you think we can do it? He should not be able to focus us anymore!"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3547
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3574
 msgid "No... I’m not ready yet! Just keep striking at him with all you have!"
 msgstr ""
 
 #. [message]: speaker=Zhangor
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3562
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3589
 msgid "(<i>feminine voice</i>) ... I am... the Angel of Blood..."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3682
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3709
 msgid ""
 "You are nothing but a sad memory of who you once were. It seems Uria did not "
 "do such a good job in bringing you back from your grave."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3689
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3716
 msgid ""
 "Perhaps she was aware that you would eventually betray her. Or perhaps she "
 "did not have the same infatuation she had with Argan."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3790
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3817
 msgid "What I do know for sure..."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3816
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3843
 msgid "... is that you are done. Elynia!"
 msgstr ""
 
 #. [event]
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3829
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3856
 msgid "unit_name^???"
 msgstr "???"
 
 #. [message]: speaker=Zhangor
 #. 'He' is intended to be used in the sense of a deity here.
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3849
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3876
 msgid "(<i>feminine voice</i>) ... He will come for you... at the end..."
 msgstr ""
 
 #. [message]: speaker=Zhangor
 #. 'Him' also as a deity here.
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3862
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3889
 msgid "(<i>feminine voice</i>) ... the Four will not suffice to defeat Him..."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3869
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3896
 msgid "Pierce into the heart of stone..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3890
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3917
 msgid "... release the soul back to the void..."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3910
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3937
 msgid "... break the curse of Yarae..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3929
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:3956
 msgid "... dispel the spirit from this world."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode3/scenarios/10_Blood.cfg:4026
+#: After_the_Storm/episode3/scenarios/10_Blood.cfg:4053
 msgid "<i>It is all well, children of Irdya. You may rest now.</i>"
 msgstr ""
 
@@ -21990,8 +21986,8 @@ msgstr ""
 #. [message]: speaker=Anya
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/01_Beyond_her_Smile.cfg:1429
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:976
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1229
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:989
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1287
 msgid "What are we going to do now?"
 msgstr "Что нам теперь делать?"
 
@@ -23485,69 +23481,69 @@ msgid "The Betrayal"
 msgstr "Предательство"
 
 #. [side]: type=Hell Guardian, id=Stalygvan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:96
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:97
 msgid "Stalygvan"
 msgstr "Сталигван"
 
 #. [side]: type=Gutwrencher Imp, id=Dorghazaquiel
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:122
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:123
 msgid "Dorghazaquiel"
 msgstr "Доргазакиэль"
 
 #. [side]: type=Demon Warrior, id=Elathea
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:152
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:153
 msgid "Elathea"
 msgstr "Элатея"
 
 #. [side]: type=Chaos Razerman, id=Alareanthalcan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:183
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:184
 msgid "Alareanthalcan"
 msgstr "Алареанталькан"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:385
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:394
 msgid "Defeat the false Lady of Light"
 msgstr "Победите ложную Леди Света"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:432
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:445
 msgid "Another gate..."
 msgstr "Ещё одни ворота…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:506
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:519
 msgid "Look! It’s the impostor again!"
 msgstr "Смотрите! Снова самозванка!"
 
 #. [message]: speaker=Lady of Light
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:523
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:536
 msgid "I have to destroy her... yes, I have to... I must not fail this time..."
 msgstr "Я должна её уничтожить… да, я должна… В этот раз я не потерплю провал…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:532
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:545
 msgid "So here you are, traitor."
 msgstr "Так вот ты где, изменница."
 
 #. [message]: speaker=Lady of Light
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:547
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:560
 msgid "I AM NOT A TRAITOR! I’LL DESTROY YOU THIS TIME!"
 msgstr "Я  —  НЕ  ИЗМЕННИЦА!  И  В  ЭТОТ  РАЗ  Я  ВАС  УНИЧТОЖУ!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:552
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:565
 msgid ""
 "I have had enough of this — surround her and strike her down! Do not let her "
 "get away!"
 msgstr "Довольно — окружите и сразите её к чёрту! Не дайте ей уйти!"
 
 #. [message]: speaker=Lady of Light
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:582
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:595
 msgid "No... Let me go!"
 msgstr "Нет… Отпустите меня!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:605
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:618
 msgid ""
 "You and your accursed allies have been conspiring against us and the Grand "
 "Council of the Northern Peoples, sowing strife and destruction. Whoever you "
@@ -23560,54 +23556,54 @@ msgstr ""
 "заслуживаешь место среди эльфийского рода."
 
 #. [message]: speaker=Lady of Light
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:610
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:623
 msgid "... Elynia... please..."
 msgstr "… Элиния… прошу…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:615
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:628
 msgid "Leave this world <b>now</b>, and never return again!"
 msgstr "Сгинь из этого мира <b>сейчас же</b>, и никогда не возвращайся вновь!"
 
 #. [modify_unit]: id=Ivyel
 #. [unit]: type=Shaxthal Infiltrator, id=Ivyel
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:645
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2096
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:658
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2252
 msgid "Ivyel"
 msgstr "Ивъел"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:667
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:680
 msgid "(<i>confused</i>) What is this?"
 msgstr "(<i>в замешательстве</i>) Что это?"
 
 #. [message]: speaker=Ivyel
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:676
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:689
 msgid "... Please... don’t... attack me..."
 msgstr "… Пожалуйста… не бейте… меня…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:681
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:694
 msgid "But... how... how is this possible?"
 msgstr "Но… как… как такое возможно?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:699
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:712
 msgid "This doesn’t make sense!"
 msgstr "Это не имеет смысла!"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:709
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:722
 msgid "(<i>cackling</i>)"
 msgstr "(<i>хихиканье</i>)"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:714
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:727
 msgid "Who is that?!"
 msgstr "Кто здесь?!"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:724
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:737
 msgid ""
 "(<i>more cackling</i>) <i>What do you think of our first complete "
 "infiltrator? It took us great effort to design and build such perfection.</i>"
@@ -23617,7 +23613,7 @@ msgstr ""
 "совершенство.</i>"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:733
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:746
 msgid ""
 "(<i>angry</i>) I know you... You are one of the members of the Iron Council, "
 "Mal Hekuba!"
@@ -23626,28 +23622,28 @@ msgstr ""
 "Хекуба!"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:765
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:778
 msgid "Did you miss me, Elynia?"
 msgstr "Скучала по мне, Элиния?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:780
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:793
 msgid ""
 "... I couldn’t possibly wish harder for you and your friends’ destruction."
 msgstr "… Жду не дождусь твоей кончины и конца твоих приятелей."
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:785
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:798
 msgid "Ha, ha, but that’s not going to happen in your lifetime, or is it?"
 msgstr "Ха-ха, но этому не бывать при твоей жизни, не так ли?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:853
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:866
 msgid "Where are you? Stop fooling around and show yourself, you—"
 msgstr "Где ты? Хватит дурачится, покажись, ты—"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:860
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:873
 msgid ""
 "I understand that you must be confused and enraged after losing your friends "
 "to such a pointless cause, and traveling so far only to slaughter the same "
@@ -23658,17 +23654,17 @@ msgstr ""
 "крови тот самый народ, который однажды поклялась защищать!"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:875
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:888
 msgid "It appears to be just an illusion..."
 msgstr "Похоже, это просто иллюзия..."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:880
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:893
 msgid "Destroying you is NOT a pointless cause!"
 msgstr "Твоя погибель — НЕ бессмысленная затея!"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:892
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:905
 msgid ""
 "But of course it is! You cannot destroy us! Not without the power of the "
 "Union, anyway, which you left behind in Uria’s sacred domain when you "
@@ -23679,13 +23675,13 @@ msgstr ""
 "убила своего любимого Аргана."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:896
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:909
 msgid "I still have the Ruby of Fire!"
 msgstr "У меня всё ещё есть Рубин Огня!"
 
 #. [event]
 #. "Argan’s treacherous little girl" refers to Elyssa.
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:900
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:913
 msgid ""
 "That understandably attractive relic is not important for <b>me</b>. Argan’s "
 "treacherous little girl likes to think of it as if it were unique and "
@@ -23696,13 +23692,13 @@ msgstr ""
 "убедила в этом Урию — на самом деле, он таким не является."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:908
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:921
 msgid "What are you babbling about?"
 msgstr "О чём ты треплешься?"
 
 #. [event]
 #. "Her finding out" refers to Elyssa.
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:912
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:925
 msgid ""
 "The first set of replicas of Yechnagoth’s heart were lost when you and your "
 "pathetic lackey destroyed our base in Wesmere, but I have had plenty of time "
@@ -23717,12 +23713,12 @@ msgstr ""
 "побрякушку они уж точно заменят."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:920
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:933
 msgid "Are you working against Uria’s will, then?"
 msgstr "Так значит ты работаешь против воли Урии?"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:938
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:951
 msgid ""
 "(<i>losing his temper</i>) We cannot speak to her directly! We can only do "
 "so through that treacherous wench, who keeps the Dark Lady’s heart within "
@@ -23733,7 +23729,7 @@ msgstr ""
 "Госпожи для своих собственных целей!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:949
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:962
 msgid ""
 "... We... We destroyed Wesmere... Yechnagoth’s heart wasn’t there?! What did "
 "we destroy when we..."
@@ -23742,7 +23738,7 @@ msgstr ""
 "разрушили…"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:952
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:965
 msgid ""
 "The energy that should have destroyed you was released from the <b>second</"
 "b> replica of her heart, and various experimental units stored in the same "
@@ -23756,7 +23752,7 @@ msgstr ""
 
 #. [event]
 #. "Argan’s pet" is Elyssa.
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:955
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:968
 msgid ""
 "Nevertheless, I do not have time to continue talking to you. Right now, I "
 "need to go to tend to some... rituals. Ivyel was created to destroy both you "
@@ -23769,17 +23765,17 @@ msgstr ""
 "тебя это будет последней возможностью."
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:960
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:973
 msgid "(<i>more cackling</i>)"
 msgstr "(<i>больше хихиканья</i>)"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:981
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:994
 msgid "Those bastards can’t get away with this! My lady, we must do something!"
 msgstr "Этим ублюдкам не должно сойти с рук! Миледи, мы должны что-то сделать!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:990
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1003
 msgid ""
 "I don’t think we have the power necessary to destroy the artifacts that Mal "
 "Hekuba is going to use to..."
@@ -23788,7 +23784,7 @@ msgstr ""
 "которые Мал Хекуба собирается использовать, чтобы…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:995
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1008
 msgid ""
 "Of course we do! We didn’t come all the way from the northern lands risking "
 "that blasted Ruby for nothing! Whatever that lich is going to do, it will "
@@ -23799,7 +23795,7 @@ msgstr ""
 "обернётся гибелью всех нас, если мы не остановим его сейчас же!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1000
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1013
 msgid ""
 "The last time we fought against that power, I lost a friend, and the vast "
 "plains of Wesmere vanished with his remains..."
@@ -23808,7 +23804,7 @@ msgstr ""
 "равнины Весмира испарило вместе с его останками…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1005
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1018
 msgid ""
 "Any course of action at this point will inevitably lead to someone’s "
 "destruction, but I’m sure we can do it this time! If the lich is going to "
@@ -23821,7 +23817,7 @@ msgstr ""
 "другой стороне!"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1010
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1023
 msgid ""
 "I don’t truly understand most of this nonsense about hearts and Yechnagoth, "
 "but I reckon we need to destroy the lich and the impostor — and we can’t do "
@@ -23832,7 +23828,7 @@ msgstr ""
 "Вашей помощи, Элиния."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1015
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1028
 msgid ""
 "We don’t have much time! That thing we just fought could be back at any "
 "moment!"
@@ -23841,7 +23837,7 @@ msgstr ""
 "вернуться в любую минуту!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1024
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1037
 msgid ""
 "I appreciate your support... I don’t think I could have come this far alone. "
 "And I don’t want to force you to follow me..."
@@ -23850,54 +23846,54 @@ msgstr ""
 "одиночку. И я не заставляю вас идти за мной…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1029
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1042
 msgid "Of course not! We are your friends!"
 msgstr "Конечно нет! Мы — Ваши друзья!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1034
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1047
 msgid "Let’s find that foul fiend and destroy him once and for all."
 msgstr "Давайте найдём этого гада и уничтожим его раз и навсегда."
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1039
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1448
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:334
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1052
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1461
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:422
 msgid "Proceed further underground with Elynia to find Mal Hekuba"
 msgstr "Элиния должна спуститься глубже и найти Мал Хекубу"
 
 #. [message]: speaker=Alareanthalcan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1192
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1205
 msgid "They are getting closer to the control chamber! Get them, quickly!"
 msgstr "Они приближаются к комнате управления! Схватить их, быстрее!"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1197
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1210
 msgid "I don’t like the sound of that..."
 msgstr "Не нравится мне этот звук…"
 
 #. [message]: speaker=Stalygvan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1251
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1264
 msgid "You! You can’t stop our master! You can’t—"
 msgstr "Вы! Вам не остановить нашего повелителя! Вам не—"
 
 #. [event]: id=Kardas
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1268
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1281
 msgid "Kardas"
 msgstr "Кардас"
 
 #. [message]: speaker=Kardas
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1282
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1295
 msgid "My lady! At last, I found you! I know where the lich is!"
 msgstr "Миледи! Наконец-то я нашёл Вас! Я знаю, где лич!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1287
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1300
 msgid "Speak."
 msgstr "Говори."
 
 #. [message]: speaker=Kardas
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1310
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1323
 msgid ""
 "The catacombs below guard an artifact of some sort. Nobody knows exactly "
 "what it is, but we know the entrance is protected by a gate controlled by "
@@ -23908,54 +23904,54 @@ msgstr ""
 "которой управляют три кристалла около укреплений охраны."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1353
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1366
 msgid "Let’s find those crystals, then."
 msgstr "Что ж, тогда найдём те кристаллы."
 
 #. [event]: id=Kardas
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1362
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1375
 msgid ""
 "Locate and activate the three control crystals to open the central gates"
 msgstr ""
 "Найдите и активируйте три управляющих кристалла, чтобы открыть главные врата"
 
 #. [message]: speaker=Elathea
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1380
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1393
 msgid "May Uria punish you all for this—"
 msgstr "Да покарает вас всех Урия—"
 
 #. [message]: speaker=Dorghazaquiel
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1392
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1405
 msgid "Nooooaaagh... it hurts!!!"
 msgstr "Неееееааааатт… больно!!!"
 
 #. [message]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1409
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1422
 msgid "The beast’s body is dissolving into slime!"
 msgstr "Тело твари разлагается в слизь!"
 
 #. [message]: speaker=Alareanthalcan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1466
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1479
 msgid "Even though I have fallen, you are no match for my master’s power!"
 msgstr "И пусть я пал, вам не сравниться с мощью моего господина!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1471
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1484
 msgid "We’ll see about that very soon."
 msgstr "Мы это проверим уже очень скоро."
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1497
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1510
 msgid "What in blazes is that creature?!"
 msgstr "Это ещё что за чертовщина?!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1502
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1515
 msgid "Don’t meet its gaze! It will drain your life force!"
 msgstr "Не смотрите её в глаз! Она высасывает вашу жизненную силу!"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1527
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1540
 msgid ""
 "The whirlpool is overflowing with an unusual energy.\n"
 "\n"
@@ -23966,12 +23962,12 @@ msgstr ""
 "Тёмной энергией."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1546
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1559
 msgid "Hm, what is this? There seems to be something at the bottom..."
 msgstr "Гм, что это? Похоже, на дне что-то находится…"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1551
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1564
 msgid ""
 "I wouldn’t get too close if I were you. It could be another one of those "
 "biomechanical abominations."
@@ -23980,7 +23976,7 @@ msgstr ""
 "биомеханических чудовищ."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1556
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1569
 msgid ""
 "I mean, it doesn’t look like there are any creatures in the water anyway. "
 "(<i>touches the water</i>)"
@@ -23989,43 +23985,43 @@ msgstr ""
 "(<i>прикасается к воде</i>)"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1565
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1578
 msgid "Anya, what are you doing?"
 msgstr "Аня, что ты делаешь?"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1570
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1583
 msgid "Er, ummm... nothing! I just— <b>AAAAAAAAAAAHHHH!!!</b>"
 msgstr ""
 "Э, эммм… ничего! Просто— <b>АААААААаааааааа<small>аааааааа</small>!!!</b>"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1591
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1604
 msgid "Elynia and Durvan"
 msgstr "Элиния и Дюрван"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1593
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1606
 msgid "ANYA!!!"
 msgstr "АНЯ!!!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1612
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1625
 msgid "No... please don’t do this to me—"
 msgstr "Нет… прошу, не делай этого со мной—"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1618
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1631
 msgid "I am all right!"
 msgstr "Я в порядке!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1624
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1637
 msgid "... Anya? Where are you???"
 msgstr "… Аня? Ты где???"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1645
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1659
 msgid ""
 "I don’t really know? The current dragged me into a small chamber that seems "
 "to be right below where you are. I think I may be able to get back to you? "
@@ -24035,7 +24031,7 @@ msgstr ""
 "Наверное, я смогу перебраться к вам? Хорошо, что я умею плавать."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1650
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1669
 msgid ""
 "Yes, you can swim... but I cannot. You should return to us before anything "
 "happens to you down there."
@@ -24044,7 +24040,7 @@ msgstr ""
 "там не случилось."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1655
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1679
 msgid ""
 "Nah, it will be fine. Don’t worry about me. I am just going to do a little "
 "exploring down here and come back."
@@ -24053,7 +24049,7 @@ msgstr ""
 "тут, и вернусь."
 
 #. [transient_message]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1663
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1687
 msgid ""
 "Anya can return to the main area by going back through the whirlpool, in a "
 "similar fashion to how units can teleport between villages they already "
@@ -24063,14 +24059,14 @@ msgstr ""
 "же образом, как бойцы могут телепортироваться между деревнями под их властью."
 
 #. [transient_message]
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1693
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1717
 msgid "Mermaid’s Pendant"
 msgstr "Кулон Русалки"
 
 #. [transient_message]
 #. The sudden shift to second person narration is quite
 #. intentional. You will see more of this throughout Episode 3.
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1697
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1721
 msgid ""
 "This beautiful pendant made from an iridescent conch shines all the colors "
 "of the rainbow under the light cast on the altar. The spectacle is "
@@ -24101,23 +24097,23 @@ msgstr ""
 "Возможно, пока что Вам стоит вернуться к Элинии."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1727
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1751
 msgid "So, how was your little adventure?"
 msgstr "Итак, как прошло твоё маленькое приключение?"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1732
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1756
 msgid "Well, I found this on an altar! It’s so shiny!"
 msgstr "Хорошо, я нашла это на алтаре! Он такой блестящий!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1737
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1761
 msgid ""
 "... A seashell pendant? How did it find its way here, so far from the ocean?"
 msgstr "… Кулон из ракушки? Как он здесь очутился, так далеко от океана?"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1742
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1766
 msgid ""
 "It could be some kind of keepsake the elves brought here when they first "
 "arrived?"
@@ -24126,12 +24122,12 @@ msgstr ""
 "сюда прибыли?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1747
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1771
 msgid "That is the most likely answer, yes."
 msgstr "Да, это самый разумный ответ."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1752
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1776
 msgid ""
 "Do you think it has magical properties? Maybe I can summon water creatures! "
 "Or water... projectiles of some kind? Perhaps I can shoot bubbles!"
@@ -24141,17 +24137,17 @@ msgstr ""
 "пузырями!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1761
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1785
 msgid "No... I am afraid there is no magic in this pendant at all."
 msgstr "Нет… Боюсь, в этом кулоне совершенно нет колдовства."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1766
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1790
 msgid "Wh... what."
 msgstr "Чт… что."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1775
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1799
 msgid ""
 "Did I actually just risk my life fighting that... giant... spider... to "
 "obtain a completely mundane pendant?"
@@ -24160,12 +24156,12 @@ msgstr ""
 "получила совершенно обычное украшение?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1780
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1804
 msgid "So it would seem."
 msgstr "Похоже, что да."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1789
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1813
 msgid ""
 "... Oh well... At least it’s pretty! I’m going to keep it if you don’t mind."
 msgstr ""
@@ -24173,7 +24169,7 @@ msgstr ""
 "возражаете."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1794
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1818
 msgid ""
 "Sure. Just... don’t do that again, please? You had us really worried for a "
 "moment there."
@@ -24181,17 +24177,17 @@ msgstr ""
 "Конечно. Просто… больше так не делай, ладно? Ты нас всех очень обеспокоила."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1799
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1823
 msgid "I know, I’m sorry..."
 msgstr "Знаю, простите…"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1824
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1848
 msgid "It is probably too late to stop that lich by now..."
 msgstr "Возможно, уже поздно пытаться остановить лича…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1835
+#: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1859
 msgid "Make haste!"
 msgstr "Поторопитесь!"
 
@@ -24975,27 +24971,17 @@ msgid "New Hive"
 msgstr "Новый Улей"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:266
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:271
 msgid "Proceed further underground with Elynia"
 msgstr "Элиния должна пройти глубже под землю"
 
-#. [event]
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:274
-msgid "Do not let your units lag behind"
-msgstr "Не позволяйте вашим бойцам отставать"
-
-#. [event]
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:275
-msgid "Recall as many units as possible whenever you encounter keeps"
-msgstr "Призывайте как можно больше бойцов, когда встретите лагерь"
-
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:283
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:285
 msgid "What is this place?"
 msgstr "Что это за место?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:288
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:290
 msgid ""
 "According to Unarye, the valley was only slightly habitable at first; the "
 "elves had to seek refuge in the caverns during the day, while they worked to "
@@ -25008,7 +24994,7 @@ msgstr ""
 "Шакстальский улей."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:293
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:295
 msgid ""
 "Although Shaxthal creatures are particularly weak against our fire, it’s "
 "essential that we remain together as we proceed further underground."
@@ -25017,17 +25003,17 @@ msgstr ""
 "вместе, пока мы будем спускаться вглубь."
 
 #. [unit]: type=Chaos Magus, id=Kaceldyn
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:327
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:329
 msgid "Kaceldyn"
 msgstr "Кацелдин"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:395
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:397
 msgid "What was that?"
 msgstr "Что это было?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:400
+#: After_the_Storm/episode2/scenarios/09_New_Hive.cfg:402
 msgid ""
 "I am not sure, but I fear we have wasted too much time in these caves. "
 "Whatever happens next is surely our fault."
@@ -26558,12 +26544,12 @@ msgid "Galaviel"
 msgstr "Галавиэль"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:348
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:436
 msgid "This goes deeper and deeper—"
 msgstr "Дорога ведёт всё глубже и глубже—"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:357
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:445
 msgid ""
 "... I fear we don’t have much more time. Just where in this accursed place "
 "are you, Hekuba?"
@@ -26572,32 +26558,32 @@ msgstr ""
 "проклятом месте?"
 
 #. [unit]: type=Chaos Lorekeeper, id=Jarlean
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:487
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:583
 msgid "Jarlean"
 msgstr "Ярлеан"
 
 #. [unit]: type=Chaos Arbalestier, id=Terryl
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:511
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:607
 msgid "Terryl"
 msgstr "Террил"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:618
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:714
 msgid "The earth shakes."
 msgstr "Земля содрогается."
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:662
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:758
 msgid "Move Elynia to the central chamber"
 msgstr "Передвиньте Элинию в центральный отсек"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:796
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:860
 msgid "Be careful. I’m sure he is in this chamber, somewhere..."
 msgstr "Будьте осторожны. Я уверена: он в этой полости, где-то..."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:827
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:891
 msgid ""
 "Most likely on that tall platform at the center. We need to get up there "
 "somehow."
@@ -26606,22 +26592,22 @@ msgstr ""
 "забраться."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:836
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:900
 msgid "What’s that noise?"
 msgstr "Что это за шум?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:898
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:954
 msgid "... That energy... It’s the same..."
 msgstr "… Эта энергия... Она та же..."
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:903
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:959
 msgid "Elynia? What’s happening?"
 msgstr "Элиния? Что происходит?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:912
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:968
 msgid ""
 "... A dark energy emanates from those spires... It’s the same energy that "
 "was released in Wesmere when we destroyed the creature within the hive. "
@@ -26630,38 +26616,38 @@ msgstr ""
 "в Весмире, когда мы уничтожили то существо в улье."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:917
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:973
 msgid "How should we destroy them?"
 msgstr "Мы можем их как-нибудь разрушить?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:922
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:978
 msgid "Search the chamber — there must be some mechanism controlling them."
 msgstr "Обыщите пещеру — ими должен управлять какой-то механизм."
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:933
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:989
 msgid "Explore the central chamber"
 msgstr "Исследуйте центральный отсек"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1055
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1113
 msgid "Welcome to your end, heathens!"
 msgstr "Вот и ваш конец, еретики!"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1143
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1201
 msgid "What kind of evil magic is this?"
 msgstr "Это ещё что за колдунство?"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1148
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1206
 msgid "Is he... fused with one of the spires?"
 msgstr "Он что… сращен с одним из стержней?"
 
 #. [message]: speaker=Elynia
 #. "Your leader" refers to Elyssa.
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1154
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1212
 msgid ""
 "What do you expect to achieve by creating a new portal to Inferno with your "
 "new-found powers? Your troops are falling one by one under the might of the "
@@ -26674,7 +26660,7 @@ msgstr ""
 
 #. [message]: speaker=Mal Hekuba
 #. "her" refers to Elyssa, again.
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1160
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1218
 msgid ""
 "Ha, ha, ha, ha! Don’t forget that your shortsightedness is the chief cause "
 "of your friends’ demise, foolish creature. The power I control now is too "
@@ -26685,7 +26671,7 @@ msgstr ""
 "для неё."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1165
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1223
 msgid ""
 "What if you don’t truly control it? You said you cannot speak to Uria "
 "directly — what if her will is <i>your</i> destruction?"
@@ -26694,17 +26680,17 @@ msgstr ""
 "с Урией напрямую: что, если её воля — <i>твоё</i> уничтожение?"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1170
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1228
 msgid "Insolent girl! You shall all die!"
 msgstr "Наглая девчонка! Вы все умрёте!"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1178
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1236
 msgid "YOU SHALL ALL DIE NOW!"
 msgstr "ВЫ  ВСЕ  УМРЁТЕ  СЕЙЧАС  ЖЕ!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1234
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1292
 msgid ""
 "Everyone, stay away from the spires and the portal! I must think of "
 "something..."
@@ -26712,19 +26698,19 @@ msgstr ""
 "Все! Держитесь подальше от стержней и портала! Я должна над кое-чем подумать…"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1238
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1296
 msgid ""
 "The portal grows in size every turn, taking adjacent ground hexes with it"
 msgstr "Портал растёт с каждым ходом, поглощая соседние клетки"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1239
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1297
 msgid "Unless adjacent to a spire, road hexes cannot disappear"
 msgstr ""
 "Клетки дороги не могут исчезнуть, если только не находятся вблизи стержня"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1240
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1298
 msgid ""
 "Units incapable of flight over chasms will die should the ground below them "
 "disappear"
@@ -26733,12 +26719,12 @@ msgstr ""
 "обрушится"
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1245
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1303
 msgid "Survive until the end of turns"
 msgstr "Продержитесь до конца ходов"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1452
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1505
 msgid ""
 "There’s no use in attacking those structures — the energy they release in "
 "retaliation could kill us all!"
@@ -26747,12 +26733,12 @@ msgstr ""
 "ответ, достаточно, чтобы убить нас всех!"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1499
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1677
 msgid "Attacking me is futile!"
 msgstr "Нападать на меня бесполезно!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1517
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1697
 msgid ""
 "The more time passes, the more energy fills the place and binds our worlds "
 "together. I must go and try to destroy that lich by myself."
@@ -26761,12 +26747,12 @@ msgstr ""
 "миры всё крепче. Мне нужно попытаться самой уничтожить этого лича."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1524
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1704
 msgid "Elynia? No! If you go he will—"
 msgstr "Элиния? Нет! Он тебя—"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1529
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1709
 msgid ""
 "I am well aware, but I’m also the only one who can wield this staff and not "
 "become corrupted by the power of the Ruby. Using it to vanquish this evil... "
@@ -26780,12 +26766,12 @@ msgstr ""
 "останется и для вас, если этому извергу удастся совершить задуманное."
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1538
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1718
 msgid "I— I—"
 msgstr "Я— Я—"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1553
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1733
 msgid ""
 "You cannot go with me, for someone must survive the ordeal to pass the news "
 "on to our allies. You are a very smart girl, and I’m sure you all will be "
@@ -26796,57 +26782,57 @@ msgstr ""
 "сможете сбежать при помощи твоей силы."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1564
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1744
 msgid "I must go now."
 msgstr "Мне пора."
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1571
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1751
 msgid "Elynia, my lady... Good luck!"
 msgstr "Элиния, миледи... Удачи!"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1576
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1756
 msgid "(<i>tearful</i>) Elynia! Don’t die up there! Please!"
 msgstr "(<i>в слезах</i>) Элиния! Не погибни там! Пожалуйста!"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1585
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1765
 msgid "(<i>muttering to herself</i>) I can only try."
 msgstr "(<i>про себя</i>) Могу лишь надеяться."
 
 #. [object]
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1589
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1769
 msgid "Darkness Flight"
 msgstr "Ночной Полёт"
 
 #. [object]
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1590
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1770
 msgid "Elynia is now able to fly over chasms."
 msgstr "Теперь Элиния может пролетать над пропастью."
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1656
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1836
 msgid "Attack Mal Hekuba with Elynia"
 msgstr "Элиния должна атаковать Мал Хекубу"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1686
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1866
 msgid "And just what are you doing now?"
 msgstr "И что ты собираешься делать теперь?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1691
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1871
 msgid "I’m going to destroy you!"
 msgstr "Я сотру тебя в порошок!"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1752
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1937
 msgid "How pathetic."
 msgstr "Как жалко."
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1773
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1958
 msgid ""
 "Have you not learned anything after your friends’ vain sacrifices, Elynia? "
 "Have you not learned to GIVE UP?"
@@ -26855,22 +26841,22 @@ msgstr ""
 "ты не научилась СДАВАТЬСЯ?"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1846
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2031
 msgid "ELYNIA!"
 msgstr "ЭЛИНИЯ!"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1851
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2036
 msgid "Why won’t you just accept your fate and <b>DIE</b>?!"
 msgstr "Почему бы тебе просто не принять свою судьбу и <b>СДОХНУТЬ</b>?!"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1863
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2048
 msgid "We must do something!"
 msgstr "Сделайте хоть что-нибудь!"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1868
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2053
 msgid ""
 "If Elynia herself doesn’t have the power to destroy that lich, I don’t think "
 "there’s anything we can do about it..."
@@ -26879,50 +26865,50 @@ msgstr ""
 "ничего не сможем сделать..."
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1873
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2058
 msgid "Survive until the opportunity to destroy Mal Hekuba presents itself"
 msgstr ""
 "Продержитесь до тех пор, пока возможность уничтожить Хекубу не объявится "
 "сама собой"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1892
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2077
 msgid "It’s too late to stop me!"
 msgstr "Слишком поздно пытаться меня остановить!"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:1902
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2087
 msgid "There’s absolutely <i>nothing</i> you can do!"
 msgstr "Вы уже не можете сделать ровным счётом ничего!"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2044
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2200
 msgid "Have you had enough already?"
 msgstr "Уже достаточно?"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2049
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2205
 msgid "No?"
 msgstr "Нет?"
 
 #. [message]: speaker=narrator
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2057
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2213
 msgid ""
 "<i>... Don’t forget that you are here fighting for a greater cause...</i>"
 msgstr "<i>… Не забывай, что ты сражаешься ради высшей цели…</i>"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2062
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2218
 msgid "... I..."
 msgstr "… Я…"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2071
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2227
 msgid "Stupid little vermin..."
 msgstr "Тупая мелкая букашка…"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2134
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2295
 msgid ""
 "Ah, Ivyel, at long last! It’s good to see you again... This pitiful creature "
 "is hindering me. Could you sweep her away for me?"
@@ -26931,63 +26917,63 @@ msgstr ""
 "меня раздражает. Не могла бы ты смести ещё отсюда за меня?"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2175
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2336
 msgid "... What’s this?"
 msgstr "… Это ещё что?"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2186
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2347
 msgid "... I cannot be defeated by the likes of you..."
 msgstr "… Таким, как ты, меня не победить…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2217
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2378
 msgid "... I am the Lady of Light..."
 msgstr "… Я — Леди Света…"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2226
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2387
 msgid "... even without my former power, I shall destroy you..."
 msgstr "… и даже без моей былой мощи, я тебя уничтожу…"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2231
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2392
 msgid "Of course not. TAKE HER DOWN!"
 msgstr "Да нет, конечно. СБРОСЬТЕ ЕЁ ВНИЗ!"
 
 #. [message]: speaker=Durvan
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2240
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2401
 msgid "What’s she going to do? Does she have a plan?"
 msgstr "Что она собирается делать? У неё есть какой-то план?"
 
 #. [message]: speaker=Anya
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2245
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2406
 msgid ""
 "I am not sure. It appears she wants to attack the infiltrator creature..."
 msgstr "Не знаю. Похоже, она хочет атаковать то существо, внедритель..."
 
 #. [event]
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2249
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2410
 msgid "Destroy Ivyel"
 msgstr "Уничтожьте Ивъел"
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2274
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2435
 msgid "This is <i>your</i> end, Mal Hekuba..."
 msgstr "Это — <i>твой</i> конец, Мал Хекуба..."
 
 #. [message]: speaker=Elynia
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2321
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2482
 msgid "... Irdya is not yours to destroy!"
 msgstr "... Ирдия не твоя — и не тебе её разрушить!"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2339
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2500
 msgid "AAAAAAAARRGH!"
 msgstr "АААААААААРРРГ!"
 
 #. [message]: speaker=Mal Hekuba
-#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2386
+#: After_the_Storm/episode2/scenarios/11_A_Final_Confrontation.cfg:2547
 msgid "WHAT HAVE YOU DONE?"
 msgstr "<b>ЧТО  ВЫ  НАТВОРИЛИ?</b>"
 
@@ -28847,7 +28833,7 @@ msgid "Event Flag"
 msgstr "Флаг События"
 
 #. [editor_group]: id=wesnoth-UMC-After_the_Storm
-#: After_the_Storm/base-loader.cfg:178
+#: After_the_Storm/base-loader.cfg:176
 msgid "After the Storm (custom terrains)"
 msgstr "После Бури (особая местность)"
 
@@ -28867,14 +28853,20 @@ msgid "Graphics"
 msgstr "Графика"
 
 #. [about]
-#: After_the_Storm/about.cfg:151
+#: After_the_Storm/about.cfg:155
 msgid "Additional Thanks to"
 msgstr "Отдельное спасибо"
 
 #. [entry]
-#: After_the_Storm/about.cfg:196
+#: After_the_Storm/about.cfg:200
 msgid "You, for playing this campaign"
 msgstr "Вам, за игру в эту кампанию"
+
+#~ msgid "Do not let your units lag behind"
+#~ msgstr "Не позволяйте вашим бойцам отставать"
+
+#~ msgid "Recall as many units as possible whenever you encounter keeps"
+#~ msgstr "Призывайте как можно больше бойцов, когда встретите лагерь"
 
 #~ msgid "Eidyia"
 #~ msgstr "Эйдия"

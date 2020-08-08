@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-02 12:15 UTC\n"
+"POT-Creation-Date: 2020-08-08 04:50 UTC\n"
 "PO-Revision-Date: 2008-12-30 08:03+0200\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
@@ -120,6 +120,11 @@ msgstr ""
 #. [lua]: wesnoth.wml_actions.item_prompt
 #: Naia/lua/gui/item_prompt.lua:140
 msgid "Do you want this unit to pick up this item?"
+msgstr ""
+
+#. [lua]: register_unit_status_display
+#: Naia/lua/theme.lua:83
+msgid "necrosed: This unit is undergoing necrosis."
 msgstr ""
 
 #. [lua]: do_host_minimum_version_unmet
@@ -633,12 +638,12 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: Naia/units/undead/Chaos_Cardinal.cfg:32
+#: Naia/units/undead/Chaos_Cardinal.cfg:33
 msgid "necrotic shard"
 msgstr ""
 
 #. [attack]: type=arcane
-#: Naia/units/undead/Chaos_Cardinal.cfg:57
+#: Naia/units/undead/Chaos_Cardinal.cfg:58
 msgid "breath of nyx"
 msgstr ""
 
@@ -2323,6 +2328,28 @@ msgstr ""
 msgid "Enemy boss sighted!"
 msgstr "Düşman baskın birimi göründü!"
 
+#. [unstore_unit]
+#: Naia/macros/weapon-specials-implementation.cfg:71
+#, fuzzy
+msgid "female^necrosed"
+msgstr "zırhlı"
+
+#. [unstore_unit]
+#: Naia/macros/weapon-specials-implementation.cfg:72
+msgid "necrosed"
+msgstr ""
+
+#. [unstore_unit]
+#: Naia/macros/weapon-specials-implementation.cfg:140
+#, fuzzy
+msgid "female^cleansed"
+msgstr "iyileşti"
+
+#. [unstore_unit]
+#: Naia/macros/weapon-specials-implementation.cfg:141
+msgid "cleansed"
+msgstr ""
+
 #. [message]: speaker=narrator
 #: Naia/macros/scenario-utils.cfg:163
 msgid "You retrieve $temp_gold_retrieval_amount pieces of gold."
@@ -2445,14 +2472,37 @@ msgid ""
 "immediately loses all its remaining movement."
 msgstr ""
 
+#. [resistance]: id=zeal
+#: Naia/macros/abilities.cfg:167
+msgid "zeal"
+msgstr ""
+
+#. [resistance]: id=zeal
+#: Naia/macros/abilities.cfg:168
+#, fuzzy
+msgid "female^zeal"
+msgstr "iyileşti"
+
+#. [resistance]: id=zeal
+#: Naia/macros/abilities.cfg:169
+msgid ""
+"The zeal of this unit inspires adjacent units to resist enemy attacks better "
+"and deal increased damage.\n"
+"\n"
+"Adjacent own units of lower level will receive a +30% bonus to their "
+"resistances while defending, up to a maximum of 60% for non-arcane damage, "
+"or 30% for arcane damage. They will also deal 15% more damage times the "
+"difference in their levels on both defense and offense."
+msgstr ""
+
 #. [heals]: id=sylvan_essence_healing_and_curing
 #. [illuminates]: id=sylvan_essence_illum
-#: Naia/macros/abilities.cfg:174 Naia/macros/abilities.cfg:211
+#: Naia/macros/abilities.cfg:225 Naia/macros/abilities.cfg:262
 msgid "sylvan essence"
 msgstr "esenlik"
 
 #. [heals]: id=sylvan_essence_healing_and_curing
-#: Naia/macros/abilities.cfg:175
+#: Naia/macros/abilities.cfg:226
 #, fuzzy
 msgid ""
 "This unit can heal and cure friendly units on adjacent hexes every turn, to "
@@ -2468,7 +2518,7 @@ msgstr ""
 "zehirini gideremez."
 
 #. [illuminates]: id=sylvan_essence_illum
-#: Naia/macros/abilities.cfg:212
+#: Naia/macros/abilities.cfg:263
 #, fuzzy
 msgid ""
 "This unit illuminates the surrounding area, making lawful units fight "
@@ -2740,6 +2790,18 @@ msgid ""
 " This unit cannot move to terrains other than water, castle and villages."
 msgstr " Bu birim su, kale ve köy bulunmayan arazilerde hareket edemez."
 
+#: Naia/macros/special-notes.cfg:39
+msgid ""
+" The zeal of this unit inspires adjacent units to resist enemy attacks "
+"better and deal increased damage."
+msgstr ""
+
+#: Naia/macros/special-notes.cfg:42
+msgid ""
+" This unit is able to infect victims with a powerful poison capable of "
+"killing and turning them into undead."
+msgstr ""
+
 #. [damage]: id=attack_only
 #: Naia/macros/weapon-specials.cfg:40 Naia/macros/weapon-specials.cfg:41
 msgid "attack only"
@@ -2787,6 +2849,20 @@ msgstr ""
 #: Naia/macros/weapon-specials.cfg:96
 msgid ""
 "When used offensively, this attack always has at least a 50% chance to hit."
+msgstr ""
+
+#. [dummy]: id=necrosis
+#: Naia/macros/weapon-specials.cfg:130
+msgid "necrosis"
+msgstr ""
+
+#. [dummy]: id=necrosis
+#: Naia/macros/weapon-specials.cfg:131
+msgid ""
+"This attack infects living targets, causing them to lose 10 HP every turn "
+"until cured in a village or by a unit able to remove poison (regenerates "
+"does not counter necrosis). Any targets who die while necrosed become Ghouls "
+"belonging to the same side as the unit which originally infected them."
 msgstr ""
 
 #: Naia/macros/storytxt-common.cfg:16
@@ -2956,7 +3032,7 @@ msgid "Fake Shroud"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:101
+#: Naia/loader.cfg:102
 #, fuzzy
 msgid "Project Ethea"
 msgstr "Onları koruyun!"
