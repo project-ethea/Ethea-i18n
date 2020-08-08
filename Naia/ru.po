@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-08 04:50 UTC\n"
-"PO-Revision-Date: 2020-08-02 19:13+0300\n"
+"PO-Revision-Date: 2020-08-08 09:49+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -127,7 +127,7 @@ msgstr "Вы хотите, чтобы боец взял это себе?"
 #. [lua]: register_unit_status_display
 #: Naia/lua/theme.lua:83
 msgid "necrosed: This unit is undergoing necrosis."
-msgstr ""
+msgstr "некроз: Этот боец находится в процессе некроза."
 
 #. [lua]: do_host_minimum_version_unmet
 #: Naia/lua/compat.lua:31
@@ -3017,26 +3017,23 @@ msgstr "Обнаружен вражеский лидер!"
 
 #. [unstore_unit]
 #: Naia/macros/weapon-specials-implementation.cfg:71
-#, fuzzy
 msgid "female^necrosed"
-msgstr "бронированная"
+msgstr "некроз"
 
 #. [unstore_unit]
 #: Naia/macros/weapon-specials-implementation.cfg:72
-#, fuzzy
 msgid "necrosed"
-msgstr "осколок погибели"
+msgstr "некроз"
 
 #. [unstore_unit]
 #: Naia/macros/weapon-specials-implementation.cfg:140
-#, fuzzy
 msgid "female^cleansed"
-msgstr "исцелена"
+msgstr "очищена"
 
 #. [unstore_unit]
 #: Naia/macros/weapon-specials-implementation.cfg:141
 msgid "cleansed"
-msgstr ""
+msgstr "очищен"
 
 #. [message]: speaker=narrator
 #: Naia/macros/scenario-utils.cfg:163
@@ -3161,13 +3158,12 @@ msgstr ""
 #. [resistance]: id=zeal
 #: Naia/macros/abilities.cfg:167
 msgid "zeal"
-msgstr ""
+msgstr "рвение"
 
 #. [resistance]: id=zeal
 #: Naia/macros/abilities.cfg:168
-#, fuzzy
 msgid "female^zeal"
-msgstr "исцелена"
+msgstr "рвение"
 
 #. [resistance]: id=zeal
 #: Naia/macros/abilities.cfg:169
@@ -3180,6 +3176,14 @@ msgid ""
 "or 30% for arcane damage. They will also deal 15% more damage times the "
 "difference in their levels on both defense and offense."
 msgstr ""
+"Рвение этого бойца вдохновляет соседних бойцов лучше сопротивляться "
+"вражеским атакам и наносить повышенный урон.\n"
+"\n"
+"Соседние союзные бойцы более низкого уровня получат повышение всех их "
+"сопротивлений на 30% во время защиты, вплоть до максимума в 60% для не-"
+"мистического урона, и 30% для мистического урона. Они также будут наносить "
+"на 15% больше урона за каждый уровень в разнице как при защите, так и при "
+"нападении."
 
 #. [heals]: id=sylvan_essence_healing_and_curing
 #. [illuminates]: id=sylvan_essence_illum
@@ -3462,12 +3466,16 @@ msgid ""
 " The zeal of this unit inspires adjacent units to resist enemy attacks "
 "better and deal increased damage."
 msgstr ""
+" Рвение этого бойца вдохновляет соседних бойцов лучше сопротивляться "
+"вражеским атакам и наносить повышенный урон."
 
 #: Naia/macros/special-notes.cfg:42
 msgid ""
 " This unit is able to infect victims with a powerful poison capable of "
 "killing and turning them into undead."
 msgstr ""
+" Этот боец способен заражать жертв мощным ядом, способным убить их и "
+"обратить в нежить."
 
 #. [damage]: id=attack_only
 #: Naia/macros/weapon-specials.cfg:40 Naia/macros/weapon-specials.cfg:41
@@ -3516,9 +3524,8 @@ msgstr ""
 
 #. [dummy]: id=necrosis
 #: Naia/macros/weapon-specials.cfg:130
-#, fuzzy
 msgid "necrosis"
-msgstr "осколок погибели"
+msgstr "некроз"
 
 #. [dummy]: id=necrosis
 #: Naia/macros/weapon-specials.cfg:131
@@ -3528,6 +3535,10 @@ msgid ""
 "does not counter necrosis). Any targets who die while necrosed become Ghouls "
 "belonging to the same side as the unit which originally infected them."
 msgstr ""
+"Эта атака заражает живые цели, заставляя их терять 10 ЗД каждый ход, пока их "
+"не исцелит лекарь или они не вылечатся в деревне (регенерация не способна "
+"справится с некрозом). Бойцы, умершие, находясь в состоянии некроза, станут "
+"упырями и перейдут на сторону бойца, который изначально их заразил."
 
 #: Naia/macros/storytxt-common.cfg:16
 msgid "Warning!"
