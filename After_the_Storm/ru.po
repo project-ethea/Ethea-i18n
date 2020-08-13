@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-14 07:00 UTC\n"
-"PO-Revision-Date: 2020-08-10 00:13+0300\n"
+"PO-Revision-Date: 2020-08-13 23:48+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
@@ -1478,6 +1478,16 @@ msgid ""
 "would turn them into fearsome enemies — that is, if they were ever to "
 "abandon their natural environment."
 msgstr ""
+"Многие рассказы повествуют о несчастных юношах, что заблудились ночью в чаще "
+"леса и, по чистой случайности, встретили взглядом прекрасную ночную нимфу. "
+"Хотя некоторые оставались достаточно предусмотрительными, чтобы бежать прочь "
+"к их залитым светом домам вместо того, чтобы приблизится к неземной деве, их "
+"встретили и похитили по пути назад.\n"
+"\n"
+"Известная по слухам способность этих файери к управляемой телепортации на "
+"большие расстояния, соединённая с их и без того выдающимся мастерством "
+"мистического огня тьмы, превратила бы их в ужасающих врагов — конечно, если "
+"бы они когда-нибудь покинули естественную среду обитания."
 
 #. [attack]: type=arcane
 #. [event]
@@ -1506,6 +1516,16 @@ msgid ""
 "them to necromancers, even though there is no recorded evidence of any "
 "involvement of their kind with such magic."
 msgstr ""
+"В величайших, самых густых, лесах Ирдии возможно найти одних из самых "
+"ускользающих и восхитительных существ поверхности, таких как древней или "
+"лесных файери. Однако отдельный род сущностей файери всегда оставался "
+"неведомым как посторонним, так и лесным существам.\n"
+"\n"
+"Таинственные файери тьмы скрываются от любого рода цивилизаций, проживая в "
+"совершенно непроходимой местности. Их легендарное мастерство теней, данное "
+"им природой, зачастую побуждает необразованных связывать их с некромантами, "
+"пусть даже нет никаких записанных свидетельств увлечения их рода подобным "
+"колдовством."
 
 #. [unit_type]: id=Civilian, race=human
 #: After_the_Storm/units/humans/Civilian.cfg:5
@@ -9983,6 +10003,13 @@ msgid ""
 "before battle I received reports indicating that they are roaming the skies "
 "of Kalari Central hunting down anyone suspected of rebellious conduct."
 msgstr ""
+"Верные каратели Жангора. Как ни прискорбно, они из моего же клана. У8 нас "
+"имелись… различные представления о том, как отнестись к возвышению Жангора к "
+"власти. Они решили перейти на его сторону и передали ему в распоряжение свои "
+"способности скрытных убийц, дабы удостоверится, что мои собратья из рода "
+"демонов бурь и остальные не выбьются из строя. Незадолго до битвы я получила "
+"сообщения, свидетельствующие о том, что они кружат над небесами срединной "
+"части Калари и охотятся на всех подозреваемых в связи с восстанием."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:395
@@ -10016,6 +10043,12 @@ msgid ""
 "more... creative ways. She revels in inflicting unending pain to others, and "
 "so does her Fist."
 msgstr ""
+"Урии страшатся за её привычку украшать разнообразные храмы и крепости "
+"Инферно теми, кто по своей глупости осмелился противостоять ей. Уже давно "
+"она осознала, что пыток и убийств непокорных недостаточно, чтобы подать "
+"нужный пример, посему она начала использовать её власть над Жизнью более… "
+"творческим путём. Она наслаждается, причиняя боль другим, наслаждается и её "
+"Кулак."
 
 #. [message]: speaker=Ergea
 #. Voice: male (Argan), Fire: female (Elyssa)
@@ -10041,11 +10074,15 @@ msgid ""
 "appropriated for imitating her perverse creations. Unfortunately for his "
 "innocent victims, their fate is not any less horrifying or irreversible."
 msgstr ""
+"Поскольку ему недостаёт особой связи с Древом, что есть у Урии, он ограничен "
+"возможностями технологии, которую присвоил себе Хаос, чтобы подражать её "
+"извращённым творениям. К несчастью для его невинных жертв, их судьба не "
+"менее ужасает в своей необратимости."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:470
 msgid "The most we can do is to put them out of their misery."
-msgstr ""
+msgstr "Лучшее, что мы можем сделать, — избавить их от мучений."
 
 #. [message]: speaker=General Ramzal
 #. 'Wose-born wench' referring to Elynia.
@@ -10055,6 +10092,9 @@ msgid ""
 "Oh well, seeing as how the Fist has his own plans for the wose-born wench, I "
 "may as well content myself with the corpses of these two as my trophies."
 msgstr ""
+"Ха-ха-ха, это же ученица Леди Света вместе с бунтовщицей из рода бурь! Ну "
+"что ж, раз у Кулака свои планы на древорождённую гадину, придётся "
+"удовлетворить себя трупами этих двоих в качестве моих трофеев."
 
 #. [message]: speaker=General Ramzal
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:527
@@ -10365,8 +10405,8 @@ msgid ""
 "Urvatha? Of course I would make sure to subvert the Seer’s prophecy in "
 "advance."
 msgstr ""
-"Разве ты не знала, что мои информаторы разбросаны по всему Урвату? Конечно, "
-"я бы заранее подорвал пророчество Зрящей."
+"Разве ты не знала, что мои лазутчики разбросаны по всему Урвату? Конечно, я "
+"бы заранее подорвал пророчество Зрящей."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1910
@@ -10867,12 +10907,12 @@ msgstr ""
 msgid ""
 "That entire forest... it doesn’t exist anymore... the entire place... Oh "
 "gods..."
-msgstr ""
+msgstr "Весь тот лес… он больше не существует… всё то место… О боги…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:784
 msgid "I could’ve killed him. I could’ve killed Nar-hamoth..."
-msgstr ""
+msgstr "Я могла убить его. Я могла убить Нар-хамота…"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:789
@@ -11626,12 +11666,12 @@ msgstr "Южный Келенвар"
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:456
 msgid "<s>Moon Guard Post</s>"
-msgstr ""
+msgstr "<s>Лунная Застава</s>"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:570
 msgid "Capture Zaraphor’s keep and castle before turn 10"
-msgstr ""
+msgstr "Захватите штаб и замок Зарафора до начала хода 10"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:572
@@ -11639,6 +11679,7 @@ msgid ""
 "Any number of enemy leaders standing on Zaraphor’s keep and castle by the "
 "start of turn 10"
 msgstr ""
+"В начале хода 10 в замке Зарафора находится хотя бы один вражеский лидер"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:591
@@ -11715,7 +11756,7 @@ msgstr ""
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:658
 msgid "Yes!"
-msgstr ""
+msgstr "Да!"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:663
@@ -11733,7 +11774,7 @@ msgstr ""
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:674
 msgid "You can now recruit the following unit types:"
-msgstr ""
+msgstr "Теперь Вы можете вербовать бойцов следующего рода:"
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:676
@@ -11819,7 +11860,7 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:879
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:1178
 msgid "Both playing teams retrieve $temp_gold_retrieval_amount pieces of gold."
-msgstr ""
+msgstr "Обе команды игроков получают $temp_gold_retrieval_amount золотых."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:915
@@ -12494,7 +12535,7 @@ msgstr ""
 #. [option]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2188
 msgid "Is there cake in the Iron Council’s citadel?"
-msgstr ""
+msgstr "В цитадели Железного Совета есть тортик?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2217
@@ -12502,11 +12543,13 @@ msgid ""
 "... There has been cake in the citadel countless times, so I would venture "
 "to say there may be some in there right now."
 msgstr ""
+"… Тортик был в цитадели бесчисленное число раз — рискну предположить, что он "
+"есть там прямо сейчас."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2222
 msgid "YES!"
-msgstr ""
+msgstr "УРА!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2232
@@ -12606,6 +12649,8 @@ msgid ""
 "Daeira. Few creatures on this world have ever heard my name and even fewer "
 "have lived to tell others of my existence."
 msgstr ""
+"Дэйра. Немногие существа из этого мира когда-либо слышали моё имя, и ещё "
+"меньше прожили, чтобы поведать другим о моём существовании."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2344
@@ -12620,6 +12665,8 @@ msgid ""
 "And now, I must leave. Farewell, Anya, and may Xia’el’s blessings accompany "
 "you on this fight."
 msgstr ""
+"Теперь же мне пора уходить. Прощай, Аня, и да прибудет с тобой "
+"благословление Ксиаэль в этом бою."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2373
@@ -12765,12 +12812,12 @@ msgstr "Вход"
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:844
 msgid "All recruits are free of cost and require zero upkeep"
-msgstr ""
+msgstr "Все бойцы бесплатны и не требуют содержания"
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:845
 msgid "You can only have up to eight allies on the map simultaneously"
-msgstr ""
+msgstr "Вы можете держать на карте не более восьми союзников одновременно"
 
 #. [message]: speaker=Teremor
 #. [message]: speaker=Aradellys
@@ -12779,13 +12826,13 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:477
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2862
 msgid "What brings you here?"
-msgstr ""
+msgstr "Что привело тебя сюда?"
 
 #. [message]: speaker=Vyrelyam
 #. "The Fire of Uria" refers to Elyssa.
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:877
 msgid "A message from the Demon Lord of the Storms, for the Fire of Uria."
-msgstr ""
+msgstr "Послание от Демонической Владыки Бурь, для Огня Урии."
 
 #. [message]: speaker=Ryghel
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:882
@@ -12793,6 +12840,8 @@ msgid ""
 "The captain said we are not supposed to let anyone in for now! You’ll have "
 "to wait until he comes back from his inspection."
 msgstr ""
+"Капитан сказал, что нам сейчас не предполагается пускать кого-либо внутрь! "
+"Тебе придётся подождать, пока он вернётся с осмотра."
 
 #. [message]: speaker=Vyrelyam
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:887
@@ -12800,6 +12849,8 @@ msgid ""
 "Time is of the essence. Do you really wish to anger your masters by making "
 "them wait more than is absolutely necessary?"
 msgstr ""
+"Время имеет значение. Неужели вы хотите разозлить своих властителей, "
+"заставив их ждать больше, чем необходимо?"
 
 #. [message]: speaker=Teremor
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:892
@@ -12809,11 +12860,15 @@ msgid ""
 "or just forget about it. Unless you would prefer to entertain us for a while "
 "in exchange for letting you pass, heh heh."
 msgstr ""
+"Смотри, деваха, наши властители могут катится к чёртовой матери, меня это не "
+"волнует. Либо ты доставишь своё проклятое сообщение капитану и убедишь его "
+"пропустить тебя внутрь, либо просто забудь об этом. Если, конечно, ты не "
+"желаешь чуть-чуть нас поразвлечь в обмен на пропуск, хе-хе."
 
 #. [message]: speaker=Vyrelyam
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:897
 msgid "I want to speak to your captain. Where is he?"
-msgstr ""
+msgstr "Я желаю поговорить с вашим капитаном. Где он?"
 
 #. [message]: speaker=Ryghel
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:906
@@ -12821,6 +12876,8 @@ msgid ""
 "He’s probably in the storerooms right now. Go to your right and turn at the "
 "last passage down the corridor."
 msgstr ""
+"Вероятно, он сейчас на складе. Иди направо и поверни в последний проход "
+"около конца коридора."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:923
@@ -12837,16 +12894,18 @@ msgstr "Кто идёт?"
 msgid ""
 "Sir, I have been sent by the Demon Lord of the Storms to bring a message to—"
 msgstr ""
+"Господин, меня послала Демоническая Владыка Бурь, чтобы доставить послание "
+"для—"
 
 #. [message]: speaker=Captain Verathorn
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:971
 msgid "Is it anything you aren’t allowed to pass on to me?"
-msgstr ""
+msgstr "В нём есть что-нибудь, что нельзя передать мне?"
 
 #. [message]: speaker=Vyrelyam
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:976
 msgid "... Yes, quite so. I would prefer to talk to the Fire in pe—"
-msgstr ""
+msgstr "… Да, есть парочка мест. Я бы хотела поговорить с Огнём лич—"
 
 #. [message]: speaker=Captain Verathorn
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:981
@@ -12856,6 +12915,10 @@ msgid ""
 "this fortress tonight”. Maybe those deaf sluggards at the main gate need a "
 "lesson or two...?"
 msgstr ""
+"Огонь прямо сейчас не желает видеть никого в своей комнате, или где-то ещё, "
+"раз на то пошло. Она сама сказала: “Я против того, чтобы кто-либо заходил в "
+"крепость этой ночью”. Наверное, тем глухим бездельникам у главных врат стоит "
+"преподать урок или даже два…?"
 
 #. [message]: speaker=Captain Verathorn
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:990
@@ -12873,11 +12936,13 @@ msgid ""
 "I hadn’t seen your face around before. But there’s something oddly familiar "
 "about it..."
 msgstr ""
+"Я раньше не видывал твоего лица. Но в нём есть нечто очень мне знакомое…"
 
 #. [message]: speaker=Vyrelyam
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1005
 msgid "Is that so? ... Perhaps you may also recall torturing an elf or two..."
 msgstr ""
+"Разве? … Быть может, Вы вспомните, как пытали одного или даже парочку эльфов…"
 
 #. [message]: speaker=Captain Verathorn
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1014
@@ -12890,6 +12955,8 @@ msgid ""
 "Well... that didn’t work as planned. We must find a way to open that gate by "
 "ourselves."
 msgstr ""
+"Что ж… не всё пошло, как задумано. Нужно найти способ открыть те врата "
+"самостоятельно."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1033
@@ -12909,7 +12976,7 @@ msgstr "Харакас"
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1040
 msgid "Move your leader back to the entrance chamber"
-msgstr ""
+msgstr "Передвиньте вашего лидера назад во входную комнату"
 
 #. [message]: speaker=Irumia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1068
@@ -12919,7 +12986,7 @@ msgstr "Вот она!"
 #. [message]: speaker=Melor
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1073
 msgid "Your illusions can’t deceive me, faerie witch!"
-msgstr ""
+msgstr "Твои иллюзии меня не обманут, ведьма файери!"
 
 #. [message]: speaker=Teremor
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1106
@@ -12929,7 +12996,7 @@ msgstr "Схватить её, быстрее!"
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1111
 msgid "There goes our infiltration plan. To arms!"
-msgstr ""
+msgstr "Вот и наш план проникновения. К оружию!"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1150
@@ -12954,6 +13021,9 @@ msgid ""
 "the corrupted goddess’ influence from this earth; not without the power "
 "hidden beneath Kalari."
 msgstr ""
+"Слова Эргеи ясны: нам не победить в этой войне и не очистить эту землю от "
+"влияния порочной богини — если только мы не найдём силу, что спрятана в "
+"глубинах Калари."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1225
@@ -12964,11 +13034,15 @@ msgid ""
 "reality to quench her dreadful thirst for power. I have to do something to "
 "prevent that."
 msgstr ""
+"Я не намереваюсь стоять и смотреть, как она обращает наш разрушенный мир в "
+"рассадник для её армии вторжения. И я не могу жить, зная, что в её планах "
+"разорвать ещё один мир на части и поставить под угрозу само бытие, дабы "
+"насытить свою ужасающую жажду власти. Я должна это предотвратить."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1227
 msgid "No matter the cost."
-msgstr ""
+msgstr "Во что бы то ни стало."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1313
@@ -12976,13 +13050,15 @@ msgid ""
 "elynia^This is not the right corridor. We must find a way leading to the "
 "transport room."
 msgstr ""
+"Это не тот коридор, который нам нужен. Мы должны отыскать путь, ведущий к "
+"лифту."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1319
 msgid ""
 "elynia^That is not the right corridor. We must find a way leading to the "
 "transport room."
-msgstr ""
+msgstr "Тот коридор нам не нужен. Мы должны отыскать путь, ведущий к лифту."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1343
@@ -13049,6 +13125,11 @@ msgid ""
 "than a small rock in combat — not that Elynia has any units that are trained "
 "in sword-fighting anyway."
 msgstr ""
+"Сей меч, забытый временем, однажды принадлежал герою легенд, наверняка "
+"славному и величественному даже в своей гибели, как и подобает настоящим "
+"героям. Увы, с тех пор клинок насквозь проржавел, и как только его подбирает "
+"боец, он разламывается пополам. Теперь меч в бою не лучше камня — да у "
+"Элинии и нет бойцов, обученных фехтованию."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1597
@@ -13071,6 +13152,8 @@ msgid ""
 "This small axe is not particularly suitable for combat at close quarters, "
 "but it may come in handy as a throwable weapon."
 msgstr ""
+"Этот топорик не совсем подходит для борьбы в ближнем бою, но он сгодится в "
+"виде метательного оружия."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1640
@@ -13078,6 +13161,8 @@ msgid ""
 "This small axe could be useful in the hands of a trained man or demon "
 "fighter."
 msgstr ""
+"Этот небольшой топор может быть полезен в руках обученного человеческого или "
+"демонического бойца."
 
 #. [object]: id=throwing_axe
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1645
@@ -13090,6 +13175,8 @@ msgid ""
 "The unit wielding this weapon may use it for long range combat to inflict "
 "some considerable blade damage."
 msgstr ""
+"Боец, несущий это оружие, может воспользоваться им в дальнем бою, чтобы "
+"нанести довольно значительный урон режущего свойства."
 
 #. [effect]: type=blade
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1656
@@ -13103,6 +13190,9 @@ msgid ""
 "living opponents in melee combat to increase attack efficiency through its "
 "devastating effects on their health."
 msgstr ""
+"Яд из этой банки можно нанести на когти или лезвия и использовать против "
+"живых противников в ближнем бою, чтобы усилить урон от атак с помощью его "
+"разрушительного воздействия на здоровье жертв."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1706
@@ -13111,6 +13201,9 @@ msgid ""
 "used against living opponents by a trained melee fighter or a staff-wielding "
 "magic user."
 msgstr ""
+"Этот большой сосуд содержит яд, который опытный боец ближнего боя или "
+"обладатель посоха может нанести на когти или иной вид оружия и использовать "
+"против живых противников."
 
 #. [object]: id=poison_jar
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1711
@@ -13123,6 +13216,8 @@ msgid ""
 "The unit employing this foul-smelling death catalyst can poison living "
 "opponents by dealing damage with its melee attacks."
 msgstr ""
+"Боец, который использует этот зловонный катализатор смерти, может отравлять "
+"живых противников своими атаками ближнего боя."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1745
@@ -13131,6 +13226,8 @@ msgid ""
 "from beyond to claim her rightful place amongst the Guardians of the Second "
 "Cycle."
 msgstr ""
+"Тем днём Длиннейшей Ночи Новый Страж Тьмы возродится из-за грани, чтобы "
+"забрать себе её законное место среди Стражей Второго Цикла."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1747
@@ -13138,11 +13235,12 @@ msgid ""
 "On that day, the New Guardian of Life shall rise again, more powerful than "
 "before."
 msgstr ""
+"Тем днём восстанет вновь Новый Страж Жизни, ещё могущественней, чем доселе."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1749
 msgid "That is the day we have lived for."
-msgstr ""
+msgstr "Вот — день, ради которого мы жили."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1751
@@ -13150,12 +13248,14 @@ msgid ""
 "The day that shall bring upon our doomed existence the promise of a new "
 "beginning."
 msgstr ""
+"Этот день внесёт в наше обречённое существование обещание нового начала."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1781
 msgid ""
 "We must all enter the transport room together — nobody should be left behind."
 msgstr ""
+"Мы войдём в транспортный отсек все вместе — никто не должен остаться позади."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1787
@@ -13202,6 +13302,10 @@ msgid ""
 "for we intend to send you all to the abyss together, and not precisely to "
 "die..."
 msgstr ""
+"Леди Света и её недалёкие новые подопечные, верно? Нам следовало знать, что "
+"Эргеи и её роду нельзя доверять. Надеюсь, тебе нравится их сопровождение, "
+"ибо мы намереваемся послать вас всех в преисподнею, и не совсем в мёртвом "
+"виде…"
 
 #. [message]: speaker=Mal Gulgolet
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2343
@@ -13210,6 +13314,9 @@ msgid ""
 "be trusted. Too bad that your cohorts didn’t make it; we wanted to send you "
 "all to the abyss together, and not precisely to die..."
 msgstr ""
+"Леди Света, верно? Нам следовало знать, что Эргеи и её роду нельзя доверять. "
+"Как жаль, что твои подопечные не справились; мы хотели послать вас всех в "
+"преисподнею, и не совсем в мёртвом виде…"
 
 #. [message]: speaker=Elynia
 #. 'Master' here in feminine, referring to Elyssa (the 'Fire').
@@ -13218,6 +13325,8 @@ msgid ""
 "Save your boasting for later — it will not help you win the battle on the "
 "surface and we are well accustomed to it at this point. Where is your master?"
 msgstr ""
+"Оставь свою болтовню на потом — она не поможет вам победить в битве на "
+"поверхности, и мы уже все к ней привыкли. Где твоя госпожа?"
 
 #. [message]: speaker=Mal Gulgolet
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2356
@@ -13226,6 +13335,9 @@ msgid ""
 "fortress defenses are already disposing of your pathetic allies above. But "
 "it is not <i>your</i> place to ask questions here. Now..."
 msgstr ""
+"Наши <i>господа</i> заняты своими собственными непостижимыми планами, а "
+"оборона крепости уже избавляется от твоих никчёмных союзников наверху. Но не "
+"<i>тебе</i> здесь задавать вопросы. Теперь же…"
 
 #. [message]: speaker=Mal Gulgolet
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2365
@@ -13233,16 +13345,18 @@ msgid ""
 "Would you prefer to go down fighting, or surrender and let us take you to "
 "the Fire?"
 msgstr ""
+"Ты предпочтёшь продолжить сражаться или сдашься и позволишь нам привести "
+"тебя к Огню?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2374
 msgid "I’ll let you have a guess."
-msgstr ""
+msgstr "Догадайся."
 
 #. [message]: speaker=Mal Gulgolet
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2389
 msgid "... heh. The Fire was right... about you..."
-msgstr ""
+msgstr "… хех. Огонь была права… насчёт тебя…"
 
 #. [unit]: type=Demon Spelldancer, id=Talia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2406
@@ -13264,7 +13378,7 @@ msgstr "Это…"
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2627
 msgid "Those passages appear to lead somewhere."
-msgstr ""
+msgstr "Похоже, эти проходы куда-то ведут."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2723
@@ -13272,6 +13386,8 @@ msgid ""
 "A secret passage. Not particularly ingenious. Although... it might lead to "
 "the cave Ergea mentioned."
 msgstr ""
+"Тайный проход. Не совсем изобретательно. Хотя… он может вести в пещеру, о "
+"которой упоминала Эргея."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2746
@@ -13284,6 +13400,8 @@ msgid ""
 "It’s the other necromancer, member of the Iron Triad. Perhaps, if we take "
 "her down... we might be able to force her to give us some directions."
 msgstr ""
+"Это — ещё одна некромантка, член Железной Триады. Быть может, если мы её "
+"схватим… нам удастся заставить её дать несколько ответов."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2840
@@ -13291,6 +13409,8 @@ msgid ""
 "It’s the other necromancer, member of the Iron Triad. Perhaps, if I take her "
 "down... I might be able to force her to give me some directions."
 msgstr ""
+"Это — ещё одна некромантка, член Железной Триады. Быть может, если я её "
+"схвачу… мне удастся заставить её дать несколько ответов."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2852
@@ -13303,6 +13423,8 @@ msgid ""
 "You are the other necromancer from the Iron Triad, aren’t you? Where is your "
 "master hiding? Where is the Ruby of Fire?"
 msgstr ""
+"Ты — ещё одна некромантка из Железной Триады, не так ли? Где скрывается твоя "
+"повелительница? Где Рубин Огня?"
 
 #. [message]: speaker=narrator
 #. [part]
@@ -13321,12 +13443,12 @@ msgstr "Ты собираешься отвечать?"
 #. [message]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2911
 msgid "There is something wrong about her eyes..."
-msgstr ""
+msgstr "С её глазами что-то неладно…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2916
 msgid "I don’t have time for this."
-msgstr ""
+msgstr "У меня нет на это времени."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2941
@@ -13336,6 +13458,9 @@ msgid ""
 "saw anything like this the last time I was here. Why would they do this to "
 "her, though?"
 msgstr ""
+"Её лишили собственной воли… и обратили в живую куклу… Неожиданно, победа над "
+"ней уже и не кажется каким-то достижением. Не думаю, что в прошлый раз я "
+"видела здесь что-то подобное. Однако почему они с ней так поступили?"
 
 #. [message]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2951
@@ -13343,6 +13468,8 @@ msgid ""
 "My lady, we should proceed onwards, quickly. We don’t have much more time, "
 "and the Fire of Uria will not take kindly to all these casualties."
 msgstr ""
+"Миледи, нам следует идти вперёд, и быстрее. У нас почти не осталось времени, "
+"а Огню Урии все эти потери навряд ли придутся по нраву."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2956
@@ -13350,6 +13477,8 @@ msgid ""
 "Indeed, let us continue down this passage. If Ergea’s instructions are "
 "correct, there is a large stone chamber ahead."
 msgstr ""
+"Верно, продолжим спуск по этому проходу. Если наставления Эргеи верны, "
+"впереди находится крупная каменная полость."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2962
@@ -13357,21 +13486,23 @@ msgid ""
 "I should just continue down this passage. If Ergea’s instructions are "
 "correct, there is a large stone chamber ahead."
 msgstr ""
+"Просто продолжу спуск по этому проходу. Если наставления Эргеи верны, "
+"впереди находится крупная каменная полость."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3001
 msgid "Move Elynia into the chamber"
-msgstr ""
+msgstr "Передвиньте Элинию в нужный отсек"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3141
 msgid "We are trapped in this chamber..."
-msgstr ""
+msgstr "Мы пойманы в этой полости…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3147
 msgid "I am trapped in this chamber..."
-msgstr ""
+msgstr "Я поймана в этой полости…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3171
@@ -13379,6 +13510,8 @@ msgid ""
 "(<i>chuckles</i>) That’s were you want us to go. Isn’t that correct... "
 "Elyssa?"
 msgstr ""
+"(<i>посмеивается</i>) Значит, ты хочешь, чтобы мы пошли туда. Не так ли… "
+"Элисса?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3177
@@ -13386,16 +13519,18 @@ msgid ""
 "(<i>chuckles</i>) That’s were you want me to go. Isn’t that correct... "
 "Elyssa?"
 msgstr ""
+"(<i>посмеивается</i>) Значит, ты хочешь, чтобы я пошла туда. Не так ли… "
+"Элисса?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3200
 msgid "You could have opened the gate for me, at the very least."
-msgstr ""
+msgstr "Могла бы и открыть для меня дверь, между прочем."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3210
 msgid "Find a way to open the chamber exit gate to proceed"
-msgstr ""
+msgstr "Найдите способ открыть врата, запирающие выход, чтобы пройти дальше"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3265
@@ -13403,16 +13538,18 @@ msgid ""
 "Elynia already has the glyph’s spell. Move her next to the chamber exit to "
 "open it."
 msgstr ""
+"Элиния уже владеет заклинанием этого кристалла. Передвиньте её к выходу, "
+"чтобы открыть врата."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3272
 msgid "Elynia should be the one to investigate this glyph."
-msgstr ""
+msgstr "Этот кристалл следует исследовать Элинии."
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3287
 msgid "Barrier Spell"
-msgstr ""
+msgstr "Заклинание Врат"
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3290
@@ -13420,16 +13557,18 @@ msgid ""
 "This spell allows the unit to open any barriers that were originally sealed "
 "with the same spell."
 msgstr ""
+"Это заклинание позволяет бойцу открыть любые врата, которые изначально "
+"запечатали тем же заклинанием."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3303
 msgid "Move Elynia next to the chamber exit gate to proceed"
-msgstr ""
+msgstr "Передвиньте Элинию ко вратам у выхода из отсека, чтобы пройти дальше"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3401
 msgid "... So you want me to proceed alone. Very well, then."
-msgstr ""
+msgstr "… Ты хочешь, чтобы я прошла одна. Что ж, ладно."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3473
@@ -13450,6 +13589,22 @@ msgid ""
 "Despite originally lacking a guardian and a seed, Urvatha has become the "
 "domain of the New Guardian of Life."
 msgstr ""
+"<b>Урвата</b>\n"
+"\n"
+"Первоначально спокойный мир, не предназначенный для цивилизованной жизни; "
+"Илювия выбрала Урвату в качестве одного из прибежищ для выживших в Первом "
+"Цикле.\n"
+"\n"
+"Со временем отсутствие стража, что мог бы повести их, привело к "
+"продолжительным и разрушительным войнам за всё более скудные ресурсы — таким "
+"образом, мир заработал новое имя как для посторонних, так и для его жителей: "
+"‘Инферно’.\n"
+"\n"
+"Хотя Урвата продолжает оставаться по большей части неоднородной, её самые "
+"негостеприимные области куда более известны в Ирдии, чем остальные.\n"
+"\n"
+"Вопреки начальному отсутствию стража и семени, Урвата стала царством Нового "
+"Стража Жизни."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3483
@@ -13469,6 +13624,20 @@ msgid ""
 "Despite originally lacking a guardian and a seed, Silida has become the "
 "domain of the New Guardian of Earth."
 msgstr ""
+"<b>Силида</b>\n"
+"\n"
+"Первоначально бесплодный мир, не предназначенный для цивилизованной жизни; "
+"Илювия выбрала Силиду в качестве одного из прибежищ для выживших в Первом "
+"Цикле.\n"
+"\n"
+"Сказано, что перед тем, как они были стёрты из существования, Стражи Жизни и "
+"Бытия сделали этот безжизненный мир новым домом своих народов. Однако их "
+"задача так и осталась неоконченной, и новые обитатели мира вымерли спустя "
+"несколько поколений. Лишь только через множество тысячелетий Силиду заново "
+"заселили существа файери.\n"
+"\n"
+"Вопреки начальному отсутствию стража и семени, Силида стала царством Нового "
+"Стража Земли."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3491
@@ -13479,6 +13648,12 @@ msgid ""
 "many trials they would face during the First Cycle, and the betrayal that "
 "would result in the abrupt end of their own existence."
 msgstr ""
+"Первые Боги создали нас и действительность, в которой мы живём, с "
+"намерением, что наша собственная Первоначальная Десятка будет защищать их "
+"творение и править над ним, и со временем полностью заменит своих праотцов. "
+"Но не ведали они о многих испытаниях, что выпадут на их долю во время "
+"Первого Цикла, и о предательстве, что обернётся скорым концом их же "
+"существования."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3493
@@ -13487,6 +13662,9 @@ msgid ""
 "universe would manipulate the order of events to ensure an entryway through "
 "the Tree of Life itself."
 msgstr ""
+"И не ведали они, что та же самая сила порчи, сила, которая однажды изувечила "
+"их вселенную, вмешается в ход событий, чтобы обеспечить себе выход через "
+"само Древо Жизни."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3495
@@ -13495,6 +13673,9 @@ msgid ""
 "directly to the Tree through their very hearts. And then it would corrupt "
 "the Tree, and its Protector."
 msgstr ""
+"Она удостоверилась, что души десяти демонов-богов будут напрямую соединены с "
+"Древом через их истинные сердца. А затем эта сила поразила Древо и его "
+"Защитника."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3501
@@ -13505,6 +13686,11 @@ msgid ""
 "The songs of our own Ten will never be uttered within the boundaries of our "
 "existence, and the wound on the Tree will never be healed."
 msgstr ""
+"Первых Богов больше нет, и ныне Древо совершенно беззащитно. Нашей вселенной "
+"и нашим стражам не удастся исполнить своё предназначение. И даже Делетия не "
+"могла увидеть это, пока не окончился Первый Цикл. Песни нашей собственной "
+"Десятки никогда не произнесут в границах нашего бытия, а рана на Древе "
+"никогда не будет исцелена."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3503
@@ -13513,6 +13699,9 @@ msgid ""
 "however, her greatly increased foresight and power after defeating Yarae did "
 "allow her to alter it to a limited extent."
 msgstr ""
+"И даже в последний миг Делетия не могла полностью овладеть окончательным "
+"итогом; однако её значительно возросшее предвидение и могущество после "
+"победы над Яраэ позволили ей вмешаться в него до некоторой степени."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3505
@@ -13521,11 +13710,15 @@ msgid ""
 "the Gatekeepers. She entrusted Uria and Xia’el with the devices necessary to "
 "put her secret plan into motion. The Second Cycle began."
 msgstr ""
+"Наши жизни были тщательно устроены перед тем, как она принесла в жертву свою "
+"собственную, чтобы сотворить Привратников. Она доверила Урии и Ксиаэль "
+"средства, необходимые, чтобы привести её тайный план в исполнение. Начался "
+"Второй Цикл."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3507
 msgid "At the end, only Four will prevail."
-msgstr ""
+msgstr "В конце возобладают лишь Четверо."
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3623
@@ -13533,6 +13726,8 @@ msgid ""
 "You have eight allies on the map already. You cannot recruit additional "
 "units at this time!"
 msgstr ""
+"У вас уже есть восемь союзников на карте. Вы сейчас не можете завербовать "
+"новых бойцов!"
 
 #. [scenario]: id=09_Dark_Depths, id=Elynia
 #. [part]
@@ -13674,7 +13869,7 @@ msgstr ""
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:574
 msgid "You pick up a curious crystal shard."
-msgstr ""
+msgstr "Вы подбираете необычный осколок кристалла."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:667
@@ -16479,7 +16674,7 @@ msgstr "Меркал"
 #. [side]: type=Armageddon Imp, id=Demon Lord Rhalgar'agael
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:278
 msgid "Demon Lord Rhalgar’agael"
-msgstr "Лорд-Демон Ралгараэль"
+msgstr "Владыка Ралгараэль"
 
 #. [side]: type=Armageddon Imp, id=Demon Lord Rhalgar'agael
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:286
@@ -16647,7 +16842,7 @@ msgstr "(Остался один дрон)"
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:683
 msgid ""
 "I can barely see through this fog and smoke, but, those are the city walls."
-msgstr ""
+msgstr "Сквозь туман и дым ничего не разглядеть, но это — городские стены."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:693
@@ -16657,12 +16852,12 @@ msgstr "<i>Развей туман.</i>"
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:698
 msgid "Who said that?"
-msgstr ""
+msgstr "Кто это сказал?"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:703
 msgid "Uh, I haven’t said anything..."
-msgstr ""
+msgstr "А? Я ничего не говорил…"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:733
@@ -16670,11 +16865,12 @@ msgid ""
 "This has only just begun. Who are you and why have you come to this capital "
 "of destruction—"
 msgstr ""
+"Всё только начинается. Кто вы и что вас привело к этой столице разрушения—"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:740
 msgid "I know you. Aren’t you—"
-msgstr ""
+msgstr "Я тебя знаю. Не ты ли—"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:745
@@ -16682,6 +16878,8 @@ msgid ""
 "The Lady of Light! We are saved! Hear, everyone, the gods have finally "
 "answered our prayers! She has returned!"
 msgstr ""
+"Леди Света! Мы спасены! Внемлите, все! Боги наконец ответили на наши "
+"молитвы! Она вернулась!"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:748
@@ -16701,7 +16899,7 @@ msgstr "Да здравствует Леди Света!"
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:758
 msgid "You appear to be quite popular here."
-msgstr ""
+msgstr "Похоже, ты здесь довольно знаменита."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:763
@@ -16710,6 +16908,9 @@ msgid ""
 "that was a long time ago, after all. If I’m not mistaken you are Irylean, "
 "one of Galas’ old advisors?"
 msgstr ""
+"Довольно неожиданно, учитывая обстоятельства моего предыдущего возвращения, "
+"но в конце концов оно было давно. Если я не ошибаюсь, ты — Ирилеан, одна из "
+"бывших советников Галаса?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:768
@@ -16720,6 +16921,11 @@ msgid ""
 "rumors that many members of the Grand Council were killed by the initial "
 "charges that destroyed the walls."
 msgstr ""
+"Верно, миледи, но с тех пор, как лорд Галас нас покинул, я ушла в отставку и "
+"поселилась в этой когда-то процветавшей земле. Никто не ожидал наступления "
+"демонов, но мы делаем всё возможное, чтобы отбросить их силы. К сожалению, "
+"ходят слухи, что большинство членов Великого Совета погибло при первых "
+"взрывах, когда рухнули стены."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:786
@@ -16734,7 +16940,7 @@ msgstr "О, Повелители Света, что случилось со ст
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:797
 msgid "<i>Look around.</i>"
-msgstr ""
+msgstr "<i>Осмотритесь.</i>"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:838
@@ -16747,6 +16953,8 @@ msgid ""
 "Lady of Light, the Grand Council—or what remains of it anyway—sent me with a "
 "message for you, from our seer."
 msgstr ""
+"Леди Света, Великий Совет — точнее то, что от него осталось — послал меня "
+"передать Вам сообщение от нашей зрящей."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:850
@@ -16760,6 +16968,9 @@ msgid ""
 "highest walls were struck down by strange exploding creatures of the enemy — "
 "and our scouts have spotted more of the things approaching the capital."
 msgstr ""
+"Она цела и невредима, но ей нужна ваша помощь— нам всем нужна ваша помощь. "
+"Наши высочайшие стены обрушили странные, взрывающиеся существа противника — "
+"и наши разведчики обнаружили ещё больше этих штуковин на подходе к столице."
 
 #. [message]: speaker=Vaenceth
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:881
@@ -16768,11 +16979,14 @@ msgid ""
 "the main keep where the remaining Grand Council members are. Should we lose "
 "the keep..."
 msgstr ""
+"Если мы собираемся защитить Раэлтын, мы должны удостоверится, что они не "
+"достигнут главной башни, где пребывают оставшиеся члены Великого Совета, и "
+"не разрушат её. Потеряй мы твердыню…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:886
 msgid "That would be a huge blow against everyone’s morale, I know."
-msgstr ""
+msgstr "Народный дух потерпит огромный удар, знаю."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:891
@@ -16780,11 +16994,13 @@ msgid ""
 "I didn’t expect more of them to be heading here! I saw them in action... "
 "Attempting to stop them might not have been my brightest plan."
 msgstr ""
+"Я не ожидала, что они направятся сюда в ещё большем числе! Я видела их в "
+"действии… Пытаться их остановить было, возможно, не лучшим моим планом."
 
 #. [message]: speaker=Vaenceth
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:896
 msgid "Lord Torancyn said we should take them down no matter the cost."
-msgstr ""
+msgstr "Лорд Торанцин сказал, что мы должны сбить их с пути любой ценой."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:901
@@ -16795,13 +17011,19 @@ msgid ""
 "hope there are desperate souls willing to give up their lives for the city "
 "amongst his troops. Irylean?"
 msgstr ""
+"Какой самоубийственный подход. Конечно, это едва ли доставит неудобств, "
+"когда все вовлечённые и без того мертвы, но мы не успеем перехватить "
+"остальных дронов до того, как они доберутся до крепости. Догадываюсь, он "
+"собирается принести в жертву своих собственных людей: ему следует надеяться, "
+"что среди его войск ещё остались отчаянные души, и они желают отдать свою "
+"жизнь за город. Ирилеан?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:906
 msgid ""
 "I’m at your service, my lady. And I presume the good people of Arphalad are "
 "as well."
-msgstr ""
+msgstr "К Вашим услугам, миледи. Как, полагаю, и славные жители Арфалада."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:911
@@ -16811,16 +17033,20 @@ msgid ""
 "those creatures and force their leaders to retreat or else, and you will "
 "help us."
 msgstr ""
+"Я советую тебе подумать ещё раз о своей отставке. Если мы победим здесь, мне "
+"может потребоваться твоя помощь для моего собственного похода. Но сейчас нам "
+"необходимо одолеть тех существ и заставить их предводителей отступить, а ты "
+"нам поможешь."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:918
 msgid "Of course, my lady."
-msgstr ""
+msgstr "Конечно, миледи."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:923
 msgid "It’s time to get moving."
-msgstr ""
+msgstr "Пора выдвигаться."
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:933
@@ -16833,11 +17059,18 @@ msgid ""
 "that recruited Walking Corpses are always of the Gryphon, Wolf, or Bat "
 "variations."
 msgstr ""
+"Теперь вы снова можете призывать неживых бойцов. Кроме того, Ирилеан и "
+"выжившие ополченцы Арфалада последуют за вами в ваших странствиях.\n"
+"\n"
+"Ирилеан, как правило, возрождает только трупы диких зверей, если только она "
+"не сможет нанести добивающий удар по жертве, уязвимой к чуме, своим оружием "
+"ближнего боя. Это означает, что завербованные Ходячие трупы будут всегда "
+"происходить от Грифонов, Волков или Летучих мышей."
 
 #. [message]: speaker=Torancyn
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:968
 msgid "Here they come."
-msgstr ""
+msgstr "Они приближаются."
 
 #. [message]: speaker=Valen
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:973
@@ -16846,6 +17079,8 @@ msgid ""
 "should have rallied any necromancers you could find in the nearby towns "
 "instead."
 msgstr ""
+"Разве мы потеряли недостаточно много солдат на защите города? Вы должны были "
+"собрать всех некромантов, которых можно найти, из соседних городов."
 
 #. [message]: speaker=Torancyn
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:978
@@ -16853,21 +17088,25 @@ msgid ""
 "The last one I trusted ended up betraying the Lady of Light, or that’s what "
 "you told us. What makes you think that we can ever accept their help again?"
 msgstr ""
+"Когда я доверился последней из них, она в итоге предала Леди Света, или что "
+"Вы об этом нам сказали. Что заставляет Вас считать, что мы когда-либо вновь "
+"примем их помощь?"
 
 #. [message]: speaker=Valen
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:983
 msgid "The notion that not all of them are like-minded."
-msgstr ""
+msgstr "Не все они мыслят подобным образом."
 
 #. [message]: speaker=Torancyn
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:990
 msgid "I’m not taking my chances. Especially not now that Arnesius and Illana—"
 msgstr ""
+"Я не стану испытывать судьбу. Особенно теперь, когда Арнесиус и Иллана—"
 
 #. [message]: speaker=Torancyn
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:999
 msgid "Let’s just proceed with the plan and be done with it."
-msgstr ""
+msgstr "Просто пойдём по плану и покончим с этим."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1021
@@ -16888,6 +17127,21 @@ msgid ""
 "be completely obliterated—the morale of the northern army would be utterly "
 "crushed."
 msgstr ""
+"Это — один из множества памятников, возведённых по всему городу в честь "
+"Адавян Эрагвийской, легендарной личности величайшей важности для народов "
+"Крайнего Севера.\n"
+"\n"
+"Прошло чуть более двух веков с тех пор, как колдунья Адавян разожгла войну, "
+"которая, в своё время, привела к объединению этих земель. Она основала "
+"Раэлтын и Великий Совет, и утвердила сей град безоговорочной столицей "
+"Крайнего Севера. Твердыня посреди города, та, что носит её благоговейное "
+"имя, стала не менее священным местом, чем храмы, посвящённые легендарным "
+"Повелителям Света.\n"
+"\n"
+"Раэлтын, столица мира, построен на костях всех, кто осмелился противиться "
+"правлению Адавян. Не все понимают эту иронию, но ежели Твердыня Адавян "
+"попадёт в руки врага — или, что хуже, будет стёрта с лица земли — боевой дух "
+"армии северян будет буквально раздавлен."
 
 #. [message]: id=Torancyn
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1131
@@ -17079,30 +17333,30 @@ msgstr "Включите устройство сообщения"
 #. The Seer of Uria is female.
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:606
 msgid "“The Seer”"
-msgstr ""
+msgstr "“Зрящая”"
 
 #. [scenario]: id=08A_Interim
 #. The Mother is Uria herself.
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:609
 msgid "“The Mother”"
-msgstr ""
+msgstr "“Мать”"
 
 #. [scenario]: id=08A_Interim
 #. The Fist is Zhangor.
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:612
 msgid "“The Fist”"
-msgstr ""
+msgstr "“Кулак”"
 
 #. [scenario]: id=08A_Interim
 #. The Shadow is Nar-hamoth.
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:615
 msgid "“The Shadow”"
-msgstr ""
+msgstr "“Тень”"
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:808
 msgid "Ah, it is you."
-msgstr "Ах, это ты."
+msgstr "А, это ты."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:813
@@ -17291,7 +17545,7 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:724
 #: After_the_Storm/episode3/storytxt.cfg:61
 msgid "Who are you?"
-msgstr ""
+msgstr "Кто ты?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1492
@@ -20048,7 +20302,7 @@ msgstr ""
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:720
 msgid "I guess... that explains why he’s such an unpleasant person."
-msgstr ""
+msgstr "Наверное… это объясняет, почему он такой грубый."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:739
@@ -20072,7 +20326,7 @@ msgstr ""
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:754
 msgid "You haven’t changed your mind..."
-msgstr ""
+msgstr "Ты не передумала…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:759
@@ -20521,6 +20775,9 @@ msgid ""
 "under a single banner again; perhaps the costs will be compensated before "
 "long."
 msgstr ""
+"И слов не хватит, чтобы выразить нашу благодарность за Ваше своевременное "
+"вмешательство, леди Анери. Я рад, что эльфы скоро будут вновь под единым "
+"знаменем; быть может, цену последних событий наконец можно будет восполнить."
 
 #. [message]: speaker=Unarye
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:139
@@ -20530,6 +20787,11 @@ msgid ""
 "enemies are roaming and ravaging our lands unimpeded. According to Elynia we "
 "are running out of time — for all we know Uria could already be on Irdya."
 msgstr ""
+"Я бы тоже на это надеялась, милорд, но будем мыслить трезво: нам не победить "
+"в этой войне, а вероятность нашего выживания кажется уже не настолько "
+"высокой, особенно теперь, когда враг шастает по нашим землям и "
+"беспрепятственно разоряет их. Если верить Элинии, наше время на исходе — "
+"судя по тому, что мы знаем, Урия уже может быть в Ирдии."
 
 #. [message]: speaker=Valen
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:144
@@ -20537,6 +20799,8 @@ msgid ""
 "I am truly sorry my vision can’t penetrate the veil beyond our frontiers "
 "with the old Chaos Empire."
 msgstr ""
+"Мне очень жаль, но моё зрение не может проникнуть сквозь пелену за гранью "
+"наших старых границ с Империей Хаоса."
 
 #. [message]: speaker=Unarye
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:149
@@ -20544,6 +20808,8 @@ msgid ""
 "There’s no need to apologize, my lady. We are powerless against this "
 "creature and her minions."
 msgstr ""
+"Нет нужды извинятся, госпожа. Мы бессильны против той твари и её "
+"приспешников."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:154
@@ -20552,6 +20818,9 @@ msgid ""
 "Valen, you told me you had found something; is it the journal I asked you to "
 "search?"
 msgstr ""
+"Какими бы мы бессильными ни были, я всё ещё хочу кое-что попробовать. Вален, "
+"как Вы мне говорили, вам удалось что-то найти: не тот ли дневник, который я "
+"попросила Вас отыскать?"
 
 #. [message]: speaker=Valen
 #. The orc is Horo (male), the elf is Kyara (female).
@@ -20565,6 +20834,13 @@ msgid ""
 "southwestern host, which has been under constant attack by enemy forces as "
 "of late."
 msgstr ""
+"Верно, миледи. Мы встретили орка и эльфийку поблизости Великого океана: они "
+"провели долгое время в странствиях по хаотичной области на юго-западе в "
+"попытках достигнуть нас. Мы послали войска к ним на помощь, но последние "
+"события внутри наших границ отложили их возвращение. Они сыскали убежища в "
+"форте Астар, около теперь уже стёртого с лица земли Гламдрольского рубежа. "
+"Там располагается наша главная юго-восточная армия, в последнее время форт "
+"подвергается постоянным нападением со стороны врага."
 
 #. [message]: speaker=Torancyn
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:165
@@ -20572,6 +20848,8 @@ msgid ""
 "We were meant to send reinforcements to Astar. You can probably guess the "
 "rest."
 msgstr ""
+"Мы должны были послать подкрепления в Астар. Ну а всё остальное вы уже "
+"знаете."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:170
@@ -20579,6 +20857,8 @@ msgid ""
 "Of course. Nevertheless, I shall go there with Irylean and whoever else is "
 "willing to join us along the way. That journal is far too important to lose."
 msgstr ""
+"Конечно. Тем не менее, я выступлю туда с Ирилеан и всеми, кто пожелают "
+"присоединиться к нам по пути. Тот дневник слишком важен, его нельзя потерять."
 
 #. [message]: speaker=Torancyn
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:175
@@ -20587,6 +20867,9 @@ msgid ""
 "that we need more men and women capable of defending this city, here. If "
 "Adavyan’s Keep falls..."
 msgstr ""
+"Догадываюсь, нет смысла вас останавливать. Но я бы хотел вам напомнить, что "
+"нам нужны мужчины и женщины, способные защитить город, здесь. Коли Твердыня "
+"Адавян падёт…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:180
@@ -20595,6 +20878,9 @@ msgid ""
 "though, what is the point of defending this place with a thousand swords if "
 "Uria can blast the entire fortress to smithereens in a blink?"
 msgstr ""
+"… Падёт и Крайний Север — я слышала эту легенду раньше. Но подумайте, "
+"однако, каков смысл защищать это место тысячами мечей, если Урия может "
+"взорвать всю крепость вдребезги за мгновенье ока?"
 
 #. [message]: speaker=Torancyn
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:185
@@ -20603,6 +20889,8 @@ msgid ""
 "declare this council meeting over now. May the Lords of Light protect you on "
 "your way."
 msgstr ""
+"Я подумаю над этим в более уместное время, Леди Света. Сейчас я объявляю "
+"текущее заседание совета оконченным. Да хранят ваш путь Повелители Света."
 
 #. [message]: speaker=Unarye
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:206
@@ -20611,6 +20899,9 @@ msgid ""
 "fighting the Chaos armies and doing their best to keep them away from "
 "Raelthyn. I—"
 msgstr ""
+"Элиния, боюсь, в этот раз я ничем не смогу вам помочь. Мой народ всё ещё "
+"сражается с армиями Хаоса и делает всё возможное, чтобы не подпустить их к "
+"Раэлтыну. Я—"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:211
@@ -20618,11 +20909,13 @@ msgid ""
 "Don’t worry, Unarye. I understand. I am sure we’ll be able to do this "
 "without Raelthyn’s help."
 msgstr ""
+"Не беспокойся, Анери. Я понимаю. Я уверена, мы справимся и без помощи от "
+"Раэлтына."
 
 #. [message]: speaker=Unarye
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:216
 msgid "I’ll see you again soon then, friend."
-msgstr ""
+msgstr "Значит, до скорой встречи, подруга."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:235
@@ -20635,6 +20928,8 @@ msgid ""
 "Would that your demonic ally hadn’t been forced to leave us so soon, don’t "
 "you think?"
 msgstr ""
+"Как жаль, что вашего демонического союзника заставили покинуть нас столь "
+"скоро."
 
 #. [message]: speaker=Valen
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:262
@@ -20644,11 +20939,15 @@ msgid ""
 "through this young lady’s hands worked within our frontiers. I saw him, and "
 "I saw you."
 msgstr ""
+"Элиния, я — зрящая. Как я уже говорила, моё зрение ограничено, и я не смогу "
+"вам рассказать о том, что таится в землях врага, но Владыка Демонов, что "
+"помогал вам руками этой юной леди, работал внутри наших границ. Я видела его "
+"— я видела Вас."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:267
 msgid "Why didn’t you tell us this before? We thought—"
-msgstr ""
+msgstr "Почему Вы раньше нам этого не сказали? Мы подумали—"
 
 #. [message]: speaker=Valen
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:274
@@ -20660,6 +20959,11 @@ msgid ""
 "longer speak in the name of the law. There is something I must tell you "
 "before I depart from this doomed land."
 msgstr ""
+"Что Великий Совет не поймёт? Да, и это правильная оценка, особенно сейчас, "
+"когда Торанцин провозглашён Верховным Лордом Эрагвийцев — он точно бы такого "
+"не одобрил. Но лорд Арнесиус мёртв, и я больше никому ничем не обязана, а "
+"что важнее всего, я больше не говорю от имени закона. Но всё же я должна Вам "
+"кое-что сказать перед тем, как покину эти обречённые земли."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:279
@@ -20677,17 +20981,26 @@ msgid ""
 "instruct the Lady of Light to meet with her in the Pass of Sorrows, north "
 "from Kalari Peninsula."
 msgstr ""
+"За ночь до того, как демоны атаковали эту местность, кто-то связался со мной "
+"напрямую: кто-то под именем Эргеи, Демонической Владыки Бурь. Она "
+"предупредила меня о том, что должно было произойти в Раэлтыне. Она "
+"предупредила меня о портале, ведущем в Калари, этот портал открыли в Аран-"
+"Балгуре, крепости, захваченной силами Урии вскоре после падения Императора. "
+"И, наконец, она сказала мне, как Леди Света сможет найти её в Перевале "
+"Печали, к северу от полуострова Калари."
 
 #. [message]: speaker=Valen
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:291
 msgid ""
 "She left my room as swiftly as she appeared and I haven’t heard of her since."
 msgstr ""
+"Она покинула мою комнату так быстро, как там появилась, и с тех пор я о ней "
+"не слышала."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:298
 msgid "Anya, do you know anything about this Ergea?"
-msgstr ""
+msgstr "Аня, ты что-нибудь знаешь об этой Эргеи?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:303
@@ -20698,6 +21011,11 @@ msgid ""
 "rebellious factions in her favor before — Elorran chose to work on his own "
 "to minimize the risk of betrayal."
 msgstr ""
+"Нет… Не совсем. Кажется, я однажды услышала, как Элорран упомянул "
+"Демоническую Владыку Бурь, но я не знаю ничего о её последователях или её "
+"приверженности кому-либо. Всё проводилось в строжайшей тайне, поскольку Урия "
+"не раз использовала непокорные фракции в своих целях — Элорран решился "
+"работать в одиночку, чтобы снизить до крайности риск предательства."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:308
@@ -20707,6 +21025,10 @@ msgid ""
 "guess... I never expected such heroism from a member of the species Uria "
 "uses to facilitate our destruction."
 msgstr ""
+"Девочка, если бы ты упомянула об этом раньше, я могла бы наотрез отказаться "
+"поддерживать его. Конечно, он остался верен своей цели до самого конца. "
+"Признаюсь… Я никогда не ожидала подобного героизма от представителя вида, "
+"который Урия использует, чтобы исполнить наше уничтожение."
 
 #. [message]: speaker=Valen
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:313
@@ -20716,6 +21038,10 @@ msgid ""
 "see this demoness again. I advise you do what you feel is right; the future "
 "is not my domain, and anything beyond Irdya is beyond my reach."
 msgstr ""
+"Миледи, боюсь, не мне говорить Вам, что делать дальше, учитывая, что мне "
+"недостаёт дальнейших сведений и что я больше не смогла увидеть ту демонессу "
+"снова или выйти с ней на связь. Я советую Вам делать то, что считаете "
+"правым; будущее — не моё царство, и всё, что вне Ирдии, вне моего взора."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:320
@@ -20724,11 +21050,15 @@ msgid ""
 "catastrophe... Fair enough. Thank you for this information and your support, "
 "Valen. May the Lords of Light guide your path, wherever you plan to go next."
 msgstr ""
+"В последний раз, когда мне сказали делать то, что считала правым, я в итоге "
+"вызвала катастрофу... Ясно. Благодарю Вас за эти сведения и за Вашу "
+"поддержку, Вален. Да освятят Повелители Света Ваш путь, куда бы он дальше не "
+"шёл."
 
 #. [message]: speaker=Valen
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:325
 msgid "Farewell, Lady of Light. May you all find your destiny."
-msgstr ""
+msgstr "Прощайте, Леди Света. Да найдёте вы все свою судьбу."
 
 #. [scenario]: id=08D_Destiny_part_2, type=Goblin Pillager
 #. [part]
@@ -22895,7 +23225,7 @@ msgstr ""
 #. [part]
 #: After_the_Storm/episode3/storytxt.cfg:147
 msgid "A Path to Follow"
-msgstr "Окольная тропа"
+msgstr "Тропа судьбы"
 
 #. [part]
 #: After_the_Storm/episode3/storytxt.cfg:148
