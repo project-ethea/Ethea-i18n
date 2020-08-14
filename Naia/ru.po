@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-08 04:50 UTC\n"
+"POT-Creation-Date: 2020-08-14 07:00 UTC\n"
 "PO-Revision-Date: 2020-08-08 09:49+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -130,7 +130,7 @@ msgid "necrosed: This unit is undergoing necrosis."
 msgstr "некроз: Этот боец находится в процессе некроза."
 
 #. [lua]: do_host_minimum_version_unmet
-#: Naia/lua/compat.lua:31
+#: Naia/lua/compat.lua:53
 msgid ""
 "This version of %s requires Wesnoth %s – %s and will not run on previous "
 "versions."
@@ -139,7 +139,7 @@ msgstr ""
 "может быть запущена на предыдущей версии."
 
 #. [lua]: do_host_maximum_version_number_unmet
-#: Naia/lua/compat.lua:37
+#: Naia/lua/compat.lua:59
 msgid ""
 "This version of %s requires Wesnoth %s – %s. Support for later versions is "
 "incomplete or untested, and there may be broken functionality. If you choose "
@@ -151,7 +151,7 @@ msgstr ""
 "это на свой страх и риск."
 
 #. [lua]: do_host_blacklisted_version
-#: Naia/lua/compat.lua:43
+#: Naia/lua/compat.lua:65
 msgid ""
 "This version of %s is not compatible with Wesnoth %s. You must use a "
 "different version in the %s – %s range."
@@ -160,7 +160,7 @@ msgstr ""
 "Используйте версию в промежутке %s – %s."
 
 #. [lua]: do_experimental_port_notice
-#: Naia/lua/compat.lua:49
+#: Naia/lua/compat.lua:71
 msgid ""
 "This is an experimental port of %s to Wesnoth %s.\n"
 "If you choose to continue, you must report any issues to the author on the "
@@ -171,12 +171,12 @@ msgstr ""
 "проекта:"
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:58
+#: Naia/lua/compat.lua:80
 msgid "Incompatible Add-on"
 msgstr "Несовместимый Аддон"
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:59
+#: Naia/lua/compat.lua:81
 msgid ""
 "The following add-on is incompatible with %s and must be removed before "
 "continuing:"
@@ -185,12 +185,12 @@ msgstr ""
 "продолжения:"
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:61
+#: Naia/lua/compat.lua:83
 msgid "Incompatible Add-ons"
 msgstr "Несовместимые Аддоны"
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:62
+#: Naia/lua/compat.lua:84
 msgid ""
 "The following add-ons are incompatible with %s and must be removed before "
 "continuing:"
@@ -3243,12 +3243,12 @@ msgstr "Кристальный глиф"
 
 #. [then]
 #. [else]
-#: Naia/macros/items.cfg:122 Naia/macros/items.cfg:131
+#: Naia/macros/items.cfg:128 Naia/macros/items.cfg:137
 msgid "Do you wish to be healed?"
 msgstr "Вы хотите излечиться?"
 
 #. [then]
-#: Naia/macros/items.cfg:124
+#: Naia/macros/items.cfg:130
 msgid ""
 "This magic glyph will completely restore this unit’s health. It will also "
 "unslow and cure it of poison, if applicable."
@@ -3257,14 +3257,14 @@ msgstr ""
 "него будет снято замедление и он будет избавлен от яда, если это возможно."
 
 #. [then]
-#: Naia/macros/items.cfg:127
+#: Naia/macros/items.cfg:133
 msgid "Note: this glyph may be used only once; afterwards, it will fade out."
 msgstr ""
 "Учтите: глиф может сделать это только один раз. Будучи использованным, он "
 "исчезнет."
 
 #. [else]
-#: Naia/macros/items.cfg:134
+#: Naia/macros/items.cfg:140
 msgid "Note: this glyph may be used only once; afterwards it will fade out."
 msgstr ""
 "Учтите: глиф может сделать это только один раз. Будучи использованным, он "
@@ -3272,29 +3272,29 @@ msgstr ""
 
 #. [transient_message]
 #. [message]: speaker=narrator
-#: Naia/macros/items.cfg:189 Naia/macros/items.cfg:140
+#: Naia/macros/items.cfg:195 Naia/macros/items.cfg:146
 msgid "Crystal Glyph of Health"
 msgstr "Кристальный глиф здоровья"
 
 #. [unstore_unit]
-#: Naia/macros/items.cfg:177
+#: Naia/macros/items.cfg:183
 msgid "healed"
 msgstr "исцелён"
 
 #. [unstore_unit]
-#: Naia/macros/items.cfg:178
+#: Naia/macros/items.cfg:184
 msgid "female^healed"
 msgstr "исцелена"
 
 #. [transient_message]
-#: Naia/macros/items.cfg:191
+#: Naia/macros/items.cfg:197
 msgid "The unit is fully healed, cured and unslowed."
 msgstr ""
 "Этот боец полностью восстановил здоровье, исцелился и избавился от эффекта "
 "замедления."
 
 #. [message]: speaker=narrator
-#: Naia/macros/items.cfg:214
+#: Naia/macros/items.cfg:220
 msgid "Access granted."
 msgstr "Доступ разрешён."
 
@@ -3593,7 +3593,7 @@ msgstr ""
 "бойцов, так что удостоверьтесь, что они разрешены настройками (<b>Настройки</"
 "b> → <b>Графика</b>)."
 
-#. [advancement]: id={_ID}, description=
+#. [advancement]: id={_ID}, description= 
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr "‹Макс ОП +15%›"
@@ -3713,7 +3713,7 @@ msgid "Fake Shroud"
 msgstr "Ложная Мгла"
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:102
+#: Naia/loader.cfg:105
 msgid "Project Ethea"
 msgstr "Проект Этея"
 

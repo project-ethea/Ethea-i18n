@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-08 04:50 UTC\n"
+"POT-Creation-Date: 2020-08-14 07:00 UTC\n"
 "PO-Revision-Date: 2009-11-22 11:49+0100\n"
 "Last-Translator: Kádár-Németh Krisztián <krisztian.kad@gmail.com>\n"
 "Language-Team: Hungarian <wesnoth-hungtrans@gna.org>\n"
@@ -129,14 +129,14 @@ msgid "necrosed: This unit is undergoing necrosis."
 msgstr ""
 
 #. [lua]: do_host_minimum_version_unmet
-#: Naia/lua/compat.lua:31
+#: Naia/lua/compat.lua:53
 msgid ""
 "This version of %s requires Wesnoth %s – %s and will not run on previous "
 "versions."
 msgstr ""
 
 #. [lua]: do_host_maximum_version_number_unmet
-#: Naia/lua/compat.lua:37
+#: Naia/lua/compat.lua:59
 msgid ""
 "This version of %s requires Wesnoth %s – %s. Support for later versions is "
 "incomplete or untested, and there may be broken functionality. If you choose "
@@ -144,14 +144,14 @@ msgid ""
 msgstr ""
 
 #. [lua]: do_host_blacklisted_version
-#: Naia/lua/compat.lua:43
+#: Naia/lua/compat.lua:65
 msgid ""
 "This version of %s is not compatible with Wesnoth %s. You must use a "
 "different version in the %s – %s range."
 msgstr ""
 
 #. [lua]: do_experimental_port_notice
-#: Naia/lua/compat.lua:49
+#: Naia/lua/compat.lua:71
 msgid ""
 "This is an experimental port of %s to Wesnoth %s.\n"
 "If you choose to continue, you must report any issues to the author on the "
@@ -159,24 +159,24 @@ msgid ""
 msgstr ""
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:58
+#: Naia/lua/compat.lua:80
 msgid "Incompatible Add-on"
 msgstr ""
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:59
+#: Naia/lua/compat.lua:81
 msgid ""
 "The following add-on is incompatible with %s and must be removed before "
 "continuing:"
 msgstr ""
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:61
+#: Naia/lua/compat.lua:83
 msgid "Incompatible Add-ons"
 msgstr ""
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:62
+#: Naia/lua/compat.lua:84
 msgid ""
 "The following add-ons are incompatible with %s and must be removed before "
 "continuing:"
@@ -2772,13 +2772,13 @@ msgstr "Rúnakristály"
 
 #. [then]
 #. [else]
-#: Naia/macros/items.cfg:122 Naia/macros/items.cfg:131
+#: Naia/macros/items.cfg:128 Naia/macros/items.cfg:137
 #, fuzzy
 msgid "Do you wish to be healed?"
 msgstr "Meg akarod gyógyítani ezt az egységet?"
 
 #. [then]
-#: Naia/macros/items.cfg:124
+#: Naia/macros/items.cfg:130
 #, fuzzy
 msgid ""
 "This magic glyph will completely restore this unit’s health. It will also "
@@ -2790,14 +2790,14 @@ msgstr ""
 "lassítását és mérgezését is, ha szükséges."
 
 #. [then]
-#: Naia/macros/items.cfg:127
+#: Naia/macros/items.cfg:133
 #, fuzzy
 msgid "Note: this glyph may be used only once; afterwards, it will fade out."
 msgstr ""
 "Megjegyzés: a kristály csak egy alkalommal használható, ezután szertefoszlik."
 
 #. [else]
-#: Naia/macros/items.cfg:134
+#: Naia/macros/items.cfg:140
 #, fuzzy
 msgid "Note: this glyph may be used only once; afterwards it will fade out."
 msgstr ""
@@ -2805,27 +2805,27 @@ msgstr ""
 
 #. [transient_message]
 #. [message]: speaker=narrator
-#: Naia/macros/items.cfg:189 Naia/macros/items.cfg:140
+#: Naia/macros/items.cfg:195 Naia/macros/items.cfg:146
 msgid "Crystal Glyph of Health"
 msgstr "Gyógyító rúnakristály"
 
 #. [unstore_unit]
-#: Naia/macros/items.cfg:177
+#: Naia/macros/items.cfg:183
 msgid "healed"
 msgstr "gyógyulás"
 
 #. [unstore_unit]
-#: Naia/macros/items.cfg:178
+#: Naia/macros/items.cfg:184
 msgid "female^healed"
 msgstr "gyógyulás"
 
 #. [transient_message]
-#: Naia/macros/items.cfg:191
+#: Naia/macros/items.cfg:197
 msgid "The unit is fully healed, cured and unslowed."
 msgstr "Az egység teljesen egészséges és harcrakész."
 
 #. [message]: speaker=narrator
-#: Naia/macros/items.cfg:214
+#: Naia/macros/items.cfg:220
 msgid "Access granted."
 msgstr ""
 
@@ -3241,7 +3241,7 @@ msgid "Fake Shroud"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:102
+#: Naia/loader.cfg:105
 #, fuzzy
 msgid "Project Ethea"
 msgstr "Védjétek meg őket!"
