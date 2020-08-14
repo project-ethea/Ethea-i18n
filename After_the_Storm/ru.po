@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-14 07:00 UTC\n"
-"PO-Revision-Date: 2020-08-13 23:48+0300\n"
+"PO-Revision-Date: 2020-08-14 11:12+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -2470,12 +2470,10 @@ msgstr "Ведите нас, милорд."
 #. [event]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:552
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:531
-#, fuzzy
 msgid ""
 "Resist until the Grand Council’s reinforcements arrive at the end of turns"
 msgstr ""
-"Продержитесь $survival_turn_limit ходов, пока не прибудут войска Великого "
-"Совета"
+"Продержитесь, пока не прибудут войска Великого Совета по завершении ходов"
 
 #. [event]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:561
@@ -11974,6 +11972,8 @@ msgid ""
 "So, Elynia went on a mission to infiltrate the Iron Council’s citadel? What "
 "kind of nonsense is that?"
 msgstr ""
+"Итак, Элиния отправилась с заданием проникнуть в цитадель Железного Совета? "
+"Что это вообще за бред?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1572
@@ -12557,6 +12557,8 @@ msgid ""
 "It is time, then. The Demon Lord Ergea has already informed you of what you "
 "must do next. I shall do my part."
 msgstr ""
+"Итак, время пришло. Владыка Демонов Эргея уже уведомила тебя о том, что "
+"делать далее. Я выполню мою часть."
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2244
@@ -12566,6 +12568,10 @@ msgid ""
 "increases their hitpoints by 15%, and their resistance to non-arcane damage "
 "by 5%."
 msgstr ""
+"Все файери, которыми Вы сейчас управляете на карте или в списке призыва, "
+"теперь получат особенность <b>благословение</b>, что позволит им не обращать "
+"внимание на время суток, увеличит их здоровье на 15% и сопротивление ко всем "
+"видам урона, кроме мистического, на 5%."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2254
@@ -12574,6 +12580,9 @@ msgid ""
 "land, but the Iron Council’s citadel is built on the riverside. You may be "
 "able to use this to your advantage later."
 msgstr ""
+"Былые союзники желают поддержать вас в грядущей битве. Может, они и "
+"неповоротливы на суще, но цитадель Железного Совета выстроена на берегу "
+"реки. Позже вы сможете использовать их, чтобы получить из этого преимущество."
 
 #. [then]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2265
@@ -12629,9 +12638,8 @@ msgstr ""
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2322
-#, fuzzy
 msgid "And now, I shall fight alongside you."
-msgstr "Было бы честью сражаться на вашей стороне, господин."
+msgstr "И отныне я буду сражаться посреди вас."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2327
@@ -12671,7 +12679,7 @@ msgstr ""
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2373
 msgid "... I think I’ve kept Ergea and the others waiting long enough."
-msgstr ""
+msgstr "… Похоже, я заставила Эргею и остальных ждать уже достаточно долго."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2396
@@ -12689,6 +12697,9 @@ msgid ""
 "closer to the Iron Council’s citadel if we want to keep their attention away "
 "from Elynia."
 msgstr ""
+"Положение не настолько благоприятно, как хотелось бы. Мы должны были "
+"перенести поле боя ближе к цитадели Железного Совета, если мы хотим отвести "
+"их внимание от Элинии."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #. [scenario]: id=07A_Dark_Fire_part_2, id=Elyssa
@@ -13790,7 +13801,7 @@ msgstr "Смерть Элиссы"
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:503
 msgid "... We are not really trying to locate Zhangor, are we?"
-msgstr ""
+msgstr "… Мы же на самом деле не пытаемся найти Жангора, не так ли?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:508
@@ -13966,7 +13977,7 @@ msgstr ""
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:1064
 msgid "Keep moving."
-msgstr ""
+msgstr "Продолжать движение."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:1109
@@ -14110,6 +14121,8 @@ msgid ""
 "The power of the Engineer’s hammer allows him to debilitate and destroy the "
 "Energy Heart of a Guardian"
 msgstr ""
+"Мощь молота Инженера позволяет ему ослабить и разрушить Энергетическое "
+"Сердце Стража"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:1516
@@ -15471,12 +15484,12 @@ msgstr ""
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:470
 msgid "... I promise."
-msgstr ""
+msgstr "… Обещаю."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:475
 msgid "(<i>smiling</i>)"
-msgstr ""
+msgstr "(<i>улыбается</i>)"
 
 #. [then]
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:488
