@@ -48,6 +48,12 @@ install: po-update
 		mkdir -p "$$target_dir"; \
 		echo "    INSTALL $$target_mo"; \
 		cp -f "$$mo" "$$target_mo"; \
+		pbl="$$s/$$locale.pbltrans"; \
+		target_pbl="$(ADDONS_PREFIX)/$$s/translations/$$locale.pbltrans"; \
+		if test -e "$$pbl"; then \
+			echo "    INSTALL $$target_pbl"; \
+			cp -f "$$pbl" "$$target_pbl"; \
+		fi; \
 	done; done
 
 clean: clean-mo
