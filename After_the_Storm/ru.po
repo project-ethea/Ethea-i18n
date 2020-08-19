@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-14 07:00 UTC\n"
-"PO-Revision-Date: 2020-08-17 00:05+0300\n"
+"PO-Revision-Date: 2020-08-18 13:08+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -11847,11 +11847,15 @@ msgid ""
 "already in motion and heading for our present location. They shall be here "
 "in just a few hours. It is possible that someone betrayed us, or..."
 msgstr ""
+"Мои разведчики только что уведомили меня о том, что основная часть войск "
+"обороны этой области уже приведена в движение и направляется к нашему "
+"текущему расположению. Они будут здесь уже через несколько часов. Возможно, "
+"нас кто-то предал, или…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:600
 msgid "... She is not coming back, is she?"
-msgstr ""
+msgstr "… Она всё ещё не вернулась?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:605
@@ -11859,6 +11863,9 @@ msgid ""
 "She must have had a good reason for leaving us like this, Anya. Well... I "
 "hope so, anyway. My lady, what about those reinforcements?"
 msgstr ""
+"Должно быть, у неё были веские причины, чтобы покинуть нас таким образом, "
+"Аня… Ну… во всяком случае, я на это надеюсь. Госпожа, что насчёт тех "
+"подкреплений?"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:617
@@ -11868,6 +11875,10 @@ msgid ""
 "through it at dawn, but... this unexpected development jeopardizes the "
 "success of the entire operation."
 msgstr ""
+"Старый форт рядом с речной заставой сторожит второй портал, ведущий в "
+"северные земли, откуда вы пришли. Я договорилась с вашими союзниками, чтобы "
+"они прибыли через него на рассвете, но… этот неожиданный ход событий ставит "
+"под угрозу успех всей операции."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:623
@@ -11876,6 +11887,9 @@ msgid ""
 "dawn breaks. If we manage to distract our enemies for long enough, Elynia "
 "might have an opportunity to succeed in her mission."
 msgstr ""
+"Мы должны обезопасить тот форт так быстро, как сможем. До рассвета остаётся "
+"всего лишь несколько часов. Если нам получится отвлечь врагов достаточно "
+"долгое время, у Элинии может появиться возможность преуспеть в её миссии."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:633
@@ -11885,16 +11899,20 @@ msgid ""
 "revolution — their numbers and resources may prove essential for what has "
 "yet to come."
 msgstr ""
+"Обитатели этих земель не слишком довольны властью Железной Триады. Я советую "
+"вам попробовать заручиться их поддержкой и поднять восстание — их "
+"численность и их средства могут оказаться существенными для того, что нас "
+"ждёт."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:638
 msgid "Let us get moving then. Anya shall lead the way!"
-msgstr ""
+msgstr "Значит, пора выдвигаться. Пусть Аня поведёт нас вперёд!"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:643
 msgid "I... shall?"
-msgstr ""
+msgstr "Я… поведу?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:648
@@ -11910,7 +11928,7 @@ msgstr ""
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:653
 msgid "... Wait... you mean..."
-msgstr ""
+msgstr "… Подожди… ты имеешь в виду…"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:658
@@ -12007,13 +12025,13 @@ msgstr "Цирилеан"
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:847
 msgid ""
 "The old order is coming to an end at last, and in time, freedom will be ours!"
-msgstr ""
+msgstr "Старый порядок наконец подходит к концу, уже скоро мы обретём свободу!"
 
 #. [message]: speaker=Sergalyr
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:852
 msgid ""
 "Let us purge the foul worshipers of Uria and reclaim our ancestors’ lands!"
-msgstr ""
+msgstr "Избавимся от грязных служителей Урии и освободим земли наших предков!"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:879
@@ -12024,12 +12042,12 @@ msgstr "Обе команды игроков получают $temp_gold_retriev
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:915
 msgid "I don’t understand... It should be dawn already!"
-msgstr ""
+msgstr "Не понимаю… Уже должен был быть рассвет!"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:920
 msgid "The... day of the Longest Night... This does not bode well."
-msgstr ""
+msgstr "День… Длиннейшей Ночи… Не к добру это."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:942
@@ -12037,6 +12055,8 @@ msgid ""
 "We failed to secure that portal in time! Without those reinforcements we "
 "will never make it! Retreat!"
 msgstr ""
+"Нам не удалось вовремя обезопасить тот портал! Без тех подкреплений нам не "
+"справиться! Отступаем!"
 
 #. [event]: type=Shaxthal War Drone, type=Shaxthal Enforcer Drone, type=Shaxthal Demolisher Drone, type=Chaos Cataphract, id=Celwyngyr, type=Chaos Soulhunter, id=Morol, type=Lich, id=Mal Fyrgwynn, type=Demon Warrior, id=Demon Lord Alavys
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1170
@@ -12066,7 +12086,7 @@ msgstr "Ух… Похоже, мы подоспели как раз воврем
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1488
 msgid "Durvan! I thought you would be on your way back home by now!"
-msgstr ""
+msgstr "Дюрван! Мне казалось, ты уже должен был быть на полпути до дома!"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1493
@@ -12074,6 +12094,8 @@ msgid ""
 "I changed my mind, I guess? I can’t shake off the feeling that I’ll regret "
 "this later, though. Where is Elynia?"
 msgstr ""
+"Наверное, я поменял своё мнение? Я не мог отделаться от чувства, что позже я "
+"бы об этом пожалел. Где Элиния?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1498
@@ -12188,7 +12210,7 @@ msgstr "Крону нравится звук дробить кости под е
 #. [message]: speaker=Cron
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1633
 msgid "Cron enjoys crushing insolent vermin to death."
-msgstr "Крон обожает давить наглых вредителей до смерти."
+msgstr "Крон обожать давить наглых вредителей до смерти."
 
 #. [message]: speaker=second_unit
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1638
@@ -12231,7 +12253,7 @@ msgstr ""
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1772
 msgid "Ummm... Hello?"
-msgstr ""
+msgstr "Эммм… Здравствуйте?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1781
@@ -12335,7 +12357,7 @@ msgstr "Один вопрос?"
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1903
 msgid "This is so unexpected... I don’t know what I should ask..."
-msgstr ""
+msgstr "Это так неожиданно… Даже не знаю, что мне стоит спросить…"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1908
@@ -12528,7 +12550,7 @@ msgstr ""
 #. [option]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2060
 msgid "Did Elynia ever love anyone besides Argan?"
-msgstr ""
+msgstr "Любила ли Элиния кого-нибудь помимо Аргана?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2065
@@ -12590,11 +12612,13 @@ msgid ""
 "AAAAAAAAAAAAAAAAAAAAHHHHHH!!! Look over there, it’s one of those... "
 "demolisher monsters! It’s very, veeeeery slowly heading towards us!"
 msgstr ""
+"АААААААААААААААААААААААААА!!! Смотрите, это ещё одно из тех… чудовищ-"
+"разрушителей! Оно очень, ооооочень медленно движется к нам!"
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2115
 msgid "Was Zhangor responsible for the Great Fall?"
-msgstr ""
+msgstr "В ответе ли Жангор за Великое Падение?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2120
@@ -12654,12 +12678,12 @@ msgstr ""
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2155
 msgid "One question, one answer."
-msgstr ""
+msgstr "Один вопрос — один ответ."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2160
 msgid "Oh, come on!"
-msgstr ""
+msgstr "Ну что же так!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2165
@@ -12788,7 +12812,7 @@ msgstr "Орион"
 #. [message]: speaker=Orion
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2293
 msgid "The reckoning with these monsters is at hand, brothers and sisters!"
-msgstr ""
+msgstr "Расплата с чудищами близка, братья и сёстры!"
 
 #. [message]: speaker=Luna
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2298
@@ -12796,6 +12820,8 @@ msgid ""
 "Purge the unholy beasts from our waters and help the northerners seize "
 "Uria’s dark citadel!"
 msgstr ""
+"Изгоним нечистых тварей из наших вод и поможем северянам взять тёмную "
+"цитадель Урии!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2322
@@ -12805,7 +12831,7 @@ msgstr "И отныне я буду сражаться посреди вас."
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2327
 msgid "Oh! We would be honored to have you by our side... er..."
-msgstr ""
+msgstr "Ох! Для нас было бы честью, если бы Вы были на нашей стороне… э-э…"
 
 #. [modify_unit]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2334
@@ -12827,6 +12853,8 @@ msgid ""
 "Um... all right! I think I’ve kept Ergea and the others waiting long enough, "
 "so... time to go, I think."
 msgstr ""
+"Амм… отлично! Кажется, я заставила Эргею и остальных ждать достаточно долго, "
+"поэтому… наверное, пора идти."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2350
@@ -12850,6 +12878,9 @@ msgid ""
 "distracted for a short interval. It is time to take the fight to the citadel "
 "itself."
 msgstr ""
+"Речные поселения захвачены, их лидеры побеждены, а войска разбросаны в "
+"полном беспорядке — этого должно быть достаточно, чтобы на некоторое время "
+"отвлечь Железный Совет. Пора перенести сражение ближе к самой цитадели."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2407
@@ -15568,6 +15599,10 @@ msgid ""
 "expect any less? I imagine your sense of hearing is just as good despite "
 "your smaller ears."
 msgstr ""
+"Я слышала твоё короткое замечание, когда мы сражались с теми существами в "
+"Аран-Балгуре. Я провела значительную часть жизни в дикой природе — ты "
+"ожидала меньшего? И мне почему-то кажется, что твой слух не хуже моего, "
+"пусть твои уши и меньше."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:379
@@ -15575,6 +15610,8 @@ msgid ""
 "Well... I... I think I have never felt comfortable with my heritage. After "
 "all... it is the very reason of my abandonment as a child..."
 msgstr ""
+"Ну… Я… Моё наследие всегда мне доставляло неудобства. В конце концов… именно "
+"поэтому меня покинули, когда я была ребёнком…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:384
@@ -15583,6 +15620,9 @@ msgid ""
 "Could they still be out there, alive? But on second thought... perhaps I "
 "don’t want to know."
 msgstr ""
+"Но я всё никак не могу понять, почему меня не вырастили мои настоящие "
+"родители. Кем они были? Вдруг они всё ещё где-то рядом, вдруг они живы? Но с "
+"другой стороны… возможно, я и не хочу знать."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:389
@@ -15591,11 +15631,14 @@ msgid ""
 "would have never trusted me. How can you trust a creature who could be "
 "concealing their true appearance and nature?"
 msgstr ""
+"Если бы я сказала тебе в самом начале, что я оборотень, ты никогда бы мне не "
+"доверилась. Как ты могла бы доверится существу, что скрывает его истинный "
+"облик и природу?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:394
 msgid "Are you, though?"
-msgstr ""
+msgstr "Однако скрываешь ли его ты?"
 
 #. [message]: speaker=Anya
 #. 'We' being demonkind.
@@ -15606,6 +15649,10 @@ msgid ""
 "with your duty... almost like an emotionless machine, just like you have "
 "always assumed <i>we</i> were..."
 msgstr ""
+"Нет! Но это не меняет того обстоятельства, что ты бы относилась ко мне с "
+"подозрениями! Вернее… большими, чем у тебя уже были. Ты всегда была такой "
+"оторванной, увлечённой своим долгом… подобно бесчувственной машине, "
+"которыми, как ты всегда считала, являлись <i>мы</i>…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:405
@@ -15614,6 +15661,9 @@ msgid ""
 "been through. I have lived for longer than any of you, even Ergea. It’s been "
 "so long, I have already forgotten most of the good things... even Argan..."
 msgstr ""
+"(<i>вздыхает</i>) Наверное, такова я и есть. Я попросту не могу действовать "
+"по-другому после всего, через что прошла. Я прожила дольше всех вас, даже "
+"Эргеи. Я уже забыла почти всё хорошее в жизни… даже Аргана…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:410
@@ -15624,6 +15674,11 @@ msgid ""
 "drawn with my own power... and my... friends... killed or destroyed in front "
 "of me... before I could do... do anything to prevent it..."
 msgstr ""
+"Сейчас гораздо проще вспомнить мои худшие решения: буквальное разрушение "
+"эпохи равновесия и жизни, падение моего народа, ужасы, творимые Жангором… "
+"кровь моего мужа на моих же руках, пролитая моей же силой… и мои… друзья… "
+"убиты или уничтожены прямо передо мной… перед тем, как я могла… сделать хоть "
+"что-нибудь и это предотвратить…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:419
@@ -15631,11 +15686,12 @@ msgid ""
 "... I fear it, Anya... I fear what I could do if I allowed myself to be "
 "controlled by my emotions."
 msgstr ""
+"… Я боюсь, Аня… Боюсь того, что наделаю, если позволю чувствам овладеть мной."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:428
 msgid "Elynia... I’m sorry, I did not mean to make you feel like this."
-msgstr ""
+msgstr "Элиния… Прости, я не хотела пробудить в тебе эти воспоминания."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:437
@@ -15643,6 +15699,8 @@ msgid ""
 "... No, I am the one who should apologize. Perhaps if I shared my feelings "
 "with other people more often, I..."
 msgstr ""
+"… Нет, это я должна извиняться. Быть может, разделяй я чаще мои чувства с "
+"другими, я бы…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:442
@@ -15651,21 +15709,24 @@ msgid ""
 "feel much better with yourself if you talked with us instead of blindly "
 "killing creature after creature to relieve your pain."
 msgstr ""
+"Я жила не тысячу лет, но одно я знаю точно — тебе было бы гораздо легче на "
+"душе, если бы ты говорила с нами, а не слепо убивала существо за существом, "
+"чтобы забыть о боли."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:447
 msgid "Perhaps... you could do that? Talk with us more often?"
-msgstr ""
+msgstr "Может… ты могла бы это делать? Говорить с нами чаще?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:456
 msgid "Yes, I could... If we survive this encounter, that is."
-msgstr ""
+msgstr "Да, могла бы… Если я переживу это столкновение, конечно."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:461
 msgid "But you must promise!"
-msgstr "Но ты должна обещать!"
+msgstr "Но пообещай!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:470
@@ -15699,6 +15760,7 @@ msgid ""
 "If I may ask, for how long have you been serving under Ergea’s banner and "
 "why?"
 msgstr ""
+"Можно ли мне спросить, как долго ты служишь под знаменем Эргеи и отчего?"
 
 #. [message]: speaker=Cron
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:522
@@ -15706,11 +15768,13 @@ msgid ""
 "Cron works for the storm lady since his home in the mountains was taken by "
 "the flying metal-shells. He was promised things in return for protection."
 msgstr ""
+"Крон работать на госпожу бурь с тех пор, как его дом в горах забрать "
+"летающие железяки. Ему обещали награду в обмен на охрану."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:527
 msgid "Protection?"
-msgstr ""
+msgstr "Охрану?"
 
 #. [message]: speaker=Cron
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:532
@@ -15719,11 +15783,13 @@ msgid ""
 "prefers help from Cron and the lizard people of the swamps. She feels safer "
 "this way."
 msgstr ""
+"Госпожа бурь не доверять людям в масках и их ржавым мечам. Она предпочитать "
+"помощь Крона и людей-ящеров из болота. Так ей безопасней."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:537
 msgid "What kind of things did she promise to you?"
-msgstr ""
+msgstr "Какого рода награду она тебе обещала?"
 
 #. [message]: speaker=Cron
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:542
@@ -15758,6 +15824,8 @@ msgid ""
 "There’s a lot of things awaiting us tomorrow, and we will need all the help "
 "we can get. Do you think your people will accede?"
 msgstr ""
+"Завтра нас ожидает много всего, и нам потребуется вся помощь, которую сможем "
+"найти. Как думаешь, твой народ согласится?"
 
 #. [message]: speaker=Cron
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:569
@@ -15765,6 +15833,8 @@ msgid ""
 "Cron is very sure they will, but they are not many, and they cannot help as "
 "much as they want."
 msgstr ""
+"Крон уверен, они согласиться, но их немного, и они не помочь так сильно, как "
+"они хотеть."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:574
@@ -15772,6 +15842,8 @@ msgid ""
 "A little help is better than nothing — Ergea said we would be getting "
 "reinforcements, but I don’t find that likely to happen."
 msgstr ""
+"Хоть какая-то помочь и то лучше, чем ничего — Эргея сказала, мы получим "
+"подкрепления, но, по мне, это навряд ли случится."
 
 #. [message]: speaker=Cron
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:579
@@ -15802,6 +15874,8 @@ msgstr "Спросите Ирилеан о посохе Ахлис"
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:638
 msgid "You seem very weary, my lady. Shouldn’t you be getting some sleep?"
 msgstr ""
+"Вы выглядите очень устало, миледи. Не стоило бы Вам уделять больше времени "
+"сну?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:643
@@ -15809,6 +15883,8 @@ msgid ""
 "Yes... But you know the situation with that. So, do you think your disciples "
 "will be able to help? Can they be trusted?"
 msgstr ""
+"Да… Но ты знаешь, в каком мы положении. Как думаешь, твои ученики смогут нам "
+"помочь? На них можно положиться?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:648
@@ -15818,6 +15894,11 @@ msgid ""
 "assistant did, my lady. If they were consorting with our enemy they’d make "
 "sure we wouldn’t find out until it was too late."
 msgstr ""
+"До сих пор они проявляли себя довольно достойными доверия, не так ли? К "
+"несчастью, мне не узнать, намереваются ли они предать нас под конец, как "
+"Ваша предыдущая помощница, миледи. Если бы они сотрудничали с нашим врагом, "
+"они бы удостоверились, что мы не выясним этого, пока не будет уже слишком "
+"поздно."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:653
@@ -15825,16 +15906,19 @@ msgid ""
 "Indeed. That’s why I am worried. If only Galas were still with us... He "
 "always seemed to make the right choices."
 msgstr ""
+"Верно. Вот почему я обеспокоена. Был бы с нами Галас… Казалось, он всегда "
+"делал правильный выбор."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:658
 msgid "Hm... perhaps."
-msgstr ""
+msgstr "Хм… возможно."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:665
 msgid "If you don’t mind the question, why did you retire before?"
 msgstr ""
+"Не возражаешь, если я спрошу у тебя, почему ты однажды ушла в отставку?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:672
@@ -15845,6 +15929,11 @@ msgid ""
 "well for me. From what I heard that fellow Erathan didn’t fare well in the "
 "capital."
 msgstr ""
+"Думаю, то было сочетанием обстоятельств… Мне показалось, что решение Галаса "
+"передать власть над Вашим народом тем четырём было до ужаса необдуманным. "
+"Затем вы все собрались отправиться на юг, и… я знала, что ничем хорошим это "
+"бы для меня не окончилось. Судя по тому, что я слышала, тот человек, Эрэзэн, "
+"не очень хорошо закончил в столице."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:677
@@ -15852,16 +15941,19 @@ msgid ""
 "That’s unfortunately true. And I suppose I owe you an apology for forcing "
 "you to come here."
 msgstr ""
+"К сожалению, это правда. И, полагаю, придётся мне перед тобой извиниться за "
+"то, что заставила тебя сюда прийти."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:682
 msgid "Bah, nobody can force me to go anywhere if I don’t want to!"
 msgstr ""
+"Ха! Никто не заставит меня делать что-либо, если я сама того не захочу!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:687
 msgid "So, what were your motives?"
-msgstr ""
+msgstr "Так что же тебя к этому побудило?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:692
@@ -15872,11 +15964,16 @@ msgid ""
 "mean with this — I have seen it in your eyes, your thirst for revenge and "
 "how you quench it with the blood of your enemies..."
 msgstr ""
+"Миледи, я стара, я потратила уже достаточно времени на Крайнем Севере и "
+"поняла, что он никогда не станет мне домом. Да и к тому же, это из-за вот "
+"этих ублюдков время моего наставника в этом мире подошло к столь резкому "
+"концу. Ты понимаешь, что я имею в виду — я вижу всё в твоих глазах: жажду "
+"мести и то, как ты насыщаешь её кровью своих врагов…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:697
 msgid "I do not want to talk of that now."
-msgstr ""
+msgstr "Я не хочу сейчас об этом говорить."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:702
@@ -15885,11 +15982,13 @@ msgid ""
 "intention. I’ll just... go back to watching over the encampment, silently, "
 "as usual."
 msgstr ""
+"Ну… приношу извинения, если задела Вас, миледи. То не было моим намерением. "
+"Я просто… продолжу сторожить лагерь, тихо, как и всегда."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:709
 msgid "So, did you solve your little problem with that staff?"
-msgstr ""
+msgstr "Так ты решила ту небольшую неполадку с посохом?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:714
@@ -15898,6 +15997,9 @@ msgid ""
 "adjustments to my shielding spell, I can channel the staff’s aura and become "
 "immune to poison myself!"
 msgstr ""
+"Ну, можно сказать, да. На самом деле, это довольно занятно. Как оказалось, "
+"слегка поправив моё заклинание защиты, я могу перенаправлять ауру посоха и "
+"тем самым стать невосприимчивой к яду!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:719
@@ -15905,6 +16007,8 @@ msgid ""
 "... And that would be why you asked me to heal you from the symptoms of a "
 "‘cold’ at least ten times during the day, right?"
 msgstr ""
+"… И вот почему днём ты простила меня по крайней мере раз десять вылечить "
+"тебя от проявлений ‘простуды’, верно?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:724
@@ -15919,6 +16023,11 @@ msgid ""
 "know exactly how that staff works or whether it might be hazardous to its "
 "user. Just... be careful when using it near our people, please?"
 msgstr ""
+"Я имею ввиду, если ты считаешь, что этот артефакт безопасно использовать "
+"подобным образом, то не мне тебя останавливать. Мои познания в некромантии "
+"недостаточно глубоки, чтобы знать точно, как устроен этот посох, и может ли "
+"он представлять опасность для носителя. Только… будь осторожна, когда "
+"станешь использовать его рядом с нашими людьми, ладно?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:734
@@ -15957,6 +16066,12 @@ msgid ""
 "need — except for your journal, that is. You also opt to leave Argan’s and "
 "Galas’ journals behind, along with a note."
 msgstr ""
+"Вы решительно входите в Вашу палатку в последний раз перед неизбежной "
+"встречей с врагом.\n"
+"\n"
+"Вы полностью осознаёте, что Вас ожидает, и Вы решаете взять несколько вещей, "
+"которые Вам понадобятся — конечно, за исключением своего дневника. Вы также "
+"оставляете позади дневники Аргана и Галаса, вместе с запиской."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:928
@@ -15967,6 +16082,12 @@ msgid ""
 "\n"
 "But you have different plans for tonight."
 msgstr ""
+"По завершении Вы напоследок оглядываетесь на свою манящую походную кровать. "
+"Аня права — Вы так и не выспались за то время, что кажется Вам сейчас "
+"годами, а это, быть может, последняя возможность отдохнуть во всей Вашей "
+"жизни.\n"
+"\n"
+"Но у Вас на ночь иные планы."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:947
