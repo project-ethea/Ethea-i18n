@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-14 07:00 UTC\n"
-"PO-Revision-Date: 2020-08-18 13:08+0300\n"
+"PO-Revision-Date: 2020-08-20 23:57+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -11924,6 +11924,11 @@ msgid ""
 "well familiarized besides Elynia herself — another <i>someone</i> they can "
 "relate to, if you catch my drift."
 msgstr ""
+"Это написала Элиния в той записке, разве нет? Но не стоит беспокоится о "
+"сложностях управления — мы с этим тебе поможем. Твои силы тьмы и "
+"телепортации должны быть полезны на линии фронта, но для всех этих людей "
+"гораздо важнее, чтобы их повёл кто-то, с кем они уже хорошо знакомы помимо "
+"самой Элинии — <i>кто-то</i>, кто им близок, если понимаешь, к чему я клоню."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:653
@@ -11942,11 +11947,14 @@ msgid ""
 "offensive considering I have never... unlike... Ack! How about... we just... "
 "move on?!"
 msgstr ""
+"(<i>раздражённо</i>) Твои подоплёки выглядят довольно извращёнными и даже "
+"слегка оскорбительными, учитывая, что я никогда… подобное… Аккк! Как насчёт… "
+"мы просто… продолжим?!"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:668
 msgid "I support the motion. This is no time for such frivolous chatter."
-msgstr ""
+msgstr "Верно — идём. Сейчас не время для пустой болтовни."
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:674
@@ -12076,7 +12084,7 @@ msgstr "Мал Фиргвин"
 #. [event]: type=Shaxthal War Drone, type=Shaxthal Enforcer Drone, type=Shaxthal Demolisher Drone, type=Chaos Cataphract, id=Celwyngyr, type=Chaos Soulhunter, id=Morol, type=Lich, id=Mal Fyrgwynn, type=Demon Warrior, id=Demon Lord Alavys
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1256
 msgid "Demon Lord Alavys"
-msgstr "Демон-Лорд Алавис"
+msgstr "Владыка Алавис"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1462
@@ -12095,7 +12103,7 @@ msgid ""
 "this later, though. Where is Elynia?"
 msgstr ""
 "Наверное, я поменял своё мнение? Я не мог отделаться от чувства, что позже я "
-"бы об этом пожалел. Где Элиния?"
+"бы пожалел о своём решении. Где Элиния?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1498
@@ -12109,6 +12117,9 @@ msgid ""
 "that we distract or take down Kalari’s military. I am confident that the "
 "Alliance troops Sir Durvan has amassed shall serve us well for this mission."
 msgstr ""
+"Мы можем обсудить это позже. Сейчас для нас задача чрезвычайной важности — "
+"отвлечь или разбить вооружённые силы Калари. Я уверена, войско Альянса, "
+"которое собрал сэр Дюрван, хорошо нам послужит в этом задании."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1511
@@ -12118,6 +12129,10 @@ msgid ""
 "return for Elynia’s support during the siege of Aran-Balgur. And "
 "incidentally, I’m no Sir."
 msgstr ""
+"На самом деле стоит благодарить генерала Бардиля и Элинию, не меня. Я всего "
+"лишь попросил его протянуть мне руку помощи, и он с радостью согласился, "
+"скорее всего, в награду за то, что его поддержала Элиния во время осады Аран-"
+"Балгура. И да, я не сэр."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1517
@@ -12126,6 +12141,9 @@ msgid ""
 "that we distract or take down Kalari’s military. However, I expected Sir "
 "Durvan to provide us with more numerous troops than this."
 msgstr ""
+"Мы можем обсудить это позже. Сейчас для нас задача чрезвычайной важности — "
+"отвлечь или разбить вооружённые силы Калари. Однако я ожидала, что сэр "
+"Дюрван предоставит нам войск побольше этого."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1522
@@ -12135,6 +12153,11 @@ msgid ""
 "reclaim Aran-Balgur. So, I had to make do with low-ranking militiamen and "
 "some orcish mercenaries. And incidentally, I’m no Sir."
 msgstr ""
+"Генерал Бардиль не согласился бы потратить ещё больше жизней ради такой "
+"бессмысленной миссии после того, как Элиния решила с ним разойтись до того, "
+"как он мог бы полноценно освободить Аран-Балгур. Поэтому мне пришлось "
+"добираться сюда со слабо вооружёнными ополченцами и кучкой орков-наёмников. "
+"И да, я не сэр."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1529
@@ -12142,12 +12165,16 @@ msgid ""
 "Time is of the essence, Durvan. We need to get moving while the darkness can "
 "provide us with an advantage."
 msgstr ""
+"Время имеет значение, Дюрван. Нам нужно действовать, пока тьма предоставит "
+"нам преимущество."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1534
 msgid ""
 "Sure, these men and women thirst for the blood of these fiends. Lead the way!"
 msgstr ""
+"Конечно! Эти мужчины и женщины жаждут пролить кровь врагов на этих полях. "
+"Ведите нас!"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1567
@@ -12168,6 +12195,12 @@ msgid ""
 "it might be her only chance to succeed. But who knows what kind of "
 "abominations await in that place."
 msgstr ""
+"Согласно Эргеи, она отправилась, чтобы отыскать что-то вроде оружия, "
+"закопанного под Калари. Она просто покинула нас посреди ночи и никому не "
+"сказала ни слова о своих намерениях. И что нам теперь делать? Вернее, кроме "
+"как продолжать это кровопролитие. Эргея говорит, это важно, и это может быть "
+"её единственной возможностью победить. Но кто знает, что за чудовища "
+"поджидают в том месте."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1581
@@ -12176,6 +12209,8 @@ msgid ""
 "element, yet I can’t help but find all this dreadfully unnatural and "
 "foreboding."
 msgstr ""
+"А теперь и эта необъяснимая, нескончаемая тьма. Она <i>наша</i> стихия, но "
+"мне всё это кажется до ужаса неестественным и зловещим."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1586
@@ -12183,11 +12218,12 @@ msgid ""
 "Yes... yes, it is. Maybe I shouldn’t have allowed Ergea to convince me to "
 "come here."
 msgstr ""
+"Да… да, так оно и есть. Видно, зря я позволил Эргеи убедить меня сюда прийти."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1591
 msgid "Ah, so you came back to us because she asked you to?"
-msgstr ""
+msgstr "Ах, так ты пришёл сюда, к нам, потому что она тебя попросила?"
 
 #. [message]: speaker=Durvan
 #. The first 'you' is singular; the second 'you' is plural.
@@ -12196,6 +12232,8 @@ msgid ""
 "Er... well, I admit that before she asked me I already wanted to see whether "
 "you were all right... I mean, you people."
 msgstr ""
+"Э-э… ну, признаюсь, перед тем, как она меня попросила, я уже хотел бы "
+"увидеть, всё ли у тебя идёт хорошо… вернее, у всех вас."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1603
@@ -12226,6 +12264,11 @@ msgid ""
 "\n"
 "A light in the darkness she patiently awaits."
 msgstr ""
+"В глубинах мужества фонтана.\n"
+"\n"
+"Сквозь бурливую реку страха.\n"
+"\n"
+"Свет во тьме она ждёт терпеливо."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1698
@@ -12241,6 +12284,16 @@ msgid ""
 "\n"
 "Perhaps she is waiting for someone."
 msgstr ""
+"Загадочная нимфа сидит на скалах в созерцании тёмного и беспокойного океана "
+"перед ней с неясным выражением лица.\n"
+"\n"
+"Похоже, она также совсем не замечает присутствия этого существа. Когда оно к "
+"ней подходит, нимфа не пересекается с ним взглядом, и вместо этого "
+"наколдовывает несколько пузырей будто бы из чистого воздуха. Видать, они "
+"гораздо более заслуживают её внимания, нежели даже та бойня, что сейчас "
+"происходит не так далеко у реки.\n"
+"\n"
+"Быть может, она кого-то ждёт."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1711
@@ -12249,6 +12302,9 @@ msgid ""
 "\n"
 "Perhaps she is waiting for someone."
 msgstr ""
+"Водная нимфа продолжает играться со своими пузырьками.\n"
+"\n"
+"Быть может, она кого-то ждёт."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1772
@@ -12261,6 +12317,8 @@ msgid ""
 "I was wondering if you are a Naiad? I was told by Tara that your kind are "
 "hardly ever seen by anyone at all..."
 msgstr ""
+"Мне было интересно, не Вы ли Наяда? Тара говорила мне, что Ваш род едва ли "
+"вообще кто-то видел…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1790
@@ -12268,6 +12326,8 @@ msgid ""
 "Uhhh... yes... the ocean. It looks really ominous here at night, doesn’t "
 "it?..."
 msgstr ""
+"Аххх… да… океан. Отсюда он выглядит по-настоящему зловещим в темноте, не так "
+"ли?.."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1807
@@ -12275,6 +12335,8 @@ msgid ""
 "<i>(sighs)</i> I’m sorry, I should not have bothered you. I guess I will "
 "leave you to... whatever it is you are doing..."
 msgstr ""
+"<i>(вздыхает)</i> Простите, мне не следовало Вас беспокоить, наверное, я "
+"пойду, чтобы Вы делали… чем бы Вы тут ни занимались…"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1822
@@ -12286,13 +12348,19 @@ msgid ""
 "even humans, were considered ‘demons’ anyway, were we not? We were the "
 "spirits brought to life by the Tree."
 msgstr ""
+"Ты поистине любопытное создание, Аня, дочь Минты. Я никогда не слыхала, "
+"чтобы кто-то рождался от файери и демона. Полагаю, то, что оба рода не "
+"смешиваются, довольно естественно из-за их врождённой взаимной ненависти. "
+"Хотя здесь есть над чем подумать… поскольку в самом начале все мы, даже "
+"люди, в какой-то степени считались ‘демонами’, не так ли? Мы были духами, а "
+"Древо подарило нам жизнь."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1837
 msgid ""
 "That name... how can you possibly know that name? I don’t... I don’t "
 "understand—"
-msgstr ""
+msgstr "То имя… как Вы вообще можете знать то имя? Я не… не понимаю—"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1845
@@ -12304,6 +12372,12 @@ msgid ""
 "Mother of Urvatha with the help of the most improbable allies, and carry out "
 "her sworn duty despite it taking the heaviest toll of all."
 msgstr ""
+"Я присматривала за Леди Света и её союзниками дольше, чем ты или даже "
+"Владыка Демонов. Я узрела её восход из темнейших глубин Ирдии; её битву с "
+"неописуемыми врагами, что обрушивались из времени и места за гранью Пустоты; "
+"её путь сквозь проклятые орды Матери Урвата вместе с помощью самых "
+"невозможных союзников; и как она несла своё бремя клятвенного долга, пусть "
+"то бремя и забрало величайшую жертву из всех."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1853
@@ -12311,6 +12385,8 @@ msgid ""
 "Accordingly, I provided one of her faeriekind allies with a small gift as a "
 "reward for the fortitude of mind and body they displayed in battle."
 msgstr ""
+"Поэтому я оставила одной из её союзниц-файери небольшой подарок в награду за "
+"силу духа и тела, которую они проявляли в сражении."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1861
@@ -12318,11 +12394,14 @@ msgid ""
 "I guided you towards a relic from the Golden Age as a reward for your "
 "unfaltering optimism in the face of adversity."
 msgstr ""
+"Я привела тебя к реликвии Золотого Века в награду за твой несокрушимый "
+"оптимизм перед лицом опасности."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1866
 msgid "It doesn’t do anything, though. Elynia said there’s no magic in it."
 msgstr ""
+"Однако она бесполезна. Элиния сказала, в кулоне нет никакого волшебства."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1871
@@ -12331,6 +12410,9 @@ msgid ""
 "along your journey need to be viscerally gratifying in order for you to "
 "build an emotional attachment to those memories?"
 msgstr ""
+"Но должен ли он быть волшебным, чтобы представлять для тебя ценность? Должны "
+"ли все события на твоём пути ублажать твои чувства, чтобы ты привязалась "
+"нутром к тем воспоминаниям?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1876
@@ -12338,6 +12420,8 @@ msgid ""
 "I... suppose you are right. It reminds me so much of her somehow... Oh gods, "
 "I hope she is all right..."
 msgstr ""
+"Я… наверное, Вы правы. Он мне почему-то так сильно о ней напоминает… О боги, "
+"надеюсь, с ней всё в порядке…"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1883
@@ -12348,6 +12432,10 @@ msgid ""
 "limited, and time is running short. I can give you the answer to one "
 "question about the past, and a last blessing."
 msgstr ""
+"Единственное, что мне осталось — помочь тебе в грядущей битве, однако, как "
+"смогу, дабы ты вновь увидела свет дня. Но должна предупредить, тем не менее, "
+"что сила, данная мне Богиней крайне ограниченна, а время уже на исходе. Я "
+"могу дать тебе один ответ о прошлом, и последнее благословление."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1888
@@ -12493,6 +12581,7 @@ msgstr "Что случилось дальше?"
 msgid ""
 "I apologize. Like I said, I can only answer one question about the past."
 msgstr ""
+"Извиняюсь. Как я сказала, мне дано ответить лишь на один вопрос о прошлом."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2005
@@ -12500,12 +12589,14 @@ msgid ""
 "Well, excuse me if I don’t believe you right now! Surely your goddess must "
 "have imparted the full story to you!"
 msgstr ""
+"Да уж, простите, но я Вам сейчас не поверю! Ваша богиня, несомненно, должна "
+"была передать Вам всю историю!"
 
 #. [message]: speaker=Daeira
 #. She is not saying "no". This becomes relevant later.
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2011
 msgid "I am just a medium and your particular question is already answered."
-msgstr ""
+msgstr "Я всего лишь медиум, а на твой вопрос уже нашёл ответ."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2021
@@ -12513,11 +12604,13 @@ msgid ""
 "If you must hear the whole story I am afraid you are going to have to ask "
 "the Goddess for the rest."
 msgstr ""
+"Если тебе нужно услышать историю до конца, боюсь, тебе придётся об остальном "
+"спросить Богиню."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2026
 msgid "Well, I would if I knew who she is or how to communicate with her!!!"
-msgstr ""
+msgstr "Что ж, с радостью, если бы я знала, кто она или как с ней связаться!!!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2031
@@ -12525,6 +12618,8 @@ msgid ""
 "Our kind knows her as Xia’el. Her true name is known by only a counted few, "
 "and her domain lies somewhere completely beyond our reach."
 msgstr ""
+"Нашему роду она известна как Ксиаэль. Её истинное имя ведомо лишь считанным "
+"единицам, а её царство лежит где-то совершенно за гранью нашего охвата."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2036
@@ -12532,11 +12627,13 @@ msgid ""
 "If that is so then how am I supposed to get there and punch her in the face "
 "for telling me an incomplete story?!"
 msgstr ""
+"Если так, то как тогда мне добраться туда и ударить её в лицо, за то, что "
+"она рассказала мне неполную историю?!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2041
 msgid "Everything is possible if you set your mind to it!"
-msgstr ""
+msgstr "Всё возможно, если ты направишь на это свой разум!"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2046
@@ -12571,6 +12668,7 @@ msgid ""
 "One question, not two. You already asked the question, and so I must deliver "
 "the answer."
 msgstr ""
+"Один вопрос — не два. Ты уже задала вопрос, и посему я должна дать ответ."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2080
@@ -12586,11 +12684,13 @@ msgid ""
 "NO! Stop! I changed my mind, I don’t want to know. That’s not what I really "
 "meant to ask specifically anyway."
 msgstr ""
+"НЕТ! Стойте! Я передумала, я не хочу знать. В любом случае, это не то, что я "
+"на самом деле хотела спросить."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2090
 msgid "I know the answer to your real question though."
-msgstr ""
+msgstr "Впрочем, я знаю ответ на твой настоящий вопрос."
 
 #. [message]: speaker=Anya
 #. [message]: speaker=Elynia
@@ -14189,7 +14289,7 @@ msgstr ""
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:1207
 msgid "Of course. A cunning trap by Zhangor, I presume?"
-msgstr ""
+msgstr "Конечно же. Догадываюсь, коварная ловушка Жангора?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:1241
@@ -14485,7 +14585,7 @@ msgstr ""
 #. [event]: id=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2282
 msgid "Explore the place"
-msgstr ""
+msgstr "Исследуйте это место"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2310
@@ -14542,12 +14642,12 @@ msgstr ""
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2433
 msgid "Home..."
-msgstr ""
+msgstr "Дом…"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2439
 msgid "There, there."
-msgstr ""
+msgstr "Здесь, здесь."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2445
@@ -14634,7 +14734,7 @@ msgstr ""
 #. [message]: speaker=Argan
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2549
 msgid "Is there something wrong, my love?"
-msgstr ""
+msgstr "Что-то не так, любовь моя?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2554
@@ -14719,7 +14819,7 @@ msgstr ""
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2768
 msgid "(<i>enraged</i>) You were going to possess me..."
-msgstr ""
+msgstr "(<i>в бешенстве</i>) Ты собирался мной овладеть…"
 
 #. [message]: speaker=Deathbringer
 #. "Aspect" here refers to the Aspect of Earth, not Elynia's physical appearance.
@@ -14733,7 +14833,7 @@ msgstr ""
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2797
 msgid "(<i>enraged</i>) Not if I can kill <b>you</b> first."
-msgstr ""
+msgstr "(<i>в бешенстве</i>) Нет, если я сначала не убью <b>тебя</b>."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2825
@@ -14847,7 +14947,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3662
 msgid "The Lady of Light and the Master of Darkness must die!"
-msgstr ""
+msgstr "Леди Света и Повелитель Тьмы должны умереть!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3667
@@ -14870,12 +14970,12 @@ msgstr ""
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3700
 msgid "<i>Then... we shall do this. Together.</i>"
-msgstr ""
+msgstr "<i>Тогда... мы сделаем это. Вместе.</i>"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3711
 msgid "<i>... Together.</i>"
-msgstr ""
+msgstr "<i>... Вместе.</i>"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3757
@@ -20110,7 +20210,7 @@ msgid ""
 "\n"
 "In time, we would be proven wrong."
 msgstr ""
-"В один роковой день явился человек, покрытый тьмой. Его глаза сияли подобно "
+"В один роковой день явился человек, покрытый мраком. Его глаза сияли подобно "
 "нескончаемому сиянию Найи; его рот скрывал переплетённый металл и гнилую "
 "плоть. Его приспешники звали человека Мал-Загарн.\n"
 "\n"
@@ -20517,8 +20617,8 @@ msgid ""
 "Elynia... While all that is true, you can’t deny you have helped us all do "
 "more good than any of us alone could otherwise. No-one is perfect..."
 msgstr ""
-"Элиния… Пусть всё это правда, но ты не можешь отрицать, что в "
-"одиночкупомогла нам сделать хорошего больше, чем мог бы кто-нибудь другой в "
+"Элиния… Пусть всё это правда, но ты не можешь отрицать, что в одиночку "
+"помогла нам сделать хорошего больше, чем мог бы кто-нибудь другой в "
 "одиночку. Никто не совершенен…"
 
 #. [message]: speaker=Elynia
@@ -24034,10 +24134,10 @@ msgid ""
 "But things did not go exactly as planned."
 msgstr ""
 "Жизнь, Вода, Гром, Земля, Огонь, Тьма, Свет, Воздух, Лёд, Бытие — вот силы, "
-"которые повелевают нашей реальностью, они все произошли от Древа вместе с "
-"семенами их Стражей и с мирами, что им соответствуют. В своё время жизнь "
-"должна была распространится гораздо дальше по всей вселенной, пока десять "
-"миров будут радоваться правлению назначенных им защитников.\n"
+"которые повелевают всем сущим, они все произошли от Древа вместе с семенами "
+"их Стражей и с мирами, что им соответствуют. В своё время жизнь должна была "
+"распространится гораздо дальше по всей вселенной, пока десять миров будут "
+"радоваться правлению назначенных им защитников.\n"
 "\n"
 "Но всё пошло не так, как задумано."
 
