@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-22 15:16 UTC\n"
-"PO-Revision-Date: 2020-08-22 23:28+0300\n"
+"PO-Revision-Date: 2020-08-22 23:57+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -1580,31 +1580,28 @@ msgstr ""
 
 #. [unit_type]: id=Arcane Apostate, race=faerie, description=placeholder for the story of shardia and the oread
 #: After_the_Storm/units/faeries/Oread_Arcane_Apostate.cfg:5
-#, fuzzy
 msgid "female^Arcane Apostate"
-msgstr "Воплощённая файери"
+msgstr "Мистическая отступница"
 
 #. [attack]: type=impact
 #: After_the_Storm/units/faeries/Oread_Arcane_Apostate.cfg:30
 msgid "cataclysm"
-msgstr ""
+msgstr "катаклизм"
 
 #. [attack]
 #: After_the_Storm/units/faeries/Oread_Arcane_Apostate.cfg:44
 msgid "absorption"
-msgstr ""
+msgstr "поглощение"
 
 #. [attack]
 #: After_the_Storm/units/faeries/Oread_Arcane_Apostate.cfg:49
-#, fuzzy
 msgid "reflection"
-msgstr "Охрану?"
+msgstr "отражение"
 
 #. [attack]
 #: After_the_Storm/units/faeries/Oread_Arcane_Apostate.cfg:54
-#, fuzzy
 msgid "faerie storm"
-msgstr "огненный смерч"
+msgstr "буря файери"
 
 #. [unit_type]: id=Civilian, race=human
 #: After_the_Storm/units/humans/Civilian.cfg:5
@@ -12521,7 +12518,6 @@ msgstr ""
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1950
-#, fuzzy
 msgid ""
 "Their long and grueling journey eventually led them to the great eucalyptus "
 "forests of Glamdrol. There it is that they finally found shelter from the "
@@ -13715,12 +13711,12 @@ msgstr "Мал Гюльголет"
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2182
 msgid "Council Chamber"
-msgstr ""
+msgstr "Зал Совета"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2183
 msgid "Abandoned Council Chamber"
-msgstr ""
+msgstr "Заброшенный Зал Совета"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2224
@@ -17474,6 +17470,8 @@ msgid ""
 "My lady! I had long given up my search! But you are still alive, after all "
 "this time!"
 msgstr ""
+"Миледи! Я уже было бросила мои поиски! Но Вы всё ещё живы, после всех этих "
+"времён!"
 
 #. [message]: speaker=Avethan
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:818
@@ -18402,6 +18400,8 @@ msgid ""
 "The Gatekeeper on Ethea is no more, my lady. The breach from Urvatha is now "
 "clear for you to cross."
 msgstr ""
+"Привратника Этеи больше нет, госпожа. Разрыв со стороны Урвата теперь открыт "
+"для Вашего перехода."
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2294
@@ -18474,6 +18474,8 @@ msgid ""
 "I have transferred Irdya’s control to Lord Zhangor. You are relieved from "
 "your duty as my Fire."
 msgstr ""
+"Я передала правление над Ирдией Владыке Жангору. Ты освобождена от своей "
+"должности моего Огня."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2354
@@ -18489,6 +18491,10 @@ msgid ""
 "irrelevant to you. Your duty now is to serve him just as you have served me "
 "all these years."
 msgstr ""
+"Я отказываюсь принимать твою реакцию за удивление, Элисса. Ты и правда "
+"думала, что я одолжу ему кулак войск Триады без надлежащей причины? Всё это "
+"— часть плана, который по большей части тебя не касается. Теперь твой долг: "
+"служить ему так, как ты служила мне все эти годы."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2364
@@ -18496,6 +18502,8 @@ msgid ""
 "But you promised that Irdya would be under my control soon... Zhangor would "
 "assist you on Ethea!"
 msgstr ""
+"Но Вы обещали, что скоро Ирдия будет под моей властью… Жангор должен был "
+"помочь Вам в Этеи!"
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2369
@@ -18505,6 +18513,10 @@ msgid ""
 "call Irdya, you will have to strike a bargain with your new lord. Do you "
 "understand?"
 msgstr ""
+"Следи за речью, девчонка — не забывай, что я могу окончить твою жизнь и "
+"уничтожить твою душу, когда мне заблагорассудится. Хочешь грязевой комок, "
+"который ты называешь Ирдией — придётся поторговаться с твоим новым "
+"повелителем. Поняла?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2374
@@ -18546,7 +18558,7 @@ msgstr ""
 #. [event]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2488
 msgid "Enter the ruined laboratory"
-msgstr ""
+msgstr "Войдите в разрушенную лабораторию"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2525
