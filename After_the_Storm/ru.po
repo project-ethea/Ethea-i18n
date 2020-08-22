@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-22 15:16 UTC\n"
-"PO-Revision-Date: 2020-08-22 01:31+0300\n"
+"PO-Revision-Date: 2020-08-22 23:28+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -17848,7 +17848,7 @@ msgstr ""
 #. [event]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:395
 msgid "Proceed to the meeting chamber"
-msgstr ""
+msgstr "Пройдите в зал собрания"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:423
@@ -17976,7 +17976,7 @@ msgstr ""
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:838
 msgid "Yes. He is already there."
-msgstr ""
+msgstr "Да. Он уже там."
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:848
@@ -17991,7 +17991,7 @@ msgstr ""
 #. The Body of the Union
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:854
 msgid "... the Body..."
-msgstr ""
+msgstr "… Тело…"
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:859
@@ -18003,7 +18003,7 @@ msgstr ""
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:864
 msgid "Yes. As you command, my lady."
-msgstr ""
+msgstr "Да. Как прикажете, госпожа."
 
 #. [unit]: type=Lumeril Guard, id=Halbadrel
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:910
@@ -18047,7 +18047,7 @@ msgstr ""
 #. [event]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1042
 msgid "Proceed to the transport glyph"
-msgstr ""
+msgstr "Пройдите к транспортному кристаллу"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1069
@@ -18059,17 +18059,17 @@ msgstr ""
 #. [message]: speaker=Sheelevrea
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1088
 msgid "Hahahaha! Look, it is Uria’s little pet! Isn’t she adorable?"
-msgstr ""
+msgstr "Хахахаха! Смотрите, это же зверушка Урии! Разве она не милашка?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1093
 msgid "You are obstructing the way. Get out."
-msgstr ""
+msgstr "Вы загораживаете проход. Отойдите."
 
 #. [message]: speaker=Halbadrel
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1098
 msgid "As you wish."
-msgstr ""
+msgstr "Как скажете."
 
 #. [message]: speaker=Sheelevrea
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1105
@@ -18101,7 +18101,7 @@ msgstr ""
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1403
 msgid "... There is no going back now..."
-msgstr ""
+msgstr "… Теперь пути назад нет…"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1447
@@ -18112,12 +18112,12 @@ msgstr "…!"
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1457
 msgid "<i>Have you forgotten who you are?</i>"
-msgstr ""
+msgstr "<i>Ты забыла, кто ты есть?</i>"
 
 #. [message]: speaker=Ethealim
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1476
 msgid "Are you deceiving yourself?"
-msgstr ""
+msgstr "Ты обманываешь себя?"
 
 #. [message]: speaker=Elyssa
 #. [message]: speaker=Ethealim
@@ -18583,6 +18583,9 @@ msgid ""
 "by the Guardian of Life, also known as Uria, Guardian of the Legacy and the "
 "Void, Mistress of the Void, Goddess of Life."
 msgstr ""
+"Сила, что правит над рождением всех существ в нашей реальности. Воплощена "
+"Стражем Жизни, также известной как Урия, Страж Наследия и Пустоты, Госпожа "
+"Пустоты, Богиня Жизни."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2582
@@ -18596,6 +18599,9 @@ msgid ""
 "sustainment and destruction. Incarnated by the Guardian of Water, also known "
 "as Valdir, Guardian of Water and Destruction, the Beast, God of War."
 msgstr ""
+"Стихия, причастная к происхождению всей жизни в нашей действительности, как "
+"и её поддержке и разрушению. Воплощена Стражем Воды, также известным как "
+"Валдир, Страж Воды и Разрушения, Зверь, Бог Войны."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2587
@@ -18610,6 +18616,9 @@ msgid ""
 "also known as Kaarul, Guardian of Thunder, Harbinger of Judgment, and God of "
 "Storms."
 msgstr ""
+"Искра, что поддерживает жизнь в движении, судья в хаотичной реальности, "
+"обреченной на преходящую вечность раздора. Воплощена Стражем Грома, также "
+"известным как Краарул, Страж Грома, Вестник Справедливости и Бог Бурь."
 
 #. [option]
 #. [message]: speaker=narrator
@@ -18626,6 +18635,10 @@ msgid ""
 "as Xia’el, Guardian of the Arcane Flame and Earth, Goddess of the Forests, "
 "Protector of Peace."
 msgstr ""
+"Убежище, что содержит в себе обещание жизни, энергию, что раздувает "
+"мистический огонь в умирающей реальности. Воплощено Стражем Жизни, также "
+"известной как Ксиаэль, Страж Мистического Огня и Земли, Богиня Лесов, "
+"Защитник Мира."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2597
@@ -18640,6 +18653,10 @@ msgid ""
 "dwellers. Incarnated by the Guardian of Fire, also known as Shardia, "
 "Guardian of Fire and Knowledge, the Fire of Hope, Goddess of Love."
 msgstr ""
+"Сущность, что питает жизнь путём любви, пламя, что греет кузню знаний во "
+"вселенной, где невежество опутало её беспомощных обывателей. Воплощена "
+"Стражем Огня, также известной как Шардия, Страж Огня и Знаний, Огонь "
+"Надежды, Богиня Любви."
 
 #. [option]
 #. [message]: speaker=narrator
@@ -18657,6 +18674,10 @@ msgid ""
 "the Guardian of Darkness, also known as Merthiaal, Guardian of Darkness and "
 "Shadows, Eater of Souls, Goddess of Free Will."
 msgstr ""
+"Сущность свободы воли, что необходима для развития жизни; то, что было до и "
+"что будет после света в реальности, лишённой высшего предназначения. "
+"Воплощена Стражем Тьмы, также известной как Мерфиааль, Страж Тьмы и Теней, "
+"Пожирательница Душ, Богиня Свободной Мысли."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2607
@@ -18671,6 +18692,10 @@ msgid ""
 "Guardian of Light, also known as Luceith’el, Guardian of Light and Metal, "
 "Star of the Morning, Healer of Souls."
 msgstr ""
+"Сущность постоянства, из которого родилась жизнь; то, что будет после и что "
+"будет до тьмы в реальности, неготовой к своему концу. Воплощена Стражем "
+"Света, также известным как Люцеитэль, Страж Света и Металла, Утренняя "
+"Звезда, Целитель Душ."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2612
@@ -18685,6 +18710,9 @@ msgid ""
 "Kazith, Guardian of Air and Breath, Lady of the Skies, Messenger of the "
 "Ether."
 msgstr ""
+"Сущность поцелуя, что вдыхает жизнь, дыхание, что сохраняет жизнь в гниющей "
+"действительности. Воплощена Стражем Воздуха, также известной как Казит, "
+"Страж Воздуха и Дуновения, Госпожа Небес, Вестница Эфира."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2618
@@ -18699,6 +18727,10 @@ msgid ""
 "Incarnated by the Guardian of Ice, also known as Yukiria, Guardian of Ice "
 "and Mirrors, Queen of the White Expanse, Keeper of Death."
 msgstr ""
+"Холодное касание, что завершает жизнь, сущность, что хранит сокровище для "
+"тех, кто посмеет заглянуть за грань сужающейся вселенной. Воплощена Стражем "
+"Льда, также известной как Юкирия, Страж Льда и Зеркал, Королева Белого "
+"Простора, Хранительница Смерти."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2623
@@ -18713,6 +18745,9 @@ msgid ""
 "known as Delethia, Guardian of Secrets and Time, the Faceless Woman, Seer of "
 "the Tree."
 msgstr ""
+"Сущность, что связывает всю жизнь воедино, пустое полотно, на котором "
+"выткана порочная реальность. Воплощена Стражем Бытия, также известной как "
+"Делетия, Страж Таинств и Времени, Безликая Женщина, Зрящая Древа."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2644
@@ -18880,7 +18915,7 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2923
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:848
 msgid "But..."
-msgstr ""
+msgstr "Но…"
 
 #. [message]: speaker=Argan
 #. [message]: speaker=Zynara
@@ -19003,11 +19038,13 @@ msgid ""
 "Proceed further into the ruined laboratory and try to reminisce on better "
 "times"
 msgstr ""
+"Пройдите дальше в разрушенную лабораторию и попытайтесь вспомнить о лучших "
+"временах"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3081
 msgid "Operating Room"
-msgstr ""
+msgstr "Операционная"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3082
@@ -19141,7 +19178,7 @@ msgstr ""
 #. [event]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3263
 msgid "Proceed into the ruined room"
-msgstr ""
+msgstr "Пройдите в разрушенную комнату"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3288
@@ -19213,7 +19250,7 @@ msgstr ""
 #. [event]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3353
 msgid "Proceed into Elyssa’s cell"
-msgstr ""
+msgstr "Пройдите в камеру Элиссы"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3375
@@ -19232,6 +19269,8 @@ msgid ""
 "The chest is empty. It has been decades since the last time anyone used it "
 "to deliver parcels to you."
 msgstr ""
+"Сундук пуст. Прошли десятилетия с тех пор, как кто-либо использовал его, "
+"чтобы доставлять Вам посылки."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3414
@@ -19245,6 +19284,14 @@ msgid ""
 "you under constant surveillance. You simply had to act before Zhangor had a "
 "chance to take advantage of her as well."
 msgstr ""
+"Кендяра всё ещё лежит здесь ровно так, так Вы её оставили.\n"
+"\n"
+"Файери уничтожила её тело вблизи входа в заброшенный зал Железного Совета. "
+"Если бы Вы захотели предоставить ей новую попытку, Вам бы пришлось дать ей и "
+"новое тело. Было довольно занятно держать её поблизости, но не слишком умно, "
+"а Нар-хамот пользовался этим, чтобы держать Вас под постоянным наблюдением. "
+"Вам попросту нужно было действовать, пока и Жангор не успел ею "
+"воспользоваться."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3422
@@ -19257,6 +19304,13 @@ msgid ""
 "life would allow you to have normal dreams again, but it has only been worse "
 "since then."
 msgstr ""
+"На самом деле, Вы потратили не так много времени в этой камере, как если бы "
+"были обычным существом. К счастью, Ваше тело позволяет Вам проводить "
+"неограниченное количество времени без отдыха. Время от времени Вы пытались "
+"уснуть, но с тех самых пор, как человеческие подонки приволокли Вас в "
+"столицу, Вам попадались лишь разновидности одного и того же повторного "
+"кошмара. Вы надеялись, что Ваша новая жизнь позволит вновь обрести "
+"обыкновенные сны, но с тех пор всё стало только хуже."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3434
@@ -19265,11 +19319,15 @@ msgid ""
 "at your cell a last time to make sure you are not forgetting anything before "
 "leaving. Surely none of that trash on the floor is of any use to you."
 msgstr ""
+"Вы считаете, что наконец пора идти и привести те планы в исполнение. Вы "
+"бросаете последний взгляд на Вашу камеру, чтобы удостовериться, что Вы "
+"ничего не забыли перед тем, как её покинуть. Конечно, мусор на полу Вам "
+"навряд ли пригодится."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3444
 msgid "Find the touchplate leading to the final room"
-msgstr ""
+msgstr "Найдите сенсор, ведущий в последнюю комнату"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3466
@@ -19278,6 +19336,9 @@ msgid ""
 "enemy necromancers, absolutely useless against magic on lease from a "
 "Guardian of Life. Such a shame."
 msgstr ""
+"Оберег Кендяры от заклинаний некромантии. Крайне полезен против обычных "
+"вражеских некромантов — совершенно никчёмный против колдовства, что одолжила "
+"Страж Жизни. Какая жалость."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3483
@@ -19294,12 +19355,26 @@ msgid ""
 "advantages to having been disemboweled and implanted with an unnatural power "
 "source after all."
 msgstr ""
+"Эта разломанная каменная плита когда-то была Вашей кроватью. В последний "
+"раз, когда Вы на ней спали, произошёл небольшой несчастный случай, связанный "
+"с Вашими кошмарами. Пусть она и раньше была не самой удобной поверхностью "
+"для сна, теперь Вы уверены, что провести на ней какое-либо значительное "
+"количество времени лёжа будет Вам крайне нежелательно. В любом случае, не "
+"похоже на то, что Ваша спина могла бы выдержать любую необратимую травму — "
+"Ваша способность к восстановлению биологических частей довольно намеренно "
+"ограничена по сравнению со стражами, рождёнными естественным путём, но всё "
+"же Вы оказались гораздо крепче Ваших никчёмных жертв, благодаря "
+"разнообразным улучшениям, которые применили к Вашему телу. Вы допускаете, "
+"что в итоге есть <i>некоторые</i> преимущества от того, что Вас выпотрошили, "
+"а затем подсоединили к неестественному источнику энергии."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3500
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3553
 msgid "Your makeshift bed table. There is nothing remarkable about it."
 msgstr ""
+"Ваш прикроватный столик из подручных средств. В нём нет ничего "
+"примечательного."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3517
@@ -19307,6 +19382,8 @@ msgid ""
 "Just trash that has been lying around for ages. You are not going to touch "
 "it — who knows what kind of creatures have decided to make it their home."
 msgstr ""
+"Обыкновенный мусор, он лежал здесь столетиями. Вы решаете его не трогать — "
+"кто знает, что за существа сделали его своим домом."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3534
@@ -19320,6 +19397,14 @@ msgid ""
 "than usual, assuming the place does not collapse first. That is not a "
 "troubling notion in the least, you tell yourself."
 msgstr ""
+"Кендяра сейчас выглядит гораздо ярче — при жизни она не была такой "
+"блестящей.\n"
+"\n"
+"Вы бы могли взять бедную женщину с собой, но, наверное, здесь безопаснее. "
+"Скорее всего, её никто не найдет, и Вам не стоит беспокоится о том, что она "
+"решит Вам отомстить за то, что Вы смели её с дороги подобным образом. Ей "
+"просто придётся провести здесь вечность и быть ещё бесполезнее, чем обычно, "
+"если, конечно, сперва всё не рухнет. Беспокоится не стоит, говорите Вы себе."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3568
@@ -19331,6 +19416,13 @@ msgid ""
 "drastically. Things like poetry became pointless as they do not contribute "
 "to your plans in any way whatsoever, and yet... this book is still here."
 msgstr ""
+"Старый сборник со стихами, который Вы нашли среди каких-то раскопанных руин "
+"в Серебренных землях. В былые времена Вы посвящали свою жизнь поискам любых, "
+"даже мельчайших осколков истории, что Вы собирали из многочисленных останков "
+"цивилизаций Золотого Века, но после становления гибридным существом, Ваши "
+"интересы резко изменились. Вещи, вроде поэзии, лишились смысла, поскольку "
+"они никак не способствовали Вашим планам, и всё же… эта книга здесь до сих "
+"пор."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3586
@@ -19343,6 +19435,8 @@ msgid ""
 "You take the book. A few loose pages slide onto the floor, and you pick them "
 "up."
 msgstr ""
+"Вы берёте книгу. Несколько вложенных страниц ускользают на пол, и Вы их "
+"подбираете."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3609
@@ -19350,6 +19444,8 @@ msgid ""
 "Of course. These are the pages you took from Argan’s journal some time after "
 "he became irreversibly incoherent."
 msgstr ""
+"Конечно. Это те самые страницы, которые Вы вырвали из дневника Аргана через "
+"некоторое время после того, как его речь стала необратимо бессвязной."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3637
@@ -19358,16 +19454,19 @@ msgid ""
 "\n"
 "Are you sure you want to proceed now?"
 msgstr ""
+"Как только Вы войдёте в эту комнату, пути назад не будет.\n"
+"\n"
+"Вы уверены, что хотите пройти туда сейчас?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3688
 msgid "This is all your fault, Argan."
-msgstr ""
+msgstr "Всё это — твоя вина, Арган."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3697
 msgid "I shouldn’t be the one to deal with this..."
-msgstr ""
+msgstr "Не я должна со этим справляться…"
 
 #. [scenario]: id=10_Blood
 #. [part]
@@ -19395,6 +19494,8 @@ msgid ""
 "Yes, more blood. You might want to get used to it — there is a lot of it in "
 "the place we are headed towards."
 msgstr ""
+"Да, больше крови. Тебе бы лучше к ней привыкнуть — там, куда мы "
+"направляемся, её целое море."
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:466
@@ -19414,6 +19515,11 @@ msgid ""
 "Perhaps, even without the Union, we may be able to achieve something in some "
 "form."
 msgstr ""
+"Если мы хотим получить возможность убить этого выродка навсегда, мы должны "
+"держаться вместе и попытаться объединить наши силы и атаки различными "
+"способами. Твоя сущность несомненно связана с путём Света; моя — с путём "
+"Тьмы. Быть может, пускай и без союза, сможем что-нибудь достичь до какой-то "
+"степени."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:480
@@ -19424,7 +19530,7 @@ msgstr "Вот почему ты хотела, чтобы я была на тв�
 #. "Us" = Argan and Elyssa.
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:486
 msgid "Yes. It is my hope that you... will not let us down."
-msgstr "Да. Я надеюсь, что ты… нас не подведёшь."
+msgstr "Да. Я надеюсь, ты… нас не подведёшь."
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:491
@@ -19473,11 +19579,14 @@ msgid ""
 "feel too intimidated by her stature, though — I very much doubt this is to "
 "scale."
 msgstr ""
+"Ксиаэль, Страж Земли. Её воплощение в Первом Цикле, если быть точной. "
+"Впрочем, не слишком пугайся её статуи — я очень сомневаюсь, что она в "
+"натуральную величину."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:968
 msgid "She is... she was a faerie? I am not sure what I was expecting."
-msgstr ""
+msgstr "Она… она была файери? Не знаю, что я вообще ожидала."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:973
@@ -19486,6 +19595,9 @@ msgid ""
 "shoes for reasons that are surely beyond my ability to comprehend. And "
 "again, most likely not to scale."
 msgstr ""
+"Велики ботиночки? Опять же, похоже, никто из вас никогда не носил обувь, "
+"причина этого, конечно, за гранью моего понимания. И снова, скорее всего не "
+"в натуральную величину."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:978
@@ -19493,6 +19605,8 @@ msgid ""
 "No, I mean... She looks so beautiful and dignified... but at the same time, "
 "she is... so..."
 msgstr ""
+"Нет, я имею ввиду… Она выглядит такой величественной и прекрасной… но в то "
+"же время она… такая…"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:983
@@ -19500,11 +19614,14 @@ msgid ""
 "Mundane? By now you should know gods come in all shapes and sizes. Although "
 "anyone can play god to a sufficiently ignorant crowd."
 msgstr ""
+"Земная? К этому времени ты уже должна знать, что боги бывают всех форм и "
+"размеров. Хотя всякий может сыграть бога для достаточно невежественной "
+"толпой."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:988
 msgid "I suppose you would know about that kind of thing."
-msgstr ""
+msgstr "Как я погляжу, тебе подобное не чуждо."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:993
@@ -19515,6 +19632,12 @@ msgid ""
 "your power regardless, so there is little point to claiming godhood unless "
 "you want to paint an even larger target on your back."
 msgstr ""
+"Ни к чему чудеса, пророчества или контроль над разумом, чтобы править над "
+"необразованными дикарями. Просто очерти перед ними ясные границы и покажи "
+"подчинённым, что последует, если кто-то выбьется из строя. Рано или поздно "
+"кто-то всё равно испытает твою власть на прочность, поэтому нет особого "
+"смысла провозглашать свою божественность, если, конечно, не хочешь "
+"нарисовать себе на спине ещё больший ценник."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:998
@@ -19525,18 +19648,23 @@ msgid ""
 "have god-like powers, then the job should be certainly much easier. But it "
 "does not have to be like that."
 msgstr ""
+"Если позабыть на минутку обо всех этих делах с Урией, что миру нужно сейчас "
+"— уж точно не ещё один ложный бог. Миру попросту нужен кто-то, кто вычистит "
+"из него всех подонков и выстроит новый порядок с чистого листа. И если "
+"случится так, что у того-то будут богоподобные силы, дело станет гораздо "
+"проще. Но это совсем не обязательно."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1006
 msgid ""
 "You don’t need to play the role of the Guardian of Earth if that’s not what "
 "you want."
-msgstr ""
+msgstr "Ты можешь не играть роль Стража Земли, если того не хочешь."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1016
 msgid "I can feel the question lingering in the back of your head."
-msgstr ""
+msgstr "Я чувствую, как у тебя в затылке зарождается вопрос."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1025
@@ -19544,17 +19672,21 @@ msgid ""
 "When my mentor realized the true nature of the Sceptre of Fire, she asked me "
 "to wield it against the enemies of Irdya... with her dying breath."
 msgstr ""
+"Когда моя наставница осознала истинную природу Огненного Скипетра, она "
+"просила меня нести его против врагов Ирдии… со своим последним издыханием."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1030
 msgid ""
 "This cursed artifact is bad for your health. You must not use it ever again."
 msgstr ""
+"Этот чёртов артефакт вреден для твоего здоровья. Ты не должна больше когда-"
+"либо его использовать."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1035
 msgid "I just said—"
-msgstr ""
+msgstr "Я просто сказала—"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1040
@@ -19563,11 +19695,14 @@ msgid ""
 "you are a creature of Light trying to wield a power that is harmful to your "
 "mind and soul."
 msgstr ""
+"Говори, что хочешь, но это не меняет того обстоятельства, что ты — существо "
+"Света и что ты пытаешься овладеть мощью, которая вредит как твоему разуму, "
+"так и твоей душе."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1045
 msgid "Niryone’s staff rightfully belongs to me—"
-msgstr ""
+msgstr "Посох Нирионы принадлежит мне по праву—"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1050
@@ -19578,7 +19713,13 @@ msgid ""
 "are going to have to learn to let go of the past and not waste your "
 "potential living an eternal life of regret."
 msgstr ""
+"Уверяю тебя, то <i>нечто</i>, что скрывается под манящей поверхностью "
+"Рубина, совершенно не волнует, какие чувства ты привязала к этой блестяшке. "
+"Намерения твоей учительницы могли быть благородными, но, если ты желаешь "
+"спасти Ирдию, придётся научиться оставлять былое позади, чтобы не растратить "
+"попусту свои силы и не провести свою, вероятно, вечную жизнь в раскаянии."
 
+# тебе бы говорить про 'your friends’ sacrifices' :)
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1055
 msgid ""
@@ -19588,6 +19729,12 @@ msgid ""
 "you don’t feel up to the task then you are free to stay behind, drowning in "
 "an endless ocean of sorrow for what little is left of eternity."
 msgstr ""
+"Если ты на самом деле желаешь почтить её память… если желаешь, чтобы жертвы "
+"твоих друзей не оказались напрасны, то пора тебе стать Стражем Земли, в "
+"котором мы нуждаемся, заместо Леди Света, что пала жертвой своей собственной "
+"Тьмы. Но если ты не склонна к этой задаче, никто тебе не запрещает остаться "
+"позади и утонуть в безбрежном океане печали за то короткое время, что "
+"осталось от вечности."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1127
@@ -19595,11 +19742,13 @@ msgid ""
 "Hm. He is not here like I expected. I suppose his intention is to make some "
 "kind of dramatic entrance later."
 msgstr ""
+"Хм. Его здесь нет, как я и ожидала. Полагаю, он намеревается сделать что-то "
+"вроде торжественного появления чуть позже."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1132
 msgid "Elynia, there is something here you should see."
-msgstr ""
+msgstr "Элиния, тебе следует здесь кое-что увидеть."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1137
@@ -19610,13 +19759,13 @@ msgstr "Передвиньте Элинию и Элиссу в ближайшу�
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1288
 msgid "What is that in the middle of the blood lake?"
-msgstr ""
+msgstr "Что лежит посреди озера крови?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1302
 msgid ""
 "The Seed of Earth, the place from which all life on Irdya originally sprang."
-msgstr ""
+msgstr "Семя Земли, место, из которого изначально произошла вся жизнь в Ирдии."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1308
@@ -19626,6 +19775,10 @@ msgid ""
 "nobody is supposed to see or tamper with the thing that lays within; not "
 "even the controlling Guardian herself. That is to say, not even you."
 msgstr ""
+"Сейчас оно запечатано в своей камере. С ним мало что может сделать кто-"
+"нибудь, помимо Стража Земли. Вообще говоря, никому не предполагается видеть "
+"или взаимодействовать с тем, что лежит внутри; даже самому управляющему "
+"Стражу. К слову, даже тебе."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1314
@@ -19635,6 +19788,9 @@ msgid ""
 "then every living or non-living creature currently standing on this world "
 "would be erased from existence — even you."
 msgstr ""
+"Если, конечно, ты не хочешь отбросить жизнь в Ирдии к её истокам. Так и "
+"начался Второй Цикл. Но ежели ты это сделаешь, все живые или не-живые "
+"существа в этом мире будут стёрты из бытия — и ты в том числе."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1319
@@ -19644,11 +19800,15 @@ msgid ""
 "term. But if you feel particularly selfish about your pitiful existence, "
 "this is an option for you to consider."
 msgstr ""
+"Такое действие конечно же уничтожит Жангора, но Урия не в Ирдии, и эта "
+"потеря будет для неё в конечном итоге не более, чем мелким неудобством. Но "
+"если ты особенно самолюбива касаемо своего жалкого существования, об этой "
+"возможности стоит задуматься."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1328
 msgid "That would be a coward’s choice, don’t you think?"
-msgstr ""
+msgstr "То будет выбором труса, тебе так не кажется?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1333
@@ -19657,16 +19817,19 @@ msgid ""
 "own existence, then one could say that making the choice would take some "
 "degree of courage."
 msgstr ""
+"Возможно. Но если страж, которому предстоит этот вопрос, страшится полного "
+"конца собственного существования, кто-то может и сказать, что принятие "
+"подобного решения даже потребует некоторого мужества."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1342
 msgid "What is your choice?"
-msgstr ""
+msgstr "Каков твой выбор?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1351
 msgid "Do not worry, it is not a binding decision, yet."
-msgstr ""
+msgstr "Не волнуйся, тебя ничто не принуждает к этому решению, пока что."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1356
@@ -19674,6 +19837,8 @@ msgid ""
 "Is that the only possible use for the power stored in this place? To destroy "
 "all life in our world so it can start anew?"
 msgstr ""
+"Но разве лишь так можно применить мощь, хранимую в этом месте? Уничтожить "
+"всю жизнь в нашем мире, чтобы начать её сначала?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1361
@@ -19686,17 +19851,26 @@ msgid ""
 "and her patience is wearing thin. As ludicrous as it sounds, she no longer "
 "wants to find <i>just</i> the Body of the Union on Ethea."
 msgstr ""
+"Если поучительная история Мерфиааль о чём-то говорит, да. Но Урия считает "
+"иначе. Она верит, что семена можно использовать для иных дел, если сущность, "
+"тебе подвластная, либо Жизнь, либо Бытие, основываясь на достижениях её "
+"предшественницы — или на тех ненадёжных сведениях, которыми мы о них "
+"обладаем. Но её попытки отыскать семя в Урвате до сих пор оказались "
+"бесплодны, а её терпение на исходе. Как бы нелепо это не звучало, она больше "
+"не хочет найти в Этеи <i>одно лишь</i> Тело Союза."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1366
 msgid "I see. Then, there is no point in doing anything with ours."
-msgstr ""
+msgstr "Ясно. Тогда нет смысла предпринимать что-либо с нашим."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1371
 msgid ""
 "I suppose. There is so much we still don’t know about our own creation..."
 msgstr ""
+"Стало быть так. Мы ещё так многого не знаем о нашем собственном "
+"происхождении…"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1376
@@ -19707,6 +19881,11 @@ msgid ""
 "probably. That girl, Anya... her sole existence raises many questions we "
 "thought we had already answered."
 msgstr ""
+"Если так подумать, мы должны быть благодарны за действия Делетии, которые "
+"обеспечили то, что в этом цикле у нас не будет полноценного Стража Бытия, "
+"кто бы мог оказаться ещё большим психопатом, чем Урия. Вернее, я на это "
+"надеюсь. Та девочка, Аня… одно лишь её существование порождает так много "
+"вопросов, на которые, как казалось, мы уже нашли ответ."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1404
@@ -19714,6 +19893,8 @@ msgid ""
 "... But of course. The bastard’s plans aren’t as aligned with Uria’s own as "
 "I originally thought."
 msgstr ""
+"… Но естественно. Планы ублюдка не настолько близки к планам Урии, как я "
+"полагала раньше."
 
 #. [message]: speaker=Zhangor
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1517
@@ -19721,11 +19902,13 @@ msgid ""
 "What a glorious day for Irdya! So, at long last, Argan’s little girl solved "
 "the puzzle!"
 msgstr ""
+"Что за славный день для Ирдии! Итак, спустя столько времени, девочка Аргана "
+"наконец догадалась!"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1546
 msgid "You are a disgusting liar and a traitor, Zhangor."
-msgstr ""
+msgstr "Ты — отвратительный лжец и изменник, Жангор."
 
 #. [message]: speaker=Zhangor
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1575
@@ -19733,6 +19916,8 @@ msgid ""
 "Excellent. That makes us equals in the eyes of the Lady of Light. Or should "
 "I now call her the Guardian of Earth on Irdya?"
 msgstr ""
+"Превосходно. Это делает нас равными в глазах Леди Света. Или мне стоит "
+"называть её теперь Стражем Земли в Ирдии?"
 
 #. [message]: speaker=Zhangor
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1584
@@ -19742,6 +19927,9 @@ msgid ""
 "pain with your limbs scattered across the land and buried deep in the "
 "ground? Do you?"
 msgstr ""
+"Ах да, Элиния… Я не забыл, что вы с Арганом со мной сделали. Ты вообще "
+"представляешь, какого это жить столетиями в мучительной боли, когда твои "
+"конечности разбросаны по земле и закопаны глубоко под ней? Представляешь?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1589
@@ -19749,16 +19937,18 @@ msgid ""
 "You’ve got nothing to fear; this time I shall make sure <i>nothing</i> "
 "remains of your wretched body for Uria to bring back."
 msgstr ""
+"Тебе нечего бояться: в этот раз я сделаю так, чтобы <i>ничего</i> не "
+"осталось от твоего гадкого тела для увлечений Урии."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1594
 msgid "And I shall make sure your soul is destroyed forever as well."
-msgstr ""
+msgstr "А я удостоверюсь, что и твоя душа будет уничтожена навеки."
 
 #. [message]: speaker=Zhangor
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1599
 msgid "Without the Union? Go ahead, try your best!"
-msgstr ""
+msgstr "Без Союза? Вперёд, дерзайте!"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1638
@@ -19771,17 +19961,19 @@ msgid ""
 "Zhangor’s Gatekeeper powers allow him to debilitate and destroy the Energy "
 "Heart of a Guardian"
 msgstr ""
+"Жангоровы силы Привратника позволяют ему ослабить и разрушить Энергетическое "
+"Сердце Стража"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1958
 msgid "What are you trying to do now?"
-msgstr ""
+msgstr "Что ты пытаешься делать теперь?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1975
 msgid ""
 "His body is affixed to the ground, just avoid getting hit by his lightning!"
-msgstr ""
+msgstr "Его тело прикреплено к земле, просто постарайся не попасть под молнию!"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2259
@@ -19789,11 +19981,13 @@ msgid ""
 "Oh, is that what we are doing now, Zhangor? I expected you to be more "
 "creative than this in a real fight."
 msgstr ""
+"О, и что ты делаешь теперь, Жангор? Я ожидала, ты подойдёшь более творчески "
+"к настоящему бою."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2352
 msgid "Destroying these things is increasing my power somehow..."
-msgstr ""
+msgstr "Разрушение этих штуковин каким-то образом повышает мою мощь…"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2357
@@ -19801,11 +19995,13 @@ msgid ""
 "There is something about the energy released by these cores, although I have "
 "a feeling Zhangor benefits from it as well."
 msgstr ""
+"Скорее всего, что-то связанное с энергией, которую высвобождают эти ядра, "
+"хотя я чувствую, что Жангор выигрывает от этого не меньше."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2467
 msgid "Oh dear gods, will this ever stop?"
-msgstr ""
+msgstr "О боги, это вообще когда-нибудь прекратится?"
 
 #. [message]: speaker=Zhangor
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2476
@@ -19814,6 +20010,8 @@ msgid ""
 "now? Have you not become accustomed to it over the course of your pathetic "
 "lives?"
 msgstr ""
+"В чём причина, Стражи? Боитесь убивать своих же сородичей? Разве вы к этому "
+"не привыкли за всю свою жалкую жизнь?"
 
 #. [case]
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2591
@@ -19825,6 +20023,7 @@ msgstr "Деланит-Изавьен"
 msgid "Reghara"
 msgstr "Регара"
 
+# ?
 #. [message]: speaker=Elyssa
 #. This sentence could be interpreted in two different ways; either Elyssa
 #. is stating that she wouldn't want to kill the real Anya, or that she
@@ -19835,28 +20034,30 @@ msgstr "Регара"
 msgid ""
 "I would hate to have to kill you... if you were the real Guardian of "
 "Darkness."
-msgstr ""
+msgstr "Как жаль было бы тебя убивать… будь ты настоящим Стражем Тьмы."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2733
 msgid "You abandoned me..."
-msgstr ""
+msgstr "Ты бросила меня…"
 
 #. [message]: speaker=Elynia
 #. ‘Demon’ here refers to Zhangor.
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2741
 msgid "Posing as my dearest friend will not save you from my wrath, demon!"
 msgstr ""
+"Выдавая себя за моего ближайшего друга, ты не укроешься от моей ярости, "
+"демон!"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2752
 msgid "You left me to die..."
-msgstr ""
+msgstr "Ты оставила меня умирать…"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2759
 msgid "Your imitation of Argan is once again absolutely pathetic."
-msgstr ""
+msgstr "Твоё воссоздание Аргана как всегда совершенно никчёмно."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2766
@@ -19866,7 +20067,7 @@ msgstr "Ты предала меня…"
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2773
 msgid "This cheap trick will not break me down this time."
-msgstr ""
+msgstr "Этот дешёвый приёмчик в этот раз меня не сломит."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2784
@@ -19879,6 +20080,8 @@ msgid ""
 "I could slaughter a whole host of these stupid elves a thousand times, "
 "Zhangor. Is this all you’ve got?"
 msgstr ""
+"Да я могу перерубить в фарш хоть тысячу армий этих тупых эльфов. Жангор, это "
+"всё, что у тебя есть?"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2798
@@ -19888,34 +20091,34 @@ msgstr "Ты меня не уберегла…"
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2805
 msgid "I no longer care for any of this, Zhangor. I no longer care."
-msgstr ""
+msgstr "Меня это уже не волнует, Жангор. Уже не волнует."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2816
 msgid ""
 "You are no small part of the cause of my departure from this world, you know."
-msgstr ""
+msgstr "Ты в немалой доле причина моего ухода из этого мира, и ты это знаешь."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2823
 msgid "I could not care less about a walking joke like you."
-msgstr ""
+msgstr "Как будто мне не плевать на такое ходячее чучело, как ты."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2830
 msgid "You could have prevented my death, Elynia. You could have—"
-msgstr ""
+msgstr "Ты могла предотвратить мою гибель, Элиния. Ты могла—"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2837
 msgid "No... there was nothing I could do. Stop this!"
-msgstr ""
+msgstr "Нет… я ничего не могла сделать. Хватит!"
 
 #. [message]: speaker=Elyssa
 #. 'Her' refers to Elynia.
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2852
 msgid "I assume you are important to her in some way?"
-msgstr ""
+msgstr "Догадываюсь, ты как-то для неё важна?"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2859
@@ -19923,11 +20126,13 @@ msgid ""
 "... You were too late to save me, Elynia. If only you had not allowed him "
 "into your heart—"
 msgstr ""
+"… Ты прибыла слишком поздно, чтобы спасти меня, Элиния. Если бы только ты не "
+"пустила его в своё сердце—"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2866
 msgid "NO! I don’t want to remember this! I’LL KILL YOU!"
-msgstr ""
+msgstr "НЕТ! Я не хочу об этом вспоминать! Я  УБЬЮ  ТЕБЯ!"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2877
@@ -19935,21 +20140,23 @@ msgid ""
 "With your power you surely could have banished those foul creatures to "
 "whence they came. Useless child."
 msgstr ""
+"Твоей мощью ты бы запросто могла изгнать тех грязных существ туда, откуда "
+"они пришли. Бесполезное дитя."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2884
 msgid "... You peered into places you shouldn’t have, Zhangor."
-msgstr ""
+msgstr "… Ты проник туда, куда не следовало проникать, Жангор."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2891
 msgid "I wonder what became of my kind under your command..."
-msgstr ""
+msgstr "Что стало с моим родом под твоей властью…"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2909
 msgid "HA! I hope you enjoyed your stay with us, sweetheart."
-msgstr ""
+msgstr "ХА! Надеюсь, тебе с нами понравилось, душка."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2916
@@ -19961,12 +20168,12 @@ msgstr "Я  УБЬЮ  ТЕБЯ!"
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2924
 msgid ""
 "You must feel proud of yourself, allying with a mass-murderer like this c—"
-msgstr ""
+msgstr "Наверное, гордишься собой, связавшись с массовой убийцей вроде этой с—"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2931
 msgid "That couldn’t possibly be my own memory... I don’t think..."
-msgstr ""
+msgstr "Это не может быть моим воспоминанием… Наверное…"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2942
@@ -19974,11 +20181,13 @@ msgid ""
 "For someone who wants so much to stop Uria, you are hardly any different "
 "from her kind."
 msgstr ""
+"Для кого-то, кто столь сильно хочет остановить Урию, ты едва ли отличаешься "
+"от её рода."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2949
 msgid "... You are not wrong."
-msgstr ""
+msgstr "… Да. Не сказать, что ты неправ."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2956
@@ -19986,11 +20195,13 @@ msgid ""
 "Taking advantage of my protégé’s heart so soon after my death... You truly "
 "are a shameless creature."
 msgstr ""
+"Воспользовалась сердцем моего воспитанника так скоро после моей смерти… Нет "
+"у тебя ни стыда, ни совести."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2963
 msgid "I’ve had enough. You will not break me again."
-msgstr ""
+msgstr "Довольно! На этот раз ты меня не сломаешь."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2977
@@ -20013,32 +20224,32 @@ msgstr "М— мать…? Нет… НЕТ! ОСТАНОВИСЬ!"
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3017
 msgid ""
 "They are manifestations of Zhangor’s will — not even real shapeshifters!"
-msgstr ""
+msgstr "Это проявления воли Жангора — даже не настоящие оборотни!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3152
 msgid "Brace yourself!"
-msgstr ""
+msgstr "Держись!"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3226
 msgid "Wh— what is... happening to him..."
-msgstr ""
+msgstr "Чт— что… с ним происходит…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3231
 msgid "This is getting out of hand. We need to defeat him here and now!"
-msgstr ""
+msgstr "Всё зашло слишком далеко. Нам нужно победить его здесь и сейчас!"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3236
 msgid "... to his body..."
-msgstr ""
+msgstr "… с его телом…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3247
 msgid "Elyssa? Are you still with me?"
-msgstr ""
+msgstr "Элисса? Ты со мной?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3256
@@ -20046,6 +20257,7 @@ msgid ""
 "Is this... Is this the fate of our kind should we allow emotions to "
 "overpower our minds?"
 msgstr ""
+"Такая… Такая участь ждёт наш род, позволь мы чувствам одолеть наш разум?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3266
@@ -20053,11 +20265,13 @@ msgid ""
 "No... Zhangor devoured the heart of a Gatekeeper. He became like this of his "
 "own volition. Focus, Elyssa."
 msgstr ""
+"Нет… Жангор поглотил сердце Привратника. Он стал таким по собственной воле. "
+"Сосредоточься, Элисса."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3277
 msgid "FOCUS!"
-msgstr ""
+msgstr "СОСРЕДОТОЧЬСЯ!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3375
@@ -20077,12 +20291,13 @@ msgstr "… уничтожить МЕНЯ…"
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3589
 msgid "Do you think we can do it? He should not be able to focus us anymore!"
-msgstr ""
+msgstr "Как считаешь, мы можем это сделать? Он уже не должен нас выцеливать!"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3594
 msgid "No... I’m not ready yet! Just keep striking at him with all you have!"
 msgstr ""
+"Нет… Я ещё не готова! Просто продолжай ударять по нему всем, чем можешь!"
 
 #. [message]: speaker=Zhangor
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3599
@@ -20095,6 +20310,8 @@ msgid ""
 "You are nothing but a sad memory of who you once were. It seems Uria did not "
 "do such a good job in bringing you back from your grave."
 msgstr ""
+"Ты ничто, лишь жалкое воспоминание о том, кем был однажды. Похоже, Урия не "
+"слишком-то постаралась, поднимая тебя из могилы."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3726
@@ -20102,16 +20319,18 @@ msgid ""
 "Perhaps she was aware that you would eventually betray her. Or perhaps she "
 "did not have the same infatuation she had with Argan."
 msgstr ""
+"Быть может, она знала, что в конце концов ты её предашь. Или, возможно, она "
+"не испытывала к тебе такой увлечённости, как к Аргану."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:3981
 msgid "What I do know for sure..."
-msgstr ""
+msgstr "Но что я знаю точно…"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:4014
 msgid "... is that you are done. Elynia!"
-msgstr ""
+msgstr "… так это то, что тебе конец. Элиния!"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:4027
@@ -20122,38 +20341,40 @@ msgstr "???"
 #. 'He' is intended to be used in the sense of a deity here.
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:4051
 msgid "(<i>feminine voice</i>) ... He will come for you... at the end..."
-msgstr ""
+msgstr "(<i>женский голос</i>) ... Он придёт за вами... в конце..."
 
 #. [message]: speaker=Zhangor
 #. 'Him' also as a deity here.
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:4068
 msgid "(<i>feminine voice</i>) ... the Four will not suffice to defeat Him..."
-msgstr ""
+msgstr "(<i>женский голос</i>) ... и Четырёх не хватит, чтобы победить Его..."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:4077
 msgid "Pierce into the heart of stone..."
-msgstr ""
+msgstr "Каменное сердце ты пронзи…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:4107
 msgid "... release the soul back to the void..."
-msgstr ""
+msgstr "… в пустоту отправь дух этот бренный…"
 
+# Проклятый блин Яраэ!!!
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:4122
 msgid "... break the curse of Yarae..."
-msgstr ""
+msgstr "… низ проклятие Яраэ ввергни…"
 
+# хорей. Креатив требует жертв!
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:4145
 msgid "... dispel the spirit from this world."
-msgstr ""
+msgstr "… тварь сотри с лица вселенной."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:4248
 msgid "<i>It is all well, children of Irdya. You may rest now.</i>"
-msgstr ""
+msgstr "<i>Всё хорошо, дети Ирдии. Теперь вы можете отдохнуть.</i>"
 
 #. [scenario]: id=05_Pass_of_Sorrows
 #. [part]
@@ -24290,10 +24511,10 @@ msgid ""
 "But things did not go exactly as planned."
 msgstr ""
 "Жизнь, Вода, Гром, Земля, Огонь, Тьма, Свет, Воздух, Лёд, Бытие — вот силы, "
-"которые повелевают всем сущим, они все произошли от Древа вместе с семенами "
-"их Стражей и с мирами, что им соответствуют. В своё время жизнь должна была "
-"распространится гораздо дальше по всей вселенной, пока десять миров будут "
-"радоваться правлению назначенных им защитников.\n"
+"которые повелевают нашим мирозданием, они все произошли от Древа вместе с "
+"семенами их Стражей и с мирами, что им соответствуют. В своё время жизнь "
+"должна была распространится гораздо дальше по всей вселенной, пока десять "
+"миров будут радоваться правлению назначенных им защитников.\n"
 "\n"
 "Но всё пошло не так, как задумано."
 
