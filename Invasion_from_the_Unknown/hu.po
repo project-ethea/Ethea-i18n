@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-25 08:37 UTC\n"
+"POT-Creation-Date: 2020-08-25 09:25 UTC\n"
 "PO-Revision-Date: 2009-11-22 11:49+0100\n"
 "Last-Translator: Kádár-Németh Krisztián <krisztian.kad@gmail.com>\n"
 "Language-Team: Hungarian <wesnoth-hungtrans@gna.org>\n"
@@ -64,7 +64,7 @@ msgstr "éteri vihar"
 #. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:98
+#: Invasion_from_the_Unknown/_main.cfg:103
 #, fuzzy
 msgid "IftU"
 msgstr "RI-1"
@@ -74,15 +74,15 @@ msgstr "RI-1"
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
-#: Invasion_from_the_Unknown/_main.cfg:166
-#: Invasion_from_the_Unknown/_main.cfg:102
+#: Invasion_from_the_Unknown/_main.cfg:170
+#: Invasion_from_the_Unknown/_main.cfg:107
 msgid "Invasion from the Unknown"
 msgstr "Rejtélyes invázió"
 
 #. [lua]: r
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:133
 #, fuzzy
 msgid "Episode I: Seeking the Light"
 msgstr "A Világosság keresése"
@@ -99,7 +99,7 @@ msgstr "Érdekes."
 #. [lua]: r
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:142
+#: Invasion_from_the_Unknown/_main.cfg:147
 #, fuzzy
 msgid "Episode II: Armageddon"
 msgstr "II. rész "
@@ -16986,33 +16986,38 @@ msgstr "Verzió:"
 msgid "Feedback and bug reports:"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:73
+#: Invasion_from_the_Unknown/_main.cfg:74
 msgid "for Wesnoth 1.14"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:82
+#: Invasion_from_the_Unknown/_main.cfg:77
+#, fuzzy
+msgid "for Wesnoth 1.15.4 and later (experimental)"
+msgstr "(Harc Wesnothért 1.6 RC1 és későbbi verziókhoz)"
+
+#: Invasion_from_the_Unknown/_main.cfg:87
 msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:101
+#: Invasion_from_the_Unknown/_main.cfg:106
 msgid "To be continued..."
 msgstr "Folytatása következik..."
 
-#: Invasion_from_the_Unknown/_main.cfg:120
+#: Invasion_from_the_Unknown/_main.cfg:125
 msgid "Easy"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:121
+#: Invasion_from_the_Unknown/_main.cfg:126
 #, fuzzy
 msgid "Normal"
 msgstr "(Átlagos)"
 
-#: Invasion_from_the_Unknown/_main.cfg:122
+#: Invasion_from_the_Unknown/_main.cfg:127
 msgid "Hard"
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:133
 msgid ""
 "Long after the Fall, the last forest elves on the Great Continent are forced "
 "to abandon their secluded home and forge an unprecedented alliance in hopes "
@@ -17024,25 +17029,25 @@ msgid ""
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:136
+#: Invasion_from_the_Unknown/_main.cfg:141
 #, fuzzy
 msgid "difficulty_menu^Ascetic"
 msgstr "Kapitány"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:137
+#: Invasion_from_the_Unknown/_main.cfg:142
 #, fuzzy
 msgid "difficulty_menu^Mystic"
 msgstr "Marsall"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:138
+#: Invasion_from_the_Unknown/_main.cfg:143
 #, fuzzy
 msgid "difficulty_menu^Avatar"
 msgstr "Kapitány"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:142
+#: Invasion_from_the_Unknown/_main.cfg:147
 #, fuzzy
 msgid ""
 "As the dark veil of Chaos engulfs the land, an assorted group of foolish "
@@ -17059,19 +17064,19 @@ msgstr ""
 "elveszett titkait."
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:151
+#: Invasion_from_the_Unknown/_main.cfg:155
 #, fuzzy
 msgid "difficulty_menu^Disciple"
 msgstr "Harcos"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:152
+#: Invasion_from_the_Unknown/_main.cfg:156
 #, fuzzy
 msgid "difficulty_menu^Lich"
 msgstr "Harcos"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:153
+#: Invasion_from_the_Unknown/_main.cfg:157
 #, fuzzy
 msgid "difficulty_menu^Ancient Lich"
 msgstr "Harcos"
@@ -18544,10 +18549,6 @@ msgstr "Neked, aki játszol a hadjárattal"
 
 #~ msgid "Gate"
 #~ msgstr "Kapu"
-
-#, fuzzy
-#~ msgid "for Wesnoth 1.12 (v1.12.0 or later)"
-#~ msgstr "(Harc Wesnothért 1.6 RC1 és későbbi verziókhoz)"
 
 #~ msgid " *Argh* I'm... defeated..."
 #~ msgstr " *Argh* Én... meghalok..."

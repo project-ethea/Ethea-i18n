@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-IftU 1.8.x\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-25 08:37 UTC\n"
+"POT-Creation-Date: 2020-08-25 09:25 UTC\n"
 "PO-Revision-Date: 2010-12-14 22:16+0900\n"
 "Last-Translator: R.N <dragonfly65th@yahoo.co.jp>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -57,7 +57,7 @@ msgstr ""
 #. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:98
+#: Invasion_from_the_Unknown/_main.cfg:103
 #, fuzzy
 msgid "IftU"
 msgstr "IftU-1"
@@ -67,15 +67,15 @@ msgstr "IftU-1"
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
-#: Invasion_from_the_Unknown/_main.cfg:166
-#: Invasion_from_the_Unknown/_main.cfg:102
+#: Invasion_from_the_Unknown/_main.cfg:170
+#: Invasion_from_the_Unknown/_main.cfg:107
 msgid "Invasion from the Unknown"
 msgstr "未知よりの侵略"
 
 #. [lua]: r
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:133
 msgid "Episode I: Seeking the Light"
 msgstr "エピソードI：光を求めて"
 
@@ -91,7 +91,7 @@ msgstr "面白いわ。"
 #. [lua]: r
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:142
+#: Invasion_from_the_Unknown/_main.cfg:147
 msgid "Episode II: Armageddon"
 msgstr "エピソードII：最終戦争"
 
@@ -16486,34 +16486,38 @@ msgstr "バージョン："
 msgid "Feedback and bug reports:"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:73
+#: Invasion_from_the_Unknown/_main.cfg:74
 msgid "for Wesnoth 1.14"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:82
+#: Invasion_from_the_Unknown/_main.cfg:77
+msgid "for Wesnoth 1.15.4 and later (experimental)"
+msgstr ""
+
+#: Invasion_from_the_Unknown/_main.cfg:87
 msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:101
+#: Invasion_from_the_Unknown/_main.cfg:106
 msgid "To be continued..."
 msgstr "続く……"
 
-#: Invasion_from_the_Unknown/_main.cfg:120
+#: Invasion_from_the_Unknown/_main.cfg:125
 #, fuzzy
 msgid "Easy"
 msgstr "（簡単）"
 
-#: Invasion_from_the_Unknown/_main.cfg:121
+#: Invasion_from_the_Unknown/_main.cfg:126
 #, fuzzy
 msgid "Normal"
 msgstr "（普通）"
 
-#: Invasion_from_the_Unknown/_main.cfg:122
+#: Invasion_from_the_Unknown/_main.cfg:127
 msgid "Hard"
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:133
 msgid ""
 "Long after the Fall, the last forest elves on the Great Continent are forced "
 "to abandon their secluded home and forge an unprecedented alliance in hopes "
@@ -16525,25 +16529,25 @@ msgid ""
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:136
+#: Invasion_from_the_Unknown/_main.cfg:141
 #, fuzzy
 msgid "difficulty_menu^Ascetic"
 msgstr "隊長"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:137
+#: Invasion_from_the_Unknown/_main.cfg:142
 #, fuzzy
 msgid "difficulty_menu^Mystic"
 msgstr "元帥"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:138
+#: Invasion_from_the_Unknown/_main.cfg:143
 #, fuzzy
 msgid "difficulty_menu^Avatar"
 msgstr "隊長"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:142
+#: Invasion_from_the_Unknown/_main.cfg:147
 #, fuzzy
 msgid ""
 "As the dark veil of Chaos engulfs the land, an assorted group of foolish "
@@ -16558,19 +16562,19 @@ msgstr ""
 "な生者と死者の戦士達を勝利に導き、失われた歴史の秘密を再発見せよ。"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:151
+#: Invasion_from_the_Unknown/_main.cfg:155
 #, fuzzy
 msgid "difficulty_menu^Disciple"
 msgstr "戦士"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:152
+#: Invasion_from_the_Unknown/_main.cfg:156
 #, fuzzy
 msgid "difficulty_menu^Lich"
 msgstr "戦士"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:153
+#: Invasion_from_the_Unknown/_main.cfg:157
 #, fuzzy
 msgid "difficulty_menu^Ancient Lich"
 msgstr "戦士"

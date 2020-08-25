@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-25 08:37 UTC\n"
+"POT-Creation-Date: 2020-08-25 09:25 UTC\n"
 "PO-Revision-Date: 2020-07-28 17:39+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -60,7 +60,7 @@ msgstr "После Бури (“After the Storm”)"
 #. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:98
+#: Invasion_from_the_Unknown/_main.cfg:103
 msgid "IftU"
 msgstr "ВизН"
 
@@ -69,15 +69,15 @@ msgstr "ВизН"
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
-#: Invasion_from_the_Unknown/_main.cfg:166
-#: Invasion_from_the_Unknown/_main.cfg:102
+#: Invasion_from_the_Unknown/_main.cfg:170
+#: Invasion_from_the_Unknown/_main.cfg:107
 msgid "Invasion from the Unknown"
 msgstr "Вторжение из Неведомого"
 
 #. [lua]: r
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:133
 msgid "Episode I: Seeking the Light"
 msgstr "Эпизод I: В поисках Света"
 
@@ -92,7 +92,7 @@ msgstr "Интермиссия"
 #. [lua]: r
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:142
+#: Invasion_from_the_Unknown/_main.cfg:147
 msgid "Episode II: Armageddon"
 msgstr "Эпизод II: Армагеддон"
 
@@ -19380,32 +19380,36 @@ msgstr "Версия"
 msgid "Feedback and bug reports:"
 msgstr "Обратная связь и сообщения об ошибках:"
 
-#: Invasion_from_the_Unknown/_main.cfg:73
+#: Invasion_from_the_Unknown/_main.cfg:74
 msgid "for Wesnoth 1.14"
 msgstr "для Битвы за Веснот 1.14"
 
-#: Invasion_from_the_Unknown/_main.cfg:82
+#: Invasion_from_the_Unknown/_main.cfg:77
+msgid "for Wesnoth 1.15.4 and later (experimental)"
+msgstr ""
+
+#: Invasion_from_the_Unknown/_main.cfg:87
 msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
 msgstr "Аддон с музыкой “<i>IftU Music</i>” <b>не установлен</b>."
 
-#: Invasion_from_the_Unknown/_main.cfg:101
+#: Invasion_from_the_Unknown/_main.cfg:106
 msgid "To be continued..."
 msgstr "Продолжение следует..."
 
-#: Invasion_from_the_Unknown/_main.cfg:120
+#: Invasion_from_the_Unknown/_main.cfg:125
 msgid "Easy"
 msgstr "Лёгкий"
 
-#: Invasion_from_the_Unknown/_main.cfg:121
+#: Invasion_from_the_Unknown/_main.cfg:126
 msgid "Normal"
 msgstr "Нормальный"
 
-#: Invasion_from_the_Unknown/_main.cfg:122
+#: Invasion_from_the_Unknown/_main.cfg:127
 msgid "Hard"
 msgstr "Сложный"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:133
 msgid ""
 "Long after the Fall, the last forest elves on the Great Continent are forced "
 "to abandon their secluded home and forge an unprecedented alliance in hopes "
@@ -19423,22 +19427,22 @@ msgstr ""
 "(Средний уровень сложности, 13 сценариев.)"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:136
+#: Invasion_from_the_Unknown/_main.cfg:141
 msgid "difficulty_menu^Ascetic"
 msgstr "Отшельница"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:137
+#: Invasion_from_the_Unknown/_main.cfg:142
 msgid "difficulty_menu^Mystic"
 msgstr "Посвящённая"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:138
+#: Invasion_from_the_Unknown/_main.cfg:143
 msgid "difficulty_menu^Avatar"
 msgstr "Воплощённая"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:142
+#: Invasion_from_the_Unknown/_main.cfg:147
 msgid ""
 "As the dark veil of Chaos engulfs the land, an assorted group of foolish "
 "heroes prepares a counter-attack against their enemies with one unique goal "
@@ -19455,17 +19459,17 @@ msgstr ""
 "(Средний уровень сложности, 10 сценариев.)"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:151
+#: Invasion_from_the_Unknown/_main.cfg:155
 msgid "difficulty_menu^Disciple"
 msgstr "Тёмный маг"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:152
+#: Invasion_from_the_Unknown/_main.cfg:156
 msgid "difficulty_menu^Lich"
 msgstr "Лич"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:153
+#: Invasion_from_the_Unknown/_main.cfg:157
 msgid "difficulty_menu^Ancient Lich"
 msgstr "Древний лич"
 

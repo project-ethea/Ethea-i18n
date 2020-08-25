@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-25 08:37 UTC\n"
+"POT-Creation-Date: 2020-08-25 09:25 UTC\n"
 "PO-Revision-Date: 2012-04-06 18:36+0100\n"
 "Last-Translator: Aleph <alemalito@hotmail.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -63,7 +63,7 @@ msgstr "tempesta eterea"
 #. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:98
+#: Invasion_from_the_Unknown/_main.cfg:103
 #, fuzzy
 msgid "IftU"
 msgstr "IdI-1"
@@ -73,15 +73,15 @@ msgstr "IdI-1"
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
-#: Invasion_from_the_Unknown/_main.cfg:166
-#: Invasion_from_the_Unknown/_main.cfg:102
+#: Invasion_from_the_Unknown/_main.cfg:170
+#: Invasion_from_the_Unknown/_main.cfg:107
 msgid "Invasion from the Unknown"
 msgstr "Invasione dall’Ignoto"
 
 #. [lua]: r
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:133
 msgid "Episode I: Seeking the Light"
 msgstr "Episodio I: Alla ricerca della Luce"
 
@@ -97,7 +97,7 @@ msgstr "Versione:"
 #. [lua]: r
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:142
+#: Invasion_from_the_Unknown/_main.cfg:147
 msgid "Episode II: Armageddon"
 msgstr "Episodio II: Armageddon"
 
@@ -17143,34 +17143,39 @@ msgstr "Versione:"
 msgid "Feedback and bug reports:"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:73
+#: Invasion_from_the_Unknown/_main.cfg:74
 msgid "for Wesnoth 1.14"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:82
+#: Invasion_from_the_Unknown/_main.cfg:77
+#, fuzzy
+msgid "for Wesnoth 1.15.4 and later (experimental)"
+msgstr "(richiede Wesnoth 1.9.6 o successivo)"
+
+#: Invasion_from_the_Unknown/_main.cfg:87
 msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:101
+#: Invasion_from_the_Unknown/_main.cfg:106
 msgid "To be continued..."
 msgstr "Continua..."
 
-#: Invasion_from_the_Unknown/_main.cfg:120
+#: Invasion_from_the_Unknown/_main.cfg:125
 #, fuzzy
 msgid "Easy"
 msgstr "(Facile)"
 
-#: Invasion_from_the_Unknown/_main.cfg:121
+#: Invasion_from_the_Unknown/_main.cfg:126
 #, fuzzy
 msgid "Normal"
 msgstr "(Normale)"
 
-#: Invasion_from_the_Unknown/_main.cfg:122
+#: Invasion_from_the_Unknown/_main.cfg:127
 msgid "Hard"
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:128
+#: Invasion_from_the_Unknown/_main.cfg:133
 msgid ""
 "Long after the Fall, the last forest elves on the Great Continent are forced "
 "to abandon their secluded home and forge an unprecedented alliance in hopes "
@@ -17182,25 +17187,25 @@ msgid ""
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:136
+#: Invasion_from_the_Unknown/_main.cfg:141
 #, fuzzy
 msgid "difficulty_menu^Ascetic"
 msgstr "Capitano"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:137
+#: Invasion_from_the_Unknown/_main.cfg:142
 #, fuzzy
 msgid "difficulty_menu^Mystic"
 msgstr "Colonnello"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:138
+#: Invasion_from_the_Unknown/_main.cfg:143
 #, fuzzy
 msgid "difficulty_menu^Avatar"
 msgstr "Capitano"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:142
+#: Invasion_from_the_Unknown/_main.cfg:147
 #, fuzzy
 msgid ""
 "As the dark veil of Chaos engulfs the land, an assorted group of foolish "
@@ -17217,19 +17222,19 @@ msgstr ""
 "perduti della loro storia."
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:151
+#: Invasion_from_the_Unknown/_main.cfg:155
 #, fuzzy
 msgid "difficulty_menu^Disciple"
 msgstr "Guerriero"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:152
+#: Invasion_from_the_Unknown/_main.cfg:156
 #, fuzzy
 msgid "difficulty_menu^Lich"
 msgstr "Guerriero"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:153
+#: Invasion_from_the_Unknown/_main.cfg:157
 #, fuzzy
 msgid "difficulty_menu^Ancient Lich"
 msgstr "Guerriero"
@@ -18794,10 +18799,6 @@ msgstr "Te, per aver giocato questa campagna"
 
 #~ msgid "team_color^Pink"
 #~ msgstr "Rosa"
-
-#, fuzzy
-#~ msgid "for Wesnoth 1.12 (v1.12.0 or later)"
-#~ msgstr "(richiede Wesnoth 1.9.6 o successivo)"
 
 #~ msgid ""
 #~ " Due to its lack of weaponry, this unit cannot attack the enemy. When "
