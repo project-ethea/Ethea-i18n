@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-14 07:00 UTC\n"
+"POT-Creation-Date: 2020-08-25 08:37 UTC\n"
 "PO-Revision-Date: 2020-07-28 17:39+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -3265,8 +3265,9 @@ msgstr "Что делают те существа?"
 
 #. [message]: speaker=Durcanos
 #: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:339
+#, fuzzy
 msgid ""
-"I’m na’ sure, they seem to be laying larvae on the flooded eastern keep."
+"I’m na’ sure, they seem to be laying larvae on the flooded western keep."
 msgstr "Похоже, они откладывают личинки в затопленной крепости на западе."
 
 #. [message]: speaker=Marlin
