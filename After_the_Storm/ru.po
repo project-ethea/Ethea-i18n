@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-25 09:25 UTC\n"
-"PO-Revision-Date: 2020-08-26 00:38+0300\n"
+"PO-Revision-Date: 2020-08-26 21:44+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -14715,6 +14715,8 @@ msgid ""
 "floor collapsing due to the energy released from the dwarf’s fractured "
 "hammer."
 msgstr ""
+"Не знаю, где я была. Последнее, что я могла вспомнить, было полом пещеры, "
+"рухнувшим под действием энергии, что хлынула из расколотого молота гнома."
 
 #. [event]: id=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2152
@@ -14725,6 +14727,11 @@ msgid ""
 "\n"
 "I glanced at my surroundings..."
 msgstr ""
+"Моя шея ощущала что-то холодное и липкое… кровь. Должно быть, я разбила "
+"голову во время падения, и всё же я стояла здесь, словно моё тело исцелило "
+"само себя от, казалось бы, смертельной травмы.\n"
+"\n"
+"Я огляделась…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2168
@@ -14747,6 +14754,15 @@ msgid ""
 "interspersed with an alien and yet somehow familiar language. Knowing she "
 "was a hybrid lifeform, the evidence I gathered was useless."
 msgstr ""
+"Демонесса лежала на влажном полу пещеры, неподвижная, как скала. Она не "
+"казалась раненой, но в то же время она не дышала. И поначалу я не знала, что "
+"делать в этом положении.\n"
+"\n"
+"Я прикоснулась рукой к её лбу и попыталась заглянуть в её разум, чтобы "
+"узнать, была ли она ещё жива. Однако, всё, что я видела сквозь её застывшие "
+"глаза, было рядами непонятных белых символов на синем фоне, перемешанных с "
+"чужим, но будто бы знакомым языком. Учитывая, что она представляла собой "
+"гибридную форму жизни, собранные мной свидетельства не говорили ничего."
 
 #. [event]: id=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2184
@@ -14758,6 +14774,12 @@ msgid ""
 "we used to call the Ruby of Fire, and now, by the malignant touch of "
 "Merthiaal’s successor."
 msgstr ""
+"Она могла быть жива… или могла быть мертва.\n"
+"\n"
+"Недалеко от неё лежало оружие, что она называла Когтем Урвата. Посох моей "
+"наставницы, артефакт, который мы привыкли называть Рубином Огня, сперва "
+"испорченный сердцем Привратника, а теперь и злостным прикосновением "
+"преемницы Мерфиааль."
 
 #. [event]: id=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2192
@@ -14771,6 +14793,14 @@ msgid ""
 "A third alternative then occurred to me. I could grab the Claw, and destroy "
 "the creature in her sleep..."
 msgstr ""
+"Я почувствовала, будто мне нужно взять оружие и оставить демонессу позади… "
+"но сначала мне следовало обдумать мои возможности. Вдруг она очнётся, как "
+"только я прикоснусь к нему рукой, и сразу же уничтожит меня. Либо она так и "
+"останется спящей машиной, и мне стоило просто оставить её и вернуться на "
+"поверхность, к Ане и Эргеи.\n"
+"\n"
+"И тогда мне представился иной выход. Взять Коготь и уничтожить существо, "
+"пока оно спит…"
 
 #. [event]: id=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2200
@@ -14786,12 +14816,22 @@ msgid ""
 "\n"
 "No."
 msgstr ""
+"… Некоторое время я размышляла над этой манящей возможностью.\n"
+"\n"
+"Внезапно, я пришла в ужас от мысли стать хладнокровной убийцей.\n"
+"\n"
+"Нет.\n"
+"\n"
+"Нет, я не поддамся подобным чудовищным помыслам. Нет. То не было мной. То не "
+"было эльфийкой, которую взрастила Нириона, чтобы защищать народы Ирдии.\n"
+"\n"
+"Нет."
 
 #. [event]: id=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2222
 msgid ""
 "Between tears, I could catch a glimpse of light coming from around a corner."
-msgstr ""
+msgstr "Среди слёз я поймала отблеск света, исходящий из-за угла."
 
 #. [event]: id=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2239
@@ -14803,6 +14843,12 @@ msgid ""
 "any kind of magic control over me, I could once again move with absolute "
 "freedom."
 msgstr ""
+"Одинокий проход, он вёл в какое-то ярко освещённое место. Стены украшали "
+"загадочные начертания.\n"
+"\n"
+"Мне казалось, что я вынуждена туда пойти. Пока моя пленительница была не в "
+"состоянии держать меня под каким бы то ни было магическим управлением, я "
+"снова могла идти совершенно свободно."
 
 #. [event]: id=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2282
@@ -14815,6 +14861,9 @@ msgid ""
 "It was not my intention to go back where Elyssa’s inert body laid. I needed "
 "to keep exploring the corridor. My curiosity was just too great to resist."
 msgstr ""
+"В мои намерения не входило возвращаться туда, где лежало неподвижное тело "
+"Элиссы. Мне нужно было и дальше исследовать коридор. Моё любопытство было "
+"слишком велико."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2378
@@ -14826,6 +14875,11 @@ msgid ""
 "An odd sense of comfort suddenly came to me. I felt for once as though I "
 "was, finally, at home."
 msgstr ""
+"Огни потолка вырисовывали на полу знакомый образ: знак Первого Стража Земли, "
+"Ксиаэль. Или, по крайней мере, так этот знак изображён в дневнике Аргана.\n"
+"\n"
+"Ко мне пришло неожиданное чувство умиротворения. Впервые в жизни мне "
+"показалось, будто бы я наконец была дома."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2396
@@ -14843,6 +14897,19 @@ msgid ""
 "\n"
 "Weren’t Guardians created to <i>protect</i> their worlds?"
 msgstr ""
+"Если Элисса говорила правду, это было моей судьбой с самого начала. Я должна "
+"была стать Стражем Земли в Ирдии, я должна была уберечь мой мир и мой народ "
+"от вреда: от Элиссы, от Аргана, от Жангора, от Урии…\n"
+"\n"
+"… От самой себя.\n"
+"\n"
+"… И я подвела. Я подвела их всех. Я выросла в неведении о моём истинном "
+"предназначении, я посвятила свою жизнь самым обыденным невзгодам, по большей "
+"части самолюбиво сосредоточенным на моих же нуждах и страстях. Я позволила "
+"произойти жутчайшей участи Ирдии: разрушение многих цивилизаций, гибель "
+"миллионов.\n"
+"\n"
+"Разве Стражи не созданы, чтобы <i>защищать</i> их миры?"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2421
@@ -14860,6 +14927,18 @@ msgid ""
 "only be a matter of time until Zhangor solved the Seer’s riddle and killed "
 "the girl."
 msgstr ""
+"Я повалилась на пол… и зарыдала.\n"
+"\n"
+"Мне нужно было плакать после смерти Галаса. Мне нужно было плакать после "
+"потери Малина. Но я так долго противилась этому чувству, поскольку не "
+"желала, чтобы кто-нибудь узнал о том, что внутри я слаба.\n"
+"\n"
+"Но теперь я наконец-то была дома… одна. Никто не узнает. И я рыдала.\n"
+"\n"
+"Как бы я хотела, чтобы рядом со мной была Аня. Но она не знала, где я "
+"находилась, а я даже не могла предположить, была ли она всё ещё жива. А если "
+"бы и так… то, когда Жангор разгадал бы загадку Зрящей и убил девчонку, "
+"оставалось лишь вопросом времени."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2433
@@ -14874,7 +14953,7 @@ msgstr "Здесь, здесь."
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2445
 msgid "You have not failed yet, my love. There are still things left to do."
-msgstr ""
+msgstr "Ещё не всё потеряно, любовь моя. Что-то ещё можно сделать."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2451
@@ -14884,37 +14963,37 @@ msgstr "… А— Арган?"
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2457
 msgid "... Oh, I must have really lost it now."
-msgstr ""
+msgstr "… Ох, должно быть, я уже совсем сошла с ума."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2463
 msgid "I am here. Don’t you feel me?"
-msgstr ""
+msgstr "Я здесь. Ты меня не ощущаешь?"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2469
 msgid "... Is this a dream?"
-msgstr ""
+msgstr "… Это сон?"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2475
 msgid "... Is it?"
-msgstr ""
+msgstr "… Разве?"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2481
 msgid "... I feel you. I feel your warm touch again. But... how?"
-msgstr ""
+msgstr "Я чувствую тебя. Я снова чувствую твоё тёплое касание. Но… как?"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2483
 msgid "Because you wished for my return. All these years..."
-msgstr ""
+msgstr "Потому что ты желала моего возвращения. Все эти годы…"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2485
 msgid "... I did."
-msgstr ""
+msgstr "… Да."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2487
@@ -14930,6 +15009,11 @@ msgid ""
 "\n"
 "Oh, Argan..."
 msgstr ""
+"... Я— Я—\n"
+"\n"
+"... Мне тоже.\n"
+"\n"
+"О, Арган..."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2499
@@ -14937,6 +15021,8 @@ msgid ""
 "We don’t have much time left, my love. Irdya is in ruins now, and Zhangor "
 "could find us any moment now. You need to get up."
 msgstr ""
+"У нас осталось совсем немного времени, любовь моя. Ирдия лежит в руинах, а "
+"Жангор может найти нас в любую минуту. Тебе нужно вставать."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2501
@@ -14952,6 +15038,11 @@ msgid ""
 "\n"
 "But..."
 msgstr ""
+"Я позволила моим губам приблизится к его собственным, и в это время мы "
+"обнялись так крепко, как не обнимались вечность. Он казался настолько "
+"очаровательно настоящим, и я уже готовилась поддаться плотским позывам.\n"
+"\n"
+"Но…"
 
 #. [message]: speaker=Argan
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2549
@@ -14961,7 +15052,7 @@ msgstr "Что-то не так, любовь моя?"
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2554
 msgid "I... feel... strange."
-msgstr ""
+msgstr "Мне… странно."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2563
@@ -14974,6 +15065,9 @@ msgid ""
 "That must be because you have spent too much time scurrying around. Just let "
 "yourself relax for a moment. We can reminisce about better times together..."
 msgstr ""
+"Видимо, это оттого, что ты потратила слишком много времени в суете мирской. "
+"Просто позволь себе расслабиться, на мгновение. Мы можем вместе помечтать о "
+"лучших временах…"
 
 #. [message]: speaker=Elynia
 #. Yes, the question mark may seem misplaced, but it's actually intentional
@@ -14981,7 +15075,7 @@ msgstr ""
 #. confused.
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2582
 msgid "You don’t sound like yourself? My head... I—"
-msgstr ""
+msgstr "Ты звучишь не как обычно? Моя голова… Я—"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2587
@@ -14989,6 +15083,8 @@ msgid ""
 "My memories have become so hazy... but... I... remember that sword... Elyssa "
 "has your sword..."
 msgstr ""
+"Мои воспоминания совсем перемешались… но… я… помню тот меч… Твой меч носит "
+"Элисса…"
 
 #. [message]: speaker=Argan
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2592
@@ -15020,16 +15116,20 @@ msgid ""
 "to—ahem—handle the poor, broken elf. But did you truly think it would work "
 "out? Ha ha ha!"
 msgstr ""
+"Если оглянуться назад, твои действия выглядят довольно дёшево. Однако не "
+"сказать, что я совсем разочарована: было <i>совершенно</i> увлекательно "
+"наблюдать, как ты пытался—кхм—поиметь бедную, сломленную эльфийку. Но ты и "
+"впрямь считал, что это сработает? Ха ха ха!"
 
 #. [message]: speaker=Argan
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2683
 msgid "<i>(metallic voice) I am not precisely myself, though.</i>"
-msgstr ""
+msgstr "<i>(металлический голос) Тем не менее, я — не совсем я.</i>"
 
 #. [message]: speaker=Deathbringer
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2758
 msgid "But your guess was close enough. Congratulations, Guardian of Darkness."
-msgstr ""
+msgstr "Но твоя догадка довольно близка. Мои поздравления, Страж Тьмы."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2763
@@ -15037,6 +15137,8 @@ msgid ""
 "So the rumors are true, after all — you go around possessing other creatures "
 "using your disgusting body ooze."
 msgstr ""
+"Итак, значит, слухи оказались правдой — ты пустился овладевать другими "
+"существами, используя свою мерзкую телесную слизь."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2768
@@ -15051,11 +15153,14 @@ msgid ""
 "outcome would have been advantageous for me, but no — it would seem you will "
 "both have to die instead."
 msgstr ""
+"Или же украсть твою сущность через твоё пока что уязвимое энергетическое "
+"сердце. Любой исход был бы для меня полезен, но нет — похоже, вместо этого "
+"вам обеим придётся просто сдохнуть."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2797
 msgid "(<i>enraged</i>) Not if I can kill <b>you</b> first."
-msgstr "(<i>в бешенстве</i>) Нет, если я сначала не убью <b>тебя</b>."
+msgstr "(<i>в бешенстве</i>) Только если я сначала не убью <b>тебя</b>."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2825
