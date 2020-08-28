@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-25 09:25 UTC\n"
-"PO-Revision-Date: 2020-08-28 15:47+0300\n"
+"PO-Revision-Date: 2020-08-28 16:46+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -16001,6 +16001,9 @@ msgid ""
 "and yet, nothing has changed. I am so delighted to see your subjects here, "
 "Xia’el — it is such a warm welcome. Did you miss me?"
 msgstr ""
+"Ха ха ха ха ха! Прошли столетия со времён моего последнего посещения Силиды, "
+"а ничего так и не изменилось. Мне так приятно видеть здесь твоих подданных, "
+"Ксиаэль — очень тёплый приём. Скучала по мне?"
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:482
@@ -16011,6 +16014,11 @@ msgid ""
 "of terms on <i>your</i> part. My Seer just revealed some... <i>troubling</i> "
 "things to me."
 msgstr ""
+"У нас был договор нейтралитета и взаимного уважения, Ксиаэль. Ты не "
+"вмешивалась бы в мои планы, а я бы позволила тебе мирно править над твоим "
+"драгоценным народом на этой земле. Но к моему вниманию пришло то, что "
+"несколько условий договора были нарушены с <i>твоей</i> стороны. Моя Зрящая "
+"только что открыла мне некие… <i>тревожные</i> известия."
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:492
@@ -16022,6 +16030,11 @@ msgid ""
 "Irdya as your piece for your next move? Did you truly believe I would never "
 "find out?"
 msgstr ""
+"Ты проникала на моё личное поприще в основной ветке нашей вселенной; "
+"развращала и манипулировала как тем, кто служил моим Голосом в Ирдии, так и "
+"его изменчивой ставленницы. Чего ты ожидала этим достичь? Обойти наш уговор, "
+"используя Стража Земли в Ирдии в качестве пешки для твоего следующего хода? "
+"Неужели ты верила, что я никогда этого не выясню?"
 
 #. [message]: speaker=Aradellys
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:497
@@ -16030,6 +16043,9 @@ msgid ""
 "my children on Irdya in the correct direction. That is to say, as far away "
 "from your grasp as possible so they may stage your ultimate downfall."
 msgstr ""
+"Моим единственным намерением было исполнить свой долг Стража Земли и "
+"направить моих дочерей в Ирдии на правильный путь. Это, к слову, как можно "
+"дальше от твоей хватки, дабы они могли устроить твоё окончательное падение."
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:503
@@ -16046,7 +16062,7 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:508
 msgid ""
 "Even the new Guardian of Water? I received word that he is already there."
-msgstr ""
+msgstr "Даже новый Страж Воды? Мне сказали, он уже там."
 
 #. [message]: speaker=Aradellys
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:519
@@ -16056,6 +16072,11 @@ msgid ""
 "control. You, on the other hand... you are a corrupted goddess, Lyphanea — "
 "if I may not stop you, then someone else has to take up that mission for me."
 msgstr ""
+"Ты боишься его, не так ли? Конечно, он представляет столько же угрозы нашему "
+"мирозданию, сколько и ты, но ему по крайней мере удаётся сдерживать свои "
+"разрушительные наклонности. Ты же, с другой стороны… ты — испорченная "
+"богиня, Лифанея — и если я не могу остановить тебя, кому-то другому придётся "
+"донести за меня это бремя."
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:534
@@ -16063,6 +16084,8 @@ msgid ""
 "(<i>enraged</i>) I see how it is, then! But tell me, Aradellys, did you "
 "forget the Rule of One?"
 msgstr ""
+"(<i>в бешенстве</i>) Значит, вот как! Но скажи мне, Араделлис, ты забыла "
+"Правило Одного?"
 
 #. [message]: speaker=Aradellys
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:540
@@ -16078,6 +16101,11 @@ msgid ""
 "and this is not even your rightful domain. The true Guardian of Earth is "
 "awake, so your purpose in this universe has been fulfilled."
 msgstr ""
+"Твоя наглость не останется без наказания. Пусть даже я знала с самого "
+"начала, что всё до этого дойдёт… Я не могу позволить тебе и дальше "
+"вмешиваться в мои планы. Ты — жалкое подобие Стража Земли, здесь даже не "
+"твоё законное царство. Истинный Страж Земли пробуждён, посему твоё "
+"предназначение в этой вселенной исполнено."
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:550
@@ -16086,6 +16114,9 @@ msgid ""
 "I needed them in the first place, the game is over for you. After all, "
 "<i>there can only be one</i>."
 msgstr ""
+"И теперь, когда ты столь любезно передвинула <i>мои</i> пешки в мир, где я "
+"сама нуждалась в них, игра для тебя окончена. В конце концов, <i>может быть "
+"только один</i>."
 
 #. [message]: speaker=Aradellys
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:555
@@ -16093,11 +16124,14 @@ msgid ""
 "I am willing to face oblivion at your hand for my transgressions. But you "
 "shall spare my people."
 msgstr ""
+"Я готова принять забвение от твоей руки за мои преступления. Но пощади мой "
+"народ."
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:560
 msgid "Hm, hm, what makes you think that I have to keep my word anymore?"
 msgstr ""
+"Гм, гм, что заставляет тебя считать, что мне теперь стоит держать своё слово?"
 
 #. [message]: speaker=Aradellys
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:573
@@ -16105,6 +16139,8 @@ msgid ""
 "Please, if there is anything left of the kind Lyphanea in your heart, you "
 "shall spare my people as we agreed—"
 msgstr ""
+"Умоляю тебя, если в твоём сердце осталось хоть что-то от доброй Лифании, "
+"пощади мой народ, как мы условились—"
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:579
@@ -16118,6 +16154,9 @@ msgid ""
 "store for them. But you... <b>will not.</b> Farewell, Xia’el. Your reign on "
 "Silida is over."
 msgstr ""
+"Если угодно, твои подданные смогут насладится тем, что бы ни было "
+"заготовлено для них после смерти. Но ты… <b>нет.</b> Прощай, Ксиаэль. Твоё "
+"правление над Силидой окончено."
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:748
@@ -16126,6 +16165,8 @@ msgid ""
 "forget who made the resurrection of your new ally possible in the first "
 "place..."
 msgstr ""
+"Скоро настанет расплата, Элиния-Танадрия — помяни моё слово. Не забывай, кто "
+"в первую очередь сделал возрождение твоего нового союзника возможным…"
 
 #. [scenario]: id=06_Divergence
 #. [part]
@@ -26183,11 +26224,7 @@ msgstr ""
 "И пусть в конце дня тьма поглотит наши дома и жизни и поймает мир под ней в "
 "её непроницаемую пелену — ночь не вечна, и даже среди хаоса надежда сияет "
 "нам, подобно маяку, что поможет победить наши худшие страхи и воссоединит "
-"нас с судьбой.\n"
-"\n"
-"!!!Внимание, Эпизод 3 ещё не переведён до конца, следите за обновлениями и "
-"Дискордом Веснота! Пожалуйста, пишите ошибки, которые вы заметили, и "
-"неточности туда же. --@kabachuha"
+"нас с судьбой."
 
 #. [campaign]: id=After_the_Storm_III
 #: After_the_Storm/episode3/menu.cfg:28
