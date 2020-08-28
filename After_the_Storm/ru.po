@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-25 09:25 UTC\n"
-"PO-Revision-Date: 2020-08-27 16:24+0300\n"
+"PO-Revision-Date: 2020-08-28 15:47+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -10077,7 +10077,7 @@ msgid ""
 "before battle I received reports indicating that they are roaming the skies "
 "of Kalari Central hunting down anyone suspected of rebellious conduct."
 msgstr ""
-"Верные каратели Жангора. Как ни прискорбно, они из моего же клана. У8 нас "
+"Верные каратели Жангора. Как ни прискорбно, они из моего же клана. У нас "
 "имелись… различные представления о том, как отнестись к возвышению Жангора к "
 "власти. Они решили перейти на его сторону и передали ему в распоряжение свои "
 "способности скрытных убийц, дабы удостоверится, что мои собратья из рода "
@@ -10612,6 +10612,23 @@ msgid ""
 "fearsome enemies faced by Irdya in this era; enemies once thought "
 "invincible, now fallen and destroyed forever."
 msgstr ""
+"Нет…\n"
+"\n"
+"Про правде сказать, ты не считаешь, что этот титул подходит твоей настоящей "
+"роли. С тех самых пор, как ты восстановилась от отвратительного нападения "
+"зверей Жангора, Эргея пользовалась тобой, как орудием, чтобы освободить её "
+"народ и Ирдию от влияния Урии. Они называют тебя “Тёмной Госпожой”, "
+"“Йечнагот возрождённой”, “Богиней Тьмы” и несметным числом прочих званий, "
+"которых ты на самом деле не заслуживаешь, да они тебя и не заботят.\n"
+"\n"
+"Ты ощущаешь себя пешкой в чьей-то игре. Но теперь ты даже не уверена, за "
+"какую сторону играешь.\n"
+"\n"
+"Всё было гораздо проще, когда рядом находилась Элиния. Ты восхищалась её "
+"стальным чувством справедливости. Ты восхищалась её мужеством в сражении с "
+"самыми устрашающими врагами, которых повидала Ирдия в этой эпохе; врагами, "
+"что когда-то казались непобедимыми — теперь они низвергнуты и уничтожены "
+"навеки."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:286
@@ -10629,6 +10646,19 @@ msgid ""
 "light from reaching Irdya’s surface. For how long does Ergea intend you to "
 "play your act for the Chaos rebels?"
 msgstr ""
+"Однако, прочтя дневники Галаса, Элинии и Аргана, ты не можешь не чувствовать "
+"глубокое разочарование.\n"
+"\n"
+"Ты выросла на рассказах о подвигах Элинии из уст Элоррана и Тары. Теперь, "
+"когда ты знаешь о ней большее и когда чуть ли не сравнилась с ней силой, всё "
+"это внезапно показалось пустым и бесцельным. Так многого можно было "
+"избежать, если бы Урия и её приспешники не собрали в одних руках доступ к "
+"знанию о твоей судьбе…\n"
+"\n"
+"Тебя охватило внезапное ощущение бесполезности. Ты — мошенница. Ты даже не "
+"смогла овладеть тьмой, что не даёт свету Найи и Селы достигнуть поверхности "
+"Ирдии. Как долго Эргея намеревается заставлять тебя играть в представлении "
+"для повстанцев Хаоса?"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:296
@@ -10645,6 +10675,17 @@ msgid ""
 "thinking that perhaps she would ever consider you as anything more than a "
 "‘friend’."
 msgstr ""
+"Если бы только ты могла спросить у Элинии совета. Если бы только другой "
+"Страж Тьмы, Элисса, осталась в Ирдии, а не забрала твою подругу в чужой "
+"мир.\n"
+"\n"
+"“Если бы только”...\n"
+"\n"
+"Элиния говорила тебе довериться своему сердцу, но теперь ты уже и не знаешь, "
+"стоит ли ему продолжать верить. В конце концов, именно твоё сердце обмануло "
+"тебя в самом начале; оно скрыло от тебя истинные намерения Элинии, и оно "
+"одурачило тебя, заставив считать, что, возможно, она когда-нибудь восприняла "
+"бы тебя за нечто большее, чем за ‘друга’."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:306
@@ -10655,6 +10696,11 @@ msgid ""
 "\n"
 "What does your mind tell you?"
 msgstr ""
+"Но хватит этого чувственного бреда. Твоя роль Стража Тьмы: принимать решения "
+"своим умом, не сердцем. Ты уже собрала все необходимые знания, чтобы сделать "
+"выбор.\n"
+"\n"
+"Что тебе говорит разум?"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:318
@@ -10667,6 +10713,8 @@ msgid ""
 "There is absolutely nothing else of value encoded into this crystal glyph. "
 "Time to move on."
 msgstr ""
+"В этот кристалл не записано совершенно ничего ценного. Время двигаться "
+"дальше."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:481
@@ -10680,16 +10728,24 @@ msgid ""
 "\n"
 "Well, there is no going back now."
 msgstr ""
+"То был не тот кристалл, который тебе нужен.\n"
+"\n"
+"Грубые карты, которые тебе удалось найти в этих подземных уровнях, "
+"показывают плеяду кристаллов телепортации совершенно без указаний о "
+"соответствующих им местам назначения. Это смехотворно! Тот, кто бы ни строил "
+"эту крепость, не знал самых основных понятий о правильной организации!\n"
+"\n"
+"Что ж, теперь пути назад нет."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:521
 msgid "Oh. It is you again. I thought you disappeared for good this time."
-msgstr ""
+msgstr "О! Это снова Вы. Я подумала, на этот раз Вы окончательно исчезли."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:538
 msgid "It has been a while."
-msgstr ""
+msgstr "Давно это было."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:552
@@ -10702,11 +10758,13 @@ msgid ""
 "No... I did not. I have hardly eaten anything in weeks. My mind has just "
 "been... sort of wandering off constantly. I feel like I shouldn’t be here."
 msgstr ""
+"Нет… не нашла. Я неделями почти ничего не ела. Мой разум просто… будто бы "
+"постоянно блуждает. Мне кажется, я должна быть не здесь."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:567
 msgid "You seem even more despondent than before."
-msgstr ""
+msgstr "Ты выглядишь ещё унылее, чем обычно."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:572
@@ -10714,11 +10772,14 @@ msgid ""
 "... This whole situation is just too overwhelming. I feel lost. Ergea is not "
 "helpful — she wants me to play a role that wasn’t meant for me."
 msgstr ""
+"… Все эти обстоятельства попросту слишком сильно меня подавляют. Будто бы я "
+"потерялась. Эргея мне ничем не поможет — она желает, чтобы я исполняла роль, "
+"но эта роль для меня не предназначена."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:577
 msgid "This is about Elynia, am I correct?"
-msgstr ""
+msgstr "Это касается Элинии, я права?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:582
@@ -10735,7 +10796,7 @@ msgstr "Без неё ты ощущаешь себя потерянной."
 #. This line is repeated later in the scenario.
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:593
 msgid "... I do. I really do."
-msgstr ""
+msgstr "… Да. Мне по-настоящему одиноко."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:603
@@ -10744,11 +10805,14 @@ msgid ""
 "becoming this... thing... I became, I somehow feel even less in control of "
 "my life than I was before."
 msgstr ""
+"Я тут подумала про то, что Вы говорили насчёт судьбы… Знаете, после того, "
+"как я стала этой… штукой… я стала, я почему-то чувствую, что ещё меньше "
+"управляю своей жизнью, чем раньше."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:608
 msgid "How so, exactly?"
-msgstr ""
+msgstr "Но насколько меньше, можешь сказать точно?"
 
 #. [message]: speaker=Anya
 #. This is indeed meant to be reminiscent of Elyssa's thoughts in E3S8A.
@@ -10761,6 +10825,13 @@ msgid ""
 "can’t tell if it’s because of my connection to Darkness, or because I became "
 "a Guardian and now I feel this constant pain within my heart..."
 msgstr ""
+"Мои действия постоянно были диктованы кем-то ещё. Элорраном, Элинией, "
+"Эргеей… Я никогда не была по-настоящему свободной, разве нет? Я постоянно "
+"следовала приказам подобно машине, не сомневаясь в них. Но ни с того ни с "
+"сего я почувствовала необходимость задаваться вопросами обо всём, если это "
+"имеет смысл? А худшее в том, что я не пойму, из-за моей ли это связи с "
+"Тьмой, или потому что я Страж и теперь чувствую эту непреходящую боль в моём "
+"сердце…"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:619
@@ -10768,11 +10839,13 @@ msgid ""
 "Would that be your actual heart, or the divine instrument demonkind calls "
 "the Energy Heart?"
 msgstr ""
+"То есть твоё настоящее сердце или божественный инструмент, что род демонов "
+"называет Энергетическим Сердцем?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:624
 msgid "I can’t even tell the difference anymore."
-msgstr ""
+msgstr "Я уже и не пойму, в чём разница."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:629
@@ -10784,11 +10857,19 @@ msgid ""
 "make use of it in a way that can advance your own existence towards a "
 "positive outcome."
 msgstr ""
+"Я могу лишь предполагать о природе и о размахе твоих сил, но я ожидала бы, "
+"что Страж Тьмы был бы сильнее осведомлён с понятием движущих сил, учитывая, "
+"что их владения сосредоточены вокруг вопросов разума. Если дар, коим ты "
+"теперь обладаешь, приходит с возросшим самосознанием, то тебе предстоит "
+"использовать его таким образом, что позволит продвинуть твоё собственное "
+"существование к положительному исходу."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:634
 msgid "But what if the only path forward I see involves leaving people behind?"
 msgstr ""
+"Но что, если единственный путь вперёд, который я вижу, требует оставить "
+"многих позади?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:639
@@ -10798,16 +10879,21 @@ msgid ""
 "but when we are, it is up to us to make the right one — and a Guardian’s "
 "choices carry more weight upon our reality than anyone else’s."
 msgstr ""
+"Будущее постоянно опутано мраком, но тебе не нужно бояться подлежащего "
+"вещества твоей сущности, не так ли? Нам не всегда предоставляют выбор, но "
+"когда он выпадает на нашу долю, именно нам предстоит избрать верный — и "
+"решения Стража несут гораздо больший вес в нашей вселенной, нежели кого-то "
+"ещё."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:645
 msgid "Have you pondered the matter of destiny yet?"
-msgstr ""
+msgstr "Ты ещё не думала о природе судьбы?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:650
 msgid "I... uh... What do you mean?"
-msgstr ""
+msgstr "Я… а… Что Вы имели в виду?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:655
@@ -10815,6 +10901,8 @@ msgid ""
 "I must not have talked to you about it. My apologies. You need not worry "
 "about it for now."
 msgstr ""
+"Я не должна была говорить с тобой об этом. Мои извинения. Сейчас тебе не "
+"нужно об этом беспокоиться."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:660
@@ -10831,6 +10919,7 @@ msgstr "Увы, у Ксиаэль больше нет для тебя ответ
 msgid ""
 "Am I ever going to find out what happened to my parents after I was born?"
 msgstr ""
+"Я когда-нибудь выясню, что случилось с моими родителями после моего рождения?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:680
@@ -10839,6 +10928,9 @@ msgid ""
 "concern for your emotional state in battle, but I can finish it now if you "
 "would like."
 msgstr ""
+"Собственно говоря, да. Я решила не рассказывать тебе всю историю из "
+"беспокойства за состояние твоего рассудка в битве, но теперь я могу её "
+"закончить, коли пожелаешь."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:685
@@ -10846,6 +10938,8 @@ msgid ""
 "What?! You knew the rest of the story but didn’t tell it to me?! I thought "
 "you said you were just a medium and you didn’t have it!"
 msgstr ""
+"Что?! Вы знали остаток истории, но не рассказали его мне?! Мне казалось, Вы "
+"говорили, что были просто проводником, и у Вас его не было!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:690
@@ -10854,6 +10948,9 @@ msgid ""
 "whether I was able to intentionally postpone delivering a non-essential part "
 "of the answer or not. I apologize, but it had to be done."
 msgstr ""
+"Я сказала, что на твой вопрос уже нашёлся ответ, и так оно и было. Я никогда "
+"не уточняла, могла ли я намеренно отложить передачу необязательной части "
+"ответа или нет. Извиняюсь, но я должна была так сделать."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:695
@@ -10874,6 +10971,11 @@ msgid ""
 "demonkind, a unique combination completely unheard of before. The future of "
 "the two lovers seemed bright for once."
 msgstr ""
+"Сердца Минты и Безымянного переполнялись новообретённым счастьем и чувством "
+"смысла после того, как они зачали ребёнка, кого могли называть их родным. "
+"Потомок должен был стать новым свободным существом, рождённым от файери и "
+"демона, неповторимого сочетания, совершенно до той поры неслыханного. "
+"Будущее двух любовников наконец-то показалось им светлым."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:710
@@ -10893,6 +10995,19 @@ msgid ""
 "personally sought to make the shapeshifter pay a hefty price for their "
 "transgressions."
 msgstr ""
+"Для путешественников не редкость заблудится в лесах Гламдрола, и Минта и "
+"Безымянный время от времени выводили их из леса, стараясь не раскрывать себя "
+"слишком сильно. Однако одной роковой ночью загадочный незваный гость нашёл "
+"их первым. Чета не знала, что делать в этом положении. Как ему удалось войти "
+"в их дом совершенно незаметно?\n"
+"\n"
+"Странник пришёл к ним, чтобы передать свои знания о событиях прошедших, и "
+"ещё не прошедших. Он поведал им о надвигающейся угрозе Империи Хаоса, о "
+"наследии Мерфиааль, о Войне против Неведомого, и о возвращении Леди Света. И "
+"он поведал им об одной из возможных судеб, что поджидала нерождённое дитя и "
+"его родителей — ибо Безымянный не вырвался полностью из хватки Урии, а "
+"прозорливый Владыка Демонов Нар-хамот решил лично заставить оборотня "
+"заплатить изрядную цену за свои преступления."
 
 #. [message]: speaker=Daeira
 #. Reminder that Nar-Hamoth is the Shadow of Uria.
@@ -10918,6 +11033,23 @@ msgid ""
 "of the night. They considered going after him to ask more questions, but "
 "somehow he did not even leave a trail for them to follow."
 msgstr ""
+"Чета не знала, верить ли словам Странника или нет. Как могло случиться, что "
+"их дитя окажется тем, кому судьба предназначает стать Новым Стражем Тьмы? "
+"Если их дочь найдут среди них силы Урии прежде, чем она достигнет зрелости, "
+"то всё было бы напрасно, и мир бы погрузился в вечную тьму — ту, что гораздо "
+"глубже в своём проникновении даже Бесконечной Ночи, та тьма бы заставила "
+"само Семя Земли иссохнуть и погибнуть, и тогда бы вся жизнь попросту "
+"окончилась.\n"
+"\n"
+"Перед своим уходом Странник предложил им иной выход: Минта родит её и "
+"вскормит грудью один месяц, но после ей придётся отдать его на попечение "
+"людской семьи — а точнее, той, что уже обременена потерей. Наконец, если "
+"Безымянный надеялся навсегда сбежать от Тени Урии, ему бы пришлось либо "
+"умереть, либо покинуть свою материальную оболочку.\n"
+"\n"
+"Сказав всё это, человек исчез так тихо, как пришёл, растворяясь в ночном "
+"мраке. Они подумывали пойти за ним, и задать ему больше вопросов, но каким-"
+"то образом он не оставил для них и следа."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:727
@@ -10934,6 +11066,15 @@ msgid ""
 "had the option to give it some semblance of a proper life with humans until "
 "the day of its awakening?"
 msgstr ""
+"Девять месяцев они размышляли над словами Странника. Девять месяцев они "
+"надеялись, что слыханное ими было бредом старого хрыча. Но слухи о набегах "
+"Империи Хаоса начали расходиться среди болот, и Безымянный Оборотень поймал "
+"их ветер. Свидания с мстительным Владыкой Демонов было не миновать.\n"
+"\n"
+"Никто из них и представить не мог, что они встанут перед выбором, который "
+"затронет не только плод их любви, но и судьбу всего мира. Могли ли они "
+"подвергать своё дитя опасности верной смерти, когда у них была возможность "
+"подарить ему подобие полноценной жизни с людьми до дня его пробуждения?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:734
@@ -10950,6 +11091,17 @@ msgid ""
 "by their front door in the night. They decided to give her the name of their "
 "late daughter and raise her as their own."
 msgstr ""
+"И вот пришёл день, когда родился их ребёнок. Дитя подсознательно переняло "
+"многие черты Минты, поскольку она была самым первым, что оно увидело в мире. "
+"Безымянный и Минта месяц о ней заботились, относясь как к самому ценному в "
+"своих жизнях.\n"
+"\n"
+"Минта, поражённая горем, прибыла в северную страну и оставила существо семье "
+"фермеров, чтобы они взяли его под свою опеку. Она полагала, тот обмен был "
+"для них справедливым, так как смертоносная чума только что забрала их "
+"первенца. Люди и не думали задаваться вопросами о природе незнакомого дитя, "
+"что они наши перед передней дверью посреди ночи. Они решили назвать её "
+"именем их покойной дочери и воспитать, как свою родную."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:741
@@ -10964,6 +11116,14 @@ msgid ""
 "and Mintha went back to her original form to keep them company, right where "
 "she first found them."
 msgstr ""
+"Файери Воскрешения наконец воротилась в Гламдрол и подарила последний "
+"страстный поцелуй Безымянному Оборотню. Вместе они сотворили заклятье, что "
+"отвязало душу демона от его смертного тела. Любящие согласились провести "
+"остаток вечности вместе, пускай никто из них больше не мог обнять другого.\n"
+"\n"
+"И случилось так, что душа Безымянного отошла дереву эвкалипта, а Минта "
+"вернулась к своему изначальному облику, чтобы держаться с ним рядом там, где "
+"она нашла его в самом начале."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:750
@@ -10972,6 +11132,9 @@ msgid ""
 "only growl and trample the forest in frustration for being denied his "
 "revenge."
 msgstr ""
+"Когда Владыка Демонов Нар-хамот отыскал труп своего бывшего раба, он мог "
+"лишь только выть и топтать лес в обиде за то, что существо отринуло его "
+"месть."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:759
@@ -10979,6 +11142,8 @@ msgid ""
 "I don’t know what I was expecting... I— I think I know exactly which forest "
 "that was. I had been there before... I... I..."
 msgstr ""
+"Не знаю, что я ожидала… Я— Кажется, я знаю, где рос тот лес. Я была там "
+"раньше… Я… Я…"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:764
@@ -10990,7 +11155,7 @@ msgstr "Они не могли сказать тебе."
 msgid ""
 "That entire forest... it doesn’t exist anymore... the entire place... Oh "
 "gods..."
-msgstr "Весь тот лес… он больше не существует… всё то место… О боги…"
+msgstr "Весь тот лес… больше не существует… всё то место… О боги…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:784
@@ -11005,7 +11170,7 @@ msgstr "Ты не знала."
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:796
 msgid "Heh, but it wouldn’t have changed anything, would it..."
-msgstr ""
+msgstr "Хех, но это бы ничего не поменяло, не так ли…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:807
@@ -11013,17 +11178,21 @@ msgid ""
 "They could have both taken me with them deep into the country and we would "
 "have all survived together..."
 msgstr ""
+"Они оба могли бы забрать меня с ними вглубь страны, и мы бы выжили все "
+"вместе…"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:812
 msgid "It was a risk they chose not to take."
-msgstr ""
+msgstr "То было риском, и они решили его не принимать."
 
+# внезапный подтекст :)
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:817
 msgid ""
 "Choices, huh... it’s all down to choices... Do they even matter in the end?"
 msgstr ""
+"Выборы, эх… всё свелось к выборам… Влияют ли они хоть на что-нибудь в конце?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:834
@@ -11036,6 +11205,8 @@ msgid ""
 "I think you already know what you are going to do. It is not even going to "
 "be a choice, is it?"
 msgstr ""
+"Мне кажется, ты уже знаешь, что собираешься делать. И у этого даже не будет "
+"иного выбора, не так ли?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:851
@@ -11044,16 +11215,20 @@ msgid ""
 "what you want to do, as well as what is expected of you. They do not "
 "<i>have</i> to be mutually exclusive concepts, after all."
 msgstr ""
+"Что ты сделаешь дальше — постоянная величина. Не важно, как ты до этого "
+"доходишь, ты всегда делаешь то, что хочешь сделать, так и то, что от тебя "
+"ждут. И в конечном итоге это совсем не <i>обязано</i> быть "
+"взаимоисключающими понятиями."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:858
 msgid "I suppose so..."
-msgstr ""
+msgstr "Наверное, так и есть…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:929
 msgid "How long have I spent staring into this pond?"
-msgstr ""
+msgstr "Как долго я глядела в эту лужу?"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:956
@@ -11109,6 +11284,14 @@ msgid ""
 "technology created on Norsula, as well as ancient Irdya. The scriptures say "
 "that a Guardian of Life should not be able to <i>create</i> life!"
 msgstr ""
+"Её миссия Стража Жизни нашего цикла была подорвана её собственной волей "
+"путём стечения ряда неудачных обстоятельств, но не остановлена. Тогда как "
+"положенный Страж Жизни обеспечил бы, чтобы жизнь могла процветать и "
+"разрастаться в его мире, Урия разрушила жизни бесчисленных народов в Урвате "
+"и Ирдии. Однако помимо этого она <i>создала</i> жизнь, когда украла "
+"технологии, разработанные как в Норсуле, так и в древней Ирдии, и "
+"воспользовалась ими. Писания гласят, что Стражу Жизни не дозволено "
+"<i>создавать</i> жизнь!"
 
 #. [event]
 #. This line is still Argan speaking.
@@ -11139,6 +11322,13 @@ msgid ""
 "suddenly surpassed that of Irdya or even Ethea. Some say that an external "
 "influence contributed to their accelerated evolution as a world."
 msgstr ""
+"Норсула — огромный мир, даже больше, чем Этея или Ирдия. Примерно в то "
+"время, как я впервые прибыл в Ирдию, Норсуляне всё ещё оставались по большей "
+"части невежественным стадом, лишённым дара магии, что жители Ирдии приняли "
+"на рассвете истории своего мира. Но в какой-то момент времени скорость "
+"технологического развития Норсулы неожиданно опередила Ирдию или даже Этею. "
+"Некоторые заявляют, что их ускоренному развитию как мира поспособствовало "
+"внешнее вмешательство."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:1107
@@ -11146,6 +11336,8 @@ msgid ""
 "The glyph’s contents seem to be in a language you have never read nor heard "
 "before."
 msgstr ""
+"Судя по всему, содержание кристалла записано языком, на котором ты раньше "
+"ничего не читала и даже не слышала."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:1121
@@ -11180,7 +11372,7 @@ msgid ""
 msgstr ""
 "Подождите-ка.\n"
 "\n"
-"Содержание кристалла ранее казалось нечитаемым, но теперь в нём виднеется "
+"Сообщение кристалла ранее казалось нечитаемым, но теперь в нём виднеется "
 "смысл."
 
 #. [event]
@@ -11194,6 +11386,12 @@ msgid ""
 "revealed to Ethean commoners, sparking all kinds of conflicts between the "
 "many ruling countries."
 msgstr ""
+"Прямо как технологические достижения Норсулы были последствием внешнего "
+"вмешательства, большая часть технического и культурного прогресса Этеи "
+"появилась в результате тайного обмена с Норсулой и меньшими мирами на "
+"протяжении веков. По сути дела, существование Норсулы лишь недавно было "
+"открыто для обывателей Этеи, разжигая всевозможные столкновения между её "
+"многими правящими странами."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:1200
@@ -11201,6 +11399,8 @@ msgid ""
 "The contents of this glyph seem to have been encoded quite a while ago, "
 "given what you already know from Elynia."
 msgstr ""
+"Похоже, содержание этого кристалла было записано довольно давно, учитывая "
+"то, что ты уже знаешь от Элинии."
 
 #. [event]
 #. Elyssa speaking.
@@ -11219,6 +11419,18 @@ msgid ""
 "will eventually be slain, thus making it impossible for us to know what "
 "happens past that point in time."
 msgstr ""
+"Сказано, что технологии Этеи не являются слишком продвинутыми, однако "
+"устойчивое вмешательство преемника Валдира и его народа медленно, но верно "
+"изменило существующее положение. Агенты Урии покинули незащищённую Норсулу и "
+"внедрились в Этею, чтобы провести приготовления к её последующему прибытию, "
+"но всё свидетельствует о том, что у Стража Воды так же имеются свои "
+"собственные планы, затрагивающие семя того мира.\n"
+"\n"
+"Бредни Зрящей по этому вопросу туманны и спутаны, она упоминает всё больше и "
+"больше бессмысленных званий и титулов, которых нельзя отнести верно к какой-"
+"либо из известных ключевых личностей. Мы знаем наверняка лишь то, что "
+"однажды Зрящая будет повержена, и таким образом мы не можем узнать, что "
+"случится после этой точки во времени."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:1247
@@ -16906,12 +17118,12 @@ msgid ""
 "always cursed before even meeting that insignificant necromancer. You could "
 "even say Irdya herself cursed you, and that would not be entirely inaccurate."
 msgstr ""
-"Арган рассказывал мне об этом. Просто очередной самодовольный, у которого в "
-"конце рот оказался полон воздуха. Люди стремятся переоценивать последние "
-"слова тех, кто обучен запретным искусствам, по большей части из-за страха. "
-"Нет, дорогуша, ты была проклята всегда, ещё до встречи с тем ничтожным "
-"некромантом. Можешь даже сказать, что тебя прокляла сама Ирдия, и это будет "
-"не совсем неверно."
+"Арган рассказывал мне об этом. Просто очередной самодовольный колдун, у "
+"которого в конце рот оказался полон воздуха. Люди стремятся переоценивать "
+"последние слова тех, кто обучен запретным искусствам, по большей части из-за "
+"страха. Нет, дорогуша, ты была проклята всегда, ещё до встречи с тем "
+"ничтожным некромантом. Можешь даже сказать, что тебя прокляла сама Ирдия, и "
+"это будет не совсем неверно."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:994
