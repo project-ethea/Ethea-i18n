@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: After_the_Storm-1.10\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-25 09:25 UTC\n"
+"POT-Creation-Date: 2020-08-29 14:34 UTC\n"
 "PO-Revision-Date: 2020-05-03 15:46+0100\n"
 "Last-Translator: \n"
 "Language-Team: french\n"
@@ -495,6 +495,12 @@ msgstr ""
 #: After_the_Storm/units/elves-wood/Ascetic.cfg:52
 msgid "ethereal zephyr"
 msgstr "zéphyr éthéré"
+
+#. [unit_type]: id=Elvish Spellbinder, race=elf, description={SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_ARCANE}+{SPECIAL_NOTES_SLOW}
+#: After_the_Storm/units/elves-wood/Spellbinder.cfg:6
+#, fuzzy
+msgid "female^Elvish Spellbinder"
+msgstr "Enseignante Elfe"
 
 #. [unit_type]: id=Elvish Wayfarer, race=elf
 #: After_the_Storm/units/elves-wood/Wayfarer.cfg:5
@@ -31654,7 +31660,7 @@ msgid "Thanks for playing"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-After_the_Storm
-#: After_the_Storm/base-loader.cfg:183
+#: After_the_Storm/base-loader.cfg:178
 msgid "After the Storm (custom terrains)"
 msgstr "Après la Tempête (terrains personnalisés)"
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-25 09:25 UTC\n"
+"POT-Creation-Date: 2020-08-29 14:34 UTC\n"
 "PO-Revision-Date: 2020-08-28 16:46+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -485,6 +485,12 @@ msgstr ""
 #: After_the_Storm/units/elves-wood/Ascetic.cfg:52
 msgid "ethereal zephyr"
 msgstr "эфирное дуновение"
+
+#. [unit_type]: id=Elvish Spellbinder, race=elf, description={SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_ARCANE}+{SPECIAL_NOTES_SLOW}
+#: After_the_Storm/units/elves-wood/Spellbinder.cfg:6
+#, fuzzy
+msgid "female^Elvish Spellbinder"
+msgstr "Заклинательница"
 
 #. [unit_type]: id=Elvish Wayfarer, race=elf
 #: After_the_Storm/units/elves-wood/Wayfarer.cfg:5
@@ -31777,7 +31783,7 @@ msgid "Thanks for playing"
 msgstr "И Вам, за игру в эту кампанию"
 
 #. [editor_group]: id=wesnoth-UMC-After_the_Storm
-#: After_the_Storm/base-loader.cfg:183
+#: After_the_Storm/base-loader.cfg:178
 msgid "After the Storm (custom terrains)"
 msgstr "После Бури (особая местность)"
 

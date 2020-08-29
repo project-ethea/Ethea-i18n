@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: After the Storm - Japanese\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-25 09:25 UTC\n"
+"POT-Creation-Date: 2020-08-29 14:34 UTC\n"
 "PO-Revision-Date: 2016-05-22 01:16+0000\n"
 "Last-Translator: RatArmy <broadbarredfirefish@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/wesnoth-jp/after-the-storm/"
@@ -470,6 +470,12 @@ msgstr ""
 #: After_the_Storm/units/elves-wood/Ascetic.cfg:52
 msgid "ethereal zephyr"
 msgstr "神秘の風"
+
+#. [unit_type]: id=Elvish Spellbinder, race=elf, description={SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_ARCANE}+{SPECIAL_NOTES_SLOW}
+#: After_the_Storm/units/elves-wood/Spellbinder.cfg:6
+#, fuzzy
+msgid "female^Elvish Spellbinder"
+msgstr "エルフの猟師"
 
 #. [unit_type]: id=Elvish Wayfarer, race=elf
 #: After_the_Storm/units/elves-wood/Wayfarer.cfg:5
@@ -30643,7 +30649,7 @@ msgid "Thanks for playing"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-After_the_Storm
-#: After_the_Storm/base-loader.cfg:183
+#: After_the_Storm/base-loader.cfg:178
 msgid "After the Storm (custom terrains)"
 msgstr "嵐が過ぎ去って（カスタム地形）"
 
