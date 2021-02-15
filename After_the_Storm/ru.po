@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-15 03:59 UTC\n"
-"PO-Revision-Date: 2020-10-11 23:28+0300\n"
+"PO-Revision-Date: 2021-02-15 22:38+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
@@ -2815,7 +2815,7 @@ msgstr ""
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:857
 msgid "But my lady, how? None of this is your fault..."
-msgstr ""
+msgstr "Миледи, но как? Всё это — не Ваша вина…"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:862
@@ -2879,7 +2879,7 @@ msgstr "То будет моей задачей."
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:912
 msgid "Then... I suppose this is where it ends."
-msgstr ""
+msgstr "Тогда… похоже, вот тут всё заканчивается."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:917
@@ -2887,6 +2887,7 @@ msgid ""
 "Are you really sure about this, Igor? I thought you would prefer to live "
 "among your people in the west instead."
 msgstr ""
+"Уверен, Игорь? Я думал, тебе по душе было бы жить со своим народом на западе."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:922
@@ -2896,6 +2897,10 @@ msgid ""
 "still bad at guarding the land from invaders from the south. No, I think I’m "
 "done being village goblin. I’m gonna become city goblin now!"
 msgstr ""
+"Вернее, да, жить с гоблинами весело! Но я побаиваюсь, после того, что "
+"случилось — знаете, вся эта белиберда с Хаосом? И, похоже, будто вожди орков "
+"всё ещё плохо справляются с охраной земель от налётчиков с юга. Нет, "
+"довольно с меня быть деревенским гоблином. Теперь я стану городским гоблином!"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:927
@@ -2903,16 +2908,18 @@ msgid ""
 "Hmph. How would a filthy runt like you survive the perils of civilization, I "
 "wonder."
 msgstr ""
+"Хмм. Интересно, как такой грязный карлик, как ты, переживёт ужасы "
+"цивилизации."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:932
 msgid "Hey, I can do artsy stuff! Haven’t you heard me sing before? Ahem—"
-msgstr ""
+msgstr "Эгей, да я артист! Ещё не слышали, как я пою? Кхм-кхм—"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:937
 msgid "If I have to listen to that again, I swear to the Dark Gods—"
-msgstr ""
+msgstr "Тёмными Богами клянусь, ещё раз я это услышу—"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:942
@@ -2923,21 +2930,26 @@ msgid ""
 "us when I say we are deeply grateful for your help and support, even through "
 "the most nightmarish of circumstances."
 msgstr ""
+"Ты прошёл долгий путь, и мы уж точно будем неправы заставлять тебя следовать "
+"за нами, учитывая все опасности, которые нас дальше поджидают. Я лишь "
+"надеюсь, что когда-нибудь мы снова встретим друг-друга. Думаю, я говорю за "
+"всех трёх из нас: мы глубоко благодарны за твою помощь и поддержку, даже в "
+"самых кошмарных из обстоятельств."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:947
 msgid "We will miss you greatly. Best of luck, my friend."
-msgstr ""
+msgstr "Мы все будем скучать по тебе. Удачи, друг мой."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:952
 msgid "Awww, you guys, I’m tearing up... I will miss you too!"
-msgstr ""
+msgstr "Оооо, ребятки, я разрываюсь… Я тоже буду по вам скучать!"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:957
 msgid "Can we just... please. Let us move on already."
-msgstr ""
+msgstr "Мы не можем просто… прошу. Давайте уже отправляться."
 
 #. [scenario]: id=12_The_Queen, race=orc, type=Shaxthal Drone
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:5
@@ -4836,12 +4848,12 @@ msgid ""
 "There is someone else coming with us as well. I am sure you will tolerate "
 "his presence here."
 msgstr ""
+"За нами следует кто-то ещё. Уверен, его присутствие здесь вам не понравится."
 
 #. [message]: speaker=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:498
-#, fuzzy
 msgid "Well, I..."
-msgstr "Ну…"
+msgstr "Ну, я…"
 
 #. [message]: speaker=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:518
@@ -4849,6 +4861,8 @@ msgid ""
 "Ugh, a goblin? Riding a wolf? You cannot be serious! Your kind is not "
 "welcome around these parts after the poultry farmers’ guild incident."
 msgstr ""
+"Ух, гоблин? На волке? Да вы шутите! Таким как вы здесь не рады после "
+"происшествия с гильдией птицеводов."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:523
@@ -4857,6 +4871,8 @@ msgid ""
 "Willow is also a very well behaved lady, you aren’t even gonna notice her "
 "presence."
 msgstr ""
+"Нет-нет-нет! Я вам не наврежу! Я просто иду вместе с друзьями, вот и всё! "
+"Ива — очень воспитанная девочка, вы даже не заметите её присутствия."
 
 #. [message]: role=guard_6
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:536
@@ -6008,6 +6024,8 @@ msgid ""
 "Honestly, with your fearsome steed you should be more than able to reach "
 "your destination without us, Igor."
 msgstr ""
+"Честно говоря, с твоей грозной скакуньей ты бы мог добраться до своей цели и "
+"без нас, Игорь."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:422
@@ -6016,6 +6034,9 @@ msgid ""
 "smelly skeletons alone! I don’t wanna become one of them zombies while I’m "
 "still young!"
 msgstr ""
+"Вы же шутите, правда? Да мне никак не пробраться одному через всех тех "
+"вонючих скелетов! И мне не хочется стать одним из их ходячих трупов, пока я "
+"в самом расцвете сил!"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:427
@@ -6023,17 +6044,18 @@ msgid ""
 "<i>(snicker)</i> I could arrange for you to become a more dignified skeleton "
 "warrior if you prefer..."
 msgstr ""
+"<i>(посмеивается)</i> Я могу устроить так, что ты станешь более утончённым "
+"воином-скелетом, ежели пожелаешь…"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:432
 msgid "Eeek!!! No!!!"
-msgstr ""
+msgstr "Брррр!!! Нетушки!!!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:437
-#, fuzzy
 msgid "Will you please stop tormenting him, Malin."
-msgstr "Когда ты уже прекратишь это делать, чучело?!"
+msgstr "Можешь уже, пожалуйста, прекратить донимать его, Малин."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:442
@@ -6041,11 +6063,13 @@ msgid ""
 "Fiiiiine. <small>Someone needs a sense of humor... <i>mutter mutter</i>...</"
 "small>"
 msgstr ""
+"Ла-а-а-а-адно. <small>Кому-то определённо не хватает чувства юмора… "
+"<i>бормочет</i>…</small>"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:447
 msgid "The ears aren’t just for show, you know. We <i>can</i> hear you."
-msgstr ""
+msgstr "Знаешь, эти уши — не какое-то украшение. Мы все тебя <i>слышим</i>."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:456
@@ -8540,20 +8564,18 @@ msgstr "Мы не можем продолжить путь без него. На
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/deaths.cfg:98
-#, fuzzy
 msgid "I think it’s the end... for me..."
-msgstr "Увы, моя песенка спета…"
+msgstr "Похоже, вот и мой… конец…"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/deaths.cfg:110
 msgid "Hm. Oh well, waste not, want not."
-msgstr ""
+msgstr "Хм. Ну что ж, зачем добро переводить?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/deaths.cfg:115
-#, fuzzy
 msgid "<i>(glares)</i>"
-msgstr "<i>(Слёзы.)</i>"
+msgstr "<i>(смотрит с ненавистью)</i>"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/deaths.cfg:120
@@ -8561,23 +8583,27 @@ msgid ""
 "All right, all right! But you probably want to dispose of the body quickly "
 "before his stench alone kills you. The little pest hasn’t bathed in weeks."
 msgstr ""
+"Ладно, ладно! Но для вас было бы лучше поскорее избавится от трупа, пока тут "
+"все не подохли от одного лишь запаха. Маленький вредитель неделями не мылся."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/deaths.cfg:125
 msgid ""
 "That would be your fault for stalking him whenever he wasn’t with us two."
 msgstr ""
+"Так это ты же преследовал его повсюду, когда он не был бы с нами двумя."
 
+# Здесь из перевода Шекспира
 #. [message]: speaker=Mal Keshar
 #. Yes, he starts quoting Shakespeare before being interrupted.
 #: After_the_Storm/episode1/deaths.cfg:132
 msgid "Alas, poor Igor! <i>(conjures dark magic)</i> I knew him, Elynia—"
-msgstr ""
+msgstr "О, бедный Игорь! <i>(сгущает тёмную магию)</i> Я знал его, Элиния—"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/deaths.cfg:137
 msgid "Leave his body alone!!!"
-msgstr ""
+msgstr "Оставь его тело в покое!!!"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/deaths.cfg:152
@@ -8892,7 +8918,7 @@ msgstr "Арнесиус"
 
 #: After_the_Storm/macros/character-defines.cfg:129
 msgid "Igor"
-msgstr ""
+msgstr "Игорь"
 
 #. [transient_message]
 #: After_the_Storm/macros/scenario-utils.cfg:115
@@ -9037,7 +9063,6 @@ msgstr "водянистая"
 
 #. [resistance]: id=aqueous
 #: After_the_Storm/macros/abilities.cfg:59
-#, fuzzy
 msgid ""
 "This unit’s resistances to non-arcane damage are increased to 10% or (if "
 "already 10% or higher) tripled up to a maximum of 60%, when defending on "
@@ -9045,10 +9070,10 @@ msgid ""
 "every turn when positioned on those terrains, but it will not remove poison "
 "from itself."
 msgstr ""
-"Сопротивление бойца к не-мистическому урону утроены, до максимума в 60%, во "
-"время обороны на водяной, болотистой местности или на рифах. Он также "
-"восстановит себе 8 ЗД в начале каждого хода на этой местности, но не "
-"избавится от яда."
+"Сопротивление бойца к не-мистическому урону повышено на 10%, или (если уже "
+"10% и выше) утроено вплоть до максимума в 60% во время обороны на водяной, "
+"болотистой местности или на рифах. Он также восстановит себе 8 ЗД в начале "
+"каждого хода на этой местности, но не избавится от яда."
 
 #. [dummy]: id=aspect_of_darkness
 #: After_the_Storm/macros/abilities.cfg:127
@@ -10357,11 +10382,13 @@ msgid ""
 "You know, Anya... I think I’m finally getting used to the wolves. Granted, "
 "I’m still not keen on their awful breath."
 msgstr ""
+"Знаешь, Аня… Кажется, я начинаю привыкать к волкам. Впрочем, их "
+"омерзительное дыхание удовольствия мне всё ещё не приносит."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:492
 msgid "See? It’s not all that bad once you get to know them."
-msgstr ""
+msgstr "Видишь? Не так они и плохи, как только узнаешь их поближе."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:497
@@ -10369,12 +10396,16 @@ msgid ""
 "Yes, sure. I still wish Willow would stop stalking me, especially since half "
 "of the time that goblin follows. He’s in desperate need of a bath, that guy."
 msgstr ""
+"Да, конечно. И всё же мне бы хотелось, чтобы Ива прекратила шастать за мной "
+"по пятам, особенно когда в половине случаев за ней следует тот гоблин. Тому "
+"малому стоит помыться. Срочно."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:502
 msgid ""
 "To be fair, I haven’t bathed in a while either and you don’t seem to mind."
 msgstr ""
+"Если честно, я сама давненько уже не мылась, а ты, похоже, не возражаешь."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:507
@@ -10382,11 +10413,13 @@ msgid ""
 "I— That’s... I mean, that’s not the same! Be— besides, you are surely going "
 "to do it as soon as you get the chance. Unlike <i>him</i>."
 msgstr ""
+"Я— Это… Вернее, что это не то же самое! К— кроме того, ты же наверняка "
+"сделаешь это при первой возможности. В отличие от <i>него</i>."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:512
 msgid "You are saying that only because he’s a goblin, aren’t you?"
-msgstr ""
+msgstr "Ты так говоришь только потому, что он гоблин, не так ли?"
 
 #. [message]: speaker=General Ramzal
 #. 'Wose-born wench' referring to Elynia.
@@ -10563,9 +10596,8 @@ msgstr "Водная файери! Она же только что была с �
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1250
-#, fuzzy
 msgid "Water faerie?"
-msgstr "развеять файери"
+msgstr "Водная файери?"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1255
@@ -12337,7 +12369,7 @@ msgstr "… Она всё ещё не вернулась?"
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:607
 msgid "I thought we were all gonna fight together..."
-msgstr ""
+msgstr "Я-то думал, мы будем бороться все вместе…"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:612
@@ -12576,12 +12608,12 @@ msgstr "Ух… Похоже, мы подоспели как раз воврем
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1500
 msgid "Archer guy!"
-msgstr ""
+msgstr "Это же тот парень с луком!"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1505
 msgid "Oh no. Er, I mean, hail!"
-msgstr ""
+msgstr "Только не это. Э-э-э, вернее, приветствую!"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1512
@@ -17039,25 +17071,23 @@ msgstr "Конечно, миледи, не волнуйтесь!"
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:770
-#, fuzzy
 msgid "Talk to Igor."
-msgstr "Поговорите с Ирилеан."
+msgstr "Поговорите с Игорем."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:773
 msgid "Ask Igor about his time in the northern country."
-msgstr ""
+msgstr "Спросите Игоря о его жизни в северной стране."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:776
-#, fuzzy
 msgid "Ask Igor about Anya."
-msgstr "Спросите Крона об Эргеи."
+msgstr "Спросите Игоря об Ане."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:786
 msgid "Everything all right, Igor?"
-msgstr ""
+msgstr "Всё в порядке, Игорь?"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:791
@@ -17065,12 +17095,15 @@ msgid ""
 "Yes... I guess. It’s just that I can’t stop thinking... The elf friend died "
 "in these lands."
 msgstr ""
+"Да… наверное. Я просто не могу перестать думать… Друг-эльф погиб в этих "
+"землях."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:796
 msgid "... Yes. Yes, he did. I am sorry, I couldn’t do anything—"
-msgstr ""
+msgstr "… Да. Да, он погиб. Мне жаль. Я не смогла сделать хоть что-нибудь—"
 
+# Внимание, здесь он переходит с Элинией на 'ты'! Прежде всего это сделано, чтобы подчеркнуть контраст в фразе 'Тебе не исцелить мёртвых. Этого не дано никому'. Если использовать 'Вам', получится слишком сильное обобщение. Разговор очень личный, так что смена тона оправдана. -- прим. kabachuha
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:801
 msgid ""
@@ -17079,6 +17112,10 @@ msgid ""
 "it. Quickly, cleanly. Their prey falls to the ground already dead. You can’t "
 "heal the dead. Nobody can."
 msgstr ""
+"Нет, ты ничего не могла сделать. Та женщина-демон знала, что делает. Она — "
+"обученная убийца или что-то в этом духе, не так ли? Я видел, как мой народ "
+"проворачивает подобное. Быстро, без следов. Когда жертва касается земли, она "
+"уже мертва. Тебе не исцелить мёртвых. Этого не дано никому."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:806
@@ -17086,6 +17123,8 @@ msgid ""
 "I just regret not coming with you... Maybe then things would’ve turned out "
 "different, you know. If we had all been together?"
 msgstr ""
+"Мне попросту стыдно, что я не пошёл с вами… Может, тогда всё бы пошло по "
+"другому, знаешь. Если бы мы все были вместе?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:811
@@ -17095,7 +17134,12 @@ msgid ""
 "pull all three of us out of that accursed citadel in one piece. Mal Keshar "
 "barely made it."
 msgstr ""
+"Возможно. Хотя я думаю, многого бы это не поменяло. Если что-то пошло бы не "
+"так, ты был бы в такой же опасности, и я не уверена, что смогла бы в "
+"целостности вытащить всех троих из той проклятой цитадели. Мал Кешар еле "
+"справился."
 
+# Вот теперь тон возвращается к норме, поскольку Игорю нужно извениться! --kabachuha
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:816
 msgid ""
@@ -17103,6 +17147,9 @@ msgid ""
 "goblin after all, fighting things I really don’t understand in the middle of "
 "something much bigger than me. Not battle goblin, just... goblin."
 msgstr ""
+"Понимаю… Простите. Мне нужно прекратить бичевать себя за это — в конце "
+"концов я жалкий гоблин, что сражается с вещами, которые не в силах понять, "
+"посреди чего-то, много большего, чем я. Не боевой гоблин, просто… гоблин."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:821
@@ -17111,6 +17158,9 @@ msgid ""
 "everyone that you can accomplish great things despite the labels they force "
 "upon you, Igor. I am sure of it. I believe in you."
 msgstr ""
+"Не говори подобное. Придёт и твоё время, и ты покажешь всем и каждому, что "
+"способен на великие свершения невзирая на то, чем бы тебя не клеймили, "
+"Игорь. Я в это верю. Я верю в тебя."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:826
@@ -17119,32 +17169,34 @@ msgid ""
 "lady. I just wish the elf friend and the scary lich were still with us. I "
 "miss them a lot."
 msgstr ""
+"На самом деле, это — самое приятное, что я когда-либо слышал… Благодарю Вас, "
+"миледи. Как бы я хотел, чтобы друг-эльф и страшный лич были с нами. Я так по "
+"ним скучаю."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:831
 msgid "So do I, Igor. So do I."
-msgstr ""
+msgstr "Как и я, Игорь. Как и я."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:838
 msgid "How did your adventures in the Aragwaith country go, anyway?"
-msgstr ""
+msgstr "Тем не менее, как прошли твои приключения в стране Эрагвийцев?"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:843
 msgid "Oh, uh, about that..."
-msgstr ""
+msgstr "Ой-ой, насчёт этого…"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:852
 msgid "Kinda disappointing really."
-msgstr ""
+msgstr "На деле, довольно разочаровывающе."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:857
-#, fuzzy
 msgid "Go on."
-msgstr "Постойте…"
+msgstr "Продолжай."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:862
@@ -17158,11 +17210,19 @@ msgid ""
 "the north. I’m not even sure why I did any of that — I kept hearing the old "
 "man’s words in my head like a command."
 msgstr ""
+"Что ж, как видите, мне, в основном, так и не удалось заняться уличными "
+"выступлениями. Сперва я встретил того угрюмого старика в трактире "
+"приграничного городка. Он говорил мне кучу неясной бредятины и ушёл? Затем "
+"я, казалось, вечность маялся в поисках случайных людей. Я даже помог спасти "
+"город от пожара! А затем я вспомнил… он сказал мне найти госпожу зрящую и "
+"привести её в столицу… я чуть не убился, когда искал её по всему северу. И я "
+"до сих пор не пойму, почему я вообще это делал — слова старика повторялись в "
+"моей голове, они будто бы повелевали мной."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:867
 msgid "Old man? Who was he?"
-msgstr ""
+msgstr "Старик? Кто он?"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:872
@@ -17172,6 +17232,10 @@ msgid ""
 "I felt about the whole thing, even though thinking back I realize... if it "
 "hadn’t been me, it could’ve been anyone else, right?"
 msgstr ""
+"Чёрт его знает! Он так ни разу и не представился, но… Вы знаете это чувство, "
+"когда ты делаешь что-то по-настоящему важное и не можешь напортачить? Именно "
+"так я ощущаю всё это, хотя, оглянувшись назад, я признаю… если бы не я, был "
+"бы кто-нибудь другой, верно?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:877
@@ -17180,6 +17244,9 @@ msgid ""
 "my head hurts if I try to remember, it must have been too long ago, before "
 "the Great Fall."
 msgstr ""
+"… Да, кажется, я знаю, что ты имеешь в виду. Отчего-то это звучит знакомо… "
+"Но голова начинает болеть, когда я пытаюсь вспомнить, должно быть, то было "
+"давным-давно, до Великого Падения."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:882
@@ -17188,6 +17255,9 @@ msgid ""
 "doesn’t make sense but sometimes I’m afraid that maybe I did mess up in the "
 "end."
 msgstr ""
+"Простите, леди Элиния, мне нужно было только скинуть этот камень с сердца. Я "
+"знаю, что в этом нет смысла, но порой я боюсь, что, возможно, в конце я "
+"сделал что-то не так."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:887
@@ -17195,6 +17265,8 @@ msgid ""
 "It sounds like our paths almost crossed at the capital back then, though. I "
 "wonder why I never found you there."
 msgstr ""
+"Звучит так, будто в то время наши пути почти пересеклись в столице. "
+"Интересно, почему мне не удалось тебя там найти?"
 
 #. [message]: speaker=Igor
 #. Yes, apparently Igor doesn't realize that what he calls 'water longbirds'
@@ -17206,22 +17278,26 @@ msgid ""
 "with the “local swan population”? Dunno what that was all about, Willow only "
 "eats water longbirds anyway."
 msgstr ""
+"Ну-у-у-у, видите ли, некоторое время спустя после того, как я привёл туда "
+"госпожу-зрящую, городская стража выдворила меня по приказу того малого с "
+"тяжёлыми мечами, из-за чего-то там про “местную популяцию лебедей”? Без "
+"понятия, о чём всё это было: Ива всё равно питается только водными "
+"длинношеями птицами."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:899
-#, fuzzy
 msgid "... Really, now?"
-msgstr "Э… ммм… скажем, нет?"
+msgstr "… Это ты сейчас правда?.."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:904
 msgid "Mhm!"
-msgstr ""
+msgstr "М-м-м!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:911
 msgid "You seem to be getting along well with Anya."
-msgstr ""
+msgstr "Похоже, ты ладишь с Аней."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:916
@@ -17230,6 +17306,9 @@ msgid ""
 "afraid of her for no reason even though she’s just a big puppy. The archer "
 "guy, for example — he’d constantly avoid her. I don’t understand why."
 msgstr ""
+"Да! И фиолетовой госпоже очень нравится Ива. Я-то уже привык, что все её "
+"боятся без каких-то причин, пусть она всего лишь большой щеночек. К примеру, "
+"тот парень с луком: он постоянно её остерегается. Не понимаю, почему."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:921
@@ -17237,6 +17316,8 @@ msgid ""
 "I don’t think he and the other people from the Heart Forest are fond of "
 "wolves in general. They have their reasons."
 msgstr ""
+"Не думаю, что он и другие люди из леса Сердца вообще проявляют тягу к "
+"волкам. У них есть на это причины."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:926
@@ -17244,6 +17325,8 @@ msgid ""
 "If you say so... But let me ask you, how come you don’t mind the demons all "
 "of a sudden?"
 msgstr ""
+"Ежели так скажете… Но позвольте спросить, как Вы так внезапно перестали быть "
+"против демонов?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:931
@@ -17255,6 +17338,11 @@ msgid ""
 "past to escape oppression. But all those attemtps were doomed to fail, until "
 "now."
 msgstr ""
+"Всё… сложно. Не то, чтобы я не стала быть против них, но скорее, я увидела, "
+"что действительность не такая чёрно-белая, как мы полагали. Эргея и её "
+"народ… у них идёт своё противостояние с Урией. Как оказалось, не было "
+"недостатка Владык-Демонов, что пытались вести войну с ней в прошлом, чтобы "
+"избежать угнетения. Но все те попытки были обречены на провал, до этого дня."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:936
@@ -17262,6 +17350,8 @@ msgid ""
 "It is now up to me... to <b>us</b>, to make a difference. Tomorrow we shall "
 "fight for the fate of Irdya, and if we succeed, then Inferno will follow."
 msgstr ""
+"Теперь уже мне… <b>нам всем</b> придётся изменить этот мир. Завтра мы "
+"сразимся за судьбу Ирдии, и, если преуспеем, Инферно будет следующим."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:941
@@ -17269,6 +17359,8 @@ msgid ""
 "That sounds great and all but I don’t like the way she looks at me "
 "scrunching up her nose every time she passes me by..."
 msgstr ""
+"Звучит здорово и всё в таком духе, но мне не нравится, как она смотрит на "
+"меня, сморщивая нос, каждый раз, когда проходит мимо меня…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:946
@@ -17276,11 +17368,13 @@ msgid ""
 "Oh, uh... that... that might just be that she has difficulty breathing the "
 "air of Irdya. I think."
 msgstr ""
+"Ох, а… это… наверное, у неё просто трудности с дыханием воздухом Ирдии. Я "
+"так считаю."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:951
 msgid "Oh, I see. Nothing to worry about then!"
-msgstr ""
+msgstr "О, ясно. Значит, беспокоится не стоит!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:1001
@@ -18881,15 +18975,13 @@ msgstr "???"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1000
-#, fuzzy
 msgid "Hold on!"
-msgstr "Постойте…"
+msgstr "Стойте!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1010
-#, fuzzy
 msgid "That voice... is that..."
-msgstr "О боги… Это…"
+msgstr "Тот голос… это…"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1044
@@ -18897,6 +18989,8 @@ msgid ""
 "Lady Elynia! It’s been so long! The old lady has told me so many sad things "
 "and I... I..."
 msgstr ""
+"Леди Элиния! Сколько лет, сколько зим! Старая госпожа поведала мне много "
+"грустных вещей и я… я…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1049
@@ -18906,24 +19000,27 @@ msgid ""
 "everything later. I hope Willow and you are up to the task, because we need "
 "all the help we can muster."
 msgstr ""
+"О, Игорь. Я так рада видеть тебя живым после всех невзгод, что выпали на "
+"нашу голову, ты не представляешь. Но будет время обсудить всё позднее. Я "
+"надеюсь, вы с Ивой справитесь с задачей, ибо нам потребуется вся помощь, "
+"какую мы сможем собрать."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1054
 msgid "Of course, my lady, that’s why we waited here! We’re ready to go!"
 msgstr ""
+"Конечно, миледи, вот почему мы здесь дожидались! Мы готовы отправиться в "
+"путь!"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1059
-#, fuzzy
 msgid "<i>(whispering)</i> Psst, who is this little guy?"
-msgstr "(<i>шёпотом</i>) Да, я так и думаю."
+msgstr "<i>(шёпотом)</i> Пссс, кто этот малый?"
 
-# я - поэт, зовусь Незнайка, от меня вам балалайка --kabachuha
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1064
-#, fuzzy
 msgid "<i>(whispering)</i> I have no idea, but he really stinks..."
-msgstr "(<i>шёпотом</i>) Душу пусть поглотит камень, обращайтесь мысли в пыль…"
+msgstr "<i>(шёпотом)</i> Понятия не имею, но несёт от него, как от…"
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1076
@@ -19053,17 +19150,17 @@ msgstr "Лорд Торанцин повержен в битве. Надежды
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1382
 msgid "I’m city goblin no more! Now I’m battle goblin! HAHA!!!"
-msgstr ""
+msgstr "Я уже не городской гоблин! Теперь я — боевой гоблин! ХА-ХА!!!"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1387
 msgid "... City goblin?"
-msgstr ""
+msgstr "… Городской гоблин?"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1392
 msgid "... Battle... goblin?"
-msgstr ""
+msgstr "Боевой гоблин?"
 
 #. [message]: speaker=Torancyn
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1406
@@ -19087,9 +19184,8 @@ msgstr "Взгляните на северо-восток!"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1478
-#, fuzzy
 msgid "It’s the other elf lady!"
-msgstr "Уже слишком поздно…"
+msgstr "Ещё одна эльфийская леди!"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1483
@@ -22143,11 +22239,13 @@ msgid ""
 "Igor, do you think you could help watch our backline for any potential "
 "attacks from the north?"
 msgstr ""
+"Игорь, как думаешь, сможешь присмотреть за нашем тылом на случай вероятных "
+"атак с севера?"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:310
 msgid "Awww, but I wanted to help..."
-msgstr ""
+msgstr "Ооооо, но я хотел помочь…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:315
@@ -22156,6 +22254,9 @@ msgid ""
 "but right now my main concern is that we don’t get ambushed. You will still "
 "be able to help by alerting us of any possible threats."
 msgstr ""
+"Я видела, что тебе по нраву более прямой подход к битве, но наша главная "
+"забота сейчас в том, чтобы мы не попали в засаду. Ты всё ещё сможешь помочь "
+"нам, предупредив о любой возможной угрозе."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:320
@@ -22163,6 +22264,8 @@ msgid ""
 "If you think that’s the best way I can help then I’ll do it, my lady. Let’s "
 "go, Willow!"
 msgstr ""
+"Если считаете, что это — лучшее, чем я могу помочь, то я это сделаю, миледи. "
+"Вперёд, Ива!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:338
@@ -22741,19 +22844,17 @@ msgstr "… как оказалось, даже боги."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/04_02_Gateway.cfg:223
-#, fuzzy
 msgid ""
 "... But most importantly, we work as a team! I for one promise I won’t give "
 "up in the face of danger."
 msgstr ""
-"… Но что важнее всего, мы — команда! Я могу поклясться, что не сдамся перед "
+"… Но что важнее всего, мы — команда! Могу поклясться, что я не сдамся перед "
 "лицом опасности—"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/04_02_Gateway.cfg:228
-#, fuzzy
 msgid "Neither will I, my lady!"
-msgstr "Как скажете, милорд."
+msgstr "И я нет, миледи!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/04_02_Gateway.cfg:233
@@ -23183,21 +23284,23 @@ msgid ""
 "I want this to be over as soon as possible so I can bid farewell to the "
 "giant wolves."
 msgstr ""
+"Поскорей бы это всё закончилось, и я бы наконец попрощался с гигантскими "
+"волками."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:911
 msgid "Why? They are so cute!"
-msgstr ""
+msgstr "Зачем? Они такие милашки!"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:916
 msgid "Nope, they’re terrifying. And they smell."
-msgstr ""
+msgstr "Ну уж нет, они пугающие. И пованивают."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:926
 msgid "What about Willow? She’s so fluffy and cuddly and..."
-msgstr ""
+msgstr "А что насчёт Ивы? Она такая пушистая, и приятная, и…"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:931
@@ -23205,12 +23308,15 @@ msgid ""
 "I <i>really</i> don’t like her. She follows me around as though she knows I "
 "am terrified of her."
 msgstr ""
+"Мне она <i>правда</i> не нравится. Она преследует меня, будто бы знает, что "
+"от неё у меня кровь стынет в жилах."
 
+# ладно, пусть будет 'шанс' до лучшего варианта, в тексе он редко до этого встречался
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:936
 msgid ""
 "Awwww, but she just wants to be your friend! You should give her a chance!"
-msgstr ""
+msgstr "Ооооо, но она попросту хочет с тобой подружиться! Дай ей шанс!"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:941
@@ -23218,6 +23324,8 @@ msgid ""
 "<i>(sighs)</i> I don’t think this is the right time and place to practice "
 "shock therapy, Anya. Maybe when things have calmed down a little."
 msgstr ""
+"<i>(вздыхает)</i> Я думаю, сейчас не то место и время, чтобы подвергать "
+"людей шоковой терапии, Аня. Возможно, когда всё немного уляжется…"
 
 #. [message]: speaker=narrator
 #. [set_menu_item]: id=wmi_siege_charge_help
@@ -23332,8 +23440,8 @@ msgid ""
 "until it is all over. She is all you have left, and perhaps more than you "
 "will ever have."
 msgstr ""
-"Ты молча обдумываешь возможность пробежаться по полю боя с тяжёлой бочкой "
-"взрывчатки на своей спине. Интересно, сочтут ли товарищи твои действия "
+"Ты молча обдумываешь, не пробежаться ли по полю боя с тяжёлой бочкой "
+"взрывчатки на своей спине. Интересно, товарищи сочтут твои действия "
 "героическими или безрассудными?\n"
 "\n"
 "Какая, однако, глупая мысль! Твоя надежда ещё не иссякла, а Элиния нуждается "
@@ -23408,6 +23516,17 @@ msgid ""
 "fire sticks that high-ranked Chaos officers carry around these days. Your "
 "mighty steed gives you an approving nod."
 msgstr ""
+"Вы молча обдумываете возможность пробежаться по полю боя с тяжёлой бочкой "
+"этих “бабахалок” на своей спине. Интересно, сочтёт ли Элиния и её новые "
+"друзья Ваши действия героическими или безрассудными?\n"
+"\n"
+"Подумав чуть дольше, однако, Вы осознаёте, что бросать мирную жизнь уличных "
+"выступлений ради того, чтобы стать гоблином-хлопушкой, не совсем то, что "
+"люди имеют в виду под “уйти с огоньком”. Не стоит и вспоминать, что Вас "
+"никак не заставишь оставить бедную Иву в этом ненастном, жестоком мире. Быть "
+"может, чуть позже Вы разыщите “бабахалку” побезопаснее, думаете Вы про себя "
+"— например, одну из тех огненных палок, которые с недавних пор повадились "
+"носить офицеры Хаоса. Ваш могучий скакун кивает с одобрением."
 
 #. [case]
 #. This message is used when the unit attempting to pick up the barrel
@@ -23560,7 +23679,7 @@ msgstr ""
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2313
 msgid "Battle goblin strikes again, yes! Take that, wretched scum!!!"
-msgstr ""
+msgstr "Боевой гоблин снова в деле, ура! Вот вам, подлецы гнусные!!!"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2318
@@ -23569,6 +23688,8 @@ msgid ""
 "quite sure whether I <i>should</i> be concerned about his more bloodthirsty "
 "side...?"
 msgstr ""
+"Большую часть времени он ведёт себя как блаженный дурачок, но я всё ещё не "
+"уверен, <i>не стоит</i> ли мне беспокоится о его более кровожадной стороне…?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2323
@@ -23576,11 +23697,13 @@ msgid ""
 "Nah, I think he’s all right. You too have your moments despite being cute "
 "most of the time, after all."
 msgstr ""
+"Не, я думаю, с ним всё в порядке. В конце концов у тебя есть свои выходки, "
+"пусть ты почти всегда довольно милый."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2328
 msgid "<i>(blushing)</i> Well... thanks, I guess."
-msgstr ""
+msgstr "<i>(краснеет)</i> Ну… спасибо, наверное."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:2350
@@ -23805,6 +23928,8 @@ msgstr ""
 msgid ""
 "I really don’t like the heavy swords guy. Willow thinks he’s bad news too."
 msgstr ""
+"Не нравится мне тот товарищ с мечами. Ива тоже считает, что с ним что-то "
+"неладно."
 
 #. [message]: speaker=Unarye
 #: After_the_Storm/episode3/scenarios/02_02_Reckoning.cfg:214
@@ -24258,9 +24383,8 @@ msgstr ""
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:825
-#, fuzzy
 msgid "Same..."
-msgstr "Дом…"
+msgstr "Есть такое…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:839
@@ -24268,18 +24392,18 @@ msgid ""
 "On the bright side, dying and returning to the physical realm as a Guardian "
 "is a surprisingly easy way to get rid of all the sweat and filth on me."
 msgstr ""
+"С другой стороны, смерть и возвращение в мир живых в виде Стража — "
+"удивительно лёгкий способ избавится от пота и от грязи на мне."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:853
-#, fuzzy
 msgid "Igor?"
-msgstr "Жангор?"
+msgstr "Игорь?"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:858
-#, fuzzy
 msgid "Hm?"
-msgstr "Гм."
+msgstr "Мм?"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:863
@@ -24287,11 +24411,13 @@ msgid ""
 "Have you ever felt like... no matter how hard you try, you can’t even hope "
 "to measure up to someone whose company you enjoy?"
 msgstr ""
+"Ты никогда не задумывался… что как сильно бы ты ни пытался, у тебя нет и "
+"надежды сравниться с теми, с кем тебе нравится находиться?"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:868
 msgid "Uh, sometimes."
-msgstr ""
+msgstr "Ух, время от времени."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:882
@@ -24301,11 +24427,15 @@ msgid ""
 "than me with all those magic powers I don’t understand, but that never "
 "stopped them from seeing me as a friend!"
 msgstr ""
+"Но в конце ты осознаёшь, что друзья не требуют от тебя волшебным образом "
+"стать чем-то, чем ты не являешься! Леди Элиния и страшный лич всегда были "
+"нечто большим, чем я, со всеми этими магическими силами, которые мне не "
+"понять, но это не мешало им видеть во мне друга!"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:887
 msgid "Right. <i>(sighs)</i> I guess I’ve just got to accept it..."
-msgstr ""
+msgstr "Верно. <i>(вздыхает)</i> Наверное, мне просто придётся это принять…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:911
@@ -24514,7 +24644,7 @@ msgstr "Проще сказать, чем сделать…"
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:1519
 msgid "Battle goblin, ready to crush those bugs!"
-msgstr ""
+msgstr "Боевой гоблин, готовься крушить тех букашек!"
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:1533
@@ -24748,7 +24878,7 @@ msgstr "Итак, началось."
 #. [message]: speaker=Kyara
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:690
 msgid "If you don’t mind me asking, sir, are you sure about this?"
-msgstr "Разрешите спросить, товарищ генерал, Вы уверены?"
+msgstr "Разрешите спросить, товарищ генерал, Вы в этом уверены?"
 
 #. [message]: speaker=General Bardyl
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:695
@@ -24771,12 +24901,13 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:713
 msgid ""
 "Time to tear those evil creatures to bits! We will make them pay, oh yes..."
-msgstr ""
+msgstr "Пора порвать тех злобных тварей на части! Они у нас поплатятся, о да…"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:718
 msgid "This goblin fellow seems really invested into this, doesn’t he?"
 msgstr ""
+"Похоже, этот дружище-гоблин по-настоящему вовлечён во всё это, не так ли?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:723
@@ -24786,6 +24917,10 @@ msgid ""
 "which is saying something considering how difficult it is to get her to talk "
 "about the others in the first place."
 msgstr ""
+"Судя по всему, он крепко дружил с лордом Галасом и Мал Кешаром, и также с "
+"кем-то ещё… Элиния почти ничего мне не говорила о той женщине в частности, "
+"что наводит на некоторые мысли, учитывая, как трудно вообще заставить её "
+"говорить о других."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:728
@@ -24793,6 +24928,8 @@ msgid ""
 "Are you sure you should be prying that much, though? It sounds like a very "
 "personal subject for her."
 msgstr ""
+"Вообще-то, ты уверена, что должна настолько сильно об этом беспокоится? "
+"Звучит, будто эта тема для неё очень личная."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:733
@@ -24801,6 +24938,9 @@ msgid ""
 "grief alone when we are all in this together. But perhaps you are right, "
 "it’s not my place to intrude."
 msgstr ""
+"Знаю, знаю… я просто бы хотела, чтобы она открылась и не нагружала бы так "
+"много скорби на одни свои плечи, если мы во всём этом вместе. Но, возможно, "
+"ты прав, и не мне вмешиваться."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:795
@@ -24912,7 +25052,7 @@ msgstr "Я буду с нетерпением ждать день, когда м
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1140
 msgid "Come back here, you coward!"
-msgstr ""
+msgstr "А ну вернись, жалкий трус!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/03_Amidst_the_Ruins_of_Glamdrol.cfg:1145
@@ -27065,7 +27205,7 @@ msgstr "Для меня всё кончено…"
 #. He's referring to Galas and Mal Keshar.
 #: After_the_Storm/episode3/deaths.cfg:123
 msgid "I couldn’t... I couldn’t avenge the elf friend and the scary lich..."
-msgstr ""
+msgstr "Я не смог… не смог отомстить за друга-эльфа и за страшного лича…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/deaths.cfg:129
@@ -27073,6 +27213,8 @@ msgid ""
 "I should have seen this coming... I’m sorry we failed to protect you, "
 "friend. I’m sorry..."
 msgstr ""
+"Я должна была это предвидеть… Прости, нам не удалость тебя защитить, друг. "
+"Прости…"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/deaths.cfg:140
@@ -27111,9 +27253,8 @@ msgstr "Увы… никто и не станет скорбеть о моём �
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/deaths.cfg:212
-#, fuzzy
 msgid "No... we were so close to the end..."
-msgstr "… в пустоту отправь дух этот бренный…"
+msgstr "Нет… до конца оставалось так немного…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/deaths.cfg:218
@@ -27121,6 +27262,8 @@ msgid ""
 "I cannot believe it... I’m sorry, Elynia. I could’ve done better, I could’ve "
 "saved him..."
 msgstr ""
+"Я не могу в это поверить… Мне жаль, Элиния. Я могла бы сделать лучше, я "
+"могла спасти его…"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/deaths.cfg:223
@@ -27129,6 +27272,8 @@ msgid ""
 "for most goblins who just end up as cannon fodder for— Irylean what are you "
 "doing??"
 msgstr ""
+"Не вини себя, Аня. Он, хотя бы, умер героем — что уж сказать про остальных "
+"гоблинов, которые служат лишь пушечным мясом для— Ирилеан, ты что делаешь?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/deaths.cfg:228
@@ -27136,6 +27281,8 @@ msgid ""
 "Master Mal Keshar once told me that the goblin’s life-long wish was to rise "
 "again as a fearsome undead champion."
 msgstr ""
+"Учитель Мал Кешар однажды сказал мне, что мечтой всей жизни гоблина было "
+"восстать вновь в виде грозного витязя нежити."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/deaths.cfg:233
@@ -27143,6 +27290,8 @@ msgid ""
 "No!!! I am <b>not</b> allowing you to do this! I never had the chance to "
 "meet the guy but I have a feeling he wasn’t being serious when he said that."
 msgstr ""
+"Нет!!! Я не <b>позволю</b> тебе этого! У меня не было возможности с ним "
+"повидаться, но, чувствую, это он говорил не всерьёз."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/deaths.cfg:238
@@ -27150,6 +27299,8 @@ msgid ""
 "Very well, if you say so... I’ve got to admit I am not very good at raising "
 "the recently deceased anyway."
 msgstr ""
+"Что же, раз так скажете… Придётся признать, что я в любом случае не так "
+"хороша в оживлении недавно умерших."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode3/deaths.cfg:249
