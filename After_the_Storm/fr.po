@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: After_the_Storm-1.10\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-15 03:59 UTC\n"
-"PO-Revision-Date: 2021-03-04 17:21+0100\n"
+"PO-Revision-Date: 2021-03-05 20:33+0100\n"
 "Last-Translator: \n"
 "Language-Team: french\n"
 "Language: fr\n"
@@ -1568,10 +1568,10 @@ msgstr ""
 "sur les belles nymphes nocturnes. Bien que certains eurent assez "
 "d'intelligence pour partir immédiatement et retourner vers leurs maisons "
 "éclairées au lieu d'approcher ces jeunes filles d'un autre monde, ils ont "
-"souvent été capturés par, si on peut dire ainsi, les gardiennes "
-"silencieuses de la forêt. La capacité des fées, selon la rumeur, de se "
-"téléporter en ferait des ennemis redoutables en réalité, une fois combinés "
-"avec leur maitrise de l'obscure flamme des arcanes."
+"souvent été capturés par, si on peut dire ainsi, les gardiennes silencieuses "
+"de la forêt. La capacité des fées, selon la rumeur, de se téléporter en "
+"ferait des ennemis redoutables en réalité, une fois combinés avec leur "
+"maitrise de l'obscure flamme des arcanes."
 
 #. [attack]: type=arcane
 #. [event]
@@ -10267,6 +10267,8 @@ msgid ""
 "You have not unlocked all advancements for this unit yet. Continue playing "
 "the campaign to unlock more advancements."
 msgstr ""
+"Vous n'avez pas encore débloqué tous les avancements pour cette unité. "
+"Continuez à jouer la campagne pour débloquer plus d'avancements."
 
 #. [scenario]: id=08B_Destiny_part_1
 #. [part]
@@ -10578,6 +10580,9 @@ msgid ""
 "Storm Sisters. We are rather ill-prepared for such a confrontation, but "
 "there is no helping it."
 msgstr ""
+"Je crains que, tôt ou tard, nous allons devoir affronter les Soeurs de la "
+"tempête. Nous sommes plutôt mal préparés à une telle confrontation, mais il "
+"faudra faire avec."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:387
@@ -10595,21 +10600,31 @@ msgid ""
 "before battle I received reports indicating that they are roaming the skies "
 "of Kalari Central hunting down anyone suspected of rebellious conduct."
 msgstr ""
+"Les fidèles exécuteurs de Zhangor. Malheureusement, ils appartiennent à mon "
+"propre clan. Nous avions ... des idées différentes sur la manière de gérer "
+"l’accession au pouvoir de Zhangor. Ils ont choisi de se ranger à ses côtés, "
+"promettant leurs compétences d'assassin à son service afin de s'assurer que "
+"mon peuple des tempêtes et d'autres restent dans les rangs. Peu de temps "
+"avant la bataille, j'ai reçu des rapports indiquant qu'ils parcouraient les "
+"cieux du centre de Kalari traquant toute personne soupçonnée de comportement "
+"rebelle."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:397
 msgid "I imagine your head is quite highly priced right now."
-msgstr ""
+msgstr "'imagine que votre tête vaut très chère maintenant."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:402
 msgid "Yes, it is. I am expecting them to be awaiting us in the fortress keep."
 msgstr ""
+"Oui c'est le cas. Je m'attends à ce qu'ils nous attendent dans le donjon de "
+"la forteresse."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:407
 msgid "Bah, we will make short work of them, for sure!"
-msgstr ""
+msgstr "Bah, nous allons nous charger d'eux vite fait, alors!"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:439
@@ -10674,11 +10689,14 @@ msgid ""
 "You know, Anya... I think I’m finally getting used to the wolves. Granted, "
 "I’m still not keen on their awful breath."
 msgstr ""
+"Vous savez, Anya ... Je pense que je m'habitue enfin aux loups. Certes, je "
+"n’aime toujours pas leur horrible respiration."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:492
 msgid "See? It’s not all that bad once you get to know them."
 msgstr ""
+"Vous voyez? Ce n’est pas si grave une fois que vous apprenez à les connaître."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:497
@@ -10686,12 +10704,17 @@ msgid ""
 "Yes, sure. I still wish Willow would stop stalking me, especially since half "
 "of the time that goblin follows. He’s in desperate need of a bath, that guy."
 msgstr ""
+"Oui bien sûr. Je souhaite toujours que Willow arrête de me traquer, surtout "
+"depuis la moitié du temps que le gobelin suit. Il a désespérément besoin "
+"d’un bain, ce type."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:502
 msgid ""
 "To be fair, I haven’t bathed in a while either and you don’t seem to mind."
 msgstr ""
+"Pour être honnête, je ne me suis pas baigné non plus depuis un moment et "
+"cela ne vous dérange pas."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:507
@@ -10699,11 +10722,14 @@ msgid ""
 "I— That’s... I mean, that’s not the same! Be— besides, you are surely going "
 "to do it as soon as you get the chance. Unlike <i>him</i>."
 msgstr ""
+"Je - C'est ... je veux dire, ce n'est pas la même chose! Soyez ... en plus, "
+"vous allez sûrement le faire dès que vous en aurez l'occasion. Contrairement "
+"à <i>lui</i>."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:512
 msgid "You are saying that only because he’s a goblin, aren’t you?"
-msgstr ""
+msgstr "Vous dites cela uniquement parce que c'est un gobelin, n’est-ce pas?"
 
 #. [message]: speaker=General Ramzal
 #. 'Wose-born wench' referring to Elynia.
@@ -10874,12 +10900,12 @@ msgstr "Niry? Où vas-tu?"
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1240
 msgid "Who?"
-msgstr ""
+msgstr "Qui?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1245
 msgid "The water faerie! She was with us just a few moments ago!"
-msgstr ""
+msgstr "La fée de l'eau! Elle était avec nous il y a quelques instants!"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1250
@@ -10890,12 +10916,12 @@ msgstr "chasser les fées"
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1255
 msgid "Uh... Did I miss something? I don’t know who you’re talking about."
-msgstr ""
+msgstr "Euh ... J'ai raté quelque chose? Je ne sais pas qui vous parlez."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1260
 msgid "Argh, never mind! I’ll explain later."
-msgstr ""
+msgstr "Argh, tant pis! Je vous expliquerai plus tard."
 
 #. [unstore_unit]
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1397
@@ -11300,6 +11326,7 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:521
 msgid "Oh. It is you again. I thought you disappeared for good this time."
 msgstr ""
+"Oh. C'est encore toi. Je pensais que tu avais disparu pour de bon cette fois."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:538
@@ -11310,7 +11337,7 @@ msgstr "Je n'ai pas fait ça depuis un moment."
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:552
 msgid "Did you find the cake you wanted?"
-msgstr ""
+msgstr "Avez-vous trouvé le gâteau que vous vouliez?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:557
@@ -11318,11 +11345,13 @@ msgid ""
 "No... I did not. I have hardly eaten anything in weeks. My mind has just "
 "been... sort of wandering off constantly. I feel like I shouldn’t be here."
 msgstr ""
+"Non. Je n'ai presque rien mangé depuis des semaines. Mon esprit est juste en "
+"train de ... vagabonder constamment. Je sens que je ne devrais pas être ici."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:567
 msgid "You seem even more despondent than before."
-msgstr ""
+msgstr "Vous semblez encore plus découragé qu'avant."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:572
@@ -11330,11 +11359,14 @@ msgid ""
 "... This whole situation is just too overwhelming. I feel lost. Ergea is not "
 "helpful — she wants me to play a role that wasn’t meant for me."
 msgstr ""
+"... Toute cette situation est tout simplement trop accablante. Je me sens "
+"perdu. Ergea n’aide pas - elle veut que je joue un rôle qui ne m’était pas "
+"destiné."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:577
 msgid "This is about Elynia, am I correct?"
-msgstr ""
+msgstr "C'est à propos d'Elynia, est-ce que j'ai raison?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:582
@@ -11346,7 +11378,7 @@ msgstr "Que voulez-vous de nous ?"
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:587
 msgid "You feel lost without her."
-msgstr ""
+msgstr "Vous vous sentez perdu sans elle."
 
 #. [message]: speaker=Anya
 #. This line is repeated later in the scenario.
@@ -11362,11 +11394,14 @@ msgid ""
 "becoming this... thing... I became, I somehow feel even less in control of "
 "my life than I was before."
 msgstr ""
+"J'ai réfléchi à ce que tu as dit sur le destin ... Tu sais, après être "
+"devenu cette ... chose ... J'ai le sentiment d'avoir encore moins le "
+"contrôle de ma vie qu'avant."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:608
 msgid "How so, exactly?"
-msgstr ""
+msgstr "Comment, exactement?"
 
 #. [message]: speaker=Anya
 #. This is indeed meant to be reminiscent of Elyssa's thoughts in E3S8A.
@@ -11379,6 +11414,13 @@ msgid ""
 "can’t tell if it’s because of my connection to Darkness, or because I became "
 "a Guardian and now I feel this constant pain within my heart..."
 msgstr ""
+"Mes actions ont été constamment dictées par quelqu'un d'autre. Elorran, "
+"Elynia, Ergea ... Je n'ai jamais vraiment été libre, n'est-ce pas? Juste "
+"suivre constamment les ordres comme une machine, sans réfléchir. Mais tout "
+"d'un coup, je me sens obligé de tout remettre en question. Et le pire, c'est "
+"que je ne peux pas dire si c'est à cause de ma connexion avec les ténèbres, "
+"ou parce que je suis devenu une Gardienne et maintenant je ressens cette "
+"douleur constante dans mon cœur ..."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:619
@@ -11386,6 +11428,8 @@ msgid ""
 "Would that be your actual heart, or the divine instrument demonkind calls "
 "the Energy Heart?"
 msgstr ""
+"Serait-ce votre vrai cœur, ou l'instrument divin que les démons appelle le "
+"Cœur Énergétique?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:624
@@ -11403,11 +11447,19 @@ msgid ""
 "make use of it in a way that can advance your own existence towards a "
 "positive outcome."
 msgstr ""
+"Je ne peux que spéculer sur la nature et l'étendue de vos pouvoirs, mais je "
+"m'attendrais à ce que les Gardiens des Ténèbres soient mieux en contact avec "
+"la notion d'agence étant donné que leur domaine tourne autour des questions "
+"de l'esprit. Si le don que vous possédez maintenant s'accompagne d'une plus "
+"grande conscience de soi, alors c'est à vous de l'utiliser de manière à "
+"faire avancer votre propre existence vers un résultat positif."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:634
 msgid "But what if the only path forward I see involves leaving people behind?"
 msgstr ""
+"Mais que se passe-t-il si la seule voie à suivre consiste à laisser les gens "
+"derrière?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:639
@@ -11417,11 +11469,16 @@ msgid ""
 "but when we are, it is up to us to make the right one — and a Guardian’s "
 "choices carry more weight upon our reality than anyone else’s."
 msgstr ""
+"Le futur est constamment obscurci par les ténèbres, mais vous n'avez pas "
+"besoin d'avoir peur de la nature fondamentale de votre être, n'est-ce pas? "
+"Nous n’avons pas toujours le choix, mais lorsque nous le faisons, c’est à "
+"nous de faire le bon choix - et les choix d’un Gardien ont plus de poids sur "
+"notre réalité que n'importe qui d'autre."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:645
 msgid "Have you pondered the matter of destiny yet?"
-msgstr ""
+msgstr "Avez-vous déjà réfléchi à la question du destin?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:650
@@ -11435,6 +11492,8 @@ msgid ""
 "I must not have talked to you about it. My apologies. You need not worry "
 "about it for now."
 msgstr ""
+"Je n'ai pas dû vous en parler. Mes excuses. Vous n'avez pas à vous en "
+"soucier pour le moment."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:660
@@ -11445,13 +11504,13 @@ msgstr "Vous n'avez pas... répondu à ma question..."
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:665
 msgid "Xia’el does not have answers for you anymore, sadly."
-msgstr ""
+msgstr "Xia’el n’a plus de réponses pour vous, malheureusement."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:675
 msgid ""
 "Am I ever going to find out what happened to my parents after I was born?"
-msgstr ""
+msgstr "Vais-je découvrir ce qui est arrivé à mes parents après ma naissance?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:680
@@ -11460,6 +11519,9 @@ msgid ""
 "concern for your emotional state in battle, but I can finish it now if you "
 "would like."
 msgstr ""
+"En fait, oui. J'ai choisi de ne pas vous raconter toute l'histoire par souci "
+"de votre état émotionnel au combat, mais je peux la terminer maintenant si "
+"vous le souhaitez."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:685
@@ -11467,6 +11529,9 @@ msgid ""
 "What?! You knew the rest of the story but didn’t tell it to me?! I thought "
 "you said you were just a medium and you didn’t have it!"
 msgstr ""
+"Quoi?! Vous connaissiez la suite de l'histoire mais ne me l'avez pas "
+"racontée?! Je pensais que vous aviez dit que vous n'étiez qu'un médium et "
+"que vous ne saviez pas!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:690
@@ -11475,16 +11540,21 @@ msgid ""
 "whether I was able to intentionally postpone delivering a non-essential part "
 "of the answer or not. I apologize, but it had to be done."
 msgstr ""
+"J'ai dit que votre question avait déjà reçu une réponse, et c'était le cas. "
+"Je n'ai jamais précisé que j'étais en mesure de reporter intentionnellement "
+"la délivrance d'une partie non essentielle de la réponse ou non. Je "
+"m'excuse, mais il fallait le faire."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:695
 msgid "(<i>sighs</i>) I understand. And... I’m sorry for my outburst."
 msgstr ""
+"(<i>soupire</i>) Je comprends. Et ... Je suis désolé pour mon emportement."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:700
 msgid "So, let us pick up from where we left last time..."
-msgstr ""
+msgstr "Alors, reprenons là où nous en étions..."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:705
@@ -11495,6 +11565,11 @@ msgid ""
 "demonkind, a unique combination completely unheard of before. The future of "
 "the two lovers seemed bright for once."
 msgstr ""
+"Le cœur de Mintha et de l'Innommable débordait de bonheur et de but après "
+"avoir conçu un enfant qu'ils pourraient appeler le leur. La progéniture "
+"serait une nouvelle créature libre née des fées et des démons, une "
+"combinaison unique totalement inouïe auparavant. L'avenir des deux amants "
+"semblait radieux pour une fois."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:710
@@ -11739,8 +11814,8 @@ msgstr ""
 "sur leur monde, Uria a détruit d'innombrables vies sur Irdya et Urvatha. "
 "Toutefois, elle a aussi <i>crée</i> la vie en volant et assimilant la "
 "technologie crée sur Norsula aussi bien que sur l'ancienne Irdya. Les écrit "
-"disent qu'une Gardienne de la Vie ne devrait pas être capable de <i>crée</"
-"i> la vie!"
+"disent qu'une Gardienne de la Vie ne devrait pas être capable de <i>crée</i> "
+"la vie!"
 
 #. [event]
 #. This line is still Argan speaking.
@@ -11756,10 +11831,10 @@ msgid ""
 msgstr ""
 "Le fait que les Norsuans aient eu accès à une connaissance sans précédent de "
 "la biologie des gardiens a été très utile à Uria, mais elle redoute le jour "
-"prédit par l'Oracle, où “le nouveau Gardien de l'Eau va surgir et tenter "
-"de s'emparer du véritable prix de la Gardienne de la Vie”. Bien qu'Uria "
-"ait des agents sur Norsula essayant de trouver cet homme avant son éveil, "
-"cette tâche est condamnée à l'échec. "
+"prédit par l'Oracle, où “le nouveau Gardien de l'Eau va surgir et tenter de "
+"s'emparer du véritable prix de la Gardienne de la Vie”. Bien qu'Uria ait des "
+"agents sur Norsula essayant de trouver cet homme avant son éveil, cette "
+"tâche est condamnée à l'échec. "
 
 #. [event]
 #. This line is still Argan speaking.
@@ -12027,8 +12102,8 @@ msgid ""
 "You feel as though a certain other Guardian of Darkness may have missed "
 "something..."
 msgstr ""
-"Vous sentez comme si une autre Gardienne de l'Obscurité avait oublié "
-"quelque chose d'important..."
+"Vous sentez comme si une autre Gardienne de l'Obscurité avait oublié quelque "
+"chose d'important..."
 
 #. [scenario]: id=00_Opening
 #: After_the_Storm/episode3/scenarios/00_Opening.cfg:5
@@ -12272,9 +12347,9 @@ msgstr ""
 "Chère Anya,\n"
 "\n"
 "Je suis certaine que lorsque tu trouveras ce message, tu auras déjà remporté "
-"la victoire à la surface et prouvé que tu es la Gardienne de l'Obscurité "
-"sur Irdya. Je suis sure également qu'Ergea t'a révélé la destinée qui m'a "
-"été assignée par nos créateurs.\n"
+"la victoire à la surface et prouvé que tu es la Gardienne de l'Obscurité sur "
+"Irdya. Je suis sure également qu'Ergea t'a révélé la destinée qui m'a été "
+"assignée par nos créateurs.\n"
 "\n"
 "Tu dois savoir ce qu'Uria nous prépare.  Comme l'a dit Elorran, Irdya n'est "
 "pas le seul monde en danger.\n"
@@ -12300,13 +12375,13 @@ msgstr ""
 "\n"
 "Nous savons que les mondes équipés d'une Graine ne sont pas tous dotés de "
 "Gardien éveillé, pas encore. Nous savons qu'Ethea n'a peut-être pas encore "
-"sa propre Gardienne de la Vie. Mais c'est notre espoir que nous puissions "
-"la trouver avant qu'Uria elle-même n'y parvienne et ainsi avoir une chance "
-"de l'arrêter. Nous savons que le Gardien de l'Eau venant de Norsula est "
-"déjà sur place et a peut-être déjà trouvé la Graine. Notre principal "
-"objectif est de trouver la véritable héritière d'Uria sur Ethea, ainsi que "
-"le corps de l'Union. Malheureusement, nous savons peu de choses sur Ethea, "
-"et par où commencer nos recherches."
+"sa propre Gardienne de la Vie. Mais c'est notre espoir que nous puissions la "
+"trouver avant qu'Uria elle-même n'y parvienne et ainsi avoir une chance de "
+"l'arrêter. Nous savons que le Gardien de l'Eau venant de Norsula est déjà "
+"sur place et a peut-être déjà trouvé la Graine. Notre principal objectif est "
+"de trouver la véritable héritière d'Uria sur Ethea, ainsi que le corps de "
+"l'Union. Malheureusement, nous savons peu de choses sur Ethea, et par où "
+"commencer nos recherches."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/11_After_the_Storm.cfg:485
@@ -12323,8 +12398,8 @@ msgid ""
 "scorching suns and the malignant forces that broke the previous balance."
 msgstr ""
 "Rester tranquillement sur Irdya ne fera rien susceptible de prolonger notre "
-"existence. En accord avec Elyssa et la Gardienne de la Terre sur Silida, "
-"ma tache ici est achevée. Irdya est lentement revenu à la vie durant ces "
+"existence. En accord avec Elyssa et la Gardienne de la Terre sur Silida, ma "
+"tache ici est achevée. Irdya est lentement revenu à la vie durant ces "
 "quelques siècles, un fait impossible sans ma présence.\n"
 "\n"
 "J'ai vu la vie et la destruction depuis mon réveil. L'Obscurité a été très "
@@ -12381,8 +12456,8 @@ msgid ""
 "All this time, you tried to reach into me, and I would not let you in. But "
 "now it is all clear."
 msgstr ""
-"Elle le sait également parce que les Gardiennes de l'Obscurité peuvent "
-"voir à travers le voile invisible protégeant les esprits fragiles. Et tu es "
+"Elle le sait également parce que les Gardiennes de l'Obscurité peuvent voir "
+"à travers le voile invisible protégeant les esprits fragiles. Et tu es "
 "également une Gardienne de l'Obscurité— le pouvoir de pénétrer mon esprit "
 "était naturel chez toi, et tu l'as utilisé tout ce temps.\n"
 "\n"
@@ -14187,8 +14262,8 @@ msgid ""
 "On that day, the New Guardian of Life shall rise again, more powerful than "
 "before."
 msgstr ""
-"En ce jour, la nouvelle Gardienne de la Vie reviendra encore, plus "
-"puissante que jamais."
+"En ce jour, la nouvelle Gardienne de la Vie reviendra encore, plus puissante "
+"que jamais."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1749
@@ -14677,8 +14752,8 @@ msgid ""
 "put her secret plan into motion. The Second Cycle began."
 msgstr ""
 "Nos vies furent arrangées avant qu'elle ne sacrifie la sienne pour créer les "
-"Sentinelles. Elle confia à Xia'el et Uria les objets nécessaires "
-"pour mettre son plan secret en route. Le Second Cycle commença."
+"Sentinelles. Elle confia à Xia'el et Uria les objets nécessaires pour mettre "
+"son plan secret en route. Le Second Cycle commença."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3507
@@ -14849,8 +14924,8 @@ msgstr ""
 "que Yarae soit damné. Non seulement je peux lire les esprits des faibles, "
 "mais je peux aussi comprendre les désirs et les motivations des gens en "
 "règle générale. Il est possible ainsi d'anticiper leurs actions. Cette "
-"dernière partie n'est pas un pouvoir d'une Gardienne de l'Obscurité, au "
-"sens strict."
+"dernière partie n'est pas un pouvoir d'une Gardienne de l'Obscurité, au sens "
+"strict."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:548
@@ -16346,9 +16421,9 @@ msgstr ""
 "Tu t'es mêlée de mon terrain de jeu personnel dans la branche principale de "
 "notre univers; corrompant et manipulant celui qui me servait comme ma Voix "
 "sur Irdya, aussi bien que sa protégée. Qu'espérais-tu accomplir ainsi? De "
-"contourner notre pacte en utilisant la Gardienne de la Terre sur Irdya "
-"comme pion de ton  prochain mouvement? Croyais-tu vraiment que je ne "
-"l'apprendrais jamais?"
+"contourner notre pacte en utilisant la Gardienne de la Terre sur Irdya comme "
+"pion de ton  prochain mouvement? Croyais-tu vraiment que je ne l'apprendrais "
+"jamais?"
 
 #. [message]: speaker=Aradellys
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:497
@@ -16420,9 +16495,9 @@ msgid ""
 msgstr ""
 "Ton insolence ne peut rester impunie. Même si je savais depuis le début que "
 "les choses en viendraient là... je ne puis te laisser interférer avec mes "
-"plans plus longtemps. Tu as une piètre excuse comme Gardienne de la Terre "
-"et ce n'est même pas ton véritable domaine. La vraie Gardienne de la Terre "
-"est éveillé, donc ton rôle dans cet univers a été rempli."
+"plans plus longtemps. Tu as une piètre excuse comme Gardienne de la Terre et "
+"ce n'est même pas ton véritable domaine. La vraie Gardienne de la Terre est "
+"éveillé, donc ton rôle dans cet univers a été rempli."
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/13_Epilogue.cfg:550
@@ -17960,8 +18035,8 @@ msgstr ""
 "l'Union, pour commencer; alors ce sera la Graine de la Vie, et la personne "
 "désignée par les déesses comme la véritable héritière de l'Aspect de la Vie, "
 "s’il y en a une. Mais Uria n'est pas la seule dans cette quête, puisque le "
-"nouveau Gardien de l'Eau a aussi ses plans avec Ethea. En fait, il est "
-"déjà sur place."
+"nouveau Gardien de l'Eau a aussi ses plans avec Ethea. En fait, il est déjà "
+"sur place."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:1641
@@ -19601,8 +19676,8 @@ msgid ""
 "I asked the question first. I was told Gatekeepers are not sentient "
 "creatures."
 msgstr ""
-"J'ai posé la question en premier. J'ai entendu que les Sentinelles ne sont pas "
-"des créatures sensibles."
+"J'ai posé la question en premier. J'ai entendu que les Sentinelles ne sont "
+"pas des créatures sensibles."
 
 #. [message]: speaker=Ethealim
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1498
@@ -19705,8 +19780,8 @@ msgid ""
 "Tearing souls apart is what a corrupted Guardian of Life does best. But... "
 "can <i>you</i> escape her influence?"
 msgstr ""
-"Déchirer une âme est-ce qu'une Gardienne de la Vie corrompue fait de "
-"mieux. Mais... peux-tu échapper à son influence?"
+"Déchirer une âme est-ce qu'une Gardienne de la Vie corrompue fait de mieux. "
+"Mais... peux-tu échapper à son influence?"
 
 #. [message]: speaker=Ethealim
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1634
@@ -19814,8 +19889,8 @@ msgid ""
 "Not really. There was only one Gatekeeper and I was prepared to perform many "
 "more soul bind spells tonight."
 msgstr ""
-"Pas vraiment. C'était seulement une Sentinelle et je voudrais réaliser le sort "
-"d'âmes liés quelques fois de plus."
+"Pas vraiment. C'était seulement une Sentinelle et je voudrais réaliser le "
+"sort d'âmes liés quelques fois de plus."
 
 #. [message]: speaker=Halbadrel
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1993
@@ -20182,8 +20257,8 @@ msgid ""
 "Void, Mistress of the Void, Goddess of Life."
 msgstr ""
 "La force qui gouverne la naissance de toute créature dans notre réalité. "
-"Incarné par la Gardienne de la Vie, aussi connue comme Uria, Gardienne "
-"de l'Héritage et du Vide, Maîtresse du Vide, déesse de la Vie."
+"Incarné par la Gardienne de la Vie, aussi connue comme Uria, Gardienne de "
+"l'Héritage et du Vide, Maîtresse du Vide, déesse de la Vie."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2582
@@ -20198,9 +20273,9 @@ msgid ""
 "as Valdir, Guardian of Water and Destruction, the Beast, God of War."
 msgstr ""
 "L'élément commun à l'origine de toute vie dans notre réalité, aussi bien "
-"dans son soutien que dans sa destruction. Incarné par le Gardien de "
-"l'Eau, aussi connu comme Valdir, Gardien de l'Eau et de la Destruction, "
-"la Bête, Dieu de la Guerre."
+"dans son soutien que dans sa destruction. Incarné par le Gardien de l'Eau, "
+"aussi connu comme Valdir, Gardien de l'Eau et de la Destruction, la Bête, "
+"Dieu de la Guerre."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2587
@@ -20296,8 +20371,8 @@ msgid ""
 msgstr ""
 "L'aspect de la continuité de laquelle jaillit la vie, le successeur et le "
 "précurseur des ténèbres dans une réalité non préparé pour sa fin. Incarnée "
-"par la Gardienne de la Lumière, aussi connue comme Luceith'el, Gardienne "
-"de la Lumière et du Métal, Etoile du Matin, Guérisseuse des Ames."
+"par la Gardienne de la Lumière, aussi connue comme Luceith'el, Gardienne de "
+"la Lumière et du Métal, Etoile du Matin, Guérisseuse des Ames."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2612
@@ -20314,8 +20389,8 @@ msgid ""
 msgstr ""
 "L'aspect du baiser qui insufla la vie, le souffle qui préserve la vie dans "
 "une réalité en décadence. Incarné par le Gardienne de l'Air, aussi connue "
-"comme Kazith, Gardienne de l'Air et du Souffle, Dame des Cieux, Messagère "
-"de l'Ether."
+"comme Kazith, Gardienne de l'Air et du Souffle, Dame des Cieux, Messagère de "
+"l'Ether."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2618
@@ -20408,8 +20483,7 @@ msgstr ""
 "Vie dans un rôle de support, balisant la voie pour la création.\n"
 "\n"
 "Toutes les créatures féeriques ont été crées à l'image de la première "
-"Gardienne de la Terre, chargée de régner sur Irdya durant le Premier "
-"Cycle.\n"
+"Gardienne de la Terre, chargée de régner sur Irdya durant le Premier Cycle.\n"
 "\n"
 "Certaines sources prétendent que les êtres féeriques étaient à l'origine "
 "incorporelles et peu nombreuses jusqu'à l'ascension de Xia'el, une femme soi-"
@@ -20457,12 +20531,12 @@ msgstr ""
 "Toutefois, comme ils se complètent mutuellement, ils peuvents échanger leur "
 "rôles suivant les circonstances.\n"
 "\n"
-"Merthiaal, la Gardienne de l'Obscurité sur Yrathid fut la dernière "
-"Gardienne née durant le Premier Cycle, et en même temps, la première à "
-"périr. Bien que la guerre de Yarae n'avait pas encore débuté, il eut un rôle "
-"indirect dans la déchéance de Merthiaal. Les émotions de la jeune "
-"Gardienne brouillèrent sa raison; la jalousie consumma son coeur en voyant "
-"la préférence de Yarae pour ses soeurs Uria et Xia'el.\n"
+"Merthiaal, la Gardienne de l'Obscurité sur Yrathid fut la dernière Gardienne "
+"née durant le Premier Cycle, et en même temps, la première à périr. Bien que "
+"la guerre de Yarae n'avait pas encore débuté, il eut un rôle indirect dans "
+"la déchéance de Merthiaal. Les émotions de la jeune Gardienne brouillèrent "
+"sa raison; la jalousie consumma son coeur en voyant la préférence de Yarae "
+"pour ses soeurs Uria et Xia'el.\n"
 "\n"
 "Dans une tentative désespérée de prouver sa valeur à Yarae et même de "
 "surpasser sa puissance , elle s'attaqua à la graîne de son monde et tenta "
@@ -20786,9 +20860,9 @@ msgstr ""
 "Vous ne vous souciez pas d'eux car ils sont absolument inoffensif envers "
 "ceux qu'ils reconnaissent comme un des leurs, ou plus précisément, émettant "
 "le signal d'identification spécifique à leur corps biomécanique. "
-"Contrairement à la Sentinelle que vous venez de détruire, vous êtes absolument "
-"certaine que ces êtres artificiels n'ont pas d'âmes . Qu'ils aient une "
-"intelligence ou pas est une toute autre question, cependant."
+"Contrairement à la Sentinelle que vous venez de détruire, vous êtes "
+"absolument certaine que ces êtres artificiels n'ont pas d'âmes . Qu'ils "
+"aient une intelligence ou pas est une toute autre question, cependant."
 
 #. [message]: speaker=Argan
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3136
@@ -21744,8 +21818,8 @@ msgid ""
 "now? Have you not become accustomed to it over the course of your pathetic "
 "lives?"
 msgstr ""
-"Qu'est-ce donc Gardiennes? Craignez-vous de tuer vos proches maintenant? "
-"Ne vous êtes vous pas habitué à ça durant votre vie."
+"Qu'est-ce donc Gardiennes? Craignez-vous de tuer vos proches maintenant? Ne "
+"vous êtes vous pas habitué à ça durant votre vie."
 
 #. [case]
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:2595
@@ -25830,8 +25904,7 @@ msgstr "Bien..."
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:997
 msgid "But still not sufficient to defeat a Guardian of Darkness, my dear."
 msgstr ""
-"Mais toujours insuffisant pour vaincre une Gardienne de l'Obscurité, "
-"chérie."
+"Mais toujours insuffisant pour vaincre une Gardienne de l'Obscurité, chérie."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:1022
@@ -26180,8 +26253,8 @@ msgstr ""
 "arrivé depuis que Galas et Mal Keshar m'ont réveillé?\n"
 "\n"
 "J'ai toujours été sceptique là-dessus,mais le peu d'information récupéré "
-"suggère que la Gardienne souvent appelée Eloh est aussi réelle  qu'Uria, "
-"ou du moins elle devrait l'être. Mais si elle est en vie, pourquoi ne nous a "
+"suggère que la Gardienne souvent appelée Eloh est aussi réelle  qu'Uria, ou "
+"du moins elle devrait l'être. Mais si elle est en vie, pourquoi ne nous a "
 "elle pas aidées? Il est évident que nous n'avons pas reçu la grâce de son "
 "pouvoir divin depuis le début de notre existence. Les elfes du Grand "
 "Continent ont affronté tellement de malheurs durant leur histoire, "
@@ -26473,8 +26546,8 @@ msgstr ""
 "belliqueuse qu'était le Gardien de l'Eau, et non à la femme dont le chant "
 "contait une existence pacifique sur une terre éclairée qui ne serait jamais. "
 "Le destin de leur domaine commun fut lié par l'équilibre délicat de leur "
-"relation amour-haine; et auquel le Gardien de l'Eau mit un terme en "
-"perçant le coeur de la Gardienne de la Flamme avec sa mâchoire.\n"
+"relation amour-haine; et auquel le Gardien de l'Eau mit un terme en perçant "
+"le coeur de la Gardienne de la Flamme avec sa mâchoire.\n"
 "\n"
 "Vers la même époque, une Gardienne de l'Obscurité immature allait devenir "
 "inexplicablement jalouse du favoritisme de Yarae envers ses soeurs de la "
@@ -26518,9 +26591,9 @@ msgstr ""
 "Les Premiers Dieux restants ne virent d'autres options que de se sacrifier "
 "pour crée une entité qui rivaliserait avec le traître et ses créations "
 "corrompues: Iluvia,l'Avatar de l'Union de la Lumière et de l'Obscurité. Elle "
-"allait obtenir le soutien des trois Gardiennes restées fidèles aux "
-"Premiers Dieux et à leur projet: Uria, de la Vie, sa soeur de la Terre et de "
-"la Flamme des Arcanes, et sa soeur de l'Existence et des Secrets.\n"
+"allait obtenir le soutien des trois Gardiennes restées fidèles aux Premiers "
+"Dieux et à leur projet: Uria, de la Vie, sa soeur de la Terre et de la "
+"Flamme des Arcanes, et sa soeur de l'Existence et des Secrets.\n"
 "\n"
 "En combinant leurs forces, elles vainquirent Yarae et l'emprisonnèrent dans "
 "le Grand Vide. Hélas le prix était trop élevé: tous les autres gardiens "
@@ -26616,8 +26689,8 @@ msgid ""
 "And it is with Iluvia’s legacy that our new Guardian of Life intends to put "
 "an end to the fruitless existence to which we were doomed."
 msgstr ""
-"Et c'est avec l'héritage d'Illuvia que notre nouvelle Gardienne de la Vie "
-"a l'intention d'en finir avec l'existence futile à laquelle nous sommes "
+"Et c'est avec l'héritage d'Illuvia que notre nouvelle Gardienne de la Vie a "
+"l'intention d'en finir avec l'existence futile à laquelle nous sommes "
 "condamnés."
 
 #. [part]
@@ -31539,7 +31612,8 @@ msgstr ""
 "l'étendue de son pouvoir. Il y a bien longtemps, un groupe de sorciers "
 "humains l'a créé et a tué la Sentinelle d'Irdya, celui qui était chargé de "
 "garder l'entrée d'Inferno. Cette catastrophe et la disparition inexpliquée "
-"de la Sentinelle d'Inferno de l'autre côté a exposé ce monde à l'attention d'Uria."
+"de la Sentinelle d'Inferno de l'autre côté a exposé ce monde à l'attention "
+"d'Uria."
 
 #. [message]: speaker=Elorran
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:914
