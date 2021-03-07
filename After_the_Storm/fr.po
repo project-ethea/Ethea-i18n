@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: After_the_Storm-1.10\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-15 03:59 UTC\n"
-"PO-Revision-Date: 2020-05-03 15:46+0100\n"
+"PO-Revision-Date: 2021-03-05 20:33+0100\n"
 "Last-Translator: \n"
 "Language-Team: french\n"
 "Language: fr\n"
@@ -62,7 +62,7 @@ msgid ""
 "This combination is symmetric, and the attacks involved may be used in any "
 "order."
 msgstr ""
-"Cette combinaison est assymétrique, et les attaques impliqués peuvent être "
+"Cette combinaison est symétrique, et les attaques impliqués peuvent être "
 "utilisées dans n'importe quelle ordre."
 
 #. [lua]: preshow
@@ -80,12 +80,15 @@ msgid ""
 "dazed: This unit is dazed. It suffers a -10% penalty to both its defense and "
 "chance to hit (except for magical attacks)."
 msgstr ""
+"hébété: Cette unité est étourdie. Elle subit une pénalité de -10% à la fois "
+"pour sa défense et ses chances de toucher (sauf pour les attaques magiques)."
 
 #: After_the_Storm/lua/theme.lua:23
 msgid ""
 "absconding: This unit made use of its absconding ability during its previous "
 "turn."
 msgstr ""
+"fuite: cette unité a utilisé sa capacité de fuite lors de son tour précédent."
 
 #: After_the_Storm/lua/theme.lua:33
 msgid ""
@@ -97,7 +100,7 @@ msgstr ""
 #. [lua]: apply_seismic_status
 #: After_the_Storm/lua/After_the_Storm.lua:694
 msgid "seism"
-msgstr ""
+msgstr "séisme"
 
 #. [unit_type]: id=Giant Mushroom, race=monster, description=FIXME
 #: After_the_Storm/units/monsters/Giant_Mushroom.cfg:5
@@ -251,7 +254,7 @@ msgstr "Messager de la mort"
 #. [attack]: type=impact
 #: After_the_Storm/units/shaxthal/Shaxthal_Deathbringer.cfg:44
 msgid "concussion beam"
-msgstr ""
+msgstr "faisceau de commotion cérébrale"
 
 #. [unit_type]: id=Shaxthal Demolisher Drone, race=shaxthal, description=TODO
 #: After_the_Storm/units/shaxthal/Drone_Demolisher.cfg:6
@@ -498,9 +501,8 @@ msgstr "zéphyr éthéré"
 
 #. [unit_type]: id=Elvish Spellbinder, race=elf, description={SPECIAL_NOTES}+{SPECIAL_NOTES_MAGICAL}+{SPECIAL_NOTES_ARCANE}+{SPECIAL_NOTES_SLOW}
 #: After_the_Storm/units/elves-wood/Spellbinder.cfg:6
-#, fuzzy
 msgid "female^Elvish Spellbinder"
-msgstr "Enseignante Elfe"
+msgstr "Spellbinder elfe"
 
 #. [unit_type]: id=Elvish Wayfarer, race=elf
 #: After_the_Storm/units/elves-wood/Wayfarer.cfg:5
@@ -698,17 +700,25 @@ msgid ""
 "between worlds and seek to amplify it using the souls of Irdya’s people as "
 "sacrifice."
 msgstr ""
+"Bien que l’histoire de la guerre de Wesmere ne soit connue que de quelques "
+"elfes de nos jours, il y a encore moins de gens qui connaissent les "
+"véritables origines de Zhangor. Les quelques archives restantes de son règne "
+"à Urvatha parlent de ses réalisations en tant que seigneur de guerre "
+"implacable qui a conduit son peuple dans un massacre aux proportions sans "
+"précédent, scellant le sort des métamorphes pour le reste de l'éternité. "
+"Certaines sources affirment que c'est cette défaite - sa plus honteuse "
+"défaite - qui l'a conduit à prendre le pouvoir de la mythique sentinelle "
+"entre les mondes et à chercher à l'amplifier en utilisant les âmes du peuple "
+"d'Irdya comme sacrifice."
 
 #: After_the_Storm/units/demons/angel-of-blood/30_nightmare.cfg:14
-#, fuzzy
 msgid "Crimson Nightmare"
-msgstr "cauchemar primal"
+msgstr "Crimson Nightmare"
 
 #. [dummy]: id=aspect_of_existence
 #: After_the_Storm/units/demons/angel-of-blood/30_nightmare.cfg:30
-#, fuzzy
 msgid "aspect of existence"
-msgstr "aspect de la vie"
+msgstr "aspect de l'existence"
 
 #. [dummy]: id=aspect_of_existence
 #. This description is intentionally corrupted.
@@ -717,7 +727,6 @@ msgstr "aspect de la vie"
 #. with glitched or missing characters and sequences. It is also
 #. intentionally misleading.
 #: After_the_Storm/units/demons/angel-of-blood/30_nightmare.cfg:36
-#, fuzzy
 msgid ""
 "This →nit is a Guardian of the Aspect of Exist nce.\n"
 "\n"
@@ -731,64 +740,61 @@ msgid ""
 " • Immortality (can only be kill±ªific units)°™¡End\n"
 " Scenario␀"
 msgstr ""
-"Cette unité est une Gardienne de l'Obscurité.\n"
+"Cette → nité est un Gardien de l'Aspect de l'Existence.\n"
 "\n"
-"De fait, elle a accès aux capacités suivantes:\n"
-"\n"
-" • Assombrissement: +25 de bonus chaotique sur les localisations adjacentes\n"
-" • Régénération (+8 HP par tour)\n"
-" • Immortalité (ne peut être tué que par certaines unités)\n"
-" • Le calcul des XP en combat est délibérément calculé comme si l'adversaire "
-"était de niveau 0"
+"Comme t ↑ il peut \n"
+"s accès t ‘g ¢ G & objectifs suivants ¢ ® ~ ©> span color = '\n"
+"Vaincre le seigneur démon Zhangor\n"
+"¥ Ŋ \n"
+"  Ë Ł\n"
+"   ª\n"
+"  • Régénération (+999 HP par tour) ␊\n"
+"  • Immortalité (ne peut être tué que ± unités spécifiques) ° ™ ¡Fin\n"
+"  Scénario␀"
 
 #. [attack]: type=impact
 #: After_the_Storm/units/demons/angel-of-blood/30_nightmare.cfg:75
 msgid "nightmare grasp"
-msgstr ""
+msgstr "étreinte cauchemardesque"
 
 #. [attack]: type=arcane
 #: After_the_Storm/units/demons/angel-of-blood/30_nightmare.cfg:139
 msgid "gaze of the abyss"
-msgstr ""
+msgstr "regard de l'abîme"
 
 #. [attack]: type=arcane
 #: After_the_Storm/units/demons/angel-of-blood/30_nightmare.cfg:173
-#, fuzzy
 msgid "blood rain"
-msgstr "Diablotin sanguinaire"
+msgstr "pluie de sang"
 
 #. [attack]: type=impact
 #: After_the_Storm/units/demons/angel-of-blood/30_nightmare.cfg:209
 msgid "bloat meteor"
-msgstr ""
+msgstr "puissant météore"
 
 #. [attack]: type=arcane
 #: After_the_Storm/units/demons/angel-of-blood/30_nightmare.cfg:245
-#, fuzzy
 msgid "core burst"
-msgstr "rafale énergétique"
+msgstr "salve de noyau"
 
 #. [variation]
 #: After_the_Storm/units/demons/angel-of-blood/30_nightmare.cfg:375
-#, fuzzy
 msgid "Hellbound Scourge"
-msgstr "Chien de l'Enfer"
+msgstr "Fléau de l'enfer"
 
 #. [variation]
 #: After_the_Storm/units/demons/angel-of-blood/30_nightmare.cfg:404
-#, fuzzy
 msgid "Elvish Prophet"
-msgstr "Patrouilleur Elfe"
+msgstr "Prophète elfique"
 
 #. [variation]
 #: After_the_Storm/units/demons/angel-of-blood/30_nightmare.cfg:433
 msgid "Crimson Tide"
-msgstr ""
+msgstr "Marée Rouge"
 
 #: After_the_Storm/units/demons/angel-of-blood/20_gatekeeper.cfg:8
-#, fuzzy
 msgid "Gatekeeper of Blood"
-msgstr "Ange du Sang"
+msgstr "Sentinelle du sang"
 
 #. [unit_type]: id=Demon Stormtide, race=demon
 #: After_the_Storm/units/demons/Storm_Stormtide.cfg:6
@@ -997,7 +1003,7 @@ msgstr "tempête infernale"
 #. [unit_type]: id=Gatekeeper, race=demon
 #: After_the_Storm/units/demons/Gatekeeper.cfg:6
 msgid "female^Gatekeeper"
-msgstr "Gardienne de la brèche"
+msgstr "Sentinelle"
 
 #. [unit_type]: id=Demon Shapeshifter, race=demon
 #: After_the_Storm/units/demons/Shapeshifter.cfg:6
@@ -1120,7 +1126,7 @@ msgstr ""
 #. [attack]: type=impact
 #: After_the_Storm/units/demons/Storm_Slashing_Gale.cfg:47
 msgid "wind crush"
-msgstr ""
+msgstr "coup de vent"
 
 #. [attack]: type=arcane
 #: After_the_Storm/units/demons/Storm_Slashing_Gale.cfg:59
@@ -1442,14 +1448,13 @@ msgstr "épée enflammée"
 
 #. [attack]: type=impact
 #: After_the_Storm/units/faeries/Naiad.cfg:49
-#, fuzzy
 msgid "naia touch"
-msgstr "toucher sacrée"
+msgstr "toucher de naia"
 
 #. [attack]: type=impact
 #: After_the_Storm/units/faeries/Naiad.cfg:62
 msgid "tidal wave"
-msgstr ""
+msgstr "raz de marée"
 
 #. [unit_type]: id=Night Nymph, race=faerie
 #: After_the_Storm/units/faeries/Dark_Night_Nymph.cfg:5
@@ -1608,25 +1613,23 @@ msgstr ""
 
 #. [unit_type]: id=Arcane Apostate, race=faerie, description=placeholder for the story of shardia and the oread
 #: After_the_Storm/units/faeries/Oread_Arcane_Apostate.cfg:5
-#, fuzzy
 msgid "female^Arcane Apostate"
-msgstr "Avatar Féérique"
+msgstr "Apostat arcanique"
 
 #. [attack]: type=impact
 #: After_the_Storm/units/faeries/Oread_Arcane_Apostate.cfg:30
 msgid "cataclysm"
-msgstr ""
+msgstr "cataclysme"
 
 #. [attack]
 #: After_the_Storm/units/faeries/Oread_Arcane_Apostate.cfg:44
 msgid "absorption"
-msgstr ""
+msgstr "absorption"
 
 #. [attack]
 #: After_the_Storm/units/faeries/Oread_Arcane_Apostate.cfg:49
-#, fuzzy
 msgid "reflection"
-msgstr "Protection"
+msgstr "réflexion"
 
 #. [attack]
 #: After_the_Storm/units/faeries/Oread_Arcane_Apostate.cfg:54
@@ -1736,7 +1739,6 @@ msgstr "Archère Quenoth"
 
 #. [female]
 #: After_the_Storm/units/elves-quenoth/Marskman_Kyara.cfg:8
-#, fuzzy
 msgid "female^Quenoth Marskman"
 msgstr "Tireuse d'élite Quenoth"
 
@@ -2155,9 +2157,8 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:368
-#, fuzzy
 msgid "We have failed... H— how? *Ugh*"
-msgstr "Et c'est ainsi que nous avons échoué. Mais pourquoi ? *Argh*"
+msgstr "Nous avons échoué ... Co - comment? *Argh"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/11_Return_to_Wesmere_part_1.cfg:380
@@ -2872,7 +2873,7 @@ msgstr ""
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:857
 msgid "But my lady, how? None of this is your fault..."
-msgstr ""
+msgstr "Mais ma dame, comment? Rien de tout cela n'est de votre faute ..."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:862
@@ -2936,7 +2937,7 @@ msgstr "Ce sera mon travail de la localiser."
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:912
 msgid "Then... I suppose this is where it ends."
-msgstr ""
+msgstr "Alors ... je suppose que c'est là que ça se termine."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:917
@@ -2944,6 +2945,8 @@ msgid ""
 "Are you really sure about this, Igor? I thought you would prefer to live "
 "among your people in the west instead."
 msgstr ""
+"En êtes-vous vraiment sûr, Igor? Je pensais que vous préféreriez vivre parmi "
+"vôtre peuple dans l'ouest à la place."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:922
@@ -2953,6 +2956,11 @@ msgid ""
 "still bad at guarding the land from invaders from the south. No, I think I’m "
 "done being village goblin. I’m gonna become city goblin now!"
 msgstr ""
+"Je veux dire, oui, être avec des gobelins, c'est génial! Mais j'ai peur "
+"après ce qui s'est passé - vous savez, tout ce truc du Chaos? Et il semble "
+"que les chefs orcs sont toujours mauvais pour protéger la terre des "
+"envahisseurs du sud. Non, je pense avoir fini d’être gobelin de village. Je "
+"vais devenir le gobelin de ville maintenant!"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:927
@@ -2960,16 +2968,20 @@ msgid ""
 "Hmph. How would a filthy runt like you survive the perils of civilization, I "
 "wonder."
 msgstr ""
+"Hmph. Comment un sale crétin comme toi survivrait-il aux périls de la "
+"civilisation, je me demande."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:932
 msgid "Hey, I can do artsy stuff! Haven’t you heard me sing before? Ahem—"
 msgstr ""
+"Hé, je peux faire des trucs artistiques! Vous ne m'avez pas entendu chanter "
+"avant? Ahem—"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:937
 msgid "If I have to listen to that again, I swear to the Dark Gods—"
-msgstr ""
+msgstr "Si je dois réécouter cela, je jure devant les Seigneurs des Ténèbres—"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:942
@@ -2980,21 +2992,27 @@ msgid ""
 "us when I say we are deeply grateful for your help and support, even through "
 "the most nightmarish of circumstances."
 msgstr ""
+"Ce fut un long voyage pour vous, et nous ne pouvons certainement pas vous "
+"forcer à rester dans les parages compte tenu de tous les dangers qui nous "
+"attendent ensuite. J'espère juste que nous nous reverrons un jour. Je pense "
+"que je parle au nom de nous trois lorsque je dis que nous sommes "
+"profondément reconnaissants de votre aide et de votre soutien, même dans les "
+"circonstances les plus cauchemardesques."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:947
 msgid "We will miss you greatly. Best of luck, my friend."
-msgstr ""
+msgstr "Vous nous manquerez beaucoup. Bonne chance, mon ami."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:952
 msgid "Awww, you guys, I’m tearing up... I will miss you too!"
-msgstr ""
+msgstr "Awww, vous les gars, je me sens déchiré... vous me manquerez aussi!"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:957
 msgid "Can we just... please. Let us move on already."
-msgstr ""
+msgstr "Pouvons-nous juste ... s'il vous plaît. Passons à la suite maintenant."
 
 #. [scenario]: id=12_The_Queen, race=orc, type=Shaxthal Drone
 #: After_the_Storm/episode1/scenarios/12_The_Queen.cfg:5
@@ -4943,6 +4961,8 @@ msgid ""
 "There is someone else coming with us as well. I am sure you will tolerate "
 "his presence here."
 msgstr ""
+"Il y a aussi quelqu'un d'autre qui vient avec nous. Je suis sûr que vous "
+"tolérerez sa présence ici."
 
 #. [message]: speaker=Morzey
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:498
@@ -4956,6 +4976,9 @@ msgid ""
 "Ugh, a goblin? Riding a wolf? You cannot be serious! Your kind is not "
 "welcome around these parts after the poultry farmers’ guild incident."
 msgstr ""
+"Ugh, un gobelin? Montant un loup? Vous ne pouvez pas être sérieux! Votre "
+"race n’est pas la bienvenue dans ces régions après l’incident de la guilde "
+"des aviculteurs."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:523
@@ -4964,6 +4987,9 @@ msgid ""
 "Willow is also a very well behaved lady, you aren’t even gonna notice her "
 "presence."
 msgstr ""
+"Non, non, non! Je veux dire aucun mal! Je passe juste avec mes amis, c’est "
+"tout! Willow est aussi une dame très bien élevée, vous ne remarquerez même "
+"pas sa présence."
 
 #. [message]: role=guard_6
 #: After_the_Storm/episode1/scenarios/01_The_Skirmish.cfg:536
@@ -5861,21 +5887,27 @@ msgid ""
 "nearby tree, but by the time you approach it she has seemingly vanished. In "
 "the hurry to return to the fray you almost slip on a puddle."
 msgstr ""
+"L'eau de la fontaine déborde d'une énergie inhabituelle. \n"
+"\n"
+"Vous apercevez une fée d'apparence étrange qui vous observe de derrière un "
+"arbre à proximité, mais au moment où vous vous en approchez, elle a "
+"apparemment disparu. Dans la hâte de retourner à la mêlée, vous glissez "
+"presque sur une flaque d'eau."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1325
 msgid "The fountain’s water continues to overflow with an unusual energy."
-msgstr ""
+msgstr "L’eau de la fontaine continue de déborder d’une énergie inhabituelle."
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1349
 msgid "(<i>jumps in</i>) Wheeeeeeee!!!"
-msgstr ""
+msgstr "(<i> saute </i>) Wheeeeeeee !!!"
 
 #. [transient_message]
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1398
 msgid "Shimmering Fountain"
-msgstr ""
+msgstr "Fontaine scintillante"
 
 #. [transient_message]
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1401
@@ -5883,6 +5915,8 @@ msgid ""
 "The Naiad’s spell blesses anyone who takes a swim in the water of this "
 "fountain with newfound vim and courage."
 msgstr ""
+"Le sortilège de la Naïade bénit quiconque nage dans l’eau de cette fontaine "
+"avec une vigueur et un courage renouvelé."
 
 #. [unit]: type=Orcish Warrior, id=Vitork
 #: After_the_Storm/episode1/scenarios/05_Bay_of_Tirigaz.cfg:1428
@@ -6147,6 +6181,8 @@ msgid ""
 "Honestly, with your fearsome steed you should be more than able to reach "
 "your destination without us, Igor."
 msgstr ""
+"Honnêtement, avec votre redoutable monture, vous devriez être plus que "
+"capable d'atteindre votre destination sans nous, Igor."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:422
@@ -6155,6 +6191,9 @@ msgid ""
 "smelly skeletons alone! I don’t wanna become one of them zombies while I’m "
 "still young!"
 msgstr ""
+"Vous plaisantez, non? Il est impossible que nous puissions surmonter seuls "
+"tous les squelettes malodorants! Je ne veux pas devenir l’un de ces zombies "
+"tant que je suis encore jeune!"
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:427
@@ -6162,11 +6201,13 @@ msgid ""
 "<i>(snicker)</i> I could arrange for you to become a more dignified skeleton "
 "warrior if you prefer..."
 msgstr ""
+"<i>(ricanement)</i> Je pourrais faire en sorte que vous deveniez un guerrier "
+"squelette plus digne si vous préférez ..."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:432
 msgid "Eeek!!! No!!!"
-msgstr ""
+msgstr "Eeek !!! Non!!!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:437
@@ -6180,11 +6221,15 @@ msgid ""
 "Fiiiiine. <small>Someone needs a sense of humor... <i>mutter mutter</i>...</"
 "small>"
 msgstr ""
+"Bieeen. <small>Quelqu'un a besoin d'un sens de l'humour ... <i> murmure </"
+"i> ...</small>"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:447
 msgid "The ears aren’t just for show, you know. We <i>can</i> hear you."
 msgstr ""
+"Les oreilles ne sont pas juste pour faire joli, vous savez. Nous <i>pouvons</"
+"i> vous entendre."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:456
@@ -8612,6 +8657,11 @@ msgid ""
 "You can learn more about those by right-clicking applicable units and "
 "choosing the <b>Unit Advancements</b> option."
 msgstr ""
+"Certaines unités de haut niveau de cette campagne sous votre contrôle, "
+"telles que Galas et Elynia, ont des <b> Avancements de niveau maximum (AMLA) "
+"</b> spéciaux. Vous pouvez en savoir plus à ce sujet en cliquant avec le "
+"bouton droit sur les unités applicables et en choisissant l'option <b> "
+"Avancements de l'unité </b>."
 
 #. [campaign]: id=After_the_Storm_I
 #: After_the_Storm/episode1/menu.cfg:7
@@ -8737,8 +8787,9 @@ msgstr "Hélas, c'est la fin de l'histoire pour moi..."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/deaths.cfg:110
+#, fuzzy
 msgid "Hm. Oh well, waste not, want not."
-msgstr ""
+msgstr "Hm. Eh bien, ne gaspillez pas, ne voulez pas."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/deaths.cfg:115
@@ -8752,23 +8803,30 @@ msgid ""
 "All right, all right! But you probably want to dispose of the body quickly "
 "before his stench alone kills you. The little pest hasn’t bathed in weeks."
 msgstr ""
+"Très bien, très bien! Mais vous voudrez probablement vous débarrasser "
+"rapidement du corps avant que sa puanteur ne vous tue à elle seule. Le petit "
+"ravageur ne s'est pas baigné depuis des semaines."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/deaths.cfg:125
 msgid ""
 "That would be your fault for stalking him whenever he wasn’t with us two."
 msgstr ""
+"Ce serait de votre faute à force de le traquer chaque fois qu’il n’était pas "
+"avec l'un de nous deux."
 
 #. [message]: speaker=Mal Keshar
 #. Yes, he starts quoting Shakespeare before being interrupted.
 #: After_the_Storm/episode1/deaths.cfg:132
 msgid "Alas, poor Igor! <i>(conjures dark magic)</i> I knew him, Elynia—"
 msgstr ""
+"Hélas, pauvre Igor! <i>(Invoque la magie noire)</i> Je le connaissais, "
+"Elynia-"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/deaths.cfg:137
 msgid "Leave his body alone!!!"
-msgstr ""
+msgstr "Laissez son corps tranquille!!!"
 
 #. [message]: speaker=unit
 #: After_the_Storm/episode1/deaths.cfg:152
@@ -8845,7 +8903,7 @@ msgstr ""
 #. [dummy]: id=abattoir
 #: After_the_Storm/macros/amla-final.cfg:94
 msgid "abattoir"
-msgstr ""
+msgstr "abattoir"
 
 #. [dummy]: id=abattoir
 #: After_the_Storm/macros/amla-final.cfg:95
@@ -8856,11 +8914,18 @@ msgid ""
 "\n"
 "Note: Other units may be exempt from the effects of this weapon special."
 msgstr ""
+"À chaque coup, cette attaque inflige 50% de dégâts à toutes les unités "
+"ennemies non chefs adjacentes à la cible. Le montant exact des dégâts "
+"infligés variera pour chaque unité affectée en fonction de leurs "
+"résistances.\n"
+"\n"
+"Remarque: d'autres unités peuvent être exemptées des effets de cette arme "
+"spéciale."
 
 #. [dummy]: id=shockwave
 #: After_the_Storm/macros/amla-final.cfg:234
 msgid "shockwave"
-msgstr ""
+msgstr "onde de choc"
 
 #. [dummy]: id=shockwave
 #: After_the_Storm/macros/amla-final.cfg:235
@@ -8871,11 +8936,18 @@ msgid ""
 "\n"
 "Note: Other units may be exempt from the effects of this weapon special."
 msgstr ""
+"À chaque coup, cette attaque inflige 25% de dégâts à toutes les unités "
+"ennemies non chefs adjacentes à l'attaquant. Le montant exact des dégâts "
+"infligés variera pour chaque unité affectée en fonction de leurs "
+"résistances.\n"
+"\n"
+"Remarque: certaines unités peuvent être exemptées des effets de cette arme "
+"spéciale."
 
 #. [dummy]: id=umbra
 #: After_the_Storm/macros/amla-final.cfg:297
 msgid "umbra"
-msgstr ""
+msgstr "ombre"
 
 #. [dummy]: id=umbra
 #: After_the_Storm/macros/amla-final.cfg:298
@@ -8884,6 +8956,9 @@ msgid ""
 "villages owned by its side or an ally, or from one such village to any "
 "vacant tiles adjacent to an allied leader."
 msgstr ""
+"En utilisant l'un de ses mouvements, cette unité peut se téléporter entre "
+"deux villages vides appartenant à son camp ou à un allié, ou d'un de ces "
+"villages vers touts les emplacements vacants adjacentes à un chef allié."
 
 #: After_the_Storm/macros/amla-final.cfg:360
 #: After_the_Storm/macros/amla-final.cfg:695
@@ -8909,7 +8984,7 @@ msgstr "Focus I : dommage de feu féerique +1 ‹XP Max +35 %›"
 
 #: After_the_Storm/macros/amla-final.cfg:435
 msgid "Focus XI: ensnare damage +1"
-msgstr ""
+msgstr "Focus XI: séduction dégâts+1"
 
 #: After_the_Storm/macros/amla-final.cfg:452
 #, fuzzy
@@ -8918,7 +8993,7 @@ msgstr "Focus II : attaque de feu féerique +1 ‹Max XP +40%›"
 
 #: After_the_Storm/macros/amla-final.cfg:468
 msgid "Nature’s Wrath: arcane rage shockwave special"
-msgstr ""
+msgstr "Colère de la nature: Arcane Rage spéciale onde de choc"
 
 #: After_the_Storm/macros/amla-final.cfg:497
 #, fuzzy
@@ -8942,31 +9017,31 @@ msgstr "Force II : attaque de corps-à-corps +1 ‹XP Max +20 %›"
 
 #: After_the_Storm/macros/amla-final.cfg:567
 msgid "Focus ?: pyranoctum strikes +1"
-msgstr ""
+msgstr "Focus?: Pyranoctum attaque +1"
 
 #: After_the_Storm/macros/amla-final.cfg:581
 msgid "Focus ?: noctum damage +1, pyranoctum damage +2"
-msgstr ""
+msgstr "Focus?: Dégâts noctum +1, dégâts pyranoctum +2"
 
 #: After_the_Storm/macros/amla-final.cfg:600
 msgid "Argan’s Lament: terror ability"
-msgstr ""
+msgstr "Complainte d'Argan: capacité de terreur"
 
 #: After_the_Storm/macros/amla-final.cfg:617
 msgid "Initiative: claw of urvatha first strike weapon special"
-msgstr ""
+msgstr "Initiative : Griffe d'urvatha arme spéciale de premier coup"
 
 #: After_the_Storm/macros/amla-final.cfg:634
 msgid "Soul Eater: claw of urvatha drains special"
-msgstr ""
+msgstr "Soul Eater: Griffe d'Urvatha spécial drain"
 
 #: After_the_Storm/macros/amla-final.cfg:651
 msgid "Scorched Earth: pyranoctum abattoir special"
-msgstr ""
+msgstr "Terre brûlée: abattoir pyranoctum spécial"
 
 #: After_the_Storm/macros/amla-final.cfg:668
 msgid "Merthiaal’s Despair: noctum shockwave special"
-msgstr ""
+msgstr "Désespoir de Merthiaal: spécial onde de choc nocturne"
 
 #: After_the_Storm/macros/amla-final.cfg:714
 #, fuzzy
@@ -8980,12 +9055,12 @@ msgstr "Défense I: résistance à arcane +10% ‹Max XP +30%›"
 
 #: After_the_Storm/macros/amla-final.cfg:745
 msgid "Shadow Angel: umbra teleport ability"
-msgstr ""
+msgstr "Ange de l'ombre: capacité de téléportation d'ombre"
 
 #. [message]: speaker=Zynara
 #: After_the_Storm/macros/unit-utils.cfg:188
 msgid "My lady, no! I cannot keep that many spirits under control!"
-msgstr ""
+msgstr "Ma dame, non! Je ne peux pas garder autant d'esprits sous contrôle!"
 
 #. [transient_message]
 #: After_the_Storm/macros/unit-utils.cfg:192
@@ -8999,17 +9074,17 @@ msgstr ""
 #. [message]: speaker=Zynara
 #: After_the_Storm/macros/unit-utils.cfg:222
 msgid "My lady, I can summon up to three more spirits."
-msgstr ""
+msgstr "Ma dame, je peux invoquer jusqu'à trois autres esprits."
 
 #. [message]: speaker=Zynara
 #: After_the_Storm/macros/unit-utils.cfg:230
 msgid "I can summon two more spirits."
-msgstr ""
+msgstr "Je peux invoquer deux autres esprits."
 
 #. [message]: speaker=Zynara
 #: After_the_Storm/macros/unit-utils.cfg:238
 msgid "I can only summon one more spirit!"
-msgstr ""
+msgstr "Je ne peux invoquer qu'un seul esprit de plus!"
 
 #. [message]: speaker=Zynara
 #: After_the_Storm/macros/unit-utils.cfg:246
@@ -9017,6 +9092,8 @@ msgid ""
 "My lady, I will not be able to control additional spirits unless we get rid "
 "of some of the ones we already have at our command."
 msgstr ""
+"Ma dame, je ne pourrai pas contrôler d'autres esprits si nous ne nous "
+"débarrassons pas de certains de ceux que nous avons déjà sous nos ordres."
 
 #. [set_menu_item]: id=wmi_summon_fire_guardian
 #. The Fire Guardian unit type name translation may be found in the
@@ -9084,7 +9161,7 @@ msgstr "Arnesius"
 
 #: After_the_Storm/macros/character-defines.cfg:129
 msgid "Igor"
-msgstr ""
+msgstr "Igor"
 
 #. [transient_message]
 #: After_the_Storm/macros/scenario-utils.cfg:115
@@ -9111,27 +9188,27 @@ msgstr ""
 
 #: After_the_Storm/macros/amla-anya.cfg:65
 msgid "Strength IV: melee drains special"
-msgstr ""
+msgstr "Force IV: corps à corps spécial drain"
 
 #: After_the_Storm/macros/amla-anya.cfg:88
 msgid "Focus I: noctum damage +1"
-msgstr ""
+msgstr "Focus I: dégâts noctum +1"
 
 #: After_the_Storm/macros/amla-anya.cfg:102
 msgid "Focus II: chill damage +1, daze weapon special"
-msgstr ""
+msgstr "Focus II: dégâts froid +1, arme spéciale stupéfaction "
 
 #: After_the_Storm/macros/amla-anya.cfg:120
 msgid "Focus III: chill strikes +1"
-msgstr ""
+msgstr "Focus III: attaques de froid +1"
 
 #: After_the_Storm/macros/amla-anya.cfg:134
 msgid "Focus IV: noctum damage +1"
-msgstr ""
+msgstr "Focus IV: dégâts noctum +1"
 
 #: After_the_Storm/macros/amla-anya.cfg:148
 msgid "Focus V: noctum damage +1, strikes +1"
-msgstr ""
+msgstr "Focus V: dégâts noctum +1, attaques +1"
 
 #: After_the_Storm/macros/amla-anya.cfg:169
 #, fuzzy
@@ -9150,7 +9227,7 @@ msgstr "Défense I: résistance à arcane +10% ‹Max XP +30%›"
 
 #: After_the_Storm/macros/amla-anya.cfg:228
 msgid "Evasion: abscond ability"
-msgstr ""
+msgstr "Évasion: capacité de fuite"
 
 #. [dummy]: id=absorb_damage
 #: After_the_Storm/macros/abilities.cfg:6
@@ -9194,7 +9271,7 @@ msgstr ""
 #. [dummy]: id=abscond
 #: After_the_Storm/macros/abilities.cfg:26
 msgid "abscond"
-msgstr ""
+msgstr "fuite"
 
 #. [dummy]: id=abscond
 #: After_the_Storm/macros/abilities.cfg:27
@@ -9209,6 +9286,10 @@ msgid ""
 "Upon triggering the ability, the absconding unit is set back to 8 HP and 2 "
 "under its maximum movement points, allowing it to retreat to safety."
 msgstr ""
+"Les unités avec cette capacité peuvent survivre à un coup fatal tous les "
+"deux tours. Au déclenchement de la capacité, l'unité en fuite est ramenée à "
+"8 HP et 2 sous ses points de mouvement maximum, ce qui lui permet de se "
+"retirer en sécurité."
 
 #. [dummy]: id=demolition
 #: After_the_Storm/macros/abilities.cfg:42
@@ -9233,7 +9314,7 @@ msgstr ""
 #. [resistance]: id=aqueous
 #: After_the_Storm/macros/abilities.cfg:57
 msgid "aqueous"
-msgstr ""
+msgstr "aqueuse"
 
 #. [resistance]: id=aqueous
 #: After_the_Storm/macros/abilities.cfg:58
@@ -9243,6 +9324,7 @@ msgstr "Démone"
 
 #. [resistance]: id=aqueous
 #: After_the_Storm/macros/abilities.cfg:59
+#, fuzzy
 msgid ""
 "This unit’s resistances to non-arcane damage are increased to 10% or (if "
 "already 10% or higher) tripled up to a maximum of 60%, when defending on "
@@ -9250,6 +9332,11 @@ msgid ""
 "every turn when positioned on those terrains, but it will not remove poison "
 "from itself."
 msgstr ""
+"Les résistances de cette unité aux dégâts non arcaniques sont triplées, "
+"jusqu'à un maximum de 60%, lorsqu'elle se défend sur un terrain aquatique, "
+"récifal ou marécageux. Il se régénère également de 8 HP au début de chaque "
+"tour lorsqu'il est positionné sur ces terrains, mais il ne supprime pas le "
+"poison de lui-même."
 
 #. [dummy]: id=aspect_of_darkness
 #: After_the_Storm/macros/abilities.cfg:127
@@ -9340,6 +9427,8 @@ msgid ""
 "Zynara is only able to control a limited number of Ghost line units per "
 "scenario"
 msgstr ""
+"Zynara ne peut contrôler qu'un nombre limité d'unités de type fantômes par "
+"scénario"
 
 #: After_the_Storm/macros/objective-utils.cfg:13
 msgid ""
@@ -9347,10 +9436,16 @@ msgid ""
 "control of a random Ghost line unit and become unable to recruit—but not "
 "recall—more for the remainder of the scenario"
 msgstr ""
+"Si vous essayez de recruter un fantôme supplémentaire, vous perdrez "
+"définitivement et  aléatoirement le contrôle d'une unité de lignée fantôme "
+"et vous ne pourrez plus en recruter - mais toujours en rappeler -  pour le "
+"reste du scénario."
 
 #: After_the_Storm/macros/objective-utils.cfg:14
 msgid "Ghost line units in your recall list also count towards the limit"
 msgstr ""
+"Les unités de lignée fantôme dans votre liste de rappel comptent également "
+"dans la limite"
 
 #: After_the_Storm/macros/objective-utils.cfg:18
 msgid ""
@@ -9408,7 +9503,7 @@ msgstr ""
 
 #: After_the_Storm/macros/amla-galas.cfg:13
 msgid "Stealth: ambush ability"
-msgstr ""
+msgstr "Furtif: capacité d'embuscade"
 
 #: After_the_Storm/macros/amla-galas.cfg:28
 #, fuzzy
@@ -9424,7 +9519,7 @@ msgstr "bolas"
 
 #: After_the_Storm/macros/amla-galas.cfg:49
 msgid "Hunter II: bolas strikes +1"
-msgstr ""
+msgstr "Chasseur II: bolas attaques +1"
 
 #: After_the_Storm/macros/amla-galas.cfg:83
 #: After_the_Storm/macros/amla-elynia.cfg:35
@@ -9441,23 +9536,23 @@ msgstr "Force V :  point de vies +10 ‹XP Max +30 %›"
 
 #: After_the_Storm/macros/amla-galas.cfg:116
 msgid "Fury: berserker weapon special (melee only)"
-msgstr ""
+msgstr "Fureur: arme spéciale berserker (mêlée uniquement)"
 
 #: After_the_Storm/macros/amla-galas.cfg:134
 msgid "Initiative: first strike weapon special (melee only)"
-msgstr ""
+msgstr "Initiative: arme spéciale de premier coup (mêlée uniquement)"
 
 #: After_the_Storm/macros/amla-galas.cfg:158
 msgid "Armor I: blade and pierce resistance +10%"
-msgstr ""
+msgstr "Armure I: résistance aux attaques tranchantes et perforantes + 10%"
 
 #: After_the_Storm/macros/amla-galas.cfg:175
 msgid "Armor II: impact resistance +10%"
-msgstr ""
+msgstr "Armure II: résistance aux attaques contondantes + 10%"
 
 #: After_the_Storm/macros/amla-galas.cfg:191
 msgid "Armor III: blade resistance +10%"
-msgstr ""
+msgstr "Armure III: résistance aux attaques tranchantes + 10%"
 
 #: After_the_Storm/macros/items.cfg:7
 msgid ""
@@ -9465,12 +9560,18 @@ msgid ""
 "place to find an enchanted weapon like this, but surely its previous owner "
 "doesn’t have a use for it anymore... right?"
 msgstr ""
+"Cette hache scintille d'une puissante aura d'un autre monde. Cela semble un "
+"endroit inhabituel pour trouver une arme enchantée comme celle-ci, mais son "
+"ancien propriétaire n'en a sûrement plus besoin ... n'est-ce pas?"
 
 #: After_the_Storm/macros/items.cfg:8
 msgid ""
 "A weapon like this could only possibly be used by someone well-versed in axe "
 "combat! Either that, or one of our undead minions, I suppose."
 msgstr ""
+"Une arme comme celle-ci ne pourrait être utilisée que par une personne "
+"expérimentée dans le combat à la hache! Soit ça, soit l'un de nos serviteurs "
+"morts-vivants, je suppose."
 
 #. [object]: id=obsidian_battle_axe_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:13
@@ -9485,6 +9586,10 @@ msgid ""
 "increases the wielder’s resistances to arcane, fire, and impact damage by "
 "30%. Using it in combat also increases all melee attack damage by 2."
 msgstr ""
+"Cette lourde hache a été imprégnée d'une puissante magie protectrice qui "
+"augmente de 30% les résistances du porteur aux dégâts d'arcane, de feu et "
+"d'impact. Son utilisation en combat augmente également tous les dégâts "
+"d'attaque de mêlée de 2."
 
 #. [effect]
 #: After_the_Storm/macros/items.cfg:35
@@ -9499,6 +9604,10 @@ msgid ""
 "not last very long, but we can at least set all these disgusting creatures "
 "ablaze!"
 msgstr ""
+"Hm, une fiole de potion? Je suis surpris qu’il soit toujours intact après "
+"tant de siècles. Je me demande si… Attendez, ce n’est pas une potion, c’est "
+"une essence de feu! Oui! Cela ne durera peut-être pas très longtemps, mais "
+"nous pouvons au moins enflammer toutes ces créatures dégoûtantes!"
 
 #: After_the_Storm/macros/items.cfg:47
 msgid ""
@@ -9506,11 +9615,14 @@ msgid ""
 "Mal Keshar’s skeleton fighters might be able to use it somehow — just a "
 "thought."
 msgstr ""
+"Nous devrions laisser cela être utilisé par l'un de nos porteurs d'épée. "
+"Ou ... peut-être même les combattants squelettes de Mal Keshar pourraient-"
+"ils l’utiliser d’une manière ou d’une autre - juste une idée."
 
 #. [object]: id=fire_essence_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:53
 msgid "Vial of Fire Essence"
-msgstr ""
+msgstr "Fiole d'essence de feu"
 
 #. [object]: id=fire_essence_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:54
@@ -9519,6 +9631,9 @@ msgid ""
 "damage by 1 and allows them to deal <b>fire</b> damage. Its power only lasts "
 "until the end of the scenario."
 msgstr ""
+"La substance ardente contenue dans cette fiole augmente les dégâts de mêlée "
+"de cette unité de 1 et lui permet d’infliger des dégâts de <b> feu </b>. Sa "
+"puissance ne dure que jusqu'à la fin du scénario."
 
 #: After_the_Storm/macros/items.cfg:81
 msgid ""
@@ -9527,17 +9642,24 @@ msgid ""
 "becoming more vulnerable to certain kinds of magic. We should choose "
 "carefully who shall have it."
 msgstr ""
+"Cette amulette ambrée ... on dit que le port de l'un de ceux-ci rend votre "
+"peau plus solide et plus difficile à pénétrer avec des armes "
+"conventionnelles, au prix de devenir plus vulnérable à certains types de "
+"magie. Nous devons choisir soigneusement qui l'aura."
 
 #: After_the_Storm/macros/items.cfg:82
 msgid ""
 "We might want to give the amulet to some other living creature. I reckon our "
 "spellcasters in particular have no use for this artifact."
 msgstr ""
+"Nous pourrions vouloir donner l'amulette à une autre créature vivante. Je "
+"pense que nos lanceurs de sorts en particulier n'ont aucune utilité pour cet "
+"artefact."
 
 #. [object]: id=amber_ward_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:88
 msgid "Amber Ward"
-msgstr ""
+msgstr "Morceau d'ambre"
 
 #. [object]: id=amber_ward_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:89
@@ -9546,6 +9668,9 @@ msgid ""
 "b>, <b>impact</b> and <b>pierce</b>) by <b>15%</b> and decreases their "
 "<b>arcane</b> resistance by 10%."
 msgstr ""
+"Cette amulette augmente la résistance du porteur aux dommages physiques (<b> "
+"tranchant </b>, <b> contondant </b> et <b> perforant</b>) de <b> 15% </b> et "
+"diminue leur <b> arcane </b> résistance de 10%."
 
 #: After_the_Storm/macros/items.cfg:111
 msgid ""
@@ -9566,6 +9691,24 @@ msgid ""
 "the Glamdrol mountain range to this region? No matter, we should just get on "
 "with it and give it to one of our most skilled archers."
 msgstr ""
+"Ce n’est certainement pas… c’est! C’est l’arc légendaire de Krysvelen! On "
+"raconte qu'une nuit en 1064 YW, un elfe errant bien instruit dans les arts "
+"mystiques est tombé par hasard sur le petit village de pêcheurs de Krysvelen "
+"alors qu'il était menacé par des orcs hostiles. Les prouesses inégalées des "
+"archers chargés de la défense du village ont pris l’elfe par surprise, car "
+"il n’avait jamais vu d’humains capables de surpasser les compétences des "
+"elfiques avec l’arc et la flèche. Il a été tellement impressionné qu'après "
+"la fin de la bataille, il a utilisé sa magie pour offrir aux Krysveléniens "
+"un cadeau d'adieu: un arc enchanté qui imprègne toutes les flèches tirées "
+"d'une puissante magie de glace capable de ralentir les cibles.\n"
+"\n"
+"Bien sûr, la véracité de l’histoire a été disputée trop souvent pour être "
+"comptée, d’autant plus que personne n’a jamais trouvé de preuve solide de "
+"l’existence de l’arc, et la plupart des récits affirment que l’elfe avait "
+"plus de mille ans - imaginez la folie! Mais comment diable l'arc at-il "
+"trouvé son chemin de la chaîne de montagnes Glamdrol à cette région? Peu "
+"importe, nous devrions simplement continuer et le donner à l'un de nos "
+"archers les plus talentueux."
 
 #: After_the_Storm/macros/items.cfg:114
 msgid ""
@@ -9573,11 +9716,14 @@ msgid ""
 "Even one of our undead archers should do since the magic stems from the bow "
 "itself."
 msgstr ""
+"Nous devons vraiment donner ceci à quelqu'un qui est réellement capable "
+"d'utiliser un arc ... Même un de nos archers morts-vivants devrait le faire "
+"puisque la magie vient de l'arc lui-même."
 
 #. [object]: id=bow_of_kysvelen
 #: After_the_Storm/macros/items.cfg:120
 msgid "Bow of Krysvelen"
-msgstr ""
+msgstr "Arc de Krysvelen"
 
 #. [object]: id=bow_of_kysvelen
 #: After_the_Storm/macros/items.cfg:121
@@ -9586,11 +9732,14 @@ msgid ""
 "targets. Rather disappointingly, it does nothing to increase the damage "
 "dealt by the unit. Its power is only active on offense."
 msgstr ""
+"Dans cet arc légendaire se trouve une puissante magie élémentaire capable de "
+"ralentir les cibles. Plutôt décevant, cela ne fait rien pour augmenter les "
+"dégâts infligés par l'unité. Son pouvoir n'est actif qu'en attaque."
 
 #. [effect]
 #: After_the_Storm/macros/items.cfg:128
 msgid "bow of krysvelen"
-msgstr ""
+msgstr "arc de krysvelen"
 
 #: After_the_Storm/macros/items.cfg:157
 msgid ""
@@ -9602,12 +9751,23 @@ msgid ""
 "to battle with us? It may be too big a risk for us given our current "
 "situation."
 msgstr ""
+"En examinant le contenu de ce flacon, il semble que ce soit une potion de "
+"soif de sang, et il y en a assez pour nous durer des semaines aussi! On dit "
+"que quelques gouttes suffisent pour réveiller les instincts primaires des "
+"guerriers et les transformer en une force meurtrière imparable ... ce qui "
+"naturellement ne se passe pas sans effets secondaires inquiétants. Sommes-"
+"nous sûrs que nous voulons marcher avec des fous sanguinaires pour se battre "
+"avec nous? C'est peut-être un risque trop grand pour nous étant donné notre "
+"situation actuelle."
 
 #: After_the_Storm/macros/items.cfg:158
 msgid ""
 "This potion will only be useful to someone wielding a proper weapon for "
 "close combat. And no, a Necromancer’s staff does <i>not</i> count."
 msgstr ""
+"Cette potion ne sera utile qu'à quelqu'un qui utilise une arme appropriée "
+"pour le combat rapproché. Et non, le bâton d’un Nécromancien ne compte <i> "
+"pas </i>."
 
 #. [trait]: id=bloodlust
 #: After_the_Storm/macros/items.cfg:166
@@ -9628,6 +9788,9 @@ msgid ""
 "hitpoints each turn regardless of whether they engaged in combat the turn "
 "before."
 msgstr ""
+"Les unités avec le trait <italic> text = 'bloodlust' </italic> sont capables "
+"de soigner 2 points de vie à chaque tour, qu'elles aient ou non engagé un "
+"combat le tour précédent."
 
 #. [object]: id=bloodlust_potion_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:181
@@ -9650,6 +9813,17 @@ msgid ""
 " &#8226; impact: <span color='#0d0'>+10%</span> resistance\n"
 " &#8226; pierce: <span color='#0d0'>+10%</span> resistance"
 msgstr ""
+"Cette potion confère à cette unité une augmentation des dégâts de <b> 1 </b> "
+"et le <b> berserk </b> spécial pour ses attaques de mêlée. De plus, l'unité "
+"reçoit une augmentation de sa santé de <b> 15% </b>, et ses résistances sont "
+"modifiées ainsi:\n"
+"\n"
+"  & # 8226; arcane: <span color = '# d00'> - 20% </span> résistance\n"
+"  & # 8226; tranchant: <span color = '# 0d0'> + 10% </span> résistance\n"
+"  & # 8226; froid: <span color = '# 0d0'> + 5% </span> résistance\n"
+"  & # 8226; feu: <span color = '# 0d0'> + 5% </span> résistance\n"
+"  & # 8226; impact: <span color = '# 0d0'> + 10% </span> résistance\n"
+"  & # 8226; perforant: <span color = '# 0d0'> + 10% </span> résistance"
 
 #: After_the_Storm/macros/items.cfg:235
 msgid ""
@@ -9658,6 +9832,10 @@ msgid ""
 "what weight you carry on your back.” I have a feeling it’s going to be very "
 "useful to us in the near future."
 msgstr ""
+"Cette bague en argent brillant a des runes gravées dessus, je peux à peine "
+"les distinguer ... \"Vous qui prenez cette bague, vous serez plus rapide et "
+"plus gracieux, quel que soit le poids que vous portez sur votre dos.\" J’ai "
+"l’impression que cela nous sera très utile dans un proche avenir."
 
 #: After_the_Storm/macros/items.cfg:236
 msgid ""
@@ -9665,11 +9843,15 @@ msgid ""
 "faerie supporters as well, I suppose. Wait, do those pesky bats count as "
 "living creatures? I don’t even know."
 msgstr ""
+"Malheureusement, seuls les humains vivants pourraient éventuellement "
+"utiliser cet anneau. Et nos partisans féeriques aussi, je suppose. Attendez, "
+"ces chauves-souris agaçantes comptent-elles comme des créatures vivantes? Je "
+"ne sais même pas."
 
 #. [object]: id=ring_of_agility_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:240
 msgid "Ring of Quicksilver"
-msgstr ""
+msgstr "Anneau de vif-argent"
 
 #. [object]: id=ring_of_agility_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:243
@@ -9677,11 +9859,14 @@ msgid ""
 "This ring grants its bearer swifter movement (<b>1</b> extra movement point) "
 "and increased defense (by <b>5%</b>) on all terrains."
 msgstr ""
+"Cet anneau confère à son porteur un mouvement plus rapide (<b> 1 </b> point "
+"de mouvement supplémentaire) et une défense accrue (de <b> 5% </b>) sur tous "
+"les terrains."
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/items.cfg:276
 msgid "Whoah... I feel <i>fast</i>!"
-msgstr ""
+msgstr "Whoa ... Je me sens <i> rapide </i>!"
 
 #: After_the_Storm/macros/items.cfg:283
 #, fuzzy
@@ -9691,7 +9876,7 @@ msgstr "Il semble que ce soit juste une illusion..."
 #. [object]: id=fire_essence_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:289
 msgid "Empty Vial"
-msgstr ""
+msgstr "Fiole vide"
 
 #. [object]: id=fire_essence_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:290
@@ -9701,18 +9886,20 @@ msgstr "Partons ensemble."
 
 #: After_the_Storm/macros/items.cfg:302
 msgid "This small vial seems to still have essence left in it..."
-msgstr ""
+msgstr "Ce petit flacon semble avoir encore de l'essence dedans ..."
 
 #: After_the_Storm/macros/items.cfg:303
 msgid ""
 "We should let this be used by someone who excels at fighting in close "
 "quarters."
 msgstr ""
+"Nous devrions laisser cela être utilisé par quelqu'un qui excelle dans les "
+"combats rapprochés."
 
 #. [object]: id=fire_essence_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:309
 msgid "Vial of Shardia’s Tears"
-msgstr ""
+msgstr "Fiole des larmes de Shardia"
 
 #. [object]: id=fire_essence_$x1|_$y1
 #: After_the_Storm/macros/items.cfg:310
@@ -9722,13 +9909,18 @@ msgid ""
 "b> and its type is set to <b>fire</b>. The unit’s fire resistance is "
 "increased by <b>10%</b> and its cold resistance decreased by <b>5%</b>."
 msgstr ""
+"Cette fiole contient une forme plus pure d'essence de feu qui dure "
+"apparemment pour toujours. Les dégâts infligés par l'unité en combat au "
+"corps à corps sont augmentés de <b> 1 </b> et son type est réglé sur <b> feu "
+"</b>. La résistance au feu de l'unité est augmentée de <b> 10% </b> et sa "
+"résistance au froid diminuée de <b> 5% </b>."
 
 #. [effect]
 #. [trait]: id=staff_of_akhlys_lvl1_tag
 #: After_the_Storm/macros/items.cfg:351
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:127
 msgid "staff of akhlys"
-msgstr ""
+msgstr "bâton d'akhlys"
 
 #. [message]: speaker=unit
 #: After_the_Storm/macros/items.cfg:377
@@ -9736,6 +9928,9 @@ msgid ""
 "So the lich was carrying this staff... Ugh, it’s all covered in filth and "
 "dry rotten flesh. How about we let Irylean take a look at it instead?"
 msgstr ""
+"Donc la liche portait ce bâton ... Ugh, tout est couvert de crasse et de "
+"chair sèche et pourrie. Que diriez-vous de laisser Irylean jeter un œil à la "
+"place?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/macros/items.cfg:392
@@ -9744,11 +9939,14 @@ msgid ""
 "I have a feeling I am the only one who is willing to experiment with it, "
 "so... I may as well just grab it, don’t you think?"
 msgstr ""
+"La liche a dû utiliser le pouvoir de ce bâton pour nous jeter du poison. "
+"J'ai le sentiment que je suis le seul à vouloir l'expérimenter, alors ... Je "
+"peux aussi bien le saisir, vous ne croyez pas?"
 
 #. [object]: id=staff_of_akhlys
 #: After_the_Storm/macros/items.cfg:413
 msgid "Staff of Akhlys"
-msgstr ""
+msgstr "Bâton d'Akhlys"
 
 #. [object]: id=staff_of_akhlys
 #: After_the_Storm/macros/items.cfg:414
@@ -9760,6 +9958,13 @@ msgid ""
 "\n"
 "It is a good thing that undead wielders are immune to the staff’s aura."
 msgstr ""
+"Ce bâton orné d'origine inconnue dégage une aura maladive que même les "
+"créatures des cavernes évitent. La résistance aux <b> arcanes </b> du "
+"porteur est réduite de <b> 10% </b> et son attaque de mêlée et sa magie "
+"arcanique infligent l’effet <b> poison </b> aux cibles.\n"
+"\n"
+"C’est une bonne chose que les porteurs morts-vivants soient immunisés contre "
+"l’aura du bâton."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/macros/items.cfg:434
@@ -9769,6 +9974,10 @@ msgid ""
 "for me to have a proper look into the whole lichdom business — it may save "
 "me a lot of trouble in the long run."
 msgstr ""
+"Ugh ... Je me sens ... très mal maintenant ... J'espère que ça passera après "
+"un moment. Tu sais, c'est une de ces fois où je pense qu'il est peut-être "
+"temps pour moi de jeter un œil à l'ensemble des secrets des liches- cela "
+"pourrait m'éviter beaucoup de problèmes à long terme."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/macros/items.cfg:439
@@ -9777,6 +9986,9 @@ msgid ""
 "the situation under control and that you aren’t being affected by the power "
 "of your new toy at all."
 msgstr ""
+"Afin de me faciliter la vie un peu, je vais prétendre que vous maîtrisez la "
+"situation et que vous n’êtes pas du tout affecté par la puissance de votre "
+"nouveau jouet."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/macros/items.cfg:444
@@ -9784,11 +9996,13 @@ msgid ""
 "I will be all right, I just... need a few minutes while I throw up in the "
 "corner over there."
 msgstr ""
+"Tout ira bien, j'ai juste ... besoin de quelques minutes pendant que je "
+"vomis dans un coin là-bas."
 
 #. [object]: id=xiaels_blessing
 #: After_the_Storm/macros/items.cfg:457
 msgid "Xia’el’s Blessing"
-msgstr ""
+msgstr "Bénédiction de Xia’el"
 
 #. [object]: id=xiaels_blessing
 #: After_the_Storm/macros/items.cfg:459
@@ -9799,11 +10013,16 @@ msgid ""
 "the trait itself is permanent, new recruits will no longer receive the trait "
 "if you lose Daeira."
 msgstr ""
+"Cette unité est capable de conférer à toutes les fées de son camp le trait "
+"<b>illuminé</b>, qui leur permet d'ignorer les pénalités de temps de la "
+"journée, augmente leurs points de vie de 15% et leur résistance aux dégâts "
+"non arcanes de 5%. . Bien que le trait lui-même est permanent, les nouvelles "
+"recrues ne le recevront plus si vous perdez Daeira."
 
 #. [dummy]: id=xiaels_blessing
 #: After_the_Storm/macros/items.cfg:474
 msgid "xia’el’s blessing"
-msgstr ""
+msgstr "bénédiction de xia’el"
 
 #. [dummy]: id=xiaels_blessing
 #: After_the_Storm/macros/items.cfg:475
@@ -9812,11 +10031,16 @@ msgid ""
 "lets them ignore time of day penalties, increases their hitpoints by 15%, "
 "and their resistances to non-arcane damage by 5%."
 msgstr ""
+"Cette unité est capable de conférer à toutes les fées de son camp le trait "
+"<b>illuminé</b>, qui leur permet d'ignorer les pénalités de temps de la "
+"journée, augmente leurs points de vie de 15% et leur résistance aux dégâts "
+"non arcanes de 5%. . Bien que le trait lui-même est permanent, les nouvelles "
+"recrues ne le recevront plus si vous perdez Daeira."
 
 #. [trait]: id=kindled
 #: After_the_Storm/macros/items.cfg:552
 msgid "kindled"
-msgstr ""
+msgstr "illuminé"
 
 #. [trait]: id=kindled
 #: After_the_Storm/macros/items.cfg:553
@@ -9828,6 +10052,8 @@ msgstr "guérie"
 #: After_the_Storm/macros/items.cfg:554
 msgid "Ignores time of day penalties and has increased physical attributes"
 msgstr ""
+"Ignore les pénalités du au moment de la journée et a augmenté les aptitudes "
+"physiques"
 
 #. [trait]: id=kindled
 #: After_the_Storm/macros/items.cfg:555
@@ -9836,6 +10062,9 @@ msgid ""
 "increased by 15%, and their resistance to non-arcane damage is increased by "
 "5%."
 msgstr ""
+"Les unités avec ce trait ignorent les pénalités de temps de la journée, "
+"voient leurs points de vie augmentés de 15% et leur résistance aux dégâts "
+"non-arcanes est augmentée de 5%."
 
 #: After_the_Storm/macros/amla-elynia.cfg:16
 #, fuzzy
@@ -9869,7 +10098,7 @@ msgstr "Focus III : attaque de séduction +1 ‹Max XP +40%›"
 
 #: After_the_Storm/macros/amla-elynia.cfg:150
 msgid "Focus IV: ensnare damage +1, stun weapon special"
-msgstr ""
+msgstr "Focus IV: dégâts enchevêtrements +1, arme spéciale étourdissement"
 
 #: After_the_Storm/macros/amla-elynia.cfg:174
 #, fuzzy
@@ -9884,6 +10113,7 @@ msgstr "Défense I: résistance à arcane +10% ‹Max XP +30%›"
 #: After_the_Storm/macros/amla-elynia.cfg:206
 msgid "Shielding III: cold resistance +10%, sylvan essence regeneration +1"
 msgstr ""
+"Blindage III: résistance au froid + 10%, l'essence sylvaine régénération +1"
 
 #: After_the_Storm/macros/amla-elynia.cfg:245
 #, fuzzy
@@ -9892,35 +10122,36 @@ msgstr "Défense I: résistance à arcane +10% ‹Max XP +30%›"
 
 #: After_the_Storm/macros/amla-elynia.cfg:261
 msgid "Shielding V: protection ability"
-msgstr ""
+msgstr "Blindage V: capacité de protection"
 
 #: After_the_Storm/macros/amla-elynia.cfg:280
 msgid "Thorns I: damage +2"
-msgstr ""
+msgstr "Épines I: dégâts +2"
 
 #: After_the_Storm/macros/amla-elynia.cfg:295
 msgid "Thorns II: damage +2, drains weapon special"
-msgstr ""
+msgstr "Thorns II: dégâts +2, l'arme spéciale drain"
 
 #: After_the_Storm/macros/amla-elynia.cfg:328
 msgid "Faerie Fire I: replaces mystic fire (ranged/arcane 9×3, magical)"
 msgstr ""
+"Feu féérique I: remplace le feu mystique (distance / arcane 9 × 3, magique)"
 
 #: After_the_Storm/macros/amla-elynia.cfg:354
 msgid "Faerie Fire II: damage +1"
-msgstr ""
+msgstr "Feu féérique II: dégâts +1"
 
 #: After_the_Storm/macros/amla-elynia.cfg:368
 msgid "Faerie Fire III: strikes +1"
-msgstr ""
+msgstr "Feu féérique III: frappe +1"
 
 #: After_the_Storm/macros/amla-elynia.cfg:382
 msgid "Faerie Fire IV: damage +1"
-msgstr ""
+msgstr "Feu féérique IV: dégâts +1"
 
 #: After_the_Storm/macros/amla-elynia.cfg:396
 msgid "Faerie Fire V: damage +1"
-msgstr ""
+msgstr "Feu féérique V: dégâts +1"
 
 #: After_the_Storm/macros/special-notes.cfg:6
 msgid ""
@@ -9963,7 +10194,7 @@ msgstr ""
 #. [dummy]: id=seismic
 #: After_the_Storm/macros/weapon-specials.cfg:23
 msgid "seismic"
-msgstr ""
+msgstr "sismique"
 
 #. [dummy]: id=seismic
 #: After_the_Storm/macros/weapon-specials.cfg:24
@@ -9975,11 +10206,17 @@ msgid ""
 "vary for each affected unit according to their resistances, and it will not "
 "kill units other than the original target."
 msgstr ""
+"Lors du premier coup pendant un tour, cette attaque inflige 75% de dégâts à "
+"toutes les unités ennemies adjacentes à la cible, et a 25% de chances de "
+"leur infliger à la fois les effets de statut ralentis et étourdis aussi bien "
+"qu'à la cible (calculés séparément pour chaque unité). Le montant exact des "
+"dégâts infligés variera pour chaque unité affectée en fonction de leurs "
+"résistances, et il ne tuera pas les unités autres que la cible d'origine."
 
 #. [attacks]: id=shock
 #: After_the_Storm/macros/weapon-specials.cfg:43
 msgid "shock"
-msgstr ""
+msgstr "choc"
 
 #. [attacks]: id=shock
 #: After_the_Storm/macros/weapon-specials.cfg:44
@@ -9987,11 +10224,13 @@ msgid ""
 "When this attack is used on offense, the opponent will retaliate with one "
 "less strike than normally, to a minimum of one strike."
 msgstr ""
+"Lorsque cette attaque est utilisée offensivement, l'adversaire ripostera "
+"avec une attaque de moins que normalement, jusqu'à un minimum d'une attaque."
 
 #. [dummy]: id=daze
 #: After_the_Storm/macros/weapon-specials.cfg:57
 msgid "daze"
-msgstr ""
+msgstr "étourdir"
 
 #. [dummy]: id=daze
 #: After_the_Storm/macros/weapon-specials.cfg:58
@@ -10003,16 +10242,24 @@ msgid ""
 "Magical attacks will still have a 70% chance to hit.\n"
 "Marksman attacks are only affected if the chance to hit is greater than 60%."
 msgstr ""
+"Lorsqu'il est touché par cette attaque, un ennemi subit une pénalité de 10% "
+"à la fois pour sa défense et sa chance de toucher pendant un tour. Les "
+"autres spéciaux qui affectent les chances de toucher (par exemple, la magie "
+"et le tireur d'élite) ont priorité sur ce spécial.\n"
+"\n"
+"Les attaques magiques auront toujours 70% de chances de toucher.\n"
+" Les attaques de tireur d'élite ne sont affectées que si la chance de "
+"toucher est supérieure à 60%."
 
 #. [advancement]: id=amla_tree_lock_ui
 #: After_the_Storm/macros/amla.cfg:16
 msgid "‹No more advancements available yet›"
-msgstr ""
+msgstr "‹Plus aucun avancement disponible pour le moment›"
 
 #. [transient_message]
 #: After_the_Storm/macros/amla.cfg:77
 msgid "Advancements Locked"
-msgstr ""
+msgstr "Avancements Bloqués"
 
 #. [transient_message]
 #: After_the_Storm/macros/amla.cfg:78
@@ -10020,6 +10267,8 @@ msgid ""
 "You have not unlocked all advancements for this unit yet. Continue playing "
 "the campaign to unlock more advancements."
 msgstr ""
+"Vous n'avez pas encore débloqué tous les avancements pour cette unité. "
+"Continuez à jouer la campagne pour débloquer plus d'avancements."
 
 #. [scenario]: id=08B_Destiny_part_1
 #. [part]
@@ -10331,6 +10580,9 @@ msgid ""
 "Storm Sisters. We are rather ill-prepared for such a confrontation, but "
 "there is no helping it."
 msgstr ""
+"Je crains que, tôt ou tard, nous allons devoir affronter les Soeurs de la "
+"tempête. Nous sommes plutôt mal préparés à une telle confrontation, mais il "
+"faudra faire avec."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:387
@@ -10348,21 +10600,31 @@ msgid ""
 "before battle I received reports indicating that they are roaming the skies "
 "of Kalari Central hunting down anyone suspected of rebellious conduct."
 msgstr ""
+"Les fidèles exécuteurs de Zhangor. Malheureusement, ils appartiennent à mon "
+"propre clan. Nous avions ... des idées différentes sur la manière de gérer "
+"l’accession au pouvoir de Zhangor. Ils ont choisi de se ranger à ses côtés, "
+"promettant leurs compétences d'assassin à son service afin de s'assurer que "
+"mon peuple des tempêtes et d'autres restent dans les rangs. Peu de temps "
+"avant la bataille, j'ai reçu des rapports indiquant qu'ils parcouraient les "
+"cieux du centre de Kalari traquant toute personne soupçonnée de comportement "
+"rebelle."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:397
 msgid "I imagine your head is quite highly priced right now."
-msgstr ""
+msgstr "J'imagine que votre tête vaut très chère maintenant."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:402
 msgid "Yes, it is. I am expecting them to be awaiting us in the fortress keep."
 msgstr ""
+"Oui c'est le cas. Je m'attends à ce qu'ils nous attendent dans le donjon de "
+"la forteresse."
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:407
 msgid "Bah, we will make short work of them, for sure!"
-msgstr ""
+msgstr "Bah, nous allons nous charger d'eux vite fait, alors!"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:439
@@ -10427,11 +10689,14 @@ msgid ""
 "You know, Anya... I think I’m finally getting used to the wolves. Granted, "
 "I’m still not keen on their awful breath."
 msgstr ""
+"Vous savez, Anya ... Je pense que je m'habitue enfin aux loups. Certes, je "
+"n’aime toujours pas leur horrible respiration."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:492
 msgid "See? It’s not all that bad once you get to know them."
 msgstr ""
+"Vous voyez? Ce n’est pas si grave une fois que vous apprenez à les connaître."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:497
@@ -10439,12 +10704,17 @@ msgid ""
 "Yes, sure. I still wish Willow would stop stalking me, especially since half "
 "of the time that goblin follows. He’s in desperate need of a bath, that guy."
 msgstr ""
+"Oui bien sûr. Je souhaite toujours que Willow arrête de me traquer, surtout "
+"depuis la moitié du temps que le gobelin suit. Il a désespérément besoin "
+"d’un bain, ce type."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:502
 msgid ""
 "To be fair, I haven’t bathed in a while either and you don’t seem to mind."
 msgstr ""
+"Pour être honnête, je ne me suis pas baigné non plus depuis un moment et "
+"cela ne vous dérange pas."
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:507
@@ -10452,11 +10722,14 @@ msgid ""
 "I— That’s... I mean, that’s not the same! Be— besides, you are surely going "
 "to do it as soon as you get the chance. Unlike <i>him</i>."
 msgstr ""
+"Je - C'est ... je veux dire, ce n'est pas la même chose! Soyez ... en plus, "
+"vous allez sûrement le faire dès que vous en aurez l'occasion. Contrairement "
+"à <i>lui</i>."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:512
 msgid "You are saying that only because he’s a goblin, aren’t you?"
-msgstr ""
+msgstr "Vous dites cela uniquement parce que c'est un gobelin, n’est-ce pas?"
 
 #. [message]: speaker=General Ramzal
 #. 'Wose-born wench' referring to Elynia.
@@ -10627,12 +10900,12 @@ msgstr "Niry? Où vas-tu?"
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1240
 msgid "Who?"
-msgstr ""
+msgstr "Qui?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1245
 msgid "The water faerie! She was with us just a few moments ago!"
-msgstr ""
+msgstr "La fée de l'eau! Elle était avec nous il y a quelques instants!"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1250
@@ -10643,12 +10916,12 @@ msgstr "chasser les fées"
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1255
 msgid "Uh... Did I miss something? I don’t know who you’re talking about."
-msgstr ""
+msgstr "Euh ... J'ai raté quelque chose? Je ne sais pas qui vous parlez."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1260
 msgid "Argh, never mind! I’ll explain later."
-msgstr ""
+msgstr "Argh, tant pis! Je vous expliquerai plus tard."
 
 #. [unstore_unit]
 #: After_the_Storm/episode3/scenarios/08B_Destiny_part_1.cfg:1397
@@ -11053,6 +11326,7 @@ msgstr ""
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:521
 msgid "Oh. It is you again. I thought you disappeared for good this time."
 msgstr ""
+"Oh. C'est encore toi. Je pensais que tu avais disparu pour de bon cette fois."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:538
@@ -11063,7 +11337,7 @@ msgstr "Je n'ai pas fait ça depuis un moment."
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:552
 msgid "Did you find the cake you wanted?"
-msgstr ""
+msgstr "Avez-vous trouvé le gâteau que vous vouliez?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:557
@@ -11071,11 +11345,13 @@ msgid ""
 "No... I did not. I have hardly eaten anything in weeks. My mind has just "
 "been... sort of wandering off constantly. I feel like I shouldn’t be here."
 msgstr ""
+"Non. Je n'ai presque rien mangé depuis des semaines. Mon esprit est juste en "
+"train de ... vagabonder constamment. Je sens que je ne devrais pas être ici."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:567
 msgid "You seem even more despondent than before."
-msgstr ""
+msgstr "Vous semblez encore plus découragé qu'avant."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:572
@@ -11083,11 +11359,14 @@ msgid ""
 "... This whole situation is just too overwhelming. I feel lost. Ergea is not "
 "helpful — she wants me to play a role that wasn’t meant for me."
 msgstr ""
+"... Toute cette situation est tout simplement trop accablante. Je me sens "
+"perdu. Ergea n’aide pas - elle veut que je joue un rôle qui ne m’était pas "
+"destiné."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:577
 msgid "This is about Elynia, am I correct?"
-msgstr ""
+msgstr "C'est à propos d'Elynia, est-ce que j'ai raison?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:582
@@ -11099,7 +11378,7 @@ msgstr "Que voulez-vous de nous ?"
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:587
 msgid "You feel lost without her."
-msgstr ""
+msgstr "Vous vous sentez perdu sans elle."
 
 #. [message]: speaker=Anya
 #. This line is repeated later in the scenario.
@@ -11115,11 +11394,14 @@ msgid ""
 "becoming this... thing... I became, I somehow feel even less in control of "
 "my life than I was before."
 msgstr ""
+"J'ai réfléchi à ce que tu as dit sur le destin ... Tu sais, après être "
+"devenu cette ... chose ... J'ai le sentiment d'avoir encore moins le "
+"contrôle de ma vie qu'avant."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:608
 msgid "How so, exactly?"
-msgstr ""
+msgstr "Comment, exactement?"
 
 #. [message]: speaker=Anya
 #. This is indeed meant to be reminiscent of Elyssa's thoughts in E3S8A.
@@ -11132,6 +11414,13 @@ msgid ""
 "can’t tell if it’s because of my connection to Darkness, or because I became "
 "a Guardian and now I feel this constant pain within my heart..."
 msgstr ""
+"Mes actions ont été constamment dictées par quelqu'un d'autre. Elorran, "
+"Elynia, Ergea ... Je n'ai jamais vraiment été libre, n'est-ce pas? Juste "
+"suivre constamment les ordres comme une machine, sans réfléchir. Mais tout "
+"d'un coup, je me sens obligé de tout remettre en question. Et le pire, c'est "
+"que je ne peux pas dire si c'est à cause de ma connexion avec les ténèbres, "
+"ou parce que je suis devenu une Gardienne et maintenant je ressens cette "
+"douleur constante dans mon cœur ..."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:619
@@ -11139,6 +11428,8 @@ msgid ""
 "Would that be your actual heart, or the divine instrument demonkind calls "
 "the Energy Heart?"
 msgstr ""
+"Serait-ce votre vrai cœur, ou l'instrument divin que les démons appelle le "
+"Cœur Énergétique?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:624
@@ -11156,11 +11447,19 @@ msgid ""
 "make use of it in a way that can advance your own existence towards a "
 "positive outcome."
 msgstr ""
+"Je ne peux que spéculer sur la nature et l'étendue de vos pouvoirs, mais je "
+"m'attendrais à ce que les Gardiens des Ténèbres soient mieux en contact avec "
+"la notion d'agence étant donné que leur domaine tourne autour des questions "
+"de l'esprit. Si le don que vous possédez maintenant s'accompagne d'une plus "
+"grande conscience de soi, alors c'est à vous de l'utiliser de manière à "
+"faire avancer votre propre existence vers un résultat positif."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:634
 msgid "But what if the only path forward I see involves leaving people behind?"
 msgstr ""
+"Mais que se passe-t-il si la seule voie à suivre consiste à laisser les gens "
+"derrière?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:639
@@ -11170,11 +11469,16 @@ msgid ""
 "but when we are, it is up to us to make the right one — and a Guardian’s "
 "choices carry more weight upon our reality than anyone else’s."
 msgstr ""
+"Le futur est constamment obscurci par les ténèbres, mais vous n'avez pas "
+"besoin d'avoir peur de la nature fondamentale de votre être, n'est-ce pas? "
+"Nous n’avons pas toujours le choix, mais lorsque nous le faisons, c’est à "
+"nous de faire le bon choix - et les choix d’un Gardien ont plus de poids sur "
+"notre réalité que n'importe qui d'autre."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:645
 msgid "Have you pondered the matter of destiny yet?"
-msgstr ""
+msgstr "Avez-vous déjà réfléchi à la question du destin?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:650
@@ -11188,6 +11492,8 @@ msgid ""
 "I must not have talked to you about it. My apologies. You need not worry "
 "about it for now."
 msgstr ""
+"Je n'ai pas dû vous en parler. Mes excuses. Vous n'avez pas à vous en "
+"soucier pour le moment."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:660
@@ -11198,13 +11504,13 @@ msgstr "Vous n'avez pas... répondu à ma question..."
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:665
 msgid "Xia’el does not have answers for you anymore, sadly."
-msgstr ""
+msgstr "Xia’el n’a plus de réponses pour vous, malheureusement."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:675
 msgid ""
 "Am I ever going to find out what happened to my parents after I was born?"
-msgstr ""
+msgstr "Vais-je découvrir ce qui est arrivé à mes parents après ma naissance?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:680
@@ -11213,6 +11519,9 @@ msgid ""
 "concern for your emotional state in battle, but I can finish it now if you "
 "would like."
 msgstr ""
+"En fait, oui. J'ai choisi de ne pas vous raconter toute l'histoire par souci "
+"de votre état émotionnel au combat, mais je peux la terminer maintenant si "
+"vous le souhaitez."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:685
@@ -11220,6 +11529,9 @@ msgid ""
 "What?! You knew the rest of the story but didn’t tell it to me?! I thought "
 "you said you were just a medium and you didn’t have it!"
 msgstr ""
+"Quoi?! Vous connaissiez la suite de l'histoire mais ne me l'avez pas "
+"racontée?! Je pensais que vous aviez dit que vous n'étiez qu'un médium et "
+"que vous ne saviez pas!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:690
@@ -11228,16 +11540,21 @@ msgid ""
 "whether I was able to intentionally postpone delivering a non-essential part "
 "of the answer or not. I apologize, but it had to be done."
 msgstr ""
+"J'ai dit que votre question avait déjà reçu une réponse, et c'était le cas. "
+"Je n'ai jamais précisé que j'étais en mesure de reporter intentionnellement "
+"la délivrance d'une partie non essentielle de la réponse ou non. Je "
+"m'excuse, mais il fallait le faire."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:695
 msgid "(<i>sighs</i>) I understand. And... I’m sorry for my outburst."
 msgstr ""
+"(<i>soupire</i>) Je comprends. Et ... Je suis désolé pour mon emportement."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:700
 msgid "So, let us pick up from where we left last time..."
-msgstr ""
+msgstr "Alors, reprenons là où nous en étions..."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:705
@@ -11248,6 +11565,11 @@ msgid ""
 "demonkind, a unique combination completely unheard of before. The future of "
 "the two lovers seemed bright for once."
 msgstr ""
+"Le cœur de Mintha et de l'Innommable débordait de bonheur et de but après "
+"avoir conçu un enfant qu'ils pourraient appeler le leur. La progéniture "
+"serait une nouvelle créature libre née des fées et des démons, une "
+"combinaison unique totalement inouïe auparavant. L'avenir des deux amants "
+"semblait radieux pour une fois."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/12_Destiny_part_3.cfg:710
@@ -14430,8 +14752,8 @@ msgid ""
 "put her secret plan into motion. The Second Cycle began."
 msgstr ""
 "Nos vies furent arrangées avant qu'elle ne sacrifie la sienne pour créer les "
-"Gardiennes des Portes. Elle confia à Xia'el et Uria les objets nécessaires "
-"pour mettre son plan secret en route. Le Second Cycle commença."
+"Sentinelles. Elle confia à Xia'el et Uria les objets nécessaires pour mettre "
+"son plan secret en route. Le Second Cycle commença."
 
 #. [scenario]: id=07A_Dark_Fire_part_1
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:3507
@@ -15858,7 +16180,7 @@ msgid ""
 "Gatekeeper..."
 msgstr ""
 "... Il essaie de nous avoir en même temps... en utilisant les pouvoirs de la "
-"Portière..."
+"Sentinelle..."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4532
@@ -15894,8 +16216,8 @@ msgid ""
 "... He is using the powers of the Gatekeeper of Urvatha to tear into our "
 "minds... I should have known that he would try to do this..."
 msgstr ""
-"...Il utilise les pouvoirs de la Portière d'Urvatha pour s'infiltrer dans "
-"nos esprits...J'aurais dû voir qu'il tenterait d'utiliser cela..."
+"...Il utilise les pouvoirs de la Sentinelle d'Urvatha pour s'infiltrer dans "
+"nos esprits...J'aurais dû prévoir qu'il tenterait d'utiliser cela..."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4575
@@ -17571,8 +17893,8 @@ msgid ""
 "whose heart he consumed and absorbed into his body."
 msgstr ""
 "Zhangor a choisi une forme aussi répugnante que son âme. Il a dû s'inspirer "
-"du Gatekeeper qu'il tua sur Urvatha, dont il absorba le coeur dans son "
-"propre corps."
+"du Gardien qu'il tua sur Urvatha, dont il absorba le coeur dans son propre "
+"corps."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:1251
@@ -17626,7 +17948,7 @@ msgid ""
 "Silida. Who really knows what was going through the heads of the three "
 "goddesses who ended and restarted it all."
 msgstr ""
-"J'ignore comment elle peut exister, vu que la graine sur Yrathis est sensée "
+"J'ignore comment elle peut exister, vu que la graine sur Yrathid est sensée "
 "avoir été entièrement absorbé par Merthiaal. Et encore, c'est aussi "
 "troublant que l'Uria que nous connaissons, aussi bien que ton alter ego sur "
 "Silida. Qui sait ce qui a pu traverser l'esprit des trois déesses qui ont "
@@ -17635,7 +17957,7 @@ msgstr ""
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:1594
 msgid "There is another Guardian of Earth like me?"
-msgstr "IL y a une autre Gardienne de la Terre comme moi?"
+msgstr "Il y a une autre Gardienne de la Terre comme moi?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:1601
@@ -17656,7 +17978,7 @@ msgid ""
 "competent aid than you."
 msgstr ""
 "C'est réellement décevant. Je suis presque certaine qu'elle serait d'une "
-"aide bien plus efficace  que toi."
+"aide bien plus efficace que toi."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:1611
@@ -17718,7 +18040,6 @@ msgstr ""
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:1641
-#, fuzzy
 msgid ""
 "In the worst case, one will win and reshape our reality at their whim. In "
 "the best case, they will only manage to destroy themselves along with Ethea. "
@@ -18941,7 +19262,7 @@ msgstr "Neutre"
 #. [side]
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:101
 msgid "team_name^Gatekeeper"
-msgstr "Portier"
+msgstr "Sentinelle"
 
 #. [message]: speaker=narrator
 #. The narrator refers to Elyssa in second person throughout
@@ -19153,7 +19474,7 @@ msgstr ""
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:823
 msgid "I have been awaiting your order to destroy the Gatekeeper, my lady."
-msgstr "J'attendais votre ordre pour detruire la Portière, madame."
+msgstr "J'attendais votre ordre pour detruire la Sentinelle, madame."
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:828
@@ -19269,7 +19590,7 @@ msgid ""
 "Your mission now is to slay the Gatekeeper. Bothering Uria again before you "
 "are done would be absurdly reckless."
 msgstr ""
-"Votre mission est maintenant de détruire le Gatekeeper. Déranger Uria avant "
+"Votre mission est maintenant de détruire la Sentinelle. Déranger Uria avant "
 "que ce ne soit fait serait totalement imprudent"
 
 #. [message]: speaker=Sheelevrea
@@ -19315,7 +19636,7 @@ msgstr "L'atmosphère anormale de cet endroit vous fait sentir incertaine."
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1372
 msgid "On the other side of the breach, the Gatekeeper on Ethea awaits..."
-msgstr "De l'autre côté de la brêche, la Portière sur Ethea attend..."
+msgstr "De l'autre côté de la brêche, la Sentinelle sur Ethea attend..."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1403
@@ -19355,8 +19676,8 @@ msgid ""
 "I asked the question first. I was told Gatekeepers are not sentient "
 "creatures."
 msgstr ""
-"J'ai posé la question en premier. J'ai entendu que les Portières ne sont pas "
-"des créatures sensibles."
+"J'ai posé la question en premier. J'ai entendu que les Sentinelles ne sont "
+"pas des créatures sensibles."
 
 #. [message]: speaker=Ethealim
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1498
@@ -19515,13 +19836,13 @@ msgid ""
 msgstr ""
 "Vous ne vous êtes pas sentie aussi stupide depuis longtemps. La ruse de "
 "Zhangor était trop évidente pour tomber dans le piège — Uria ne vous aurait "
-"pas demandé de détruire vous même la Portière si elle n'avait pas peur "
+"pas demandé de détruire vous même la Sentinelle si elle n'avait pas peur "
 "d'elle quelque part. Peut-être que si elle avait eu une conversation "
-"introspective avec la Portière, les choses aurait pu changer dans une "
+"introspective avec la Sentinelle, les choses aurait pu changer dans une "
 "certaine mesure. Peut_être...\n"
 "\n"
 "Mais non. Vous ne connaissez la démone et ses subordonnés que trop bien. "
-"N'importe quel avis donné par la Portière aurait été ignoré. En assumant "
+"N'importe quel avis donné par la Sentinelle aurait été ignoré. En assumant "
 "qu'Uria l'aie laissé parler en premier lieu."
 
 #. [message]: speaker=narrator
@@ -19568,8 +19889,8 @@ msgid ""
 "Not really. There was only one Gatekeeper and I was prepared to perform many "
 "more soul bind spells tonight."
 msgstr ""
-"Pas vraiment. C'était seulement une Portière et je voudrais réaliser le sort "
-"d'âmes liés quelques fois de plus."
+"Pas vraiment. C'était seulement une Sentinelle et je voudrais réaliser le "
+"sort d'âmes liés quelques fois de plus."
 
 #. [message]: speaker=Halbadrel
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:1993
@@ -19697,7 +20018,7 @@ msgid ""
 "The Gatekeeper on Ethea is no more, my lady. The breach from Urvatha is now "
 "clear for you to cross."
 msgstr ""
-"La Portière sur Ethea n'est plus, madame. Vous êtes libre de traverser la "
+"La Sentinelle sur Ethea n'est plus, madame. Vous êtes libre de traverser la "
 "brêche venant d'Urvatha."
 
 #. [message]: speaker=Uria
@@ -20010,7 +20331,7 @@ msgstr ""
 "L'aspect qui soutien la vie à travers l'amour, la flamme qui soutien la "
 "forge de la connaissance dans une réalité où l'ignorance a piégé ses "
 "habitants impuissants. Incarné par la Gardienne de la Flamme, aussi connue "
-"comme Shardia, Gardienne de la Flamme et de la Connaissance, Le Flamme de "
+"comme Shardia, Gardienne de la Flamme et de la Connaissance, La Flamme de "
 "l'Espoir, Déese de l'Amour. "
 
 #. [option]
@@ -20210,10 +20531,10 @@ msgstr ""
 "Toutefois, comme ils se complètent mutuellement, ils peuvents échanger leur "
 "rôles suivant les circonstances.\n"
 "\n"
-"Merthiaal, la Gardienne de l'Obscurité sur Yrathid fut la dernière gardienne "
+"Merthiaal, la Gardienne de l'Obscurité sur Yrathid fut la dernière Gardienne "
 "née durant le Premier Cycle, et en même temps, la première à périr. Bien que "
 "la guerre de Yarae n'avait pas encore débuté, il eut un rôle indirect dans "
-"la déchéance de Merthiaal. Les émotions de la jeune gardienne brouillèrent "
+"la déchéance de Merthiaal. Les émotions de la jeune Gardienne brouillèrent "
 "sa raison; la jalousie consumma son coeur en voyant la préférence de Yarae "
 "pour ses soeurs Uria et Xia'el.\n"
 "\n"
@@ -20539,9 +20860,9 @@ msgstr ""
 "Vous ne vous souciez pas d'eux car ils sont absolument inoffensif envers "
 "ceux qu'ils reconnaissent comme un des leurs, ou plus précisément, émettant "
 "le signal d'identification spécifique à leur corps biomécanique. "
-"Contrairement au Portier que vous venez de détruire, vous êtes absolument "
-"certaine que ces êtres artificiels n'ont pas d'âmes . Qu'ils aient une "
-"intelligence ou pas est une toute autre question, cependant."
+"Contrairement à la Sentinelle que vous venez de détruire, vous êtes "
+"absolument certaine que ces êtres artificiels n'ont pas d'âmes . Qu'ils "
+"aient une intelligence ou pas est une toute autre question, cependant."
 
 #. [message]: speaker=Argan
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3136
@@ -20779,7 +21100,7 @@ msgstr ""
 "vous a toujours considéré comme sa fille. Son manque d'empathie de plus en "
 "plus accrue ne lui a pas permis de voir que vous nourissiez d'autres "
 "sentiments envers lui. Bien que vous en étiez attristé au le début, vous "
-"comprîmes rapidement que c'est un autre prix d'être une gardienne. Pour le "
+"comprîmes rapidement que c'est un autre prix d'être une Gardienne. Pour le "
 "mettre en perspective, de tous les gardiens ayant vécu jusque là, seul la "
 "seconde incarnation de la Gardienne de la Flamme trouva le véritable amour "
 "avant de mourir dans d'étrange circonstances.\n"
@@ -20798,7 +21119,7 @@ msgid ""
 "disregard for ancient riddles and the absurd notion of fate."
 msgstr ""
 "C'est comme si vous perdiez votre temps avec cette introspection inutile "
-"depuis des mois, même si cela fait tout juste une heure. La Portière et "
+"depuis des mois, même si cela fait tout juste une heure. La Sentinelle et "
 "l'Oracle soient damnés. Ce serait plus simpe si vous pouviez vous focaliser "
 "uniquement sur le commandement de vos troupes et de détruire toute "
 "opposition avec un complet dédain pour les anciennes énigmes et la notion "
@@ -22716,17 +23037,17 @@ msgstr "Shergal"
 #. [unit]: type=Gutwrencher Imp, id=Kerberos
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:280
 msgid "Kerberos"
-msgstr ""
+msgstr "Kerberos"
 
 #. [unit]: type=Armageddon Imp, id=Amyat
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:294
 msgid "Amyat"
-msgstr ""
+msgstr "Amyat"
 
 #. [unit]: type=Armageddon Imp, id=Pejlahn
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:308
 msgid "Pejlahn"
-msgstr ""
+msgstr "Pejlahn"
 
 #. [objective]: condition=win
 #: After_the_Storm/episode3/scenarios/04_01_Outpost_of_Hell.cfg:611
@@ -26261,7 +26582,7 @@ msgid ""
 "well as those unfortunate witnesses of the lengthy battle between gods."
 msgstr ""
 "On dit qu'une force puissante au-delà de l'imagination le posséda ainsi que "
-"son Protecteur. Yarae se retourna contre les Premiers Dieux, et entra dans "
+"son Gardien. Yarae se retourna contre les Premiers Dieux, et entra dans "
 "notre univers pour invoquer le pouvoir des derniers démons contre les siens. "
 "Seul trois de nos gardiens refusèrent, conscients que lui désobéir "
 "constituait un péché impardonnable, et qu'elles n'avaient pas la moindre "
@@ -26270,7 +26591,7 @@ msgstr ""
 "Les Premiers Dieux restants ne virent d'autres options que de se sacrifier "
 "pour crée une entité qui rivaliserait avec le traître et ses créations "
 "corrompues: Iluvia,l'Avatar de l'Union de la Lumière et de l'Obscurité. Elle "
-"allait obtenir le soutien des trois gardiennes restées fidèles aux Premiers "
+"allait obtenir le soutien des trois Gardiennes restées fidèles aux Premiers "
 "Dieux et à leur projet: Uria, de la Vie, sa soeur de la Terre et de la "
 "Flamme des Arcanes, et sa soeur de l'Existence et des Secrets.\n"
 "\n"
@@ -31289,9 +31610,10 @@ msgstr ""
 "Kalari, et affronté le Conseil de Fer. Vous avez probablement réalisé que le "
 "Rubis n'est pas un simple joyau magique, mais vous ignorez peut-être toute "
 "l'étendue de son pouvoir. Il y a bien longtemps, un groupe de sorciers "
-"humains l'a créé et a tué le Portier d'Irdya, celui qui était chargé de "
+"humains l'a créé et a tué la Sentinelle d'Irdya, celui qui était chargé de "
 "garder l'entrée d'Inferno. Cette catastrophe et la disparition inexpliquée "
-"du Portier d'Inferno de l'autre côté a exposé ce monde à l'attention d'Uria."
+"de la Sentinelle d'Inferno de l'autre côté a exposé ce monde à l'attention "
+"d'Uria."
 
 #. [message]: speaker=Elorran
 #: After_the_Storm/episode2/scenarios/04_Shifting_Allegiances.cfg:914
@@ -31304,7 +31626,7 @@ msgid ""
 "Ethea. We do not know yet what her motives are — there may be something "
 "there which she could use against the few remaining gods who may oppose her."
 msgstr ""
-"Les multiples gardiens ont été créés à partir des restes de Delethia, la "
+"Les multiples sentinelles ont été créés à partir des restes de Delethia, la "
 "Gardienne des Secrets, la sœur d'Uria. Ils ont été affectés à des endroits "
 "différents afin de les protéger  et pour empêcher quoi que ce soit d'entrer "
 "ou de quitter Inferno. Mais Uria a compris cela, et elle veut le Rubis de "
