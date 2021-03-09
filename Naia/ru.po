@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-20 06:32 UTC\n"
-"PO-Revision-Date: 2020-08-26 12:13+0300\n"
+"PO-Revision-Date: 2021-03-20 10:14+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:228
@@ -2498,10 +2498,10 @@ msgstr ""
 "Во время, свободное от проповедей своим покорным последователям, Маги Хаоса "
 "применяют своё мастерство, чтобы поддерживать Имперские войска грозной "
 "инфернальной магией. За мощь, которую они несут, впрочем, приходится дорого "
-"платить: их тела постепенно поглощает сила, что не была предназначена для "
-"рода человеческого, оставляя их уязвимыми к некоторым видам магии. Именно "
-"поэтому исследование новых методов бессмертия становится их главной целью, "
-"если они хотят достигнуть — или даже превзойти — могущество их учителей."
+"платить: их тела постепенно поглощает сила, что не предназначалась для рода "
+"человеческого, оставляя их уязвимыми к некоторым видам магии. Именно поэтому "
+"исследование новых методов бессмертия становится их главной целью, если они "
+"хотят достигнуть — или даже превзойти — могущество своих учителей."
 
 #. [unit_type]: id=Chaos Marauder, race=human
 #: Naia/units/humans/Chaos_Marauder.cfg:5
@@ -3063,7 +3063,6 @@ msgid "sylvan spark"
 msgstr "лесное возрождение"
 
 #: Naia/macros/abilities.cfg:47
-#, fuzzy
 msgid ""
 "While in vegetated terrains, the unit will heal itself 5 HP per turn. If it "
 "is poisoned, it will remove the poison instead of healing."
@@ -3581,18 +3580,16 @@ msgstr ""
 "<i>Нисхождение Во Тьму</i>."
 
 #: Naia/macros/storytxt-common.cfg:37
-#, fuzzy
 msgid ""
 "Certain sequences make use of floating labels, halos, and standing unit "
 "animations, so you might want to make sure these options are enabled under "
 "<b>Preferences</b> → <b>Display</b>."
 msgstr ""
-"Рекомендованное разрешение экрана составляет <b>800x600 и больше</b>. "
 "Некоторые сцены используют плавающие метки, эффекты свечения и анимацию "
-"бойцов, так что удостоверьтесь, что они разрешены настройками (<b>Настройки</"
+"бойцов, поэтому удостоверьтесь, что они разрешены настройками (<b>Настройки</"
 "b> → <b>Графика</b>)."
 
-#. [advancement]: id={_ID}, description= 
+#. [advancement]: id={_ID}, description=
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr "‹Макс ОП +15%›"
