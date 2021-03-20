@@ -1,0 +1,54 @@
+#!/usr/bin/python3
+'''
+Translation catalogue check tool
+
+codename Naia - Project Ethea phase 1 campaigns shared library
+Copyright (C) 2021 by Iris Morelle <shadowm@wesnoth.org>
+
+See COPYING for usage terms.
+'''
+
+from argparse import ArgumentParser
+from pathlib import Path
+
+import os
+import re
+import subprocess
+import sys
+
+
+MSGFMT = '/usr/bin/msgfmt'
+
+
+def clone_environment(env):
+    new_env = os.environ.copy()
+    new_env.update(env)
+    return new_env
+
+
+if __name__ == '__main__':
+    argparser = ArgumentParser()
+    argparser.add_argument('input_file', metavar='INPUT_FILE')
+    args = argparser.parse_args()
+    file_path = Path(args.input_file)
+
+    try:
+        result = subprocess.run([MSGFMT, file_path, '--statistics', '-o', os.devnull],
+                                env=clone_environment({'LC_ALL': 'C'}),
+                                encoding='utf-8',
+                                stdout=subprocess.DEVNULL,
+                                stderr=subprocess.PIPE)
+        if result.returncode:
+            sys.exit('msgfmt failed with status {}'.format(result.returncode))
+        if result.stderr is None:
+            sys.exit('msgfmt did not say anything, big meanie!')
+
+        stats = result.stderr.splitlines()[0]
+        match = re.search(r'^([\d]+) translated[^,]+(?:, ([\d]+) fuzzy[^,]+(?:, ([\d]+) untranslated)?)?', stats)
+        if not match:
+            sys.exit('msgfmt is not GNU gettext, is too new, is too old, or is on drugs')
+        translated, fuzzy, untrans = [int(m) if m else 0 for m in match.group(1, 2, 3)]
+        total = translated + fuzzy + untrans
+        print(round(100 * translated / total))
+    except OSError as err:
+        sys.exit('could not run msgfmt: {}'.format(err))

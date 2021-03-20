@@ -3,10 +3,15 @@
 # 1.13.x and later).
 WMLXGETTEXT ?= wmlxgettext
 
+# Path to pocheck
+POCHECK ?= ./pocheck
+
 # Path to the add-ons root. It should contain directories matching the names
 # of the add-on translation directories found in this repository, so that the
 # WML tools can read Lua and WML files from them.
 ADDONS_PREFIX ?= ..
+
+TRANSLATION_THRESHOLD = 80
 
 SOURCES = \
 	Invasion_from_the_Unknown \
@@ -47,6 +52,12 @@ install: po-update
 		target_mo="$$target_dir/wesnoth-$$s.mo"; \
 		mkdir -p "$$target_dir"; \
 		echo "    INSTALL $$target_mo"; \
+		perc="`$(POCHECK) $$s/$$locale.po`"; \
+		if test $$? && test $$perc -lt $(TRANSLATION_THRESHOLD); then \
+			echo "*** Translation below threshold ($$perc%), removing from target..."; \
+			rm -f "$$target_mo"; \
+			continue; \
+		fi; \
 		cp -f "$$mo" "$$target_mo"; \
 		pbl="$$s/$$locale.pbltrans"; \
 		target_pbl="$(ADDONS_PREFIX)/$$s/translations/$$locale.pbltrans"; \
