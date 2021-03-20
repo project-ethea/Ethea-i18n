@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-14 07:00 UTC\n"
+"POT-Creation-Date: 2021-03-20 06:32 UTC\n"
 "PO-Revision-Date: 2020-07-09 06:46-0400\n"
 "Last-Translator: Iris Morelle <shadowm@wesnoth.org>\n"
 "Language-Team: Spanish <i18n@wesnoth.org>\n"
@@ -3161,8 +3161,9 @@ msgid "sylvan spark"
 msgstr "fulgor silvestre"
 
 #: Naia/macros/abilities.cfg:47
+#, fuzzy
 msgid ""
-"While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
+"While in vegetated terrains, the unit will heal itself 5 HP per turn. If it "
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
 "En terrenos con vegetación, la unidad recuperará 5 PV por turno. En cambio, "
@@ -3570,12 +3571,12 @@ msgstr "sólo ofensivo"
 msgid "This weapon will never be used on defense."
 msgstr "Este ataque jamás será utilizado en defensa."
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: Naia/macros/weapon-specials.cfg:60 Naia/macros/weapon-specials.cfg:61
 msgid "defend only"
 msgstr "sólo defensivo"
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: Naia/macros/weapon-specials.cfg:62 Naia/macros/weapon-specials.cfg:63
 msgid "This weapon will only be available for defense."
 msgstr "Este ataque sólo estará disponible en defensa."
@@ -3665,10 +3666,10 @@ msgstr ""
 "(opcionalmente) <i>Descenso a la oscuridad</i> antes de jugar esta campaña."
 
 #: Naia/macros/storytxt-common.cfg:37
+#, fuzzy
 msgid ""
-"A game screen resolution of <b>800x600 or greater</b> is recommended. Some "
-"sequences make use of floating labels, halos, and standing unit animations, "
-"so you might want to make sure these options are enabled under "
+"Certain sequences make use of floating labels, halos, and standing unit "
+"animations, so you might want to make sure these options are enabled under "
 "<b>Preferences</b> → <b>Display</b>."
 msgstr ""
 "Se recomienda una resolución de pantalla de juego de <b>al menos 800x600</"
@@ -3796,7 +3797,7 @@ msgid "Fake Shroud"
 msgstr "Oscuridad falsa"
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:105
+#: Naia/loader.cfg:122
 msgid "Project Ethea"
 msgstr "Proyecto Ethea"
 

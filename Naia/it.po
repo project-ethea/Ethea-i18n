@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-14 07:00 UTC\n"
+"POT-Creation-Date: 2021-03-20 06:32 UTC\n"
 "PO-Revision-Date: 2012-04-06 18:36+0100\n"
 "Last-Translator: Aleph <alemalito@hotmail.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -2640,7 +2640,7 @@ msgstr "scintilla delle foreste"
 #: Naia/macros/abilities.cfg:47
 #, fuzzy
 msgid ""
-"While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
+"While in vegetated terrains, the unit will heal itself 5 HP per turn. If it "
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
 "Scintilla delle foreste:\n"
@@ -3068,12 +3068,12 @@ msgstr ""
 "Esclusivamente in attacco:\n"
 "Quest’arma è disponibile solo per l’attacco."
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: Naia/macros/weapon-specials.cfg:60 Naia/macros/weapon-specials.cfg:61
 msgid "defend only"
 msgstr "esclusivamente in difesa"
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: Naia/macros/weapon-specials.cfg:62 Naia/macros/weapon-specials.cfg:63
 #, fuzzy
 msgid "This weapon will only be available for defense."
@@ -3162,9 +3162,8 @@ msgstr ""
 
 #: Naia/macros/storytxt-common.cfg:37
 msgid ""
-"A game screen resolution of <b>800x600 or greater</b> is recommended. Some "
-"sequences make use of floating labels, halos, and standing unit animations, "
-"so you might want to make sure these options are enabled under "
+"Certain sequences make use of floating labels, halos, and standing unit "
+"animations, so you might want to make sure these options are enabled under "
 "<b>Preferences</b> → <b>Display</b>."
 msgstr ""
 
@@ -3290,7 +3289,7 @@ msgid "Fake Shroud"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:105
+#: Naia/loader.cfg:122
 #, fuzzy
 msgid "Project Ethea"
 msgstr "Proteggeteli!"

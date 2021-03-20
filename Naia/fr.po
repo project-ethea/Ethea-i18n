@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fr_0.6.71\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-14 07:00 UTC\n"
+"POT-Creation-Date: 2021-03-20 06:32 UTC\n"
 "PO-Revision-Date: 2018-08-10 20:50+0100\n"
 "Last-Translator: \n"
 "Language-Team: french\n"
@@ -3072,8 +3072,9 @@ msgid "sylvan spark"
 msgstr "étincelle sylvaine"
 
 #: Naia/macros/abilities.cfg:47
+#, fuzzy
 msgid ""
-"While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
+"While in vegetated terrains, the unit will heal itself 5 HP per turn. If it "
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
 "Cette unité regagnera 5 points de vie par tour tant qu'elle se trouve sur un "
@@ -3479,12 +3480,12 @@ msgstr "offensif uniquement"
 msgid "This weapon will never be used on defense."
 msgstr "Cette arme ne sera jamais utilisée en défense."
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: Naia/macros/weapon-specials.cfg:60 Naia/macros/weapon-specials.cfg:61
 msgid "defend only"
 msgstr "défensif uniquement"
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: Naia/macros/weapon-specials.cfg:62 Naia/macros/weapon-specials.cfg:63
 msgid "This weapon will only be available for defense."
 msgstr "Cette arme ne peut être utilisée qu'en défense."
@@ -3573,10 +3574,10 @@ msgstr ""
 "campagne."
 
 #: Naia/macros/storytxt-common.cfg:37
+#, fuzzy
 msgid ""
-"A game screen resolution of <b>800x600 or greater</b> is recommended. Some "
-"sequences make use of floating labels, halos, and standing unit animations, "
-"so you might want to make sure these options are enabled under "
+"Certain sequences make use of floating labels, halos, and standing unit "
+"animations, so you might want to make sure these options are enabled under "
 "<b>Preferences</b> → <b>Display</b>."
 msgstr ""
 "une résolution de jeu de <b>800x600 ou supérieur</b> est recommandée. "
@@ -3704,7 +3705,7 @@ msgid "Fake Shroud"
 msgstr "Faux voile"
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:105
+#: Naia/loader.cfg:122
 msgid "Project Ethea"
 msgstr "projet Ethea"
 

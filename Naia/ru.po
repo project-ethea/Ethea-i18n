@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-14 07:00 UTC\n"
+"POT-Creation-Date: 2021-03-20 06:32 UTC\n"
 "PO-Revision-Date: 2020-08-26 12:13+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -3063,8 +3063,9 @@ msgid "sylvan spark"
 msgstr "лесное возрождение"
 
 #: Naia/macros/abilities.cfg:47
+#, fuzzy
 msgid ""
-"While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
+"While in vegetated terrains, the unit will heal itself 5 HP per turn. If it "
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
 "Растительная местность лечит этого воина на 5 ЗД за ход. Если он отравлен, "
@@ -3485,12 +3486,12 @@ msgstr "только атака"
 msgid "This weapon will never be used on defense."
 msgstr "Это оружие не может быть использовано при защите."
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: Naia/macros/weapon-specials.cfg:60 Naia/macros/weapon-specials.cfg:61
 msgid "defend only"
 msgstr "только защита"
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: Naia/macros/weapon-specials.cfg:62 Naia/macros/weapon-specials.cfg:63
 msgid "This weapon will only be available for defense."
 msgstr "Это оружие может быть использовано только при защите."
@@ -3580,10 +3581,10 @@ msgstr ""
 "<i>Нисхождение Во Тьму</i>."
 
 #: Naia/macros/storytxt-common.cfg:37
+#, fuzzy
 msgid ""
-"A game screen resolution of <b>800x600 or greater</b> is recommended. Some "
-"sequences make use of floating labels, halos, and standing unit animations, "
-"so you might want to make sure these options are enabled under "
+"Certain sequences make use of floating labels, halos, and standing unit "
+"animations, so you might want to make sure these options are enabled under "
 "<b>Preferences</b> → <b>Display</b>."
 msgstr ""
 "Рекомендованное разрешение экрана составляет <b>800x600 и больше</b>. "
@@ -3591,7 +3592,7 @@ msgstr ""
 "бойцов, так что удостоверьтесь, что они разрешены настройками (<b>Настройки</"
 "b> → <b>Графика</b>)."
 
-#. [advancement]: id={_ID}, description=
+#. [advancement]: id={_ID}, description= 
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr "‹Макс ОП +15%›"
@@ -3711,7 +3712,7 @@ msgid "Fake Shroud"
 msgstr "Ложная Мгла"
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:105
+#: Naia/loader.cfg:122
 msgid "Project Ethea"
 msgstr "Проект Этея"
 

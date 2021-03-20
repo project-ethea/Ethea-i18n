@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-08-14 07:00 UTC\n"
+"POT-Creation-Date: 2021-03-20 06:32 UTC\n"
 "PO-Revision-Date: 2008-12-30 08:03+0200\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
@@ -2382,7 +2382,7 @@ msgstr "canlanma"
 #: Naia/macros/abilities.cfg:47
 #, fuzzy
 msgid ""
-"While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
+"While in vegetated terrains, the unit will heal itself 5 HP per turn. If it "
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
 "Canlanma:\n"
@@ -2815,12 +2815,12 @@ msgstr ""
 "Salt saldırı:\n"
 "Bu silah asla saldırı amaçlı kullanılmaz."
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: Naia/macros/weapon-specials.cfg:60 Naia/macros/weapon-specials.cfg:61
 msgid "defend only"
 msgstr "salt savunma"
 
-#. [damage]: id=attack_only
+#. [damage]: id=defend_only
 #: Naia/macros/weapon-specials.cfg:62 Naia/macros/weapon-specials.cfg:63
 #, fuzzy
 msgid "This weapon will only be available for defense."
@@ -2905,9 +2905,8 @@ msgstr ""
 
 #: Naia/macros/storytxt-common.cfg:37
 msgid ""
-"A game screen resolution of <b>800x600 or greater</b> is recommended. Some "
-"sequences make use of floating labels, halos, and standing unit animations, "
-"so you might want to make sure these options are enabled under "
+"Certain sequences make use of floating labels, halos, and standing unit "
+"animations, so you might want to make sure these options are enabled under "
 "<b>Preferences</b> → <b>Display</b>."
 msgstr ""
 
@@ -3032,7 +3031,7 @@ msgid "Fake Shroud"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:105
+#: Naia/loader.cfg:122
 #, fuzzy
 msgid "Project Ethea"
 msgstr "Onları koruyun!"
