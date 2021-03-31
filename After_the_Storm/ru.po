@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-15 03:59 UTC\n"
-"PO-Revision-Date: 2021-02-15 22:38+0300\n"
+"PO-Revision-Date: 2021-03-31 22:52+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -77,8 +77,8 @@ msgid ""
 "dazed: This unit is dazed. It suffers a -10% penalty to both its defense and "
 "chance to hit (except for magical attacks)."
 msgstr ""
-"частичное ослепление: Этот боец частично ослеплён. Его защита и вероятность "
-"попадания при атаке (кроме магических атак) уменьшаются на 10%."
+"ослепление: Этот боец частично ослеплён. Его защита и вероятность попадания "
+"при атаке (кроме магических атак) уменьшаются на 10%."
 
 #: After_the_Storm/lua/theme.lua:23
 msgid ""
@@ -9927,7 +9927,7 @@ msgstr ""
 #. [dummy]: id=daze
 #: After_the_Storm/macros/weapon-specials.cfg:57
 msgid "daze"
-msgstr "частичное ослепление"
+msgstr "ослепление"
 
 #. [dummy]: id=daze
 #: After_the_Storm/macros/weapon-specials.cfg:58
@@ -15902,8 +15902,7 @@ msgstr "Я должна найти Элиссу. Она должна быть з
 #. Elyssa speaking here.
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4078
 msgid "<i>Did you know that this entire land used to be a huge empire?</i>"
-msgstr ""
-"<i>Вы знаете, что когда-то эта местность принадлежала огромной империи?</i>"
+msgstr "<i>Знали ли вы, что однажды все эти земли были великой империей?</i>"
 
 #. [message]: speaker=narrator
 #. Elyssa speaking to Argan here.
