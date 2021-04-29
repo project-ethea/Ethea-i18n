@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: After_the_Storm-1.10\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-04-29 07:40 UTC\n"
-"PO-Revision-Date: 2021-03-05 20:33+0100\n"
+"PO-Revision-Date: 2021-04-29 17:24+0100\n"
 "Last-Translator: \n"
 "Language-Team: french\n"
 "Language: fr\n"
@@ -1468,6 +1468,27 @@ msgid ""
 "causing otherwise unexplained weather occurrences near bodies of water, "
 "especially in the open ocean."
 msgstr ""
+"Alors que les fées de la forêt profonde, les hamadryades et les oreads sont "
+"surtout connues pour le peu que tout le monde sait à leur sujet, la nature "
+"insaisissable des fées aquatiques connues sous le nom de «naïades» parvient "
+"à les surpasser toutes de loin.\n"
+"\n"
+"Même s'ils sont connus pour partager leur habitat naturel avec d'autres "
+"créatures intelligentes des rivières et des mers telles que les ondins et "
+"les nagas, ceux-ci ont très peu d'informations supplémentaires à offrir. On "
+"pense que les naïades possèdent une forme de métamorphose qui leur permet de "
+"se fondre dans l'eau et de ne pas être détectés, sauf par ceux qui "
+"connaissent la magie des fées.\n"
+"\n"
+"Les rares exemples enregistrés de certaines rencontres naïades suggèrent "
+"qu'il s'agit de nymphes solitaires qui n'entrent jamais en contact avec "
+"personne - même les fées - sauf en tant que messagers de la nature à des "
+"périodes où l'existence même d'Irdya est en jeu, et même alors, elles "
+"partent aussi soudainement qu'elles apparaissent sans jamais prendre parti "
+"dans les conflits armés. Cela dit, certains ont suggéré qu'elles pourraient "
+"parfois prendre les choses en main en provoquant des événements "
+"météorologiques autrement inexpliqués à proximité de plans d'eau, en "
+"particulier en haute mer."
 
 #. [attack]: type=impact
 #: After_the_Storm/units/faeries/Naiad.cfg:53
@@ -13506,6 +13527,19 @@ msgid ""
 "name was known to anyone in existence — “Mintha” was the first thing that "
 "came to the shapeshifter’s mind, and she seemed fond of it."
 msgstr ""
+"L' Innomé était tout aussi stupéfait par la beauté de la nymphe qu'elle "
+"l'était par la sienne. Elle s'est demandés qu'elle était son histoire - "
+"quelles circonstances auraient pu l'amener dans un endroit éloigné comme "
+"celui-là, loin de toute sorte de civilisation? Et pourquoi elle, fille libre "
+"d'un monde intact, déciderait-elle de prendre pitié d'une créature qui "
+"n'existait que dans le but d'infliger une punition au nom d'une déesse de la "
+"mort?\n"
+"\n"
+"Malheureusement pour eux, elle ne serait jamais en mesure de répondre à ces "
+"questions, car le cadeau qui lui a permis de donner une seconde chance à "
+"cette personne spéciale est venu avec l'incapacité totale à émettre un son. "
+"Personne ne connaissait même son nom de naissance - «Mintha» était la "
+"première chose qui vint à l’esprit du métamorphe, et elle semblait l’aimer."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2005
@@ -13519,6 +13553,15 @@ msgid ""
 "turn showed them Irdya as it was, and as it is — a world of endless strife, "
 "yet also endless beauty."
 msgstr ""
+"La barrière de la langue n'a pas empêché le couple de trouver un terrain "
+"d'entente. Le métamorphe a vite compris que Mintha avait ses propres moyens "
+"de communiquer avec les autres, et elle avait hâte d'être avec quelqu'un qui "
+"ne l'évitait pas juste à cause de ce qu'il était. Même si elle ne pouvait "
+"pas leur raconter sa propre histoire, elle était heureuse d'écouter le Sans-"
+"Nom lui dire tout sur la vaste inconnue qui se trouvait bien au-delà "
+"d'Irdya. Et à son tour, elle lui a montré Irdya telle qu'elle était, et "
+"telle qu'elle est - un monde de conflits sans fin, mais aussi d'une beauté "
+"sans fin."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2010
@@ -13530,6 +13573,13 @@ msgid ""
 "themselves acquiescing to Mintha’s heart desire, and her body would be the "
 "one to carry the creature born from their love."
 msgstr ""
+"Avec le temps, le métamorphe et la nymphe sont devenus amoureux l'un de "
+"l'autre. Pour le Sans-Nom, la notion d'avoir un enfant de son plein gré lui "
+"était complètement étrangère, car leur espèce n'était élevée que lorsque les "
+"seigneurs démons l'exigeaient, et seulement les uns avec les autres. "
+"Néanmoins, ils se sont rapidement retrouvés à acquiescer au désir du cœur de "
+"Mintha, et son corps serait celui qui porterait la créature née de leur "
+"amour."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2019
@@ -13542,6 +13592,8 @@ msgstr "Qu'avons-nous fait ?"
 msgid ""
 "I apologize. Like I said, I can only answer one question about the past."
 msgstr ""
+"Je m'excuse. Comme je l'ai dit, je ne peux répondre qu'à une seule question "
+"sur le passé."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2029
@@ -13549,12 +13601,14 @@ msgid ""
 "Well, excuse me if I don’t believe you right now! Surely your goddess must "
 "have imparted the full story to you!"
 msgstr ""
+"Eh bien, excusez-moi si je ne vous crois pas maintenant! Votre déesse a "
+"sûrement dû vous raconter toute l'histoire!"
 
 #. [message]: speaker=Daeira
 #. She is not saying "no". This becomes relevant later.
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2035
 msgid "I am just a medium and your particular question is already answered."
-msgstr ""
+msgstr "Je ne suis qu'un médium et votre question a déjà reçu une réponse."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2045
@@ -13562,11 +13616,15 @@ msgid ""
 "If you must hear the whole story I am afraid you are going to have to ask "
 "the Goddess for the rest."
 msgstr ""
+"Si vous devez entendre toute l'histoire, je crains que vous ne deviez "
+"demander le reste à la Déesse."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2050
 msgid "Well, I would if I knew who she is or how to communicate with her!!!"
 msgstr ""
+"Eh bien, je le ferais si je savais qui elle est ou comment communiquer avec "
+"elle !!!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2055
@@ -13574,6 +13632,9 @@ msgid ""
 "Our kind knows her as Xia’el. Her true name is known by only a counted few, "
 "and her domain lies somewhere completely beyond our reach."
 msgstr ""
+"Notre espèce la connaît sous le nom de Xia’el. Son vrai nom n'est connu que "
+"par quelques-uns, et son domaine se trouve quelque part complètement hors de "
+"notre portée."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2060
@@ -13581,11 +13642,13 @@ msgid ""
 "If that is so then how am I supposed to get there and punch her in the face "
 "for telling me an incomplete story?!"
 msgstr ""
+"Si tel est le cas, comment suis-je censé y arriver et la frapper au visage "
+"pour m'avoir raconté une histoire incomplète?!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2065
 msgid "Everything is possible if you set your mind to it!"
-msgstr ""
+msgstr "Tout est possible si vous y pensez!"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2070
@@ -13595,11 +13658,15 @@ msgid ""
 "don’t need this right now. I’m sorry for sounding so frustrated. It’s all "
 "just... a lot for me to handle."
 msgstr ""
+"N'<i> osez </i> pas être sarcastique comme une sorte d’ancienne fée "
+"mythique… de l’eau… qui sait mieux qu’un enfant comme moi… Argh! Je ... je "
+"n’ai pas besoin de ça pour le moment. Je suis désolé d'avoir l'air si "
+"frustré. C'est juste ... beaucoup de choses à gérer pour moi."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2084
 msgid "Did Elynia ever love anyone besides Argan?"
-msgstr ""
+msgstr "Elynia a-t-elle déjà aimé quelqu'un à part Argan?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2089
@@ -13607,12 +13674,16 @@ msgid ""
 "Of all the questions you could have asked, are you absolutely sure that is "
 "the one you want answered?"
 msgstr ""
+"De toutes les questions que vous auriez pu poser, êtes-vous absolument sûr "
+"que c'est celle à laquelle vous voulez une réponse?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2094
 msgid ""
 "I... Well... That just came to mind, that’s all. Should I ask something else—"
 msgstr ""
+"Je ... Eh bien ... Cela m'est venu à l'esprit, c'est tout. Dois-je demander "
+"autre chose -"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2099
@@ -13620,6 +13691,8 @@ msgid ""
 "One question, not two. You already asked the question, and so I must deliver "
 "the answer."
 msgstr ""
+"Une question, pas deux. Vous avez déjà posé la question et je dois donc vous "
+"apporter la réponse."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2104
@@ -13628,6 +13701,9 @@ msgid ""
 "both before and after meeting Argan. Her first lover was a young human by "
 "the name of—"
 msgstr ""
+"Elynia-Thanadria a eu toutes sortes d'amoureux à l'âge d'or, à la fois avant "
+"et après avoir rencontré Argan. Son premier amant était un jeune humain du "
+"nom de -"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2109
@@ -13635,11 +13711,13 @@ msgid ""
 "NO! Stop! I changed my mind, I don’t want to know. That’s not what I really "
 "meant to ask specifically anyway."
 msgstr ""
+"NON! Arrêter! J'ai changé d'avis, je ne veux pas savoir. Ce n’est pas ce que "
+"je voulais vraiment demander de toute façon."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2114
 msgid "I know the answer to your real question though."
-msgstr ""
+msgstr "Je connais cependant la réponse à votre vraie question."
 
 #. [message]: speaker=Anya
 #. [message]: speaker=Elynia
@@ -13655,6 +13733,8 @@ msgid ""
 "You wanted to know if she ever had a more intimate relationship with other "
 "faeries, did you not?"
 msgstr ""
+"Vous vouliez savoir si elle avait jamais eu une relation plus intime avec "
+"d'autres fées, n'est-ce pas?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2131
@@ -13662,11 +13742,13 @@ msgid ""
 "AAAAAAAAAAAAAAAAAAAAHHHHHH!!! Look over there, it’s one of those... "
 "demolisher monsters! It’s very, veeeeery slowly heading towards us!"
 msgstr ""
+"AAAAAAAAAAAAAAAAAAAAHHHHHH !!! Regardez là-bas, c’est un de ces ... monstres "
+"démolisseurs! C’est très très lent et ça se dirige vers nous!"
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2139
 msgid "Was Zhangor responsible for the Great Fall?"
-msgstr ""
+msgstr "Zhangor était-il responsable du Grand Déclin?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2144
@@ -13674,11 +13756,13 @@ msgid ""
 "That is an interesting question for you ask. I did not take you for someone "
 "who would be interested in the history of this world."
 msgstr ""
+"C'est une question intéressante que vous vous posez. Je ne vous aurais pas "
+"pris pour quelqu'un qui s'intéresserait à l'histoire de ce monde."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2149
 msgid "... Look, I know I’m more than a bit dumb at times—"
-msgstr ""
+msgstr "... Ecoute, je sais que je suis parfois plus qu'un peu stupide -"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2154
@@ -13686,6 +13770,9 @@ msgid ""
 "What I mean is you are an <i>outsider</i>. You may have been born on Irdya, "
 "but you do not feel as though you belong here, do you?"
 msgstr ""
+"Ce que je veux dire, c'est que vous êtes une <i> étrangère </i>. Vous êtes "
+"peut-être né sur Irdya, mais vous ne vous sentez pas à votre place ici, "
+"n'est-ce pas?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2159
@@ -13693,6 +13780,8 @@ msgid ""
 "... I guess I really... don’t. How can you read me so well? I mean, besides "
 "the whole business with you spying on us."
 msgstr ""
+"... Je suppose que je vraiment ... non. Comment pouvez-vous me lire si bien? "
+"Je veux dire, en plus de nous espionner."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2164
@@ -13702,6 +13791,11 @@ msgid ""
 "the fact that we are both daughters of Darkness in some way. Water and Earth "
 "have got to meet each other at some point, after all. But I digress."
 msgstr ""
+"Il y a quelque chose d'étonnant à raconter chez vous, même si ma vie jusqu'à "
+"présent a été une vie de solitude totale et la vôtre le contraire. C'est "
+"peut-être le fait que nous sommes toutes les deux filles des Ténèbres d'une "
+"manière ou d'une autre. L'eau et la Terre doivent se rencontrer à un moment "
+"donné, après tout. Mais je m'éloigne du sujet."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2169
@@ -13714,6 +13808,13 @@ msgid ""
 "not and will likely never become: a god. So, the answer to your question is "
 "no."
 msgstr ""
+"Le Seigneur Démon Zhangor peut être beaucoup de choses, mais il n'est pas un "
+"intrigant patient. Il a reçu des informations sur un événement crucial par "
+"une source qui transcende le temps, et il a fait ce qu'il jugeait bon avec "
+"ces informations. Sa soif de pouvoir l'a amené à établir son culte à "
+"Wesmere, mais il ignorait largement ce qu'il faisait au-delà de tenter de "
+"devenir quelque chose qu'il n'est pas et ne deviendra probablement jamais: "
+"un dieu. Donc, la réponse à votre question est non."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2174
@@ -13722,16 +13823,19 @@ msgid ""
 "of the second sun and the Fall of the third. The Wesnothians could not "
 "possibly have figured it out all on their own, could they?"
 msgstr ""
+"Mais qui était responsable alors? Tout semble si artificiel - à la fois la "
+"création du deuxième soleil et la chute du troisième. Les Wesnothiens "
+"n'auraient pas pu tout comprendre par eux-mêmes, n'est-ce pas?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2179
 msgid "One question, one answer."
-msgstr ""
+msgstr "Une question, une réponse."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2184
 msgid "Oh, come on!"
-msgstr ""
+msgstr "Oh, allez!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2189
@@ -13742,6 +13846,12 @@ msgid ""
 "hands and eyes having the power to weave the threads of fate into something "
 "larger would be too terrifying to consider for mere mortals, after all."
 msgstr ""
+"Cela vaut peut-être la peine d’y réfléchir. Certains croient que leur vie "
+"est entièrement leur propre fait, que le destin n'existe pas et que notre "
+"réalité n'est que le produit du hasard. La possibilité d'une force invisible "
+"avec de nombreuses mains et yeux ayant le pouvoir de tisser les fils du "
+"destin en quelque chose de plus grand serait trop terrifiante à considérer "
+"pour de simples mortels, après tout."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2194
@@ -13749,6 +13859,9 @@ msgid ""
 "I’m not sure I understand what you are suggesting... That all events as they "
 "have come to pass were preordained by an entity with a will of its own?"
 msgstr ""
+"Je ne suis pas sûr de comprendre ce que vous suggérez ... Que tous les "
+"événements tels qu’ils se sont produits aient été préordonnés par une entité "
+"ayant sa propre volonté?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2199
@@ -13757,6 +13870,9 @@ msgid ""
 "can tell you for certain that this hypothetical agent is not being "
 "manipulated by a higher entity themselves?"
 msgstr ""
+"Mais même si vous considérez l'existence d'un tel être, y a-t-il quelqu'un "
+"qui puisse vous dire avec certitude que cet agent hypothétique n'est pas "
+"elle-même manipulé par une entité supérieure?"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2204
@@ -13764,11 +13880,13 @@ msgid ""
 "... This is seriously messing with my head. Can we <i>please</i> stop now? I "
 "don’t want to go into battle with a migraine."
 msgstr ""
+"... Cela me dérange sérieusement la tête. Pouvons-nous <i> s'il vous plaît </"
+"i> arrêter maintenant? Je ne veux pas me battre avec la migraine."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2212
 msgid "Is there cake in the Iron Council’s citadel?"
-msgstr ""
+msgstr "Y a-t-il du gâteau dans la citadelle du Conseil de fer?"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2241
@@ -13776,11 +13894,13 @@ msgid ""
 "... There has been cake in the citadel countless times, so I would venture "
 "to say there may be some in there right now."
 msgstr ""
+".. Il y a eu un nombre incalculable de gâteaux dans la citadelle, alors "
+"j'ose dire qu'il y en a peut-être là en ce moment."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2246
 msgid "YES!"
-msgstr ""
+msgstr "OUI!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2256
@@ -13788,6 +13908,8 @@ msgid ""
 "It is time, then. The Demon Lord Ergea has already informed you of what you "
 "must do next. I shall do my part."
 msgstr ""
+"Il est donc temps. Le seigneur démon Ergea vous a déjà informé de ce que "
+"vous devez faire ensuite. Je ferai ma part également."
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2268
@@ -13797,6 +13919,10 @@ msgid ""
 "increases their hitpoints by 15%, and their resistance to non-arcane damage "
 "by 5%."
 msgstr ""
+"Toutes les fées que vous contrôlez actuellement sur la carte ou votre liste "
+"de rappel ont maintenant le trait <b> allumé </b>, qui leur permet d'ignorer "
+"les pénalités de temps de la journée, augmente leurs points de vie de 15% et "
+"leur résistance aux dégâts non arcanes de 5%."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2278
@@ -13805,16 +13931,20 @@ msgid ""
 "land, but the Iron Council’s citadel is built on the riverside. You may be "
 "able to use this to your advantage later."
 msgstr ""
+"Les anciens alliés veulent vous soutenir dans la bataille à venir. Ils "
+"peuvent lutter sur terre, mais la citadelle du Conseil de fer est construite "
+"au bord de la rivière. Vous pourrez peut-être utiliser cela à votre avantage "
+"plus tard."
 
 #. [then]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2289
 msgid "Promien"
-msgstr ""
+msgstr "Promien"
 
 #. [then]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2292
 msgid "Thyon"
-msgstr ""
+msgstr "Thyon"
 
 #. [then]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2295
@@ -13825,32 +13955,32 @@ msgstr "Naron"
 #. [then]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2298
 msgid "Cadmus"
-msgstr ""
+msgstr "Cadmus"
 
 #. [then]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2301
 msgid "Electra"
-msgstr ""
+msgstr "Electra"
 
 #. [then]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2305
 msgid "Luna"
-msgstr ""
+msgstr "Luna"
 
 #. [then]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2308
 msgid "Merope"
-msgstr ""
+msgstr "Merope"
 
 #. [then]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2312
 msgid "Orion"
-msgstr ""
+msgstr "Orion"
 
 #. [message]: speaker=Orion
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2317
 msgid "The reckoning with these monsters is at hand, brothers and sisters!"
-msgstr ""
+msgstr "Le règlement de compte avec ces monstres est proche, frères et sœurs!"
 
 #. [message]: speaker=Luna
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2322
@@ -13858,6 +13988,8 @@ msgid ""
 "Purge the unholy beasts from our waters and help the northerners seize "
 "Uria’s dark citadel!"
 msgstr ""
+"Purgez les bêtes impies de nos eaux et aidez les nordistes à s'emparer de la "
+"sombre citadelle d'Uria!"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2346
@@ -13868,12 +14000,12 @@ msgstr "Ce serait un honneur de combattre à vos côtés, Sir."
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2351
 msgid "Oh! We would be honored to have you by our side... er..."
-msgstr ""
+msgstr "Oh! Nous serions honorés de vous avoir à nos côtés ... euh ..."
 
 #. [modify_unit]
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2358
 msgid "Daeira"
-msgstr ""
+msgstr "Daeira"
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2363
@@ -13881,6 +14013,8 @@ msgid ""
 "Daeira. Few creatures on this world have ever heard my name and even fewer "
 "have lived to tell others of my existence."
 msgstr ""
+"Daeira. Peu de créatures sur ce monde ont jamais entendu mon nom et encore "
+"moins ont vécu pour raconter mon existence aux autres."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2368
@@ -13888,6 +14022,8 @@ msgid ""
 "Um... all right! I think I’ve kept Ergea and the others waiting long enough, "
 "so... time to go, I think."
 msgstr ""
+"Euh ... d'accord! Je pense que j'ai fait attendre Ergea et les autres assez "
+"longtemps, alors ... il est temps de partir, je pense."
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2374
@@ -13895,11 +14031,13 @@ msgid ""
 "And now, I must leave. Farewell, Anya, and may Xia’el’s blessings accompany "
 "you on this fight."
 msgstr ""
+"Et maintenant, je dois partir. Adieu, Anya, et que les bénédictions de "
+"Xia’el vous accompagnent dans ce combat."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2397
 msgid "... I think I’ve kept Ergea and the others waiting long enough."
-msgstr ""
+msgstr "... Je pense avoir fait attendre Ergea et les autres assez longtemps."
 
 #. [message]: speaker=Ergea
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2420
@@ -14355,7 +14493,7 @@ msgstr "Le goût revigorant de cette potion soigne l'unité de 1 PV."
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1548
 msgid "Legendary Sword"
-msgstr ""
+msgstr "Épée légendaire"
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1550
@@ -14367,6 +14505,13 @@ msgid ""
 "than a small rock in combat — not that Elynia has any units that are trained "
 "in sword-fighting anyway."
 msgstr ""
+"Cette épée, oubliée par le temps, appartenait autrefois à un héros "
+"légendaire qui est probablement mort d'une manière glorieuse et digne comme "
+"les vrais héros ont coutume de le faire. Malheureusement, depuis lors, elle "
+"a rouillé au-delà de l'utilisation, et lorsque l'unité la ramasse, elle se "
+"brise en deux. L'épée n'est maintenant que légèrement meilleure qu'un petit "
+"rocher au combat - pas qu'Elynia ait de toute façon des unités entraînées au "
+"combat à l'épée."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:1597
@@ -14520,12 +14665,12 @@ msgstr "Mal Gulgolet"
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2182
 msgid "Council Chamber"
-msgstr ""
+msgstr "Salle du Conseil"
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2183
 msgid "Abandoned Council Chamber"
-msgstr ""
+msgstr "Salle du Conseil abandonnée"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_1.cfg:2224
@@ -16042,6 +16187,9 @@ msgid ""
 "ŋ ½5 °5 é’   ⅞ Ý  T*  4    $$º ©      ŕ     `¬     _ē → fv     ’     "
 "±        ¡"
 msgstr ""
+"En tant qu'unité de bas niveau sous votre contrôle, Elynia n'a pas de <b> "
+"Avancements de niveau maximum (AMLA) </b> spéciaux. Vous pouvez en savoir "
+"plus sur ceux-ci en"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:3573
@@ -16569,7 +16717,7 @@ msgstr ""
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:4740
 msgid "... I give up. You are beyond useless."
-msgstr ""
+msgstr "... J'abandonne. Vous êtes au-delà de l'inutilité."
 
 #. [scenario]: id=13_Epilogue
 #. [part]
@@ -17022,6 +17170,14 @@ msgid ""
 "part responsible for bringing the people who ultimately doomed us all to the "
 "throne of Wesnoth."
 msgstr ""
+"<i> (soupire) </i> Je suppose que je le suis toujours. Vous pourriez appeler "
+"cela un mécanisme d'adaptation, je suppose. À l’origine, je suis devenu un "
+"druide pour aider les autres, pas pour prendre la vie des gens. Tout ce bain "
+"de sang ... cela aurait pu être évité si je n'avais pas fait tous les choix "
+"terribles qui m'ont conduit ici - les mêmes choix qui ont conduit à la chute "
+"de ce monde. Personne à cette époque ne s'en souviendrait, mais je suis en "
+"grande partie responsable d'avoir mené les gens qui nous ont finalement tous "
+"condamnés au trône de Wesnoth."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:429
@@ -17032,6 +17188,12 @@ msgid ""
 "doing the killing, you are watching someone else do it for you. Sometimes it "
 "may even seem like an enticing distraction from your own thoughts."
 msgstr ""
+"Lorsque vous êtes obligé de vivre avec les conséquences de vos erreurs, "
+"quand ce n’est pas dans votre nature de tuer mais que vous n’avez pas le "
+"choix ... vous commencez à mettre la réalité de côté juste pour vous garder "
+"en un seul morceau. Au lieu d'être celui qui commet le meurtre, vous "
+"regardez quelqu'un d'autre le faire pour vous. Parfois, cela peut même "
+"sembler une distraction alléchante de vos propres pensées."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:434
@@ -17368,7 +17530,7 @@ msgstr ""
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:733
 msgid "So, did you solve your little problem with that staff?"
-msgstr ""
+msgstr "Alors, avez-vous résolu votre petit problème avec ce bâton?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:738
@@ -17377,6 +17539,9 @@ msgid ""
 "adjustments to my shielding spell, I can channel the staff’s aura and become "
 "immune to poison myself!"
 msgstr ""
+"Hé bien oui. C’est assez intéressant, en fait. Il s'avère qu'avec quelques "
+"ajustements à mon sort de bouclier, je peux canaliser l'aura du bâton et "
+"devenir immunisé contre l'empoisonnement moi-même!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:743
@@ -17384,6 +17549,8 @@ msgid ""
 "... And that would be why you asked me to heal you from the symptoms of a "
 "‘cold’ at least ten times during the day, right?"
 msgstr ""
+"... Et c’est pourquoi vous m’avez demandé de vous guérir des symptômes d’un "
+"«rhume» au moins dix fois par jour, non?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:748
@@ -17399,11 +17566,17 @@ msgid ""
 "know exactly how that staff works or whether it might be hazardous to its "
 "user. Just... be careful when using it near our people, please?"
 msgstr ""
+"Je veux dire, si vous pensez qu’il est sûr d’utiliser cet artefact comme ça, "
+"je ne suis pas en mesure de vous arrêter. Ma connaissance de la nécromancie "
+"n'est pas suffisamment exhaustive pour savoir exactement comment fonctionne "
+"ce bâton ou si cela peut être dangereux pour son utilisateur. Faites "
+"juste ... soyez prudent lorsque vous l'utilisez à proximité de nos gens, "
+"d'accord?"
 
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:758
 msgid "I will be, my lady, don’t worry!"
-msgstr ""
+msgstr "Je le serai, ma dame, ne vous inquiétez pas!"
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:775
@@ -17414,7 +17587,7 @@ msgstr "Parler à Irylean"
 #. [option]
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:778
 msgid "Ask Igor about his time in the northern country."
-msgstr ""
+msgstr "Interrogez Igor sur son séjour dans le nord du pays."
 
 #. [option]
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:781
@@ -17425,7 +17598,7 @@ msgstr "Demander à Cron sur Ergea."
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:791
 msgid "Everything all right, Igor?"
-msgstr ""
+msgstr "Tout va bien, Igor?"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:796
@@ -17433,11 +17606,13 @@ msgid ""
 "Yes... I guess. It’s just that I can’t stop thinking... The elf friend died "
 "in these lands."
 msgstr ""
+"Oui je suppose. C’est juste que je ne peux pas arrêter d'y penser… L’ami "
+"elfe est mort sur ces terres."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:801
 msgid "... Yes. Yes, he did. I am sorry, I couldn’t do anything—"
-msgstr ""
+msgstr "... Oui. C'est ici. Je suis désolé, je n'ai rien pu faire -"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:806
@@ -17447,6 +17622,10 @@ msgid ""
 "it. Quickly, cleanly. Their prey falls to the ground already dead. You can’t "
 "heal the dead. Nobody can."
 msgstr ""
+"Non, vous ne pouviez rien faire. La dame démon savait ce qu'elle faisait. "
+"Elle est une assassin formée ou quelque chose comme ça, n'est-ce pas? J'ai "
+"vu comment les miens font. Rapidement, proprement. Leur proie tombe au sol "
+"déjà morte. Vous ne pouvez pas guérir les morts. Personne ne le peut."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:811
@@ -17454,6 +17633,8 @@ msgid ""
 "I just regret not coming with you... Maybe then things would’ve turned out "
 "different, you know. If we had all been together?"
 msgstr ""
+"Je regrette juste de ne pas être venu avec vous ... Peut-être qu'alors les "
+"choses auraient changé, vous savez. Si nous avions tous été ensemble?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:816
@@ -17463,6 +17644,10 @@ msgid ""
 "pull all three of us out of that accursed citadel in one piece. Mal Keshar "
 "barely made it."
 msgstr ""
+"Peut-être. Cependant, je ne pense pas que cela aurait changé grand-chose. De "
+"toute façon, vous auriez également été en danger et je ne pense pas que "
+"j'aurais pu réussir à nous tirer tous les trois de cette maudite citadelle "
+"en un seul morceau. Mal Keshar a à peine réussi."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:821
