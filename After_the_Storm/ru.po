@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-04-29 07:40 UTC\n"
-"PO-Revision-Date: 2021-03-31 22:52+0300\n"
+"PO-Revision-Date: 2021-04-29 22:51+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -1442,6 +1442,25 @@ msgid ""
 "causing otherwise unexplained weather occurrences near bodies of water, "
 "especially in the open ocean."
 msgstr ""
+"В то время, как файери глубоких лесов, гамадриады и ореады известны всего "
+"тем, что о них почти ничего не известно, ускользающей природе водных файери "
+"— известных как “наяды” — удаётся превзойти их всех.\n"
+"\n"
+"Пусть даже мы знаем, что они делят свою среду обитания с иными разумными "
+"морскими и речными существами, такими как водяные или наги, те едва ли "
+"предоставят какие-то новые сведения. Считается, что наяды владеют какого-то "
+"рода навыком превращения, который позволяет им сливаться с водой и "
+"оставаться незамеченными никем, кроме глубоко проникшихся волшебством "
+"файери.\n"
+"\n"
+"Невероятно редкие описанные случаи встреч с наядами дают основания полагать, "
+"что они — одинокие нимфы, которые никогда не имеют дел с другими — даже с "
+"файери — кроме как если они выступают посланцами природы во времена, когда "
+"само существование Ирдии оказывается под угрозой, и даже тогда они исчезают "
+"так быстро, как появляются, никогда не занимая сторон в вооружённых "
+"противостояниях. Учитывая это, предполагается, что они время от времени "
+"могут брать дела в свои руки путём вызова необъяснимых иным образом погодных "
+"явлений в окрестности водоёмов, особенно в открытом океане."
 
 #. [attack]: type=impact
 #: After_the_Storm/units/faeries/Naiad.cfg:53
@@ -3572,9 +3591,8 @@ msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:304
-#, fuzzy
 msgid "<i>(sighs)</i> Very well, then."
-msgstr "(<i>вздыхает</i>) Что ж, хорошо."
+msgstr "<i>(вздыхает)</i> Что ж, хорошо."
 
 #. [message]: speaker=Mal Keshar
 #: After_the_Storm/episode1/scenarios/04_Terror_at_Dusk.cfg:313
@@ -4085,9 +4103,8 @@ msgstr ""
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:738
-#, fuzzy
 msgid "I suppose this is Argan’s old base of operations."
-msgstr "Упыри. Догадываюсь, это — старое логово Аргана."
+msgstr "Упыри. Догадываюсь, это — старое убежище Аргана."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:743
@@ -4239,13 +4256,12 @@ msgstr ""
 
 #. [event]
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:904
-#, fuzzy
 msgid ""
 "This glyph may only be used by the true descendants of She who wields the "
 "Arcane Flame that protects Irdya."
 msgstr ""
-"Сей кристалл не может быть использован никем, кроме истинных потомков Той, "
-"что несёт Мистический Огонь, сторожащий Ирдию."
+"Сим кристаллом могут воспользоваться лишь истинные потомки Той, что несёт "
+"Мистический Огонь, сторожащий Ирдию."
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:915
@@ -5996,7 +6012,6 @@ msgstr "Ты его знаешь?"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:358
-#, fuzzy
 msgid ""
 "Yes, he was the leader of the patrol group that replaced mine just before "
 "the Chaos Empire invaded our valley."
@@ -13378,7 +13393,6 @@ msgstr ""
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:2164
-#, fuzzy
 msgid ""
 "There is something surprisingly relatable about you, even though my life so "
 "far has been one of complete solitude and yours the opposite. Perhaps it is "
@@ -16672,7 +16686,7 @@ msgid ""
 "Well... I... I think I have never felt comfortable with my heritage. After "
 "all... it is the very reason of my abandonment as a child..."
 msgstr ""
-"Ну… Я… Моё наследие всегда мне доставляло неудобства. В конце концов… именно "
+"Ну… Я… Моё наследие всегда доставляло мне неудобства. В конце концов… именно "
 "поэтому меня покинули, когда я была ребёнком…"
 
 #. [message]: speaker=Anya
@@ -16713,8 +16727,8 @@ msgid ""
 msgstr ""
 "Нет! Но это не меняет того обстоятельства, что ты бы относилась ко мне с "
 "подозрениями! Вернее… большими, чем у тебя уже были. Ты всегда была такой "
-"оторванной, увлечённой своим долгом… подобно бесчувственной машине, "
-"которыми, как ты всегда считала, являлись <i>мы</i>…"
+"оторванной, увлечённой своим долгом… подобно бесчувственной машине, какими, "
+"как ты всегда считала, являлись <i>мы</i>…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:424
@@ -16727,6 +16741,13 @@ msgid ""
 "part responsible for bringing the people who ultimately doomed us all to the "
 "throne of Wesnoth."
 msgstr ""
+"<i>(вздыхает)</i> Наверное, я такой и являюсь. Называй это механизмом "
+"совладания, если хочешь. Я становилась друидкой, чтобы помогать другим, а не "
+"отнимать жизни людей. Всё это кровопролитие… мы могли избежать, не сделай я "
+"все те ужасающие решения, что привели меня сюда — решения, что привели к "
+"падению этого мира. В этой эре уже никто этого не помнит, но я в огромной "
+"степени ответственна за возвышение людей, кто в конце концов погубил нас "
+"всех, на трон Веснота."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:429
@@ -16737,10 +16758,15 @@ msgid ""
 "doing the killing, you are watching someone else do it for you. Sometimes it "
 "may even seem like an enticing distraction from your own thoughts."
 msgstr ""
+"Когда тебе приходится переживать последствия своих ошибок, когда не в твоей "
+"природе — убивать, но у тебя нет выбора… начинаешь отбрасывать "
+"действительность в сторону, просто, чтобы не раскалывать себя на части. "
+"Вместо того, чтобы быть тем, кто убивает, ты наблюдаешь, как кто-то другой "
+"убивает за тебя. Порой это даже кажется соблазнительным отвлечением от "
+"собственных мыслей."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:434
-#, fuzzy
 msgid ""
 "Other people recall good memories to comfort themselves in times like these, "
 "but each day that passes I struggle more and more to remember anything other "
@@ -16750,20 +16776,22 @@ msgid ""
 "killed or destroyed in front of me... before I could do... do anything to "
 "prevent it..."
 msgstr ""
-"Сейчас гораздо проще вспомнить мои худшие решения: буквальное разрушение "
-"эпохи равновесия и жизни, падение моего народа, ужасы, творимые Жангором… "
-"кровь моего мужа на моих же руках, пролитая моей же силой… и мои… друзья… "
-"убиты или уничтожены прямо передо мной… перед тем, как я могла… сделать хоть "
-"что-нибудь и это предотвратить…"
+"Чтобы успокоить себя в подобные времена, иные обращаются к своим лучшим "
+"воспоминаниям, но с каждым прошедшим днём мне всё труднее вспомнить что-"
+"либо, кроме моих самых худших мгновений: бесповоротное разрушение эпохи "
+"равновесия и жизни, падение моего народа, ужасы, творимые Жангором… кровь "
+"моего мужа на моих же руках, пролитая моей же силой… и мои… друзья… убиты "
+"или уничтожены прямо передо мной… перед тем, как я могла… сделать хоть что-"
+"нибудь и это предотвратить…"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:443
-#, fuzzy
 msgid ""
 "... I fear it, Anya... I fear what would happen if I allowed myself to be "
 "controlled by my emotions."
 msgstr ""
-"… Я боюсь, Аня… Боюсь того, что наделаю, если позволю чувствам овладеть мной."
+"… Я боюсь, Аня… Боюсь того, что случится, если позволю чувствам овладеть "
+"мной."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:452
@@ -16772,32 +16800,29 @@ msgstr "Элиния… Прости, я не хотела пробудить в
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:461
-#, fuzzy
 msgid ""
 "... No, I am the one who should apologize. Perhaps if I shared my feelings "
 "with other people more often, I— I wouldn’t be like this..."
 msgstr ""
 "… Нет, это я должна извиняться. Быть может, разделяй я чаще мои чувства с "
-"другими, я бы…"
+"другими, я бы— нет, мне это не поможет…"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:466
-#, fuzzy
 msgid ""
 "I haven’t lived for a thousand years, but I know that it is true — you would "
 "feel at least a little better if you talked to someone about whatever "
 "troubles you instead of blindly killing creature after creature to distract "
 "yourself from the pain."
 msgstr ""
-"Я жила не тысячу лет, но одно я знаю точно — тебе было бы гораздо легче на "
-"душе, если бы ты говорила с нами, а не слепо убивала существо за существом, "
-"чтобы забыть о боли."
+"Я жила не тысячу лет, но одно я знаю точно — тебе было бы хотя бы чуточку "
+"легче на душе, если ты говорила бы с кем-то о том, что тебя беспокоит, а не "
+"убивала бы слепо существо за существом, чтобы забыть о боли."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:471
-#, fuzzy
 msgid "Perhaps... you could do that? Talk with me more often?"
-msgstr "Может… ты могла бы это делать? Говорить с нами чаще?"
+msgstr "Может… ты могла бы это делать? Говорить со мной почаще?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:480
@@ -16811,9 +16836,8 @@ msgstr "Но пообещай!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:494
-#, fuzzy
 msgid "... I... I promise."
-msgstr "… Обещаю."
+msgstr "… Я… обещаю."
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:499
@@ -32693,9 +32717,8 @@ msgid "for Wesnoth 1.14.3 and later"
 msgstr "для Битвы за Веснот 1.14.3 и новее"
 
 #: After_the_Storm/_main.cfg:69
-#, fuzzy
 msgid "for Wesnoth 1.15.12 and later (experimental)"
-msgstr "для Битвы за Веснот 1.15.4 и новее (экспериментально)"
+msgstr "для Битвы за Веснот 1.15.12 и новее (экспериментально)"
 
 #: After_the_Storm/_main.cfg:81
 msgid "Music add-on “<i>AtS Music</i>” is <b>not</b> currently installed"
