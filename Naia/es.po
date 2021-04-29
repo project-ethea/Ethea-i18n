@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-03-20 06:32 UTC\n"
+"POT-Creation-Date: 2021-04-29 07:40 UTC\n"
 "PO-Revision-Date: 2020-07-09 06:46-0400\n"
 "Last-Translator: Iris Morelle <shadowm@wesnoth.org>\n"
 "Language-Team: Spanish <i18n@wesnoth.org>\n"
@@ -129,6 +129,11 @@ msgstr "¿Desea que esta unidad utilice este ítem?"
 
 #. [lua]: register_unit_status_display
 #: Naia/lua/theme.lua:83
+msgid "marked: This unit takes additional damage when struck."
+msgstr ""
+
+#. [lua]: register_unit_status_display
+#: Naia/lua/theme.lua:89
 msgid "necrosed: This unit is undergoing necrosis."
 msgstr ""
 
@@ -353,10 +358,10 @@ msgstr "hojaferoz"
 #: Naia/units/shaxthal/Fighter_Stormblade.cfg:42
 #: Naia/units/shaxthal/Drone_Protector.cfg:44
 #: Naia/units/shaxthal/Drone_Enforcer.cfg:57
-#: Naia/units/shaxthal/Drone_Crude.cfg:56
+#: Naia/units/shaxthal/Drone_Crude.cfg:55
 #: Naia/units/shaxthal/Drone_Runner.cfg:42
 #: Naia/units/shaxthal/Drone_Assault.cfg:44
-#: Naia/units/shaxthal/Drone_Sentry.cfg:54
+#: Naia/units/shaxthal/Drone_Sentry.cfg:53
 msgid "energy shock"
 msgstr "golpe de energía"
 
@@ -520,7 +525,7 @@ msgid "Drone"
 msgstr "Drón"
 
 #. [unit_type]: id=Shaxthal Drone, race=shaxthal
-#: Naia/units/shaxthal/Drone_Crude.cfg:26
+#: Naia/units/shaxthal/Drone_Crude.cfg:25
 msgid ""
 "Unnatural. Bloodcurdling. Abominations. Of the many words used to describe "
 "the mechanical creatures known as the Shaxthals, these are the most often "
@@ -621,7 +626,7 @@ msgid "Sentry Drone"
 msgstr "Drón vigía"
 
 #. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
-#: Naia/units/shaxthal/Drone_Sentry.cfg:26
+#: Naia/units/shaxthal/Drone_Sentry.cfg:25
 msgid ""
 "From the dark, echoing labyrinths of the Shaxthal hives to the shadowy "
 "fortresses of the Chaos Empire await guardians who can neither be swayed by "
@@ -1376,7 +1381,7 @@ msgid "Fire Faerie"
 msgstr "Hada de fuego"
 
 #. [unit_type]: id=Fire Faerie, race=faerie
-#: Naia/units/faeries/Fire_Faerie.cfg:21
+#: Naia/units/faeries/Fire_Faerie.cfg:23
 msgid ""
 "Forest faeries rarely take part in wars and conflicts, preferring instead to "
 "dance and frolic in their forest homes. They will, however, defend these to "
@@ -1406,18 +1411,50 @@ msgstr ""
 "convirtiéndose así en espíritus nacidos de la furia de sus llamas."
 
 #. [attack]: type=fire
-#: Naia/units/faeries/Fire_Faerie.cfg:29 Naia/units/faeries/Fire_Dryad.cfg:40
-#: Naia/units/faeries/Fire_Sprite.cfg:31
+#: Naia/units/faeries/Fire_Faerie.cfg:31 Naia/units/faeries/Fire_Dryad.cfg:33
+#: Naia/units/faeries/Fire_Sprite.cfg:30
 #: Naia/units/faeries/Fire_Faerie_Spirit.cfg:39
 msgid "fire aura"
 msgstr "aura de fuego"
 
 #. [attack]: type=fire
-#: Naia/units/faeries/Fire_Faerie.cfg:38 Naia/units/faeries/Fire_Dryad.cfg:49
-#: Naia/units/faeries/Fire_Sprite.cfg:40
+#: Naia/units/faeries/Fire_Faerie.cfg:40 Naia/units/faeries/Fire_Dryad.cfg:42
+#: Naia/units/faeries/Fire_Sprite.cfg:39
 #: Naia/units/faeries/Fire_Faerie_Spirit.cfg:51
 msgid "mystic fire"
 msgstr "fuego místico"
+
+#. [unit_type]: id=Faerie Hamadryad, race=faerie
+#: Naia/units/faeries/Fire_Hamadryad.cfg:5
+msgid "Hamadryad"
+msgstr ""
+
+#. [unit_type]: id=Faerie Hamadryad, race=faerie
+#: Naia/units/faeries/Fire_Hamadryad.cfg:34
+msgid ""
+"Elven lore tells of faerie creatures back in the Golden Age who achieved an "
+"even more intimate connection to the earth than their fellow dryads and "
+"forest phantoms, able to assume the shape of majestic trees and enjoy an "
+"exceedingly long, albeit solitary existence in the deepest forests of "
+"Irdya.\n"
+"\n"
+"Despite the name, the “hamadryads” were rumored to have more in common with "
+"woses than their comparatively mundane sisters. Their command of nature was "
+"unparalleled and said to surpass even the mightiest sylphs of yore, "
+"instilling such awe into them that some elven communities revered them as "
+"protector deities. To defile the sanctity of their domain—be it with fire, "
+"bloodshed or the felling of healthy trees—was considered a sin beyond "
+"redemption.\n"
+"\n"
+"Finding one of these mythical nymphs in humanoid form anywhere other than "
+"the heart of the forest is completely unheard of and would necessitate a "
+"magic disturbance of an unprecedented scale, or a highly improbable fluke."
+msgstr ""
+
+#. [attack]: type=impact
+#: Naia/units/faeries/Fire_Hamadryad.cfg:44
+msgid "suffocate"
+msgstr ""
 
 #. [unit_type]: id=Faerie Dryad, race=faerie
 #: Naia/units/faeries/Fire_Dryad.cfg:5
@@ -1425,7 +1462,7 @@ msgid "Dryad"
 msgstr "Dríade"
 
 #. [unit_type]: id=Faerie Dryad, race=faerie
-#: Naia/units/faeries/Fire_Dryad.cfg:32
+#: Naia/units/faeries/Fire_Dryad.cfg:25
 msgid ""
 "Dryads possess a closer affinity to their faerie nature than their brethren, "
 "yet at times exhibit a remarkable understanding of human nature. In fact, "
@@ -1465,7 +1502,7 @@ msgid "Sprite"
 msgstr "Duendecilla"
 
 #. [unit_type]: id=Faerie Sprite, race=faerie
-#: Naia/units/faeries/Fire_Sprite.cfg:21
+#: Naia/units/faeries/Fire_Sprite.cfg:20
 msgid ""
 "To a creature of the forests, fire is a mortal enemy, yet to the Faerie "
 "Sprites, it is a weapon strangely antithetical to their wooded nature. "
@@ -2846,7 +2883,7 @@ msgstr ""
 "destreza intelectual de sus parientes más conocidos, sus números y fuerza "
 "bruta tienden a ser suficientes para compensar sus desventajas."
 
-#: Naia/units/demons.cfg:14
+#: Naia/units/demons.cfg:5
 #, fuzzy
 msgid ""
 "Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
@@ -2859,28 +2896,29 @@ msgid ""
 "Buer,Bune,Caim,Calan,Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Charon,"
 "Chazaqiel,Chul,Corson,Cronos,Daalberith,Dagon,Daniel,Dantalion,Decarabia,"
 "Deimos,Delchor,Demogorgon,Devan,Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,"
-"Espro,Espreon,Eurynomous,Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,"
-"Forneus,Furcas,Furfur,Gaap,Gader'el,Glasya-Labolas,Goliath,Gusion,Gwiti,"
-"Haagenti,Hal,Hade,Hades,Helios,Hephaestus,Humbaba,Hyperion,Iblis,Idoru,Ivan,"
-"Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,Jutas,Juvart,Kabhanda,Kain,"
-"Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,Kimaris,Kobal,Kokabiel,Kokytos,"
-"Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,Lenthar,Lenvan,Leonard,"
-"Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,Lucifuge Rofocale,Maeglhir,"
-"Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,Marchocias,Maricha,Mastema,"
-"Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,Merihim,Merloc,Moloch,Morax,"
-"Mu,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,Nati,Nebiros,Neqa'el,"
-"Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,Orcus,Orias,"
-"Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,Phobos,"
-"Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,Pythos,Rahab,"
-"Rahovart,Ramiel,Raum,Ravanal,Raven,Razakel,Regent,Regulus,Rimmon,Rhotomago,"
-"Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,Samyaza,Santa,"
-"Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,Shamsiel,Shax,"
-"Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,Sorum,Soufflet,Spar,Stolas,"
-"Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Tartaros,Taurus,Teeraal,Temeluchus,"
-"Thammuz,Theracar,Thor,Thorin,Thurin,Tityos,Triel,Troy,Turiel,Turin,Turon,"
-"Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,Verrine,Vine,Vual,Xan,"
-"Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Yuki,Zagan,Zama,"
-"Zaqiel,Zepar,Zephyros,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
+"Erebus,Espro,Espreon,Eurynomous,Fomalhaut,Flauros,Flereous,Focalor,Foras,"
+"Forcas,Forneus,Furcas,Furfur,Gaap,Gader'el,Glasya-Labolas,Goliath,Gusion,"
+"Gwiti,Haagenti,Hal,Hade,Hades,Helios,Hephaestus,Humbaba,Hyperion,Iblis,Idoru,"
+"Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,Jutas,Juvart,Kabhanda,"
+"Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,Kimaris,Kobal,Kokabiel,"
+"Kokytos,Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,Lenthar,Lenvan,"
+"Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,Lucifuge Rofocale,"
+"Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,Marchocias,Maricha,"
+"Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,Merihim,Merloc,"
+"Moloch,Morax,Mu,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,Nati,Nebiros,"
+"Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,Orcus,"
+"Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,"
+"Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,Pythos,"
+"Rahab,Rahovart,Ramiel,Raum,Ravanal,Raven,Razakel,Regent,Regulus,Rimmon,"
+"Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,Samyaza,"
+"Santa,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,"
+"Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,Sorum,Soufflet,"
+"Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Tartaros,Taurus,"
+"Teeraal,Temeluchus,Thammuz,Thanatos,Theracar,Thor,Thorin,Thurin,Tityos,Triel,"
+"Troy,Turiel,Turin,Turon,Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,"
+"Verrine,Vine,Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,"
+"Yomiel,Yuki,Zagan,Zama,Zaqiel,Zepar,Zephyros,Zet,Zeth,Zhan,Zhangor,Zhunol,"
+"Zort,Zorg,Zudo,Zuno"
 msgstr ""
 "Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,"
 "Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,"
@@ -2914,7 +2952,7 @@ msgstr ""
 "Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Yuki,"
 "Zagan,Zama,Zaqiel,Zepar,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
 
-#: Naia/units/demons.cfg:15
+#: Naia/units/demons.cfg:6
 #, fuzzy
 msgid ""
 "Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Aisa,Alie,Aly,Alya,Ammit,Amy,Ania,"
@@ -2926,20 +2964,20 @@ msgid ""
 "Elyza,Empusa,Enea,Eos,Eris,Eryssa,Ethea,Euryale,Evila,Evira,Fae,Faira,Fania,"
 "Faria,Fine,Gaia,Gremory,Gresil,Hecate,Hemera,Ira,Irda,Irdya,Irene,Iridya,"
 "Iril,Iris,Iruel,Isa,Issyl,Ivana,Ivyel,Izara,Jarla,Jevyan,Juno,Kaia,Kalah,"
-"Kalari,Kaleh,Kali,Kana,Karma,Karyna,Kazen,Kendria,Kia,Kindite,Kuna,Kyrah,"
-"Lachesis,Lailah,Lamashtu,Lamia,Lara,Leliel,Lethe,Leviathan,Lilia,Lilim,Lilin,"
-"Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,Lucile,Lucina,Lucine,Luna,Lyda,"
-"Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,Midara,Mintha,Mir,"
-"Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Myriam,Naamah,Nadia,Naia,Nala,Nara,"
-"Narya,Nebula,Nemesis,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,Nona,Nora,"
-"Norma,Nyada,Nystra,Nyx,Nyxa,Onoskelis,Pia,Proserpine,Rangda,Rhea,Rusalka,"
-"Sabata,Satana,Sela,Shar,Share,Sharael,Sheol,Selene,Shia,Sonnielion,Stheno,"
-"Styx,Sul,Summa,Sunna,Sycorax,Syl,Sylestria,Sylin,Sylith,Symia,Syn,Synara,"
-"Synestria,Tada,Talah,Talam,Taweret,Thanadria,Thanavryen,Thea,Thia,Thiana,"
-"Thiara,Tial,Tora,Tundra,Turen,Tzitzimime,Uma,Umbria,Unarya,Unia,Unsere,"
-"Urania,Uzza,Vena,Verna,Verrier,Vepar,Vulpecula,Xandar,Xana,Xandria,Xeth,Xia,"
-"Xindra,Xindar,Yuki,Yumi,Yun,Yuna,Yuni,Zana,Zhul,Zidya,Zilla,Zoe,Zoya,Zuna,"
-"Zynara,Zythara"
+"Kalari,Kaleh,Kali,Kana,Karma,Karyna,Kazen,Kendria,Kara,Kia,Kindite,Kuna,"
+"Kyrah,Lachesis,Lailah,Lamashtu,Lamia,Lara,Leliel,Lethe,Leviathan,Lilia,Lilim,"
+"Lilin,Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,Lucile,Lucina,Lucine,Luna,"
+"Lyda,Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,Mia,Midara,"
+"Mintha,Mir,Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Myriam,Naamah,Nadia,Naia,"
+"Nala,Nara,Narya,Nebula,Nemesis,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,"
+"Nona,Nora,Norma,Nyada,Nystra,Nyx,Nyxa,Onoskelis,Pia,Proserpine,Rangda,Rhea,"
+"Rusalka,Sabata,Satana,Scylla,Sela,Shar,Share,Sharael,Sheol,Selene,Shia,"
+"Sonnielion,Stheno,Styx,Sul,Summa,Sunna,Sycorax,Syl,Sylestria,Sylin,Sylith,"
+"Symia,Syn,Synara,Synestria,Tada,Talah,Talam,Taweret,Thanadria,Thanavryen,"
+"Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,Tzitzimime,Uma,Umbria,Unarya,"
+"Unia,Unsere,Urania,Uzza,Vena,Verna,Verrier,Vepar,Vulpecula,Xandar,Xana,"
+"Xandria,Xeth,Xia,Xindra,Xindar,Yuki,Yumi,Yun,Yuna,Yuni,Zana,Zhul,Zidya,Zilla,"
+"Zoe,Zoya,Zuna,Zynara,Zythara"
 msgstr ""
 "Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Alie,Aly,Alya,Ammit,Amy,Ania,Analia,"
 "Anadea,Anadya,Anna,Ariel,Ashtaroth,Astarte,Astoreth,Azura,Bellatrix,Beryla,"
@@ -2963,22 +3001,22 @@ msgstr ""
 "Zephyr,Zhul,Zidya,Zilla,Zuna,Zynara,Zythara"
 
 #. [race]: id=demon
-#: Naia/units/demons.cfg:20
+#: Naia/units/demons.cfg:11
 msgid "race^Demon"
 msgstr "Demonio"
 
 #. [race]: id=demon
-#: Naia/units/demons.cfg:21
+#: Naia/units/demons.cfg:12
 msgid "race+female^Demoness"
 msgstr "Demonia"
 
 #. [race]: id=demon
-#: Naia/units/demons.cfg:22
+#: Naia/units/demons.cfg:13
 msgid "race^Demons"
 msgstr "Demonios"
 
 #. [race]: id=demon
-#: Naia/units/demons.cfg:23
+#: Naia/units/demons.cfg:14
 msgid ""
 "Legend has it that at the beginning of time, powerful creatures called "
 "‘demons’ governed all that existed. The Lords of Light and Darkness, seeing "
@@ -3130,6 +3168,17 @@ msgstr "sanada"
 msgid "cleansed"
 msgstr ""
 
+#. [unstore_unit]
+#: Naia/macros/weapon-specials-implementation.cfg:317
+#, fuzzy
+msgid "female^marked"
+msgstr "acorazada"
+
+#. [unstore_unit]
+#: Naia/macros/weapon-specials-implementation.cfg:318
+msgid "marked"
+msgstr ""
+
 #. [message]: speaker=narrator
 #: Naia/macros/scenario-utils.cfg:163
 msgid "You retrieve $temp_gold_retrieval_amount pieces of gold."
@@ -3226,18 +3275,18 @@ msgstr ""
 "participa en combate, sus ataques infligen 15% menos daño multiplicado por "
 "la diferencia entre sus niveles + 15%."
 
-#. [hides]: id=burrow
+#. [hides]: id=bore
 #: Naia/macros/abilities.cfg:135
-msgid "burrow"
+msgid "bore"
 msgstr ""
 
-#. [hides]: id=burrow
+#. [hides]: id=bore
 #: Naia/macros/abilities.cfg:136
 #, fuzzy
-msgid "female^burrow"
+msgid "female^bore"
 msgstr "acorazada"
 
-#. [hides]: id=burrow
+#. [hides]: id=bore
 #: Naia/macros/abilities.cfg:137
 msgid ""
 "If somehow forced to move into cave or stone walls, this unit can hide "
@@ -3271,14 +3320,40 @@ msgid ""
 "difference in their levels on both defense and offense."
 msgstr ""
 
+#. [dummy]: id=testament
+#: Naia/macros/abilities.cfg:218
+msgid "testament"
+msgstr ""
+
+#. [dummy]: id=testament
+#: Naia/macros/abilities.cfg:219
+msgid ""
+"Upon the death of this unit, any wounded adjacent allies below 50% of their "
+"total HP will be healed back to said amount, although any negative status "
+"effects will not be removed. Additionally, if the unit is standing on clear "
+"walkable ground without any obstructions on it, a suitable testament to its "
+"existence will take its place."
+msgstr ""
+
+#: Naia/macros/abilities.cfg:227
+msgid "energize"
+msgstr ""
+
+#: Naia/macros/abilities.cfg:228
+msgid ""
+"If not slowed, this unit confers adjacent allied units possessing the "
+"‘biomechanical’ trait a 25% bonus to all damage dealt and a 10% resistance "
+"bonus."
+msgstr ""
+
 #. [heals]: id=sylvan_essence_healing_and_curing
 #. [illuminates]: id=sylvan_essence_illum
-#: Naia/macros/abilities.cfg:225 Naia/macros/abilities.cfg:262
+#: Naia/macros/abilities.cfg:241 Naia/macros/abilities.cfg:278
 msgid "sylvan essence"
 msgstr "esencia silvestre"
 
 #. [heals]: id=sylvan_essence_healing_and_curing
-#: Naia/macros/abilities.cfg:226
+#: Naia/macros/abilities.cfg:242
 msgid ""
 "This unit can heal and cure friendly units on adjacent hexes every turn, to "
 "a base maximum of 8 HP. In vegetated terrains, it will conceal itself from "
@@ -3291,7 +3366,7 @@ msgstr ""
 "en estos terrenos (pero no cancelar el veneno)."
 
 #. [illuminates]: id=sylvan_essence_illum
-#: Naia/macros/abilities.cfg:263
+#: Naia/macros/abilities.cfg:279
 msgid ""
 "This unit illuminates the surrounding area, making lawful units fight "
 "better, and chaotic units fight worse. Any units adjacent to this unit will "
@@ -3623,6 +3698,19 @@ msgid ""
 "belonging to the same side as the unit which originally infected them."
 msgstr ""
 
+#. [dummy]: id=mark
+#: Naia/macros/weapon-specials.cfg:140
+msgid "mark"
+msgstr ""
+
+#. [dummy]: id=mark
+#: Naia/macros/weapon-specials.cfg:141
+msgid ""
+"When used offensively, this attack disrupts its opponent’s stance, "
+"decreasing all resistances by 20% (down to a minimum of -50%) until the "
+"affected unit’s turn ends."
+msgstr ""
+
 #: Naia/macros/storytxt-common.cfg:16
 msgid "Warning!"
 msgstr "¡Advertencia!"
@@ -3797,9 +3885,13 @@ msgid "Fake Shroud"
 msgstr "Oscuridad falsa"
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:122
+#: Naia/loader.cfg:123
 msgid "Project Ethea"
 msgstr "Proyecto Ethea"
+
+#, fuzzy
+#~ msgid "female^burrow"
+#~ msgstr "acorazada"
 
 #~ msgid "Please report this to the campaign maintainer!"
 #~ msgstr "¡Por favor informe de esto al mantenedor(a) de la campaña!"

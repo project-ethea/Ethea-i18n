@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-IftU 1.8.x\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-03-28 07:56 UTC\n"
+"POT-Creation-Date: 2021-04-29 07:40 UTC\n"
 "PO-Revision-Date: 2010-12-14 22:16+0900\n"
 "Last-Translator: R.N <dragonfly65th@yahoo.co.jp>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -57,7 +57,7 @@ msgstr ""
 #. [lua]: r
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:103
+#: Invasion_from_the_Unknown/_main.cfg:104
 #, fuzzy
 msgid "IftU"
 msgstr "IftU-1"
@@ -67,15 +67,15 @@ msgstr "IftU-1"
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:97
-#: Invasion_from_the_Unknown/_main.cfg:170
-#: Invasion_from_the_Unknown/_main.cfg:107
+#: Invasion_from_the_Unknown/_main.cfg:171
+#: Invasion_from_the_Unknown/_main.cfg:108
 msgid "Invasion from the Unknown"
 msgstr "未知よりの侵略"
 
 #. [lua]: r
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:65
-#: Invasion_from_the_Unknown/_main.cfg:133
+#: Invasion_from_the_Unknown/_main.cfg:134
 msgid "Episode I: Seeking the Light"
 msgstr "エピソードI：光を求めて"
 
@@ -91,7 +91,7 @@ msgstr "面白いわ。"
 #. [lua]: r
 #. [campaign]
 #: Invasion_from_the_Unknown/lua/gui/intermission_prompt.lua:67
-#: Invasion_from_the_Unknown/_main.cfg:147
+#: Invasion_from_the_Unknown/_main.cfg:148
 msgid "Episode II: Armageddon"
 msgstr "エピソードII：最終戦争"
 
@@ -259,7 +259,7 @@ msgstr ""
 msgid ""
 "Hm... The thing is, we don’t have much ourselves, as we were only intended "
 "to serve as support. I figure a distraction is not out of the question, but "
-"it probably won’t help for long. What do you suggest?"
+"it probably won’t help for long. What do ye suggest?"
 msgstr ""
 
 #. [message]: speaker=Elynia
@@ -379,7 +379,7 @@ msgstr "砂の下で"
 #: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:194
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:81
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:101
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:165
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:169
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:42
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:101
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:134
@@ -428,14 +428,14 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:965
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1114
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:153
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:601
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:629
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:465
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:903
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:983
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1171
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1382
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:227
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:590
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:630
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:473
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1031
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1111
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1299
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1510
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:231
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:231
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:598
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:911
@@ -474,16 +474,16 @@ msgstr "Elynia の死"
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:501
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:191
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:154
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:602
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:630
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:466
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:904
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:984
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1172
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1383
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:591
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:631
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:474
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1032
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1112
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1300
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1511
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:264
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:778
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:228
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:232
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:232
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:68
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:599
@@ -497,8 +497,8 @@ msgstr "Mal Kashar の死"
 #: Invasion_from_the_Unknown/scenarios/18_Ashes_of_Wesmere.cfg:244
 #: Invasion_from_the_Unknown/scenarios/18_Ashes_of_Wesmere.cfg:431
 #: Invasion_from_the_Unknown/scenarios/16_Dawn_of_War.cfg:638
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:631
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:229
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:632
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:233
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:233
 msgid "Death of Erathan"
 msgstr "Erathan の死"
@@ -708,10 +708,10 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/07_Goliath.cfg:660
 #: Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:743
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:873
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:702
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:738
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:773
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1147
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:704
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:740
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:775
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1289
 msgid "Touchplate triggered. A wall moves."
 msgstr "仕掛けが起動し、壁が動いた。"
 
@@ -971,6 +971,7 @@ msgstr ""
 #. [event]
 #. [literal]
 #. [event]: id=boss_victory_progress_update
+#. [event]: id=Galas}
 #. [scenario]: id=10x_Elynia
 #: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:228
 #: Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:284
@@ -1005,15 +1006,16 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:351
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:189
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:152
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:600
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:464
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:902
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:982
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1170
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1381
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:589
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:629
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:472
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1030
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1110
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1298
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1509
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:262
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:776
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:226
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:230
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:235
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:230
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:66
@@ -1032,11 +1034,11 @@ msgstr "Galas の死"
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:796
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:967
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1116
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:467
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:905
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:985
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1173
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1384
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:475
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1033
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1113
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1301
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1512
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:234
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:600
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:913
@@ -1249,9 +1251,9 @@ msgstr ""
 msgid "No! The tunnel is collapsing on us! We weren’t fast enough—"
 msgstr ""
 
-#. [unit]: type=Death Knight, id=Lord Mizgill
+#. [unit]: type=Death Knight, id=Lord Azghiel
 #: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:842
-msgid "Lord Mizgill"
+msgid "Lord Azghiel"
 msgstr ""
 
 #. [unit]: type=Death Baron, id=Darius
@@ -1265,7 +1267,7 @@ msgstr "Sirius"
 msgid "Durstrag"
 msgstr ""
 
-#. [message]: speaker=Lord Mizgill
+#. [message]: speaker=Lord Azghiel
 #: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:894
 msgid ""
 "There they are, the heathens! The Iron Council wants their heads. Get to it!"
@@ -1355,7 +1357,7 @@ msgstr "エルフ"
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:53
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:122
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:38
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:100
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:104
 msgid "team_name^Undead"
 msgstr "アンデッド"
 
@@ -2736,7 +2738,7 @@ msgstr ""
 #. [dummy]: id=union
 #. [effect]: type=arcane
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1644
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1115
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1243
 #: Invasion_from_the_Unknown/macros/union.cfg:11
 #: Invasion_from_the_Unknown/macros/union.cfg:43
 #: Invasion_from_the_Unknown/macros/union.cfg:83
@@ -2836,23 +2838,23 @@ msgid "Energy... Yes... Feed me more energy..."
 msgstr ""
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2225
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2227
 msgid "No... Noooooo!!! My power... falters..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2246
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2248
 msgid "It’s— it’s tearing me apart—"
 msgstr ""
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2399
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2401
 #, fuzzy
 msgid "What just happened?"
 msgstr "何が起きた？"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2408
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2410
 #, fuzzy
 msgid "The prophecy... has been broken."
 msgstr "今まさに、予言が的中したって事ね。"
@@ -3043,48 +3045,48 @@ msgid "I am... sorry, Galas... I... failed..."
 msgstr ""
 
 #. [unit]: id=Anlindë, type=Anlinde Dead
-#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:831
+#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:833
 #: Invasion_from_the_Unknown/macros/character-defines.cfg:27
 msgid "Anlindë"
 msgstr "Anlindë"
 
 #. [message]: speaker=Chaos Warlord
-#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:840
+#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:842
 msgid "You still draw breath? This is an infuriating waste of my time."
 msgstr ""
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:845
+#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:847
 #, fuzzy
 msgid "... Heh."
 msgstr "む…… そうだな。"
 
 #. [message]: speaker=Chaos Warlord
-#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:852
+#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:854
 #, fuzzy
 msgid "What is this?!"
 msgstr "これは何だ？"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:861
+#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:863
 msgid "I’m not... leaving this world... without taking you with me..."
 msgstr ""
 
 #. [message]: race=demon,imps
-#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:866
+#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:868
 #, fuzzy
 msgid "Aiyeee!! Retreat, retreat!!"
 msgstr "アイィィイ！！ 退却しろ！！ いや、待て…… アーッ！"
 
 #. [message]: speaker=Chaos Warlord
-#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:875
+#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:877
 msgid ""
 "Do you truly believe it will be all over just like this? How naïve of "
 "someone like you, a past servant of Zhangor."
 msgstr ""
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:880
+#: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:882
 msgid "Death will take us all now... None of that matters anymore."
 msgstr ""
 
@@ -3142,9 +3144,9 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Herthgar.cfg:359
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:150
 #: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:627
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:643
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:644
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:774
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:224
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:228
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:232
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:228
 msgid "Defeat all enemy leaders"
@@ -3167,7 +3169,7 @@ msgstr "Asthorgar 王の死"
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:556
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:339
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:502
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:645
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:646
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:69
 msgid "Death of Althurin"
 msgstr "Althurin の死"
@@ -4417,7 +4419,7 @@ msgstr "この秘薬は、生きた者にだけ使えます。他の者に飲ま
 #. [object]: id=e1l7_strength_potion
 #. [object]: id=s21_strength_potion
 #: Invasion_from_the_Unknown/scenarios/07_Goliath.cfg:608
-#: Invasion_from_the_Unknown/macros/items.cfg:518
+#: Invasion_from_the_Unknown/macros/items.cfg:524
 msgid "Potion of Strength"
 msgstr "強さの秘薬"
 
@@ -4425,8 +4427,9 @@ msgstr "強さの秘薬"
 #: Invasion_from_the_Unknown/scenarios/07_Goliath.cfg:611
 #, fuzzy
 msgid ""
-"The drinker’s strength is increased for a while, adding 2 damage points to "
-"their melee attacks, and adding 8 points to their total HP."
+"The drinker’s strength is increased for the remainder of the scenario, "
+"adding 2 damage points to their melee attacks, and adding 8 points to their "
+"total HP."
 msgstr ""
 "飲んだ者の体力は暫くの間増加し、格闘で与えるダメージは2増え、最大HPが8増えま"
 "す。"
@@ -5810,7 +5813,7 @@ msgstr ""
 #. [literal]
 #. [scenario]: id=21_Innuendo
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:347
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:450
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:439
 #, fuzzy
 msgid "You may not recall or recruit units"
 msgstr "あなたは今、アンデッドのユニットを雇用出来るようになりました！"
@@ -7042,7 +7045,7 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:313
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:598
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:587
 msgid ""
 "Explore and descend deeper underground with Galas, Elynia, or Mal Keshar"
 msgstr ""
@@ -8082,7 +8085,7 @@ msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #. The elf in question is Anlindë.
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:455
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:457
 #, fuzzy
 msgid ""
 "How can it be? I have been defeated... my long battle against the orcs is "
@@ -8092,7 +8095,7 @@ msgstr ""
 "し、私は未だに立っている……"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:460
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:462
 #, fuzzy
 msgid ""
 "You are a relic from an era long gone, Mal Keshar, or should I say... Malin "
@@ -8108,7 +8111,7 @@ msgstr ""
 "てはいない証拠です。"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:469
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:471
 msgid ""
 "... Although I have to admit that the notion of allowing those fiends to "
 "fight you is more than a little amusing. It’s a pity that your existence is "
@@ -8116,24 +8119,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:474
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:476
 msgid ""
 "I sense hesitation in your words. Why is that? Does your kind still remember "
 "what Wesnoth did to us all?"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:479
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:481
 msgid "Wesnoth?"
 msgstr ""
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:484
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:486
 msgid "The name of an empire long dead. It’s not important."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:489
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:491
 msgid ""
 "Are you not curious about what has transpired in the expanse it once "
 "covered? You came to me fleeing a mighty foe; did it come from those lands? "
@@ -8141,12 +8144,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:494
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:496
 msgid "That is not important—"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:499
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:501
 #, fuzzy
 msgid ""
 "I know many things. I know your kind always punished necromancers for "
@@ -8164,19 +8167,19 @@ msgstr ""
 "ら外界に下僕を送っていたのだ。"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:504
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:506
 msgid ""
 "Alas, you have waited long enough to end this and it’s rather unmannerly of "
 "me to keep interrupting you. Go ahead, finish me once and for all!"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:509
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:511
 msgid "No. What do you know, necromancer? Tell us."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:514
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:516
 #, fuzzy
 msgid ""
 "It was a few centuries ago... A malign shadow emanating from the Vast Ocean "
@@ -8192,7 +8195,7 @@ msgstr ""
 "は、悪鬼と呼ばれていた。私は、お前がそれを憶えていると思うが？"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:519
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:521
 #, fuzzy
 msgid ""
 "We... our sages do, but... How can this be possible? The Demon Lord was "
@@ -8202,13 +8205,13 @@ msgstr ""
 "よって滅ぼされました！"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:524
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:526
 #, fuzzy
 msgid "Lady of Light?"
 msgstr "光の淑女"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:529
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:531
 #, fuzzy
 msgid ""
 "Ah, but that was a mere foretaste of our doom. Something or someone "
@@ -8228,14 +8231,14 @@ msgstr ""
 "へと投げ込んだのだ。"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:534
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:536
 msgid ""
 "Then these caves are definitely not safe anymore. We need to escape — but "
 "supposing we can, for how long will we be able to avoid our enemy?"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:539
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:541
 #, fuzzy
 msgid ""
 "You would be killed, tortured, or converted by them in a matter of hours, "
@@ -8250,7 +8253,7 @@ msgstr ""
 "お前達には、悪鬼共と戦うために必要な力もないだろう。"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:544
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:546
 msgid ""
 "Anlindë, what is the point of fleeing from those fiends to a new and safe "
 "home like cowards if they will surely find us again? For how long can we "
@@ -8258,7 +8261,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:549
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:551
 #, fuzzy
 msgid ""
 "Our kin tried before, Galas, and we became the witnesses to their failure. "
@@ -8268,7 +8271,7 @@ msgstr ""
 "した。私達には、何の助けも、彼らが行わなかった術策もありません。"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:554
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:556
 msgid ""
 "Perhaps this will interest you: the wielders of the Union did not die after "
 "that catastrophe you insist on only vaguely referencing throughout this "
@@ -8277,12 +8280,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:559
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:561
 msgid "The Union?"
 msgstr "同盟？"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:564
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:566
 #, fuzzy
 msgid ""
 "Your elder druids and sorceresses should remember that this Lady of Light "
@@ -8298,7 +8301,7 @@ msgstr ""
 "だ。"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:569
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:571
 msgid ""
 "Some sources say they descended deep into the very heart of the world... and "
 "vanished into eternal slumber. It is said that the bright presence of the "
@@ -8310,12 +8313,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:578
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:580
 msgid "Would you be willing to lead us there?"
 msgstr ""
 
 #. [message]: role=supporter
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:583
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:585
 #, fuzzy
 msgid ""
 "What?! But my lord, he is a lich — a necromancer! We cannot have such an "
@@ -8325,7 +8328,7 @@ msgstr ""
 "側に、その様な忌まわしい者を置く事は出来ません！"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:588
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:590
 msgid ""
 "... Times have changed, and so have our needs and methods... If Galas thinks "
 "the necromancer can help us find the power that can protect the remains of "
@@ -8333,30 +8336,30 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:593
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:595
 msgid ""
 "He, he, he, he... yes... yes! I may be able to help you, as long as you "
 "abide by my conditions."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:602
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:604
 #, fuzzy
 msgid "And what would those be?"
 msgstr "では、逃亡者達については？"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:607
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:609
 msgid "Protection is all I want."
 msgstr ""
 
 #. [message]: role=supporter
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:612
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:614
 msgid "Some of us might oppose this. My lord, please think this through!"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:621
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:623
 msgid ""
 "What do you think, Galas? You have lost everything — well, mostly. I lost "
 "everything too, except for my unfinished business with the orcs, and this "
@@ -8365,31 +8368,31 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:630
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:632
 msgid "I accept."
 msgstr ""
 
 #. [unit]: id=Mal Keshar, type=Ancient Lich
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:647
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:649
 #: Invasion_from_the_Unknown/macros/character-defines.cfg:41
 msgid "Mal Keshar"
 msgstr "Mal Keshar"
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:811
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:813
 msgid "Touchplate triggered. Two walls move."
 msgstr "仕掛けが起動し、二枚の壁が動いた。"
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:857
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:859
 #, fuzzy
 msgid "Touchplate triggered. A road rises from the depths, and a wall moves."
 msgstr "仕掛けが起動し、深淵から通路が上昇して壁が動いた。"
 
 #. [message]: speaker=unit
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:900
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:846
+#: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:902
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:988
 #, fuzzy
 msgid "This chest is empty."
 msgstr "ちぇ、この箱は空だ！"
@@ -8506,7 +8509,7 @@ msgstr ""
 #. [message]: role=supporter
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:255
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:481
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:485
 msgid "To arms!"
 msgstr "武器を取れ！"
 
@@ -8619,7 +8622,7 @@ msgstr "Ceel"
 #. [message]: speaker=Igor
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:418
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:940
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:941
 #: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:418
 msgid "Uh-oh."
 msgstr "うおぅ"
@@ -8687,7 +8690,7 @@ msgstr "さよなら、そして注視せよ"
 #. [side]: type=Orcish Slurbow, id=Tan Zalfargat
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:37
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:75
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:134
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:138
 #, fuzzy
 msgid "team_name^Mercenaries"
 msgstr "オーク"
@@ -9311,76 +9314,76 @@ msgid "Dungeon"
 msgstr "地下牢"
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:608
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:597
 msgid ""
 "In this scenario, you may only recall or recruit units during the first "
 "turn, in your starting area"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:610
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:599
 msgid ""
 "Only those units you recall or recruit during the first turn will be "
 "available for the remainder of the campaign"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:654
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:643
 msgid ""
 "A presence... A strong, dark presence fills this whole place, as if the "
 "floor and walls had a life of their own. I don’t like this."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:657
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:646
 msgid "Thus you dare enter my stronghold. You truly are a foolish hero, Galas."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:661
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:650
 msgid "... It’s that voice again."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:666
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:655
 msgid ""
 "Reveal yourself, coward who hides in the darkness! We have come here to put "
 "an end to your reign of chaos and suffering!"
 msgstr ""
 
 #. [message]: speaker=Erathan
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:677
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:666
 msgid "That metallic laughter sure sounded real to me."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:682
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:671
 msgid ""
 "He seems to want us to move forward, so let us be on the look out for traps. "
 "And... we need to find a way to open this gate."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:687
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:676
 msgid ""
 "Oh, please, courtesy is wasted in a place like this. Just blast them down or "
 "something."
 msgstr ""
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:748
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:737
 msgid ""
 "Drop your weapons this instant, elf, and the Master may yet show you and "
 "your friends mercy!"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:753
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:742
 msgid "Never! Onwards, everyone!"
 msgstr ""
 
 #. [transient_message]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:757
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:746
 msgid ""
 "Choose your recruits and recalls carefully. They will not require upkeep, "
 "but you should try to keep them alive for as long as possible; no other "
@@ -9388,31 +9391,82 @@ msgid ""
 msgstr ""
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:829
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:818
+msgid ""
+"The crate is full of metal parts. I guess they are meant for some kind of "
+"machine."
+msgstr ""
+
+#. [message]
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:835
+msgid "Books? What business do these fiends have reading <i>books</i>?"
+msgstr ""
+
+#. [message]
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:852
+msgid "It’s an empty crate."
+msgstr ""
+
+#. [message]
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:869
+msgid "It’s full of bread. Very stale bread."
+msgstr ""
+
+#. [message]
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:886
+msgid "It’s an empty barrel."
+msgstr ""
+
+#. [message]
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:903
+msgid ""
+"Oh gods... It’s full of fish! Argh! But we are in the middle of a desert, so "
+"where did they get them from?"
+msgstr ""
+
+#. [message]
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:920
+msgid "There seems to be nothing but coal in here."
+msgstr ""
+
+#. [message]
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:937
+msgid ""
+"It gives off such a foul smell I don’t think I want to see the contents. "
+"Let’s leave it alone, shall we?"
+msgstr ""
+
+#. [message]
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:954
+msgid "... Eyes. It’s full of eyes."
+msgstr ""
+
+#. [message]
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:971
 msgid ""
 "Hmph, why would anyone craft armor out of pure gold? Everyone knows it’s one "
 "of the softest materials on Irdya. These ostentatious fiends..."
 msgstr ""
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:863
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1005
 msgid "Yep, nothing to see here."
 msgstr ""
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:894
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1036
 msgid ""
 "It’s not like we will need the gold any time soon, but there is nothing "
 "wrong with a little plundering, right?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:916
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1058
 msgid "Invisibility Tonic"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:917
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1059
 msgid ""
 " • 1× clipped faerie wing\n"
 " • 1× eye of blood bat\n"
@@ -9426,12 +9480,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:944
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1086
 msgid "Chaos Warlord Field Report #452"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:945
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1087
 msgid ""
 "The elf sorceress is dead. I did not expect her to bring the entire cavern "
 "down on us; sadly for her, I simply dug my way out of the rubble with the "
@@ -9443,27 +9497,27 @@ msgid ""
 msgstr ""
 
 #. [unit]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1071
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1213
 msgid "Rurhló"
 msgstr ""
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1077
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1219
 msgid "Graurgh... Argh gaaaaa... (<i>roars</i>)"
 msgstr ""
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1083
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1225
 msgid "It’s hostile! Kill it!"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1101
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1243
 msgid "Lord Lédinor! Is that really you? What have these beasts done to you?!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1112
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1254
 msgid ""
 "He seems extremely unwell — no doubt he has been constantly tortured by his "
 "captors during all this time. I will have to treat him before he’ll be able "
@@ -9471,65 +9525,65 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1117
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1259
 msgid "If only we could take him back outside... Damn it!"
 msgstr ""
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1230
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1372
 msgid "Oh, just... great."
 msgstr ""
 
 #. [message]: speaker=Ra'aldir
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1235
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1377
 msgid "Seize the Lady of Light and kill the intruders!"
 msgstr ""
 
 #. [message]: speaker=Ra'aldir
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1251
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1393
 msgid "You... you will not succeed... You can’t kill... the Emperor..."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1263
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1405
 msgid "I don’t suspect anyone has actually tried before."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1282
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1424
 #, fuzzy
 msgid "Touchgem triggered. A gate opens."
 msgstr "仕掛けが起動した。魔法の門が開く。"
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1304
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1446
 msgid "Ah, that ought to do the trick."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1310
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1452
 msgid "Onwards!"
 msgstr ""
 
 #. [message]: speaker=Mal Vritra
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1385
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1527
 msgid ""
 "Ah, every story has to come to an end someday... even yours, Lady of Light..."
 msgstr ""
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1420
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1562
 msgid "Oh no... Uria be damned!"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1446
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1588
 #, fuzzy
 msgid "Not this again..."
 msgstr "もう一度やってみる"
 
 #. [message]: speaker=Cragworg
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1451
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1593
 msgid ""
 "Your foolishness ends here with your death, enemies of Uria! Her Voice "
 "requests that we prevent your advance towards the Gate of Inferno at all "
@@ -9537,51 +9591,51 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1456
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1598
 msgid ""
 "You mean the Chaos Emperor, right? I can’t believe your kind lets a lesser "
 "monster like him order you around like dogs."
 msgstr ""
 
 #. [message]: speaker=Aelyriun-Balal
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1461
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1603
 msgid ""
 "Don’t you dare speak ill of the Voice of Uria, elf scum! Cragworg, crush "
 "these disgusting vermin!"
 msgstr ""
 
 #. [message]: speaker=Aelyriun-Balal
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1476
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1618
 msgid "Not the Lady of Light, you worthless idiot!"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1491
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1633
 msgid ""
 "Is this our curse? To fight countless big shot enemies with death wishes?"
 msgstr ""
 
 #. [message]: speaker=Aelyriun-Balal
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1503
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1645
 msgid "Oh, Uria, I... have... failed..."
 msgstr ""
 
 #. [message]: speaker=Cragworg
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1519
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1661
 msgid ""
 "(<i>spits blood</i>) You have not seen the last of me! I am not... dying... "
 "today... (<i>collapses</i>)"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1534
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1676
 msgid ""
 "Ugh. Hopefully that’s the last time we will need to fight one of these "
 "drooling imps. Now, where do we go from here?"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1539
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1681
 msgid ""
 "They seemed determined not just to prevent our progress towards the ‘Gate’, "
 "but also to impede our access to the dungeon on this level. May I suggest we "
@@ -9589,18 +9643,18 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1544
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1686
 msgid "Yes, sounds good to me."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1565
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1707
 #, fuzzy
 msgid "I think I just heard a voice calling for help."
 msgstr "今、助けを呼ぶ声が聞こえたと思う。"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1570
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1712
 msgid ""
 "Galas, do you really want us to explore the whole place? We do not have all "
 "the time in the world, you know. Besides, I doubt the prisoners can be of "
@@ -9608,13 +9662,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1575
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1717
 msgid ""
 "It would be highly inhumane for us to leave them abandoned to their own luck!"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1580
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1722
 msgid ""
 "Very well, boy, do as you wish. I don’t really care! Should we lose precious "
 "time due to your insistence on helping all living things, that shall be "
@@ -9622,7 +9676,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1596
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1738
 msgid ""
 "I wonder if that’s all of them... It seems odd that the dungeon is almost "
 "completely empty. Perhaps they saw us coming and moved all of their "
@@ -9630,24 +9684,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1601
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1743
 msgid ""
 "Why would they bother? They have never seemed to be the kind who would take "
 "prisoners in the first place; Lord Lédinor’s presence here is highly unusual."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1606
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1748
 msgid "Yes, and that is... Hold on, I hear movement."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1640
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1782
 msgid "So I guess we don’t need to find a way to open that gate after all!"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1683
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1825
 msgid ""
 "And deeper underground we go. (<i>sighs</i>) Perhaps we should focus on "
 "finding that ‘Gate’ and close it off somehow before confronting the Emperor. "
@@ -9655,13 +9709,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1692
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1834
 msgid "... Elynia?"
 msgstr ""
 
 #. [message]: speaker=Elynia
 #. She is supposed to sound as though she's distracted with/by something else.
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1698
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1840
 msgid ""
 "Huh? Oh, sorry. You are asking about the portal to Inferno, right. I fear it "
 "might be a much more severe fissure in our reality than I originally "
@@ -9670,12 +9724,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1703
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1845
 msgid "So, you mean..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1708
+#: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:1850
 msgid "This whole city is the Gate."
 msgstr ""
 
@@ -9733,18 +9787,18 @@ msgid "Move Galas, Elynia, or Mal Keshar into the dark keep"
 msgstr ""
 
 #. [event]: id=Galas}
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:641
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:642
 msgid ""
 "Distract the enemy while Galas, Elynia, or Mal Keshar enter the dark keep"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:662
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:663
 msgid "There it is, the Heart of the Chaos Empire."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:667
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:668
 msgid ""
 "I figured the rumors weren’t too far from the truth, but this is ridiculous. "
 "How can these people afford such a ludicrous construction in the middle of "
@@ -9753,14 +9807,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:672
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:673
 msgid ""
 "The dwarven scouts report that another large battalion departed for the "
 "northwest just a few hours ago. So... I believe the time has come."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:677
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:678
 msgid ""
 "Looking at it in hindsight, there really was no way our infiltration mission "
 "wouldn’t turn into a full-fledged assault on the enemy capital. Perhaps it’s "
@@ -9768,12 +9822,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:682
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:683
 msgid "Eh..."
 msgstr "えっ……"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:687
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:688
 msgid ""
 "You know, ask us whether we are ready and then give us an overly dramatic "
 "discourse about the importance of this battle for the future of Irdya. It’s "
@@ -9781,42 +9835,42 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:692
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:693
 msgid "Right. Are we all ready for the battle ahead?"
 msgstr ""
 
 #. [message]: speaker=Igor
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:697
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:698
 msgid "Yes! I’m ready, master Galas!"
 msgstr ""
 
 #. [message]: speaker=Erathan
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:702
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:703
 msgid "My bow obediently awaits your orders, Lord Galas."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:707
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:708
 msgid "Let’s get this over with!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:712
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:713
 msgid "(<i>nods</i>)"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:717
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:718
 msgid "Then the battle for Irdya begins now. <b>Charge!!!</b>"
 msgstr ""
 
 #. [message]: speaker=Igor
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:722
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:723
 msgid "Wait, and what about the dramatic discourse the lady mentioned?"
 msgstr ""
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:727
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:728
 msgid ""
 "It appears Lord Galas has just given the order, lads. Ye know what to do! "
 "Don’t hold back! Kill every single one of these fiends! Avenge our fallen "
@@ -9824,17 +9878,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ilrymaea
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:737
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:738
 msgid "The elf lord and his consorts approach from the northeast, sir!"
 msgstr ""
 
 #. [message]: speaker=Limzer
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:742
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:743
 msgid "Dwarves! Dwarves on the northwestern hills! We are under attack!"
 msgstr ""
 
 #. [message]: speaker=General Erval
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:747
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:748
 msgid ""
 "Oh, ha ha! Are they truly this naïve? Do they believe we were not prepared "
 "for this contingency? Prepare for battle! Crush all these vermin to the "
@@ -9842,86 +9896,86 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:760
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:761
 msgid ""
 "(<i>bitterly</i>) And so my time has come again to serve as the elves’ "
 "living weapon. Even if I can hardly stand this much death and destruction..."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:765
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:766
 msgid "I hope you can forgive me for bringing you here."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:770
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:771
 msgid ""
 "Oh, Galas, don’t fret about it — by now this almost feels like daily "
 "routine. Besides, I told you before, I would have come on my own anyway."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:782
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:783
 msgid "<b>For Herthgar!!!</b>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:794
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:795
 msgid "For Lord Lédinor and our fallen comrades!"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:806
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:807
 msgid ""
 "He, he, he, he... It’s about time this place got a do-over befitting of gods "
 "who relish in death and destruction, don’t you think?"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:818
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:819
 #, fuzzy
 msgid "For Anlindë!"
 msgstr "Anlindë"
 
 #. [message]: speaker=General Erval
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:827
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:828
 msgid "Let us show these non-believers the real might of the Empire!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:832
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:833
 msgid "Galas, enemy troops are coming from behind!"
 msgstr ""
 
 #. [unit]: type=Demon Warrior, id=Umlayla
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:861
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:862
 msgid "Umlayla"
 msgstr ""
 
 #. [unit]: type=Chaos Magus, id=Ellerian
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:901
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:902
 msgid "Ellerian"
 msgstr ""
 
 #. [unit]: type=Chaos Lorekeeper, id=Mal Cyriath
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:916
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:917
 msgid "Mal Cyriath"
 msgstr ""
 
 #. [message]: speaker=Umlayla
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:935
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:936
 msgid "Surprise, Irdyan maggots!"
 msgstr ""
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:949
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:950
 msgid ""
 "Brace yourselves, boys! The Long Dark is upon our heels and ready to liven "
 "up this hell of a battle!"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:958
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:959
 msgid ""
 "Even though it’s taking us much longer than expected, the Chaos Emperor has "
 "yet to make an appearance. What if our information is incorrect and he is "
@@ -9929,7 +9983,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:963
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:964
 msgid ""
 "Nah, he’s probably in his chamber running in circles and flailing his arms "
 "like a lunatic while begging the goddesses for forgiveness! (<i>cackles</i>) "
@@ -9937,21 +9991,21 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:968
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:969
 msgid ""
 "Hm, yes. He is most certainly down there. He... and something else whose "
 "nature I cannot ascertain yet. Mal Keshar, you can feel it too, right?"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:973
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:974
 msgid ""
 "I try not to worry too much about these things, girl. Besides, what power "
 "could possibly stop two walking legends like us?"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:991
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:992
 msgid ""
 "Do you see how this dark fortress crumbles down already? Tell your goddess "
 "that <b>this</b> is the fate that awaits those who dare cross the peoples of "
@@ -9959,7 +10013,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1009
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1010
 msgid ""
 "If you meet your demon gods on the other side, tell them I will not stop "
 "until I have erased the very last trace of their influence on Irdya! Begone, "
@@ -9967,46 +10021,46 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1027
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1028
 msgid "We’ve failed the Master... How can this be... No... no!"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1032
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1033
 msgid "Yes, <b>yes</b>, <b>YES! AhahahahahahahaHAHAHAHAHA!!!</b>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1226
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1227
 msgid "Quickly! We have no time to waste."
 msgstr "早く！ 無駄に出来る時間は無い！"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1270
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1271
 msgid ""
 "You know, Galas... It’s very strange for somebody like me to say this but..."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1275
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1276
 msgid "What is it?"
 msgstr "何です？"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1280
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1281
 msgid ""
 "... Just stay close to me at all times. It would do us no good if the "
 "shadows took over your body again."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1285
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1286
 #, fuzzy
 msgid "... Very well."
 msgstr "結構です。"
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1290
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1291
 msgid ""
 "Alas, if Galas and the Lady are to succeed in their mission we must stay "
 "here and fend off the enemy reinforcements. I can’t help but wonder what "
@@ -10014,7 +10068,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1301
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1302
 msgid ""
 "This is hopeless, Galas. We took too long, and now enemy reinforcements are "
 "approaching from all directions!"
@@ -10028,19 +10082,19 @@ msgid "The Dark Hive"
 msgstr "暗い巣"
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:462
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:470
 msgid "Proceed deeper underground with Galas, Elynia, or Mal Keshar"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:481
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:489
 msgid ""
 "Elynia, what you are saying is simply preposterous! How could I possibly "
 "serve as a substitute for Argan’s powers! Unless..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:486
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:494
 msgid ""
 "As we descend deeper into this fortress, we get ever closer to Inferno, and "
 "to the source of their power. You are one of the most powerful dark "
@@ -10051,7 +10105,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:491
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:499
 msgid ""
 "I am not sure... if I even want to do this anymore. I am no hero! I should "
 "kill you and take the prize to hell with me! Actually, I guess that’s "
@@ -10059,7 +10113,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:496
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:504
 msgid ""
 "You did many things in the past, most of them crimes against people and "
 "life. But now, at the end of all things, you guided Galas and his loyal "
@@ -10070,12 +10124,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:501
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:509
 msgid "Would you prefer that fate over fighting a just cause one final time?"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:540
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:548
 msgid ""
 "Pah! To the Dark Gods with you and your stupid and pretentious motivations! "
 "I will help, but only because I am curious to see if I can really harness "
@@ -10084,31 +10138,158 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:545
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:553
 msgid "(<i>smiles</i>) I knew you would listen to reason, Malin."
 msgstr ""
 
 #. [message]: speaker=Erathan
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:551
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:559
 msgid ""
 "How can you people hand your lives to this lich on a silver platter like "
 "that! It defies all logic!"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:556
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:564
 msgid "Just like this mission, then?"
 msgstr ""
 
 #. [message]: speaker=$tmp_speaker
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:681
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:689
 msgid ""
 "We should avoid those dark and windy passages. With such evil creatures "
 "lurking around, we could get cornered and trapped."
 msgstr ""
 
 #. [scenario]: id=22B_Dark_Hive
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:704
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:701
+msgid ""
+"This dusty coffin contains the barely recognizable remains of what appears "
+"to be a human noble of some sort. “Vikren the First of Wesnoth.” It says he "
+"was some kind of important figure back in the old empire? Who knows what he "
+"would be doing down here in this infernal complex... Wait a moment. His body "
+"was placed here wearing some kind of magic ring. I sense a powerful magic "
+"stirring within somehow, even an eternity after his death. Do you think we "
+"should take it?"
+msgstr ""
+
+#. [scenario]: id=22B_Dark_Hive
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:702
+msgid ""
+"I have this distinct feeling that the magic in this ring would interact with "
+"the undead in ways we cannot possibly predict. Let us not attempt anything "
+"stupid while we are still on the run from that murderous woman, shall we?"
+msgstr ""
+
+#. [object]: id=revenant_ring
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:715
+#, fuzzy
+msgid "Ring of the Revenant"
+msgstr "再生の指輪"
+
+#. [dummy]: id=revenant_ring
+#. [object]: id=revenant_ring
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:728
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:717
+msgid ""
+"Any living creature wearing this ring is granted the power to cheat death "
+"once, after which the ring shall become inert for a thousand years."
+msgstr ""
+
+#. [dummy]: id=revenant_ring
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:727
+#, fuzzy
+msgid "ring of the revenant"
+msgstr "再生の指輪"
+
+#. [message]: speaker=Galas
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:743
+msgid "Wait... does a forest spirit count as a dead or a living creature?"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:748
+msgid "Why not both? I reckon this could be be a worthwhile experiment, he he."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:753
+msgid ""
+"I know not how this is possible, but the ring appears to have become firmly "
+"intertwined with my existence in a way I cannot begin to comprehend. I "
+"cannot remove it."
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:758
+msgid "I hope this doesn’t turn out to be a grave mistake later..."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:763
+msgid ""
+"You did not just say “grave mistake” while stealing an object from a grave, "
+"did you, Elynia?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:778
+msgid ""
+"Did we just give the ring to one of Mal Keshar’s pets? Seriously? Do you "
+"have any idea of the historical importance of this ring?"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:783
+msgid ""
+"Pah, it’s not like anyone else has a need for it right now. Why is it such a "
+"big deal?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:790
+msgid ""
+"Vikren of Wesnoth... I cannot seem to remember the details anymore, but I "
+"was once sent by... somebody... to find this man in Parthyn, a border "
+"stronghold. I was to convince him to start a revolt among the countryside’s "
+"populace and put an end to the anarchy that fractured the kingdom of "
+"Wesnoth. In time and with Argan’s help, we would take Weldyn back and found "
+"the Second Wesnothian Empire."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:795
+msgid ""
+"Hold on a moment, are you saying that <i>this</i> guy was from my hometown "
+"all along? What?? And <b>he</b> was responsible for that superfluous ball of "
+"fire circling Irdya alongside our original sun?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:800
+msgid ""
+"Naia was actually the creation of one of his descendants centuries later, "
+"not Vikren himself. Although he did once tell his people that he envisioned "
+"a monument to Wesnoth’s glory emblazoned on the vast night sky forever, so "
+"the inspiration certainly did come from him."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:805
+msgid ""
+"And you were responsible for his rise to a position that enabled him to "
+"inspire his progeny, huh?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:810
+msgid ""
+"As you can probably imagine, I am not too proud of that accomplishment these "
+"days. But we have tarried here for long enough — let us move on."
+msgstr ""
+
+#. [scenario]: id=22B_Dark_Hive
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:832
 msgid ""
 "The earliest modern attempts at recreating the biomechanical Shaxthals "
 "required us to imbue the experiment subjects with Uria’s life magic to "
@@ -10133,7 +10314,7 @@ msgid ""
 msgstr ""
 
 #. [scenario]: id=22B_Dark_Hive
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:710
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:838
 msgid ""
 "Only the elite order of Chaos Dreadcrafters led by Mal Hekuba knows the "
 "secrets of the manipulation and transformation of living creatures. It is "
@@ -10145,7 +10326,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:867
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:995
 msgid ""
 "Despite every obstacle placed just for you, you still believe you can "
 "continue and kill the Chaos Emperor in his own lair. I sorely underestimated "
@@ -10153,155 +10334,155 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:874
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1002
 msgid ""
-"Elynia, are we are close enough to Inferno already? There is absolutely no "
-"way we will be able to advance with her in our way!"
+"Elynia, are we close enough to Inferno already? There is absolutely no way "
+"we will be able to advance with her in our way!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:879
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1007
 msgid ""
 "We can try... but while we focus, you will need to protect us from the "
 "Warlord’s forces."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:884
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1012
 msgid "You heard her — protect them at all costs!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:900
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1028
 msgid "Move Elynia and Mal Keshar so they are on adjacent hexes"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:966
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1094
 msgid ""
 "Very well, Elynia... let us hope that your theory is correct and will not "
 "result in our destruction."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:971
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1099
 msgid "... I hope so as well."
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:977
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1105
 msgid "Protect Elynia and Mal Keshar from harm for $trance_turns turns"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:979
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1107
 msgid "Protect Elynia and Mal Keshar from harm for one more turn"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1154
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1282
 msgid "How... can this be? That power... the Union!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1159
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1287
 msgid "It worked! Malin, it worked!"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1164
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1292
 msgid ""
 "Yes... <b>YES!</b> Tremble before us, pathetic worms, and prepare to meet "
 "your gods!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1168
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1296
 msgid "Use the Union to take down the Chaos Warlord"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1247
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1375
 msgid "Hah! Our attacks actually have an effect on her now!"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1266
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1394
 msgid ""
 "We should not be attacking her directly, it is pointless! Let Elynia and Mal "
 "Keshar deal with her instead!"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1322
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1450
 #, fuzzy
 msgid "This is not over yet!"
 msgstr "これがそうだ！"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1346
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1474
 msgid "The coward is fleeing! We must not allow her to escape!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1379
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1507
 msgid "Track down and vanquish the Chaos Warlord"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1444
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1572
 #, fuzzy
 msgid "Uhhh... What is this?"
 msgstr "これは何だ？"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1468
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1596
 msgid "What the...?! Look, this place is floating over an infinite void!"
 msgstr ""
 
 #. [message]: speaker=Erathan
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1473
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1601
 #, fuzzy
 msgid "Dear Lords of Light!"
 msgstr "光の源"
 
 #. [message]: speaker=Igor
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1478
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1606
 msgid ""
 "Wait, I can see stars in it! So... the sky is below us? Are we walking "
 "upside-down then, or... Aaaargh, I’m so confused!!!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1483
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1611
 msgid ""
 "So this is what the bridge between our worlds looks like. Mal Keshar, we "
-"probably should avoid sending spirits across the void, lest them become "
+"probably should avoid sending spirits across the void, lest they become "
 "trapped in it."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1488
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1616
 msgid "Hm, indeed, that is a risk we cannot afford right now."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1505
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1633
 msgid "Darkness unto the enemies of Uria!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1534
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1662
 msgid "I doubt she will be able to keep this up for much longer."
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1566
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1694
 msgid "You just don’t know when to give up."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1571
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1699
 msgid ""
 "Neither do you. By now you have surely seen that the power of the Union can "
 "destroy you easily. Accept your fate and fight us instead of fleeing like a "
@@ -10309,7 +10490,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1591
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1724
 #, fuzzy
 msgid ""
 "By... (<i>clutching her face</i>) By the power you have bestowed upon me, "
@@ -10319,17 +10500,17 @@ msgstr ""
 "されます様に！"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1617
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1750
 msgid "My minion! You will pay for that, repulsive wench!"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1623
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1756
 msgid "My minions! You will pay for that, repulsive wench!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1661
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1794
 msgid ""
 "The combined power of Elynia and Mal Keshar hit the demoness one last time, "
 "shattering into her magic defense shield and sending her flying across the "
@@ -10338,25 +10519,25 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1701
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1834
 msgid ""
 "Go on, Elynia. Do what you must do. Now that I have failed, there’s no "
 "purpose left for me..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1706
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1839
 msgid "Who are you?"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1711
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1844
 #, fuzzy
 msgid "Why would I tell you?"
 msgstr "今、私はどうするべきかしら？"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1716
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1849
 msgid "I would feel much better about ending your miserable life if you did."
 msgstr ""
 
@@ -10364,7 +10545,7 @@ msgstr ""
 #. Intentionally not mentioning the Chaos Emperor's name here.
 #. Note that she's referring to him back when the empire did not
 #. even exist!
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1728
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1861
 msgid ""
 "I am Elyssa. I dedicated my life to studying the ancient Empire’s history "
 "from whatever remnants I could find amidst the sands. That is... before I "
@@ -10373,30 +10554,30 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1737
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1870
 msgid "Where is your master hiding?"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1746
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1879
 msgid "She’s not going to answer. Off with her head!"
 msgstr ""
 
 #. [message]: speaker=Elyssa
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1751
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1884
 msgid ""
 "You are not going to do it, are you? I can give you an answer... but only if "
 "you swear you will spare my life."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1756
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1889
 msgid ""
 "Don’t listen to her lies, Elynia! You know these creatures cannot be trusted!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1763
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1896
 msgid ""
 "Elynia stared directly into the demoness’ eyes, with a frightening "
 "expression of suppressed rage. Time seemed to stop for the watchers, but not "
@@ -10404,19 +10585,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1773
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1906
 msgid "Then, she spoke."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1778
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1911
 msgid ""
 "Tell me what you know and you can keep what little life you have left, as "
 "long as you get out of my sight as quickly as you can. Now out with it."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1783
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1916
 #, fuzzy
 msgid "But she..."
 msgstr "何だと……？！"
@@ -10425,7 +10606,7 @@ msgstr "何だと……？！"
 #. If your language has singular/plural 'you' ambiguity like
 #. English, try to use that for the "greatest fears" part of
 #. this line; otherwise make it plural.
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1795
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1928
 msgid ""
 "Do you see the passage ahead? Go through it, and you will be in Inferno. The "
 "entrance to his icy fortress is just across the snow following the tip of "
@@ -10435,18 +10616,18 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1800
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1933
 #, fuzzy
 msgid "Very well, then. Now, go."
 msgstr "それなら、結構。"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1816
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1949
 msgid "Why would you do this, Elynia? That woman is Anlindë’s murderer!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1821
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1954
 msgid ""
 "I cannot bring myself to kill someone so much weaker than I. It would be "
 "unfair... and cruel. You remember how the lich Mal Keshar came to be, do you "
@@ -10455,7 +10636,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1830
+#: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:1963
 msgid ""
 "Now, it’s time to go find the answers we seek. Let us see... if the Chaos "
 "Emperor can be stopped before the madness of this place consumes us as well."
@@ -10476,9 +10657,9 @@ msgid ""
 "Welcome, Lord Galas, to the Grand Council. We must say, we feel greatly "
 "honored by your presence here, in the Grand Council Chamber. To think that "
 "the forest elves managed to survive and thrive in the middle of the "
-"southeastern desert! It is truly a disgrace that we did not find out of your "
-"community before. All these blood and tears could have been avoided had we "
-"gone searching for civilizations hiding amidst the cruel sands."
+"southeastern desert! It is truly a disgrace that we did not find out about "
+"your community before. All these blood and tears could have been avoided had "
+"we gone searching for civilizations hiding amidst the cruel sands."
 msgstr ""
 
 #. [message]: speaker=Galas
@@ -11151,23 +11332,23 @@ msgid "Quogar Ratham"
 msgstr ""
 
 #. [side]: type=Death Knight, id=Tanstafaal
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:122
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:126
 msgid "Tanstafaal"
 msgstr ""
 
 #. [side]: type=Orcish Slurbow, id=Tan Zalfargat
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:152
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:156
 msgid "Tan Zalfargat"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:230
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:234
 #, fuzzy
 msgid "Death of Quogar Ratham"
 msgstr "Erathan の死"
 
 #. [message]: speaker=Quogar Ratham
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:251
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:255
 msgid ""
 "I must admit, it <b>is</b> a tempting deal... for other orcs, maybe, not us! "
 "We are not dogs who do all the hard work for inferior creatures like you in "
@@ -11176,7 +11357,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:256
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:260
 msgid ""
 "‘Inferior’ creatures, you say? How dare you insult us, when it is only "
 "thanks to our sacrifices that you may yet have a chance to maintain your "
@@ -11184,14 +11365,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:261
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:265
 msgid ""
 "Oh Galas, I told you, using words and diplomacy with these illiterate beasts "
 "will not get us anywhere."
 msgstr ""
 
 #. [message]: speaker=Quogar Ratham
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:266
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:270
 #, fuzzy
 msgid ""
 "Ha, and what do you propose then, lich? You’d rather kill us? What benefit "
@@ -11200,14 +11381,14 @@ msgstr ""
 "ハ、それでどうするつもりだ？ 俺達を殺すか？ それでお前に何の得があるんだ？"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:271
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:275
 msgid ""
 "I could at least quench my thirst! It has been days since I last felled one "
 "of your kind..."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:276
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:280
 msgid ""
 "Squabbling like children will not get us anywhere! This is not the time for "
 "resurrecting ancient conflicts. We must focus on fighting the real enemy "
@@ -11215,14 +11396,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quogar Ratham
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:281
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:285
 msgid ""
 "As if I would believe your fantasy tales, faerie. It’s obvious that you’re "
 "trying to trick us to obtain cheap war-beasts to solve your own problems."
 msgstr ""
 
 #. [message]: speaker=Erathan
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:286
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:290
 msgid ""
 "Our problems will eventually be yours as well. If you refuse to take part in "
 "our alliance, then we’ll not insist further — but know that you will receive "
@@ -11230,24 +11411,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:317
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:321
 msgid ""
 "Are those war drums I hear? So was it your plan all along to lure us into "
 "your domain to dispose of us, orc?"
 msgstr ""
 
 #. [message]: speaker=Quogar Ratham
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:322
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:326
 msgid "It is not, you decrepit sack of bones! Where do they come from?"
 msgstr ""
 
 #. [message]: speaker=Tan Zalfargat
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:329
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:333
 msgid "Hail there, ‘friend’!"
 msgstr ""
 
 #. [message]: speaker=Quogar Ratham
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:336
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:340
 msgid ""
 "What are you doing in <b>my</b> lands again?! Exactly how many times do I "
 "have to rub your face in the mud before you’ll give up your obsession with "
@@ -11255,7 +11436,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Tan Zalfargat
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:341
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:345
 msgid ""
 "Ha, see who speaks — the weakling who’s got a soft spot for the humans and "
 "their new tree-shagger friends! Sorry, but this time I don’t come alone. You "
@@ -11263,19 +11444,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Tan Zalfargat
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:361
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:365
 msgid "I brought new friends. <b>HA HA!</b>"
 msgstr ""
 
 #. [message]: speaker=Quogar Ratham
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:377
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:381
 msgid ""
 "Ah, so you deal with those rotten necromancers now as well? That makes no "
 "difference to me, really."
 msgstr ""
 
 #. [message]: speaker=Mal Hekuba
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:382
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:386
 msgid ""
 "I see the Emperor was right to suspect that the elves would team up with the "
 "northerners. Very well, heathens! This is the last time your kind escapes "
@@ -11284,13 +11465,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Erathan
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:387
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:391
 #, fuzzy
 msgid "What is that lich rambling about?"
 msgstr "その薄汚い黒魔術師は、何を大げさに喚いてるんだ？"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:392
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:396
 msgid ""
 "Iron Council? Hah! The Chaos Emperor must be getting desperate if he would "
 "resort to sending one of their foulest priests of Yechnagoth! I presume that "
@@ -11298,12 +11479,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:397
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:401
 msgid "Yechnagoth? But... She was vanquished... wasn’t she?"
 msgstr ""
 
 #. [message]: speaker=Mal Hekuba
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:402
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:406
 msgid ""
 "Those are blatant lies made up by heretics like you, elf. Her power still "
 "lives, and is greater now than ever thanks to Uria’s grace! Tanstafaal! Give "
@@ -11311,41 +11492,41 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Tanstafaal
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:407
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:411
 msgid ""
 "As you command, my master. By Eloh’s wrath I shall make you suffer for your "
 "betrayal!"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:436
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:440
 msgid "Zelru’el"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:438
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:442
 msgid "Galenea"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:440
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:444
 msgid "Avalien"
 msgstr ""
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:443
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:447
 msgid "Kaalnuil"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:448
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:452
 msgid ""
 "Curse the Dark Gods... those are elvish warriors! What is this new enemy we "
 "are facing?"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:456
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:460
 msgid ""
 "Althurin mentioned a rebel faction betraying the Quenoth elves while under "
 "Yechnagoth’s control. These spectres must have been created from their "
@@ -11354,14 +11535,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:461
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:465
 msgid ""
 "I don’t like the sound of this. Orc chieftain, you and your people had "
 "better stay clear of this battle. It is not yours to fight."
 msgstr ""
 
 #. [message]: speaker=Quogar Ratham
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:466
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:470
 msgid ""
 "Bah, I’m not running away like a puny elf just because of an undead "
 "incursion. I shall fight by your side. Odds are you will perish without our "
@@ -11369,12 +11550,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:471
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:475
 msgid "You pathetic piece of—"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:476
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:480
 #, fuzzy
 msgid ""
 "Malin, for the sake of... Can you not at least put your issues from your "
@@ -11384,7 +11565,7 @@ msgstr ""
 "戴！"
 
 #. [message]: speaker=Mal Hekuba
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:486
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:490
 msgid ""
 "By the power bestowed upon me by the Dark Lady, I call forth the shadows "
 "from beyond the veil! May these plains be devoid of joy and peace! May they "
@@ -11392,18 +11573,18 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Quogar Ratham
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:495
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:499
 msgid "Blargh! Where did this accursed fog come from?!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:577
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:581
 #, fuzzy
 msgid "Argh. This was <b>not</b> supposed to be my final day!"
 msgstr "あぁーっ。これが俺の最後の日だとは思わなかった……"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:589
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:593
 msgid ""
 "The orcish chieftain has fallen. It’s unlikely we’ll ever manage to obtain "
 "the orcs’ support now. Our mission has failed!"
@@ -11413,7 +11594,7 @@ msgstr ""
 #. As with other appearances before "Face of the enemy" later,
 #. try to make all references to the Chaos Warlord gender-neutral
 #. if at all possible without it sounding too awkward.
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:607
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:611
 msgid ""
 "Oh... Oh! Oh my, how could I not notice this before? The elves brought their "
 "precious Lady of Light with them! Hm, surely the Emperor would be pleased if "
@@ -11422,24 +11603,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:625
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:629
 msgid "Where are you, fiend?"
 msgstr ""
 
 #. [message]: speaker=Mal Hekuba
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:630
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:634
 msgid ""
 "Say, Lady of Light... Elynia is your name, right? Do you feel lonely? "
 "Without your dear partner, the fabled Master of Darkness?"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:635
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:639
 msgid "How I feel is none of your business."
 msgstr ""
 
 #. [message]: speaker=Mal Hekuba
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:644
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:648
 msgid ""
 "Ever since that fateful day you have asked yourself time and again why it "
 "had to happen. You are haunted by lingering doubt that you didn’t do enough. "
@@ -11449,14 +11630,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:649
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:653
 msgid ""
 "Elynia, focus on the battle at hand and pay no attention to this wretched "
 "scum."
 msgstr ""
 
 #. [message]: speaker=Mal Hekuba
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:654
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:658
 msgid ""
 "You and the other heathens don’t believe Uria is real; I can assure you "
 "otherwise. She is as real as she is beautiful, Elynia. And she can answer "
@@ -11466,72 +11647,72 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:659
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:663
 msgid "<b>Elynia!</b> I said, don’t listen to our enemy!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:664
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:668
 msgid ""
 "(<i>startled</i>) Huh?! Yes, yes... I am sorry, Galas, I... really shouldn’t "
 "heed his words..."
 msgstr ""
 
 #. [message]: speaker=Mal Hekuba
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:669
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:673
 msgid ""
 "Oh, Elynia, we all know your curiosity is insatiable. And, our Master is "
 "patient..."
 msgstr ""
 
 #. [message]: speaker=Mal Hekuba
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:742
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:746
 msgid ""
 "It is truly a pity that I must report back to our Master. But worry not, "
 "Elynia, for I will be back... eventually... Ha, ha, ha, ha!"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:761
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:765
 #, fuzzy
 msgid "I cannot hold against this darkness!"
 msgstr "こんなに濃い暗闇が相手じゃ、持ちこたえられないわ！"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:821
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:825
 msgid ""
 "Damn that wretched necromancer! He used the darkness to escape. Elynia, are "
 "you all right?"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:826
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:830
 msgid "I... think so... I feel a little lightheaded, that’s all."
 msgstr ""
 
 #. [message]: speaker=Tan Zalfargat
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:831
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:835
 msgid ""
 "Huh? <b>WHAT?!</b> I should have known better than to trust a lich. I guess "
 "I’ll have to finish this by myself."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:849
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:853
 msgid ""
 "Rest in peace, Tanstafaal. Even if you betrayed our kinsmen, to roam the "
 "world in undeath is not a fate I would wish for anyone."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:854
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:858
 msgid ""
 "Their devotion to an impostor goddess has allowed them to persist in this "
 "world for centuries. It’s quite perturbing to see."
 msgstr ""
 
 #. [message]: speaker=Quogar Ratham
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:877
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:881
 msgid ""
 "Well, well, now you are finished. Your undead companions have either been "
 "smashed to dust or have fled in shame, and we have got you cornered. Any "
@@ -11539,14 +11720,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Tan Zalfargat
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:882
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:886
 msgid ""
 "Bah, I still stand on my feet — that is enough to defeat you! This time I "
 "will not be merciful with you or your kin!"
 msgstr ""
 
 #. [message]: speaker=Quogar Ratham
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:897
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:901
 msgid ""
 "So, how many more upstarts like this should I expect now that those dark "
 "cultists have infiltrated our lands? I suppose there is some value in "
@@ -11554,34 +11735,34 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:902
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:906
 msgid "So you will accept the Grand Council’s proposal, then?"
 msgstr ""
 
 #. [message]: speaker=Quogar Ratham
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:907
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:911
 msgid "Of course. As long as you people honor the pact, so shall we."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:912
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:916
 msgid ""
 "... Pah! You are all such disgusting creatures. You and everyone else who "
 "allies with these orcs."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:917
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:921
 msgid "Galas, about that suicidal infiltration mission of yours..."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:922
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:926
 msgid "Yes?"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:927
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:931
 msgid ""
 "I have decided to go with you after all. I don’t necessarily agree that your "
 "plan is a good idea, but... There is something deeply troubling about this "
@@ -11592,7 +11773,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:932
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:936
 msgid ""
 "Elynia, if the Chaos Emperor is after you like the lich’s words implied, I "
 "think it would be preferable if you stayed here in the north’s safety — I "
@@ -11600,7 +11781,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:937
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:941
 msgid ""
 "I thought you wanted me by your side anyway, Galas, if only to provide you "
 "with useful counsel now that Anlindë is gone. Besides, what is there to stop "
@@ -11608,37 +11789,37 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:946
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:950
 msgid "I do need your help. I really do."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:951
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:955
 #, fuzzy
 msgid "Well, then."
 msgstr "それなら、結構。"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:960
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:964
 msgid ""
 "And... I hope you can forgive me for not consulting you about our mission "
 "before."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:965
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:969
 msgid ""
 "Oh, don’t worry. (<i>chuckles</i>) I have a whole eternity ahead of me to "
 "decide."
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:970
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:974
 msgid "I... That’s not very reassuring. But I am taking that as a ‘yes’."
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:975
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:979
 msgid ""
 "(<i>smiles</i>) Just remember to trust me as you would a friend, Galas. I "
 "promise to do my very best to help you, no matter what situation you get us "
@@ -11646,7 +11827,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:984
+#: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:988
 msgid ""
 "No, I will not forgive you, Galas! I hope your death will be as painful as "
 "it will be ironic."
@@ -15813,6 +15994,63 @@ msgstr "あぁーっ！ これが儂の終わりか。"
 msgid "We were supposed to protect the king of Herthgar!"
 msgstr ""
 
+#. [message]: speaker=narrator
+#: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:378
+msgid "The Ring of the Revenant glows in the nick of time..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:396
+msgid "A powerful force... it is pulling my soul... argh..."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:401
+msgid "Um... this doesn’t seem good. Noooot good at all."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:406
+msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAH—"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:468
+#, fuzzy
+msgid "Wha— what happened?"
+msgstr "何が起きた？"
+
+#. [message]: speaker=Galas
+#: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:473
+msgid "The ring brought her back to life...?"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:478
+msgid ""
+"I suppose that’s one possible way to look at it. Faerie spirits are "
+"perpetually stuck in an intermediate state between life and death, between "
+"the material and spirit realms. That ring that once belonged to the second "
+"Wesnothian Emperor fully pulled her back into ours... or wherever we are, "
+"actually."
+msgstr ""
+
+#. [message]: speaker=Igor
+#: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:494
+msgid "She’s so pretty!"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#. He's saying she will be killed and used as raw material for wood-related
+#. commercial activities, of course.
+#: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:501
+msgid ""
+"I would not mess with a half-faerie half-tree creature if I were you. Only "
+"heartbreak lies that way. Plus she will probably inspire someone to pursue a "
+"career in furniture design before we are done with our little adventure — if "
+"you know what I mean."
+msgstr ""
+
 #. [transient_message]
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:14
 #, fuzzy
@@ -16011,30 +16249,35 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/macros/items.cfg:123
 msgid ""
-"The unit picks up the bow, and immediately feels a chilling energy coming "
-"from it, flowing to their body. Albeit it looks like an ordinary bow, they "
-"take an ordinary arrow and shoot it at a snake wandering nearby, dealing "
-"great damage to it, and apparently poisoning it too."
+"The unit picks up the ordinary-looking bow, and immediately feels a chilling "
+"energy flow to their body. Out of curiosity, they decide to shoot a nearby "
+"wandering rat with it. The hapless creature begins emanating a disgusting "
+"smell like a concentrated mix of urine and decomposing flesh as it convulses "
+"and promptly dies."
 msgstr ""
-"ユニットが弓を拾うと、直ちにそこからぞっとするような力が来て、彼の体に注がれ"
-"ます。平凡な弓の様に見えるにも関わらず、その辺をうろうろしていた蛇に普通の矢"
-"を放つと大きな損害を与え、どうやら毒に犯されてもいるらしいです。"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/macros/items.cfg:127
+#: Invasion_from_the_Unknown/macros/items.cfg:128
 msgid ""
-"We have never used poison on our weapons, or allowed its usage, but I guess "
-"this situation will require it."
+"We have never allowed the use of poison out of compassion towards the "
+"living, but our enemies do not seem to particularly care about such things "
+"themselves."
 msgstr ""
-"我々は、武器に毒を使った事はないし、それを許した事もないが、しかし、この状況"
-"ではそれも必要なのだろう。"
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/macros/items.cfg:133
+msgid ""
+"(<i>cackles</i>) Good, good. You have become quite the competent war leader, "
+"boy. Do not let such petty things as old-fashioned war customs discourage "
+"you from expanding your horizons."
+msgstr ""
 
 #. [effect]: type=pierce
-#: Invasion_from_the_Unknown/macros/items.cfg:133
+#: Invasion_from_the_Unknown/macros/items.cfg:139
 msgid "poisonous bow"
 msgstr "毒の弓"
 
-#: Invasion_from_the_Unknown/macros/items.cfg:171
+#: Invasion_from_the_Unknown/macros/items.cfg:177
 #, fuzzy
 msgid ""
 "How could this beautiful armor be abandoned in these deep caves? I suppose "
@@ -16049,18 +16292,18 @@ msgstr ""
 "ドの戦士にぴったりと合うだろう。戦闘用の装備は、かなり不足しているし、我々が"
 "借りて使っても元の持ち主は気にしないだろう。"
 
-#: Invasion_from_the_Unknown/macros/items.cfg:172
+#: Invasion_from_the_Unknown/macros/items.cfg:178
 #, fuzzy
 msgid "Only a trained warrior may don this armor!"
 msgstr "強力な戦士だけがこの鎧を身に着けられるでしょう！"
 
 #. [object]: id={ID}
-#: Invasion_from_the_Unknown/macros/items.cfg:176
+#: Invasion_from_the_Unknown/macros/items.cfg:182
 msgid "Void Armor"
 msgstr "虚無の鎧"
 
 #. [object]: id={ID}
-#: Invasion_from_the_Unknown/macros/items.cfg:178
+#: Invasion_from_the_Unknown/macros/items.cfg:184
 msgid ""
 "A beautiful chest plate crafted from shimmering black steel, the Void Armor "
 "is virtually impenetrable to physical weapons!"
@@ -16069,7 +16312,7 @@ msgstr ""
 "は、殆ど突き通せません！"
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/macros/items.cfg:209
+#: Invasion_from_the_Unknown/macros/items.cfg:215
 msgid ""
 "You struggle to lift and don the heavy plate. Once worn, however, it is "
 "amazingly comfortable. You have increased resistance to all physical damage!"
@@ -16079,12 +16322,12 @@ msgstr ""
 "ました！"
 
 #. [value]: id=void_armor
-#: Invasion_from_the_Unknown/macros/items.cfg:225
+#: Invasion_from_the_Unknown/macros/items.cfg:231
 msgid "void armor"
 msgstr "虚無の鎧"
 
 #. [value]: id=void_armor
-#: Invasion_from_the_Unknown/macros/items.cfg:226
+#: Invasion_from_the_Unknown/macros/items.cfg:232
 #, fuzzy
 msgid ""
 "The Void Armor grants the following resistances:\n"
@@ -16100,103 +16343,103 @@ msgstr ""
 "打撃:  60%\n"
 "火炎: +10%"
 
-#: Invasion_from_the_Unknown/macros/items.cfg:253
+#: Invasion_from_the_Unknown/macros/items.cfg:259
 msgid ""
 "The arrows in this barrel are some of the most expensive weaponry ever "
 "devised by the dwarves of Herthgar, although most of the credit for the "
 "design goes to their fallen kin in Gnalvarden. Each arrow shaft has tiny "
 "runes engraved on them that react upon entering a living target and ignite "
-"the explosive tip. The explosion it causes an amount of damage not just to "
+"the explosive tip. The resulting explosion deals great damage not just to "
 "the arrow’s target, but also to anything directly behind it. Surely this "
 "will come in handy later on, but we should make sure to hand these only to a "
 "very skilled archer so as to avoid wasting them — besides, it would not do "
 "for a novice to accidentally blow up one of our own."
 msgstr ""
 
-#: Invasion_from_the_Unknown/macros/items.cfg:254
+#: Invasion_from_the_Unknown/macros/items.cfg:260
 msgid ""
 "These arrows are more befitting for a skilled archer, which I certainly am "
 "not."
 msgstr ""
 
 #. [object]: id=explosive_rune_arrows
-#: Invasion_from_the_Unknown/macros/items.cfg:258
+#: Invasion_from_the_Unknown/macros/items.cfg:264
 msgid "Explosive Runic Arrows"
 msgstr ""
 
 #. [object]: id=explosive_rune_arrows
-#: Invasion_from_the_Unknown/macros/items.cfg:260
+#: Invasion_from_the_Unknown/macros/items.cfg:266
 msgid ""
 "When used against a living target, these arrows will explode dealing 80% "
 "damage to the unit directly behind it, regardless of its allegiance or type."
 msgstr ""
 
 #. [effect]: type=fire
-#: Invasion_from_the_Unknown/macros/items.cfg:268
+#: Invasion_from_the_Unknown/macros/items.cfg:274
 msgid "explosive arrows (6)"
 msgstr ""
 
 #. [literal]
-#: Invasion_from_the_Unknown/macros/items.cfg:345
+#: Invasion_from_the_Unknown/macros/items.cfg:351
 msgid "explosive arrows"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/macros/items.cfg:368
+#: Invasion_from_the_Unknown/macros/items.cfg:374
 msgid ""
 "Careful! It would hurt me to lose one of our men by accidentally triggering "
 "an explosive artifact like those."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/macros/items.cfg:373
+#: Invasion_from_the_Unknown/macros/items.cfg:379
 msgid "(<i>gulp</i>) I will make sure to handle them with care, sir."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/macros/items.cfg:379
+#: Invasion_from_the_Unknown/macros/items.cfg:385
 msgid ""
 "Heh. I don’t even need to worry about them accidentally exploding in my "
 "quiver!"
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/macros/items.cfg:384
+#: Invasion_from_the_Unknown/macros/items.cfg:390
 msgid "He he, yes, indeed. Is it not great?"
 msgstr ""
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/macros/items.cfg:389
+#: Invasion_from_the_Unknown/macros/items.cfg:395
 msgid "Just make sure to aim those at our enemies, Mal Keshar."
 msgstr ""
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/macros/items.cfg:394
+#: Invasion_from_the_Unknown/macros/items.cfg:400
 msgid "Pah, distrustful much?"
 msgstr ""
 
-#: Invasion_from_the_Unknown/macros/items.cfg:404
+#: Invasion_from_the_Unknown/macros/items.cfg:410
 msgid ""
 "As I lift this enchanted bow, my vision appears to become sharper! This will "
 "surely prove useful later."
 msgstr ""
 
-#: Invasion_from_the_Unknown/macros/items.cfg:405
+#: Invasion_from_the_Unknown/macros/items.cfg:411
 msgid "Only a strong and experienced archer could possibly draw this bow!"
 msgstr ""
 
 #. [object]: id=accuracy_bow
-#: Invasion_from_the_Unknown/macros/items.cfg:409
+#: Invasion_from_the_Unknown/macros/items.cfg:415
 msgid "Enchanted Longbow of Visual Acuity"
 msgstr ""
 
 #. [object]: id=accuracy_bow
-#: Invasion_from_the_Unknown/macros/items.cfg:411
+#: Invasion_from_the_Unknown/macros/items.cfg:417
 msgid ""
 "The unit’s ranged attacks are permanently given the Marksman weapon special."
 msgstr ""
 
-#: Invasion_from_the_Unknown/macros/items.cfg:431
+#: Invasion_from_the_Unknown/macros/items.cfg:437
 msgid ""
 "I feel a chilly aura around this sword. I wonder if... All right, woah, even "
 "the hilt is extremely cold to the touch! The blade freezes everything it "
@@ -16205,17 +16448,17 @@ msgid ""
 "should wield this weapon."
 msgstr ""
 
-#: Invasion_from_the_Unknown/macros/items.cfg:432
+#: Invasion_from_the_Unknown/macros/items.cfg:438
 msgid "Only a living sword user can wield this sword!"
 msgstr ""
 
 #. [object]: id=chilling_blade
-#: Invasion_from_the_Unknown/macros/items.cfg:436
+#: Invasion_from_the_Unknown/macros/items.cfg:442
 msgid "Glacial Gladius"
 msgstr ""
 
 #. [object]: id=chilling_blade
-#: Invasion_from_the_Unknown/macros/items.cfg:438
+#: Invasion_from_the_Unknown/macros/items.cfg:444
 msgid ""
 "While wielding this sword, the unit’s melee attack damage is increased by +1 "
 "and deals cold damage. Additionally, the unit’s maximum hitpoints are "
@@ -16223,11 +16466,11 @@ msgid ""
 msgstr ""
 
 #. [effect]
-#: Invasion_from_the_Unknown/macros/items.cfg:446
+#: Invasion_from_the_Unknown/macros/items.cfg:452
 msgid "glacial gladius"
 msgstr ""
 
-#: Invasion_from_the_Unknown/macros/items.cfg:472
+#: Invasion_from_the_Unknown/macros/items.cfg:478
 msgid ""
 "The scroll next to this amulet says: “This artifact imbues projectiles shot "
 "by the bearer with strong arcane energy, casting fear upon their unholy "
@@ -16235,37 +16478,37 @@ msgid ""
 "actual use for it."
 msgstr ""
 
-#: Invasion_from_the_Unknown/macros/items.cfg:473
+#: Invasion_from_the_Unknown/macros/items.cfg:479
 msgid "Only mundane creatures can use this amulet."
 msgstr ""
 
 #. [object]: id=arcane_shot_amulet
-#: Invasion_from_the_Unknown/macros/items.cfg:477
+#: Invasion_from_the_Unknown/macros/items.cfg:483
 #, fuzzy
 msgid "Amulet of the Divine Breeze"
 msgstr "秘術の流れの御守り"
 
 #. [object]: id=arcane_shot_amulet
-#: Invasion_from_the_Unknown/macros/items.cfg:480
+#: Invasion_from_the_Unknown/macros/items.cfg:486
 msgid ""
 "This amulet will grant the bearer arcane power to their ranged attacks, and "
 "increases their resistance to arcane damage by 10%."
 msgstr ""
 
-#: Invasion_from_the_Unknown/macros/items.cfg:509
+#: Invasion_from_the_Unknown/macros/items.cfg:515
 msgid ""
 "It is a strength potion. The flask contains only enough for one person, but "
 "surely it will come in handy when we finally confront that Chaos Emperor. "
 "Who should take it?"
 msgstr ""
 
-#: Invasion_from_the_Unknown/macros/items.cfg:510
-#: Invasion_from_the_Unknown/macros/items.cfg:549
+#: Invasion_from_the_Unknown/macros/items.cfg:516
+#: Invasion_from_the_Unknown/macros/items.cfg:555
 msgid "This potion can only be used by living beings. Let another take it."
 msgstr "この秘薬は、生きた者にだけ使えます。他の者に飲ませて下さい。"
 
 #. [object]: id=s21_strength_potion
-#: Invasion_from_the_Unknown/macros/items.cfg:521
+#: Invasion_from_the_Unknown/macros/items.cfg:527
 #, fuzzy
 msgid ""
 "The drinker’s strength is increased, adding 1 damage point to their melee "
@@ -16274,19 +16517,19 @@ msgstr ""
 "飲んだ者の体力は暫くの間増加し、格闘で与えるダメージは2増え、最大HPが8増えま"
 "す。"
 
-#: Invasion_from_the_Unknown/macros/items.cfg:548
+#: Invasion_from_the_Unknown/macros/items.cfg:554
 msgid ""
 "This potion is supposed to make one more agile. I wonder if this is what "
 "makes those demons so hard to hit rather than natural skill."
 msgstr ""
 
 #. [object]: id=s21_deftness_potion
-#: Invasion_from_the_Unknown/macros/items.cfg:557
+#: Invasion_from_the_Unknown/macros/items.cfg:563
 msgid "Potion of Deftness"
 msgstr "器用さの秘薬"
 
 #. [object]: id=s21_deftness_potion
-#: Invasion_from_the_Unknown/macros/items.cfg:560
+#: Invasion_from_the_Unknown/macros/items.cfg:566
 #, fuzzy
 msgid ""
 "This magic potion will increase the drinker’s movement points by one, and "
@@ -16487,37 +16730,37 @@ msgid "Feedback and bug reports:"
 msgstr ""
 
 #: Invasion_from_the_Unknown/_main.cfg:74
-msgid "for Wesnoth 1.14"
+msgid "for Wesnoth 1.14.3 and later"
 msgstr ""
 
 #: Invasion_from_the_Unknown/_main.cfg:77
-msgid "for Wesnoth 1.15.4 and later (experimental)"
+msgid "for Wesnoth 1.15.12 and later (experimental)"
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:87
+#: Invasion_from_the_Unknown/_main.cfg:88
 msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
 msgstr ""
 
-#: Invasion_from_the_Unknown/_main.cfg:106
+#: Invasion_from_the_Unknown/_main.cfg:107
 msgid "To be continued..."
 msgstr "続く……"
 
-#: Invasion_from_the_Unknown/_main.cfg:125
+#: Invasion_from_the_Unknown/_main.cfg:126
 #, fuzzy
 msgid "Easy"
 msgstr "（簡単）"
 
-#: Invasion_from_the_Unknown/_main.cfg:126
+#: Invasion_from_the_Unknown/_main.cfg:127
 #, fuzzy
 msgid "Normal"
 msgstr "（普通）"
 
-#: Invasion_from_the_Unknown/_main.cfg:127
+#: Invasion_from_the_Unknown/_main.cfg:128
 msgid "Hard"
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:133
+#: Invasion_from_the_Unknown/_main.cfg:134
 msgid ""
 "Long after the Fall, the last forest elves on the Great Continent are forced "
 "to abandon their secluded home and forge an unprecedented alliance in hopes "
@@ -16529,25 +16772,25 @@ msgid ""
 msgstr ""
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:141
+#: Invasion_from_the_Unknown/_main.cfg:142
 #, fuzzy
 msgid "difficulty_menu^Ascetic"
 msgstr "隊長"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:142
+#: Invasion_from_the_Unknown/_main.cfg:143
 #, fuzzy
 msgid "difficulty_menu^Mystic"
 msgstr "元帥"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:143
+#: Invasion_from_the_Unknown/_main.cfg:144
 #, fuzzy
 msgid "difficulty_menu^Avatar"
 msgstr "隊長"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:147
+#: Invasion_from_the_Unknown/_main.cfg:148
 #, fuzzy
 msgid ""
 "As the dark veil of Chaos engulfs the land, an assorted group of foolish "
@@ -16562,19 +16805,19 @@ msgstr ""
 "な生者と死者の戦士達を勝利に導き、失われた歴史の秘密を再発見せよ。"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:155
+#: Invasion_from_the_Unknown/_main.cfg:156
 #, fuzzy
 msgid "difficulty_menu^Disciple"
 msgstr "戦士"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:156
+#: Invasion_from_the_Unknown/_main.cfg:157
 #, fuzzy
 msgid "difficulty_menu^Lich"
 msgstr "戦士"
 
 #. [campaign]
-#: Invasion_from_the_Unknown/_main.cfg:157
+#: Invasion_from_the_Unknown/_main.cfg:158
 #, fuzzy
 msgid "difficulty_menu^Ancient Lich"
 msgstr "戦士"
@@ -16620,6 +16863,23 @@ msgstr "更なる感謝を"
 #: Invasion_from_the_Unknown/about.cfg:313
 msgid "You, for playing this campaign"
 msgstr "このキャンペーンをプレイしているあなた"
+
+#~ msgid ""
+#~ "The unit picks up the bow, and immediately feels a chilling energy coming "
+#~ "from it, flowing to their body. Albeit it looks like an ordinary bow, "
+#~ "they take an ordinary arrow and shoot it at a snake wandering nearby, "
+#~ "dealing great damage to it, and apparently poisoning it too."
+#~ msgstr ""
+#~ "ユニットが弓を拾うと、直ちにそこからぞっとするような力が来て、彼の体に注が"
+#~ "れます。平凡な弓の様に見えるにも関わらず、その辺をうろうろしていた蛇に普通"
+#~ "の矢を放つと大きな損害を与え、どうやら毒に犯されてもいるらしいです。"
+
+#~ msgid ""
+#~ "We have never used poison on our weapons, or allowed its usage, but I "
+#~ "guess this situation will require it."
+#~ msgstr ""
+#~ "我々は、武器に毒を使った事はないし、それを許した事もないが、しかし、この状"
+#~ "況ではそれも必要なのだろう。"
 
 #, fuzzy
 #~ msgid "Vitality: hitpoints +3 ‹Max XP +20%›"
