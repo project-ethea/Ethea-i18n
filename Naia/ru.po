@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-03 05:08 UTC\n"
-"PO-Revision-Date: 2021-04-29 21:49+0300\n"
+"PO-Revision-Date: 2021-05-03 11:09+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 2.4.3\n"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:228
@@ -201,6 +201,20 @@ msgid ""
 msgstr ""
 "Следующие дополнения несовместимы с %s и должны быть удалены для продолжения:"
 
+# Русский перевод названий структур Верлисшей использует следующие сокращения:
+# Tr    = Trunk <=> Ств = Ствол
+# Br    = Branch <=> Втв = Ветвь
+# Jnc   = Junction <=> Узл = Узел
+# Co    = Core <=> Ядр = Ядро
+# Le    = Leaf <=> Лст = Лист
+# Rt    = Root <=> Кор = Корень
+# Aux   = Auxiliary <=> Всп = Вспомогательный
+# Lo    = Lower <=> Нжн = Нижний
+# Up    = Upper <=> Врх = Верхний
+# Prt   = Port <=> Прт = Порт
+#  Ln    = Line <=> Лин = Линия
+# Par   = Parallel <=> Прл = Параллель
+# --kabachuha
 #. Generator for Verlissh machine part names; see <https://wiki.wesnoth.org/Context-free_grammar> for the
 #. syntax documentation.
 #. .
@@ -230,6 +244,9 @@ msgid ""
 "TRANSLATORS: the comment attached to this msgid applies to the next two "
 "entries"
 msgstr ""
+"ПЕРЕВОДЧИКАМ: пояснения насчёт обозначений в следующих двух блоках находятся "
+"в комментарии автора и в комментарии переводчика (щелкните 'Править "
+"комментарий' в poedit) к этому блоку --kabachuha"
 
 #: Naia/lua/units.lua:43
 msgid ""
@@ -246,6 +263,18 @@ msgid ""
 "number=%\n"
 "upalpha=@\n"
 msgstr ""
+"main={structure_type} {id}\n"
+"\n"
+"structure_type=Отв|Узл|Всп|Нжн|Врх|Лин|Прл\n"
+"\n"
+"id={series}{unitno}|{series}{unitno_suffixed}\n"
+"series={upalpha}|{upalpha}{upalpha}\n"
+"unitno={number}{number}{number}{number}-{number}{number}\n"
+"unitno_suffixed={number}{number}{number}{number}-{number}{suffix}\n"
+"suffix=А|Б|В|Г|Д|Е\n"
+"\n"
+"number=%\n"
+"upalpha=@\n"
 
 #: Naia/lua/units.lua:57
 msgid ""
@@ -261,6 +290,17 @@ msgid ""
 "number=%\n"
 "upalpha=@\n"
 msgstr ""
+"main={node_type} {id}\n"
+"\n"
+"node_type=Ядр|Цнтр|Узл|Всп|Кор|Ств|Лст|Прт\n"
+"\n"
+"id={series}{unitno}|{series}{unitno}{suffix}\n"
+"series={upalpha}|{upalpha}{upalpha}\n"
+"unitno={number}-{number}{number}\n"
+"suffix=А|Б|В|Г|Д|Е|α|β|γ\n"
+"\n"
+"number=%\n"
+"upalpha=@\n"
 
 #. [unit_type]: id=Fungoid, race=monster
 #: Naia/units/monsters/Fungoid.cfg:5
@@ -1395,7 +1435,7 @@ msgstr ""
 #. [unit_type]: id=Verlissh Matrix Flow System, race=verlissh
 #: Naia/units/verlissh/Matrix_Flow_System.cfg:5
 msgid "Matrix Structural"
-msgstr ""
+msgstr "Магистраль Матрицы"
 
 #. [attack]: type=pierce
 #: Naia/units/verlissh/Matrix_Flow_System.cfg:41
@@ -3332,36 +3372,32 @@ msgstr ""
 "существованию, займёт его место."
 
 #: Naia/macros/abilities.cfg:228
-#, fuzzy
 msgid "energize+5/15%"
-msgstr "заряженный"
+msgstr "заряжает+5/15%"
 
 #: Naia/macros/abilities.cfg:229
-#, fuzzy
 msgid ""
 "This unit heals adjacent allied units possessing the ‘biomechanical’ by 5 HP "
 "at the start of every turn, and grants them a 15% resistance bonus (up to a "
 "maximum of 40%)."
 msgstr ""
-"В случае, если он не замедлен, этот боец предоставляет соседним союзным "
-"биомеханическим бойцам 25% добавку ко всему наносимому урону и повышение "
-"сопротивляемости на 10%."
+"Этот боец восстанавливает соседним союзным биомеханическим бойцам 5 ЗД в "
+"начале каждого хода и предоставляет 15% добавку сопротивляемости (вплоть до "
+"границы в 40%)."
 
 #: Naia/macros/abilities.cfg:236
-#, fuzzy
 msgid "energize+10/30%"
-msgstr "заряженный"
+msgstr "заряжает+10/30%"
 
 #: Naia/macros/abilities.cfg:237
-#, fuzzy
 msgid ""
 "This unit heals adjacent allied units possessing the ‘biomechanical’ by 10 "
 "HP at the start of every turn, and grants them a 30% resistance bonus (up to "
 "a maximum of 70%)."
 msgstr ""
-"В случае, если он не замедлен, этот боец предоставляет соседним союзным "
-"биомеханическим бойцам 25% добавку ко всему наносимому урону и повышение "
-"сопротивляемости на 10%."
+"Этот боец восстанавливает соседним союзным биомеханическим бойцам 10 ЗД в "
+"начале каждого хода и предоставляет 30% добавку сопротивляемости (вплоть до "
+"границы в 70%)."
 
 #. [heals]: id=sylvan_essence_healing_and_curing
 #. [illuminates]: id=sylvan_essence_illum
@@ -3785,7 +3821,7 @@ msgstr ""
 "бойцов, поэтому удостоверьтесь, что они разрешены настройками (<b>Настройки</"
 "b> → <b>Графика</b>)."
 
-#. [advancement]: id={_ID}, description= 
+#. [advancement]: id={_ID}, description=
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr "‹Макс ОП +15%›"
