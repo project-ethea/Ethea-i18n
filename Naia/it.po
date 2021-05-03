@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-04-29 07:40 UTC\n"
+"POT-Creation-Date: 2021-05-03 05:08 UTC\n"
 "PO-Revision-Date: 2012-04-06 18:36+0100\n"
 "Last-Translator: Aleph <alemalito@hotmail.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -192,6 +192,67 @@ msgid ""
 msgstr ""
 "Stanno bloccando il nostro percorso attraverso le montagne. Dobbiamo "
 "sconfiggerli prima di continuare."
+
+#. Generator for Verlissh machine part names; see <https://wiki.wesnoth.org/Context-free_grammar> for the
+#. syntax documentation.
+#. .
+#. Try to keep `structure_type` and `node_type` as short as possible, using abbreviations (WITHOUT dots)
+#. if necessary. Bonus points if you use technical or obscure words for this.
+#. .
+#. The original English version uses the following abbreviated forms:
+#. .
+#. * Tr    = Trunk
+#. * Br    = Branch
+#. * Jnc   = Junction
+#. * Co    = Core
+#. * Le    = Leaf
+#. * Rt    = Root
+#. * Aux   = Auxiliary
+#. * Lo    = Lower
+#. * Up    = Upper
+#. * Prt   = Port
+#. * Ln    = Line
+#. * Par   = Parallel
+#. .
+#. Because of issues with randomization (?), `number` and `upalpha` actually produce placeholders filled in
+#. through a later step using Lua instead. Anywhere in the generated name where a `@` is found, an uppercase
+#. Latin letter (English only) is substituted, while `%` is substituted with a Roman numeral (0-9).
+#: Naia/lua/units.lua:41
+msgid ""
+"TRANSLATORS: the comment attached to this msgid applies to the next two "
+"entries"
+msgstr ""
+
+#: Naia/lua/units.lua:43
+msgid ""
+"main={structure_type} {id}\n"
+"\n"
+"structure_type=Br|Jnc|Aux|Lo|Up|Ln|Par\n"
+"\n"
+"id={series}{unitno}|{series}{unitno_suffixed}\n"
+"series={upalpha}|{upalpha}{upalpha}\n"
+"unitno={number}{number}{number}{number}-{number}{number}\n"
+"unitno_suffixed={number}{number}{number}{number}-{number}{suffix}\n"
+"suffix=A|B|C|D|E|F\n"
+"\n"
+"number=%\n"
+"upalpha=@\n"
+msgstr ""
+
+#: Naia/lua/units.lua:57
+msgid ""
+"main={node_type} {id}\n"
+"\n"
+"node_type=Co|Hub|Jnc|Aux|Rt|Tr|Le|Prt\n"
+"\n"
+"id={series}{unitno}|{series}{unitno}{suffix}\n"
+"series={upalpha}|{upalpha}{upalpha}\n"
+"unitno={number}-{number}{number}\n"
+"suffix=A|B|C|D|E|F|α|β|γ\n"
+"\n"
+"number=%\n"
+"upalpha=@\n"
+msgstr ""
 
 #. [unit_type]: id=Fungoid, race=monster
 #: Naia/units/monsters/Fungoid.cfg:5
@@ -1125,8 +1186,8 @@ msgstr "Matrice centrale"
 
 #. [unit_type]: id=Verlissh Matrix Core, race=verlissh
 #. [unit_type]: id=Verlissh Matrix Flow System, race=verlissh
-#: Naia/units/verlissh/Matrix_Core.cfg:25
-#: Naia/units/verlissh/Matrix_Flow_System.cfg:26
+#: Naia/units/verlissh/Matrix_Core.cfg:27
+#: Naia/units/verlissh/Matrix_Flow_System.cfg:28
 msgid ""
 "These unfathomable, purportedly living constructs are usually found "
 "underground near Shaxthal hives. Fully immobile by nature, they have very "
@@ -1135,14 +1196,14 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: Naia/units/verlissh/Matrix_Core.cfg:29
+#: Naia/units/verlissh/Matrix_Core.cfg:31
 #: Naia/units/verlissh/Psy_Crawler.cfg:32
-#: Naia/units/verlissh/Matrix_Flow_System.cfg:30
+#: Naia/units/verlissh/Matrix_Flow_System.cfg:32
 msgid "energy ray"
 msgstr "raggio di energia"
 
 #. [attack]: type=fire
-#: Naia/units/verlissh/Matrix_Core.cfg:38
+#: Naia/units/verlissh/Matrix_Core.cfg:40
 msgid "hot goo"
 msgstr "sudiciume bollente"
 
@@ -1188,11 +1249,11 @@ msgstr ""
 
 #. [unit_type]: id=Verlissh Matrix Flow System, race=verlissh
 #: Naia/units/verlissh/Matrix_Flow_System.cfg:5
-msgid "Matrix Flow System"
-msgstr "Sistema circolatorio delle matrici"
+msgid "Matrix Structural"
+msgstr ""
 
 #. [attack]: type=pierce
-#: Naia/units/verlissh/Matrix_Flow_System.cfg:39
+#: Naia/units/verlissh/Matrix_Flow_System.cfg:41
 msgid "goo"
 msgstr "sudiciume"
 
@@ -2819,25 +2880,36 @@ msgid ""
 "existence will take its place."
 msgstr ""
 
-#: Naia/macros/abilities.cfg:227
-msgid "energize"
+#: Naia/macros/abilities.cfg:228
+msgid "energize+5/15%"
 msgstr ""
 
-#: Naia/macros/abilities.cfg:228
+#: Naia/macros/abilities.cfg:229
 msgid ""
-"If not slowed, this unit confers adjacent allied units possessing the "
-"‘biomechanical’ trait a 25% bonus to all damage dealt and a 10% resistance "
-"bonus."
+"This unit heals adjacent allied units possessing the ‘biomechanical’ by 5 HP "
+"at the start of every turn, and grants them a 15% resistance bonus (up to a "
+"maximum of 40%)."
+msgstr ""
+
+#: Naia/macros/abilities.cfg:236
+msgid "energize+10/30%"
+msgstr ""
+
+#: Naia/macros/abilities.cfg:237
+msgid ""
+"This unit heals adjacent allied units possessing the ‘biomechanical’ by 10 "
+"HP at the start of every turn, and grants them a 30% resistance bonus (up to "
+"a maximum of 70%)."
 msgstr ""
 
 #. [heals]: id=sylvan_essence_healing_and_curing
 #. [illuminates]: id=sylvan_essence_illum
-#: Naia/macros/abilities.cfg:241 Naia/macros/abilities.cfg:278
+#: Naia/macros/abilities.cfg:285 Naia/macros/abilities.cfg:322
 msgid "sylvan essence"
 msgstr "essenza silvana"
 
 #. [heals]: id=sylvan_essence_healing_and_curing
-#: Naia/macros/abilities.cfg:242
+#: Naia/macros/abilities.cfg:286
 #, fuzzy
 msgid ""
 "This unit can heal and cure friendly units on adjacent hexes every turn, to "
@@ -2852,7 +2924,7 @@ msgstr ""
 "veleno) 3 PF ogni turno, ma solo nei terreni coperti da vegetazione."
 
 #. [illuminates]: id=sylvan_essence_illum
-#: Naia/macros/abilities.cfg:279
+#: Naia/macros/abilities.cfg:323
 #, fuzzy
 msgid ""
 "This unit illuminates the surrounding area, making lawful units fight "
@@ -3377,10 +3449,13 @@ msgid "Fake Shroud"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:123
+#: Naia/loader.cfg:124
 #, fuzzy
 msgid "Project Ethea"
 msgstr "Proteggeteli!"
+
+#~ msgid "Matrix Flow System"
+#~ msgstr "Sistema circolatorio delle matrici"
 
 #, fuzzy
 #~ msgid "female^burrow"
