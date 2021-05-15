@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-05-03 05:08 UTC\n"
+"POT-Creation-Date: 2021-05-15 09:28 UTC\n"
 "PO-Revision-Date: 2021-04-30 23:43+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -6012,9 +6012,10 @@ msgstr "Ты его знаешь?"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/02_High_Pass.cfg:358
+#, fuzzy
 msgid ""
-"Yes, he was the leader of the patrol group that replaced mine just before "
-"the Chaos Empire invaded our valley."
+"He was the leader of the patrol group that replaced mine just before the "
+"Chaos Empire invaded our valley."
 msgstr ""
 "Да, он был предводителем отряда дозорных, что пришёл нам на смену прямо "
 "перед тем, как имперцы вторглись в нашу долину."
