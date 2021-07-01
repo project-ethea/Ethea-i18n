@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-07-01 19:45 UTC\n"
-"PO-Revision-Date: 2021-05-21 23:20+0300\n"
+"PO-Revision-Date: 2021-07-02 00:15+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.3\n"
+"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
@@ -10258,7 +10258,7 @@ msgstr "Смерть Ирилеан"
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1573
 #: After_the_Storm/episode3/scenarios/08D_Destiny_part_2.cfg:480
 msgid "Death of Ergea"
-msgstr "Смерть Эргии"
+msgstr "Смерть Эргеи"
 
 #. [event]
 #. [event]: type=Shaxthal War Drone, type=Shaxthal Enforcer Drone, type=Shaxthal Demolisher Drone, type=Chaos Cataphract, id=Celwyngyr, type=Chaos Soulhunter, id=Morol, type=Lich, id=Mal Fyrgwynn, type=Demon Warrior, id=Demon Lord Alavys
@@ -13140,7 +13140,6 @@ msgstr ""
 
 #. [message]: speaker=Daeira
 #: After_the_Storm/episode3/scenarios/07B_Dark_Sea.cfg:1998
-#, fuzzy
 msgid ""
 "The Nameless One was just as stunned by the beauty of the eventide nymph as "
 "she was by theirs. They wondered what her story was — what circumstances "
@@ -19591,7 +19590,7 @@ msgid ""
 "The transport glyph awaits. You really hope to not stumble upon any "
 "undesirable vermin along the way."
 msgstr ""
-"Меры безопасности временами так неудобны. Если бы та тупая файери и её "
+"Меры безопасности временами так неудобны. Если бы та безмозглая файери и её "
 "сообщники не заручились доступом к заклинаниям телепортации, Вы могли бы "
 "мгновенно перебраться в точку разрыва и управиться с целью. Но ничего не "
 "поделаешь.\n"
@@ -19854,7 +19853,7 @@ msgid ""
 "have gone unheeded. That is, assuming Uria would have given her a chance to "
 "speak in the first place."
 msgstr ""
-"Уже давно Вы не ощущали себя настолько тупой. Уловка Жангора была слишком "
+"Уже давно Вы не ощущали себя настолько глупой. Уловка Жангора была слишком "
 "очевидной, чтобы на неё попасться — Урия не попросила бы Вас собственноручно "
 "уничтожить Привратника, если бы она её не боялась по какой-то причине. "
 "Возможно, проведи она с Привратником подобный разговор по душам, всё "
@@ -20104,7 +20103,6 @@ msgstr ""
 
 #. [message]: speaker=Uria
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2325
-#, fuzzy
 msgid ""
 "No! I would not tolerate you wearing the scalp of that wretched creature "
 "anywhere near me; not to mention that some of your followers could get the "
@@ -20113,8 +20111,8 @@ msgid ""
 msgstr ""
 "Нет! Я бы тебе не позволила носить скальп той гадкой твари хоть где-либо "
 "подле меня; не стоит и говорить, что некоторые из твоих последователей могут "
-"неправильно понять эти действия… Тебе не кажется, что мы достаточно "
-"натерпелись из-за предательства Эргеи?"
+"неправильно понять эти действия… Тебе не кажется, что предательство Эргеи "
+"уже доставило нам немало неудобств?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2330
@@ -21233,7 +21231,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3483
-#, fuzzy
 msgid ""
 "This broken slab of rock used to be your bed. Last time you slept on it you "
 "had a little accident due to your nightmares. It did not make for the most "
