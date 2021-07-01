@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-07-01 19:45 UTC\n"
-"PO-Revision-Date: 2021-05-03 11:09+0300\n"
+"PO-Revision-Date: 2021-07-02 00:07+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #. [lua]: amla
 #: Naia/lua/gui/amla_list.lua:228
@@ -126,7 +126,7 @@ msgstr "Вы хотите, чтобы боец взял это себе?"
 
 #: Naia/lua/gui/achievements.lua:101
 msgid "Achievements"
-msgstr ""
+msgstr "Достижения"
 
 #. [lua]: register_unit_status_display
 #: Naia/lua/theme.lua:83
@@ -3380,7 +3380,6 @@ msgid "energize+5/15%"
 msgstr "заряжает+5/15%"
 
 #: Naia/macros/abilities.cfg:229
-#, fuzzy
 msgid ""
 "This unit heals adjacent allied units possessing the ‘biomechanical’ trait "
 "by 5 HP at the start of every turn, and grants them a 15% resistance bonus "
@@ -3395,7 +3394,6 @@ msgid "energize+10/30%"
 msgstr "заряжает+10/30%"
 
 #: Naia/macros/abilities.cfg:237
-#, fuzzy
 msgid ""
 "This unit heals adjacent allied units possessing the ‘biomechanical’ trait "
 "by 10 HP at the start of every turn, and grants them a 30% resistance bonus "
@@ -3827,7 +3825,7 @@ msgstr ""
 "бойцов, поэтому удостоверьтесь, что они разрешены настройками (<b>Настройки</"
 "b> → <b>Графика</b>)."
 
-#. [advancement]: id={_ID}, description= 
+#. [advancement]: id={_ID}, description=
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr "‹Макс ОП +15%›"
