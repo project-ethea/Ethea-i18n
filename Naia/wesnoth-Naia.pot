@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 20210430+dev\n"
+"Project-Id-Version: 20210515+dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-05-15 09:28 UTC\n"
+"POT-Creation-Date: 2021-07-01 19:45 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -115,6 +115,10 @@ msgstr ""
 #. [lua]: wesnoth.wml_actions.item_prompt
 #: Naia/lua/gui/item_prompt.lua:140
 msgid "Do you want this unit to pick up this item?"
+msgstr ""
+
+#: Naia/lua/gui/achievements.lua:101
+msgid "Achievements"
 msgstr ""
 
 #. [lua]: register_unit_status_display
@@ -1859,7 +1863,7 @@ msgid "energize+5/15%"
 msgstr ""
 
 #: Naia/macros/abilities.cfg:229
-msgid "This unit heals adjacent allied units possessing the ‘biomechanical’ by 5 HP at the start of every turn, and grants them a 15% resistance bonus (up to a maximum of 40%)."
+msgid "This unit heals adjacent allied units possessing the ‘biomechanical’ trait by 5 HP at the start of every turn, and grants them a 15% resistance bonus (up to a maximum of 40%)."
 msgstr ""
 
 #: Naia/macros/abilities.cfg:236
@@ -1867,7 +1871,7 @@ msgid "energize+10/30%"
 msgstr ""
 
 #: Naia/macros/abilities.cfg:237
-msgid "This unit heals adjacent allied units possessing the ‘biomechanical’ by 10 HP at the start of every turn, and grants them a 30% resistance bonus (up to a maximum of 70%)."
+msgid "This unit heals adjacent allied units possessing the ‘biomechanical’ trait by 10 HP at the start of every turn, and grants them a 30% resistance bonus (up to a maximum of 70%)."
 msgstr ""
 
 #. [heals]: id=sylvan_essence_healing_and_curing

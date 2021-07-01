@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-05-15 09:28 UTC\n"
+"POT-Creation-Date: 2021-07-01 19:45 UTC\n"
 "PO-Revision-Date: 2021-05-03 11:09+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -123,6 +123,10 @@ msgstr "Уведомление"
 #: Naia/lua/gui/item_prompt.lua:140
 msgid "Do you want this unit to pick up this item?"
 msgstr "Вы хотите, чтобы боец взял это себе?"
+
+#: Naia/lua/gui/achievements.lua:101
+msgid "Achievements"
+msgstr ""
 
 #. [lua]: register_unit_status_display
 #: Naia/lua/theme.lua:83
@@ -3376,10 +3380,11 @@ msgid "energize+5/15%"
 msgstr "заряжает+5/15%"
 
 #: Naia/macros/abilities.cfg:229
+#, fuzzy
 msgid ""
-"This unit heals adjacent allied units possessing the ‘biomechanical’ by 5 HP "
-"at the start of every turn, and grants them a 15% resistance bonus (up to a "
-"maximum of 40%)."
+"This unit heals adjacent allied units possessing the ‘biomechanical’ trait "
+"by 5 HP at the start of every turn, and grants them a 15% resistance bonus "
+"(up to a maximum of 40%)."
 msgstr ""
 "Этот боец восстанавливает соседним союзным биомеханическим бойцам 5 ЗД в "
 "начале каждого хода и предоставляет 15% добавку сопротивляемости (вплоть до "
@@ -3390,10 +3395,11 @@ msgid "energize+10/30%"
 msgstr "заряжает+10/30%"
 
 #: Naia/macros/abilities.cfg:237
+#, fuzzy
 msgid ""
-"This unit heals adjacent allied units possessing the ‘biomechanical’ by 10 "
-"HP at the start of every turn, and grants them a 30% resistance bonus (up to "
-"a maximum of 70%)."
+"This unit heals adjacent allied units possessing the ‘biomechanical’ trait "
+"by 10 HP at the start of every turn, and grants them a 30% resistance bonus "
+"(up to a maximum of 70%)."
 msgstr ""
 "Этот боец восстанавливает соседним союзным биомеханическим бойцам 10 ЗД в "
 "начале каждого хода и предоставляет 30% добавку сопротивляемости (вплоть до "
