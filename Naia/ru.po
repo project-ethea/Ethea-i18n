@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-07-02 04:16 UTC\n"
-"PO-Revision-Date: 2021-07-02 00:07+0300\n"
+"PO-Revision-Date: 2021-07-02 21:27+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -395,35 +395,32 @@ msgstr ""
 
 #. [unit_type]: id=Fire Wraith, race=monster
 #: Naia/units/monsters/Fire_Wraith.cfg:16
-#, fuzzy
 msgid "Fire Wraith"
-msgstr "Дух огня"
+msgstr "Огненный призрак"
 
 #. [unit_type]: id=Fire Wraith, race=monster
 #: Naia/units/monsters/Fire_Wraith.cfg:54
-#, fuzzy
 msgid ""
 "Fire Wraiths are spirits of smoke and flame. No one is exactly sure where "
 "they come from, but they are occasionally summoned by powerful mages to do "
 "their bidding. The odd armor they wear hints at a former life or creator, "
 "but whatever ancient civilization was involved has been lost to history."
 msgstr ""
-"Огненные Стражи – это духи дыма и пламени. Никто не точно не знает, откуда "
-"они берутся, но они, похоже, являются общей опасностью во всех темнейших и "
-"неизведанных глубинах мира. Они могут быть самим Огнём, его воплощением или "
-"его частью."
+"Огненные призраки – это духи дыма и пламени. Никто не точно не знает, откуда "
+"они берутся, но, похоже, их призывают для своих нужд могущественные колдуны. "
+"Причудливая броня, которую они носят, указывает на их прежнюю жизнь или на "
+"их создателей, но какая бы цивилизация не была с ними связана, она уже "
+"затерялась меж страниц истории."
 
 #. [attack]: type=fire
 #: Naia/units/monsters/Fire_Wraith.cfg:57
-#, fuzzy
 msgid "fire claws"
-msgstr "огненный удар"
+msgstr "огненные когти"
 
 #. [attack]: type=fire
 #: Naia/units/monsters/Fire_Wraith.cfg:66
-#, fuzzy
 msgid "fire breath"
-msgstr "огненный удар"
+msgstr "огненное дыхание"
 
 #. [unit_type]: id=Fire Wisp, race=monster
 #: Naia/units/monsters/Fire_Wisp.cfg:5
@@ -3813,7 +3810,7 @@ msgstr ""
 "бойцов, поэтому удостоверьтесь, что они разрешены настройками (<b>Настройки</"
 "b> → <b>Графика</b>)."
 
-#. [advancement]: id={_ID}, description= 
+#. [advancement]: id={_ID}, description=
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr "‹Макс ОП +15%›"
