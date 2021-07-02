@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-07-02 04:16 UTC\n"
-"PO-Revision-Date: 2021-07-02 00:15+0300\n"
+"PO-Revision-Date: 2021-07-02 21:24+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
@@ -8901,21 +8901,19 @@ msgstr ""
 #. The Fire Wraith unit type name translation may be found in the
 #. wesnoth-units textdomain in mainline.
 #: After_the_Storm/macros/unit-utils.cfg:595
-#, fuzzy
 msgid "Summon Fire Wraith"
-msgstr "Призвать Огнестража"
+msgstr "Призвать Огненного призрака"
 
 #. [transient_message]
 #: After_the_Storm/macros/unit-utils.cfg:636
-#, fuzzy
 msgid "You cannot summon a Fire Wraith on an impassable location!"
-msgstr "Вы не можете призывать Огнестражей на непроходимой местности!"
+msgstr "Вы не можете призывать Огненных призраков на непроходимой местности!"
 
 #. [transient_message]
 #: After_the_Storm/macros/unit-utils.cfg:648
-#, fuzzy
 msgid "You cannot control more than six Fire Wraiths at once!"
-msgstr "Вы не можете управлять более чем шестью Огнестражами единовременно!"
+msgstr ""
+"Вы не можете управлять более чем шестью Огненными призраками единовременно!"
 
 #. [unstore_unit]
 #: After_the_Storm/macros/weapon-specials-implementation.cfg:25
@@ -9269,18 +9267,17 @@ msgstr ""
 #. The Fire Wraith unit type name translation may be found in the
 #. wesnoth-units textdomain in mainline.
 #: After_the_Storm/macros/objective-utils.cfg:37
-#, fuzzy
 msgid ""
 "Fire Wraiths can be summoned by right clicking on a vacant hex adjacent to "
 "Elyssa"
 msgstr ""
-"Огнестражи могут быть призваны нажатием правой кнопки мыши на свободное "
-"поле, соседнее с Элиссой"
+"Огненные призраки могут быть призваны нажатием правой кнопки мыши на "
+"свободное поле, соседнее с Элиссой"
 
 #: After_the_Storm/macros/objective-utils.cfg:38
-#, fuzzy
 msgid "You may only have six Fire Wraiths on the map at any given time"
-msgstr "Вы можете держать на карте только шесть Огнестражей одновременно"
+msgstr ""
+"Вы можете держать на карте только шесть Огненных призраков одновременно"
 
 #: After_the_Storm/macros/amla-galas.cfg:13
 msgid "Stealth: ambush ability"
@@ -18521,9 +18518,8 @@ msgstr ""
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2248
-#, fuzzy
 msgid "Elyssa can now summon Fire Wraiths."
-msgstr "Элисса теперь может призывать Огнестражей."
+msgstr "Элисса теперь может призывать Огненных призраков."
 
 #. [message]: speaker=Jeru'unog
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:2294
@@ -21394,13 +21390,12 @@ msgstr ""
 
 #. [transient_message]
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:469
-#, fuzzy
 msgid ""
 "Elyssa can now summon Fire Wraiths next to Elynia regardless of the distance "
 "between both."
 msgstr ""
-"Элисса теперь может призывать Огнестражей рядом с Элинией невзирая на "
-"расстояние между ними."
+"Элисса теперь может призывать Огненных призраков рядом с Элинией, невзирая "
+"на расстояние между ними."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:478
