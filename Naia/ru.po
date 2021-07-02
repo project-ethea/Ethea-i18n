@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-07-01 19:45 UTC\n"
+"POT-Creation-Date: 2021-07-02 04:16 UTC\n"
 "PO-Revision-Date: 2021-07-02 00:07+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -306,6 +306,61 @@ msgstr ""
 "number=%\n"
 "upalpha=@\n"
 
+#. [unit_type]: id=Water Spirit, race=monster
+#: Naia/units/monsters/Water_Spirit.cfg:5
+msgid "female^Water Spirit"
+msgstr "Дух воды"
+
+#. [unit_type]: id=Water Spirit, race=monster
+#: Naia/units/monsters/Water_Spirit.cfg:21
+msgid ""
+"Tidal waves of water have been known to acquire their own consciousness and "
+"mind and break free of their summoners’ influence. The result is a more "
+"corporeal water being, embodying the might and whim of the water and its "
+"denizens."
+msgstr ""
+"Когда ожившие волны осознают, что обрели свое собственное сознание и разум, "
+"они освобождаются от власти сил, их создавших. Они превращаются в состоящее "
+"из воды существо, воплощающее энергию и прихотливость водной среды и ее "
+"жителей."
+
+#. [attack]: type=impact
+#: Naia/units/monsters/Water_Spirit.cfg:25
+#: Naia/units/monsters/Water_Tidal.cfg:24
+msgid "water punch"
+msgstr "водяной кулак"
+
+#. [unit_type]: id=Water Tidal, race=monster
+#: Naia/units/monsters/Water_Tidal.cfg:5
+msgid "female^Water Tidal"
+msgstr "Ожившие волны"
+
+#. [unit_type]: id=Water Tidal, race=monster
+#: Naia/units/monsters/Water_Tidal.cfg:20
+msgid ""
+"It is said that the world is mostly composed of water. It would be natural, "
+"then, to conjecture that water may have its own will and that its power can "
+"be summoned by expert magi for nefarious purposes."
+msgstr ""
+"Говорят, что мир в основном состоит из воды. Тогда было бы естественно "
+"предположить, что вода может приобрести свою собственную волю и что ее сила "
+"может быть использована опытным магом для неблаговидных дел."
+
+#. [unit_type]: id=Rock Golem, race=monster
+#: Naia/units/monsters/Rock_Golem.cfg:5
+msgid "Rock Golem"
+msgstr "Каменный голем"
+
+#. [unit_type]: id=Rock Golem, race=monster
+#: Naia/units/monsters/Rock_Golem.cfg:19
+msgid ""
+"Rock Golems are giant, slow, and heavy creatures made out of solid, living "
+"rock. Their fists can crush any skeleton in matter of seconds."
+msgstr ""
+"Каменные големы – это огромные, медленные и тяжелые существа, целиком "
+"состоящие из оживших камней. Их кулаки могут сокрушить любой скелет в "
+"считанные секунды."
+
 #. [unit_type]: id=Fungoid, race=monster
 #: Naia/units/monsters/Fungoid.cfg:5
 msgid "Fungoid"
@@ -321,6 +376,76 @@ msgstr ""
 "Грибовики — грибовидные существа, способные очень быстро размножаться. Их "
 "мягкие тела и специфичный вкус делают их главной целью для неопытных "
 "путешественников."
+
+#. [unit_type]: id=Animated Rock, race=monster
+#: Naia/units/monsters/Rock_Animated.cfg:5
+msgid "Animated Rock"
+msgstr "Оживший камень"
+
+#. [unit_type]: id=Animated Rock, race=monster
+#: Naia/units/monsters/Rock_Animated.cfg:18
+msgid ""
+"Animated Rocks are rather slow creatures made out of solid, living rock. "
+"They have a weak attack, but are incredibly hard to destroy. It is rumored "
+"that these magical constructs can only be summoned by powerful magi."
+msgstr ""
+"Ожившие камни – довольно медленные существа, сплошь состоящие из подвижного "
+"камня. Они слабы в атаке, но их невероятно трудно разрушить. По слухам, эти "
+"волшебные создания могут только быть призваны только могучими магами."
+
+#. [unit_type]: id=Fire Wraith, race=monster
+#: Naia/units/monsters/Fire_Wraith.cfg:16
+#, fuzzy
+msgid "Fire Wraith"
+msgstr "Дух огня"
+
+#. [unit_type]: id=Fire Wraith, race=monster
+#: Naia/units/monsters/Fire_Wraith.cfg:54
+#, fuzzy
+msgid ""
+"Fire Wraiths are spirits of smoke and flame. No one is exactly sure where "
+"they come from, but they are occasionally summoned by powerful mages to do "
+"their bidding. The odd armor they wear hints at a former life or creator, "
+"but whatever ancient civilization was involved has been lost to history."
+msgstr ""
+"Огненные Стражи – это духи дыма и пламени. Никто не точно не знает, откуда "
+"они берутся, но они, похоже, являются общей опасностью во всех темнейших и "
+"неизведанных глубинах мира. Они могут быть самим Огнём, его воплощением или "
+"его частью."
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wraith.cfg:57
+#, fuzzy
+msgid "fire claws"
+msgstr "огненный удар"
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wraith.cfg:66
+#, fuzzy
+msgid "fire breath"
+msgstr "огненный удар"
+
+#. [unit_type]: id=Fire Wisp, race=monster
+#: Naia/units/monsters/Fire_Wisp.cfg:5
+msgid "Fire Wisp"
+msgstr "Дикий огонёк"
+
+#. [unit_type]: id=Fire Wisp, race=monster
+#: Naia/units/monsters/Fire_Wisp.cfg:19
+msgid ""
+"Fire Wisps are minor spirits of flame. They like to frolic in pools of lava, "
+"and take great delight in burning anything they can reach. They should not "
+"be a great challenge to unexperienced fighters, except when found in swarms."
+msgstr ""
+"Дикие огоньки – это небольшие духи огня. Они любят резвиться в бассейнах "
+"лавы, и получают огромное удовольствие в сжигании всего, до чего могут "
+"добраться. Огоньки не представляют опасности даже для неопытного бойца, "
+"кроме тех случаев, когда собираются в стаи."
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wisp.cfg:23
+msgid "fire bash"
+msgstr "огненный удар"
 
 #. [unit_type]: id=Leech, race=monster
 #: Naia/units/monsters/Leech.cfg:5
@@ -737,115 +862,6 @@ msgstr ""
 "остаётся один выход — бегство — если, конечно, они смогут их как-то "
 "перегнать. Когда убегающий будет сбит с ног разрушительными выстрелами "
 "энергии, острые зубы и когти быстро разберутся с его останками."
-
-#. [unit_type]: id=Water Spirit, race=spirit
-#: Naia/units/spirits/Water_Spirit.cfg:5
-msgid "female^Water Spirit"
-msgstr "Дух воды"
-
-#. [unit_type]: id=Water Spirit, race=spirit
-#: Naia/units/spirits/Water_Spirit.cfg:20
-msgid ""
-"Tidal waves of water have been known to acquire their own consciousness and "
-"mind and break free of their summoners’ influence. The result is a more "
-"corporeal water being, embodying the might and whim of the water and its "
-"denizens."
-msgstr ""
-"Когда ожившие волны осознают, что обрели свое собственное сознание и разум, "
-"они освобождаются от власти сил, их создавших. Они превращаются в состоящее "
-"из воды существо, воплощающее энергию и прихотливость водной среды и ее "
-"жителей."
-
-#. [attack]: type=impact
-#: Naia/units/spirits/Water_Spirit.cfg:24 Naia/units/spirits/Water_Tidal.cfg:23
-msgid "water punch"
-msgstr "водяной кулак"
-
-#. [unit_type]: id=Water Tidal, race=spirit
-#: Naia/units/spirits/Water_Tidal.cfg:5
-msgid "female^Water Tidal"
-msgstr "Ожившие волны"
-
-#. [unit_type]: id=Water Tidal, race=spirit
-#: Naia/units/spirits/Water_Tidal.cfg:19
-msgid ""
-"It is said that the world is mostly composed of water. It would be natural, "
-"then, to conjecture that water may have its own will and that its power can "
-"be summoned by expert magi for nefarious purposes."
-msgstr ""
-"Говорят, что мир в основном состоит из воды. Тогда было бы естественно "
-"предположить, что вода может приобрести свою собственную волю и что ее сила "
-"может быть использована опытным магом для неблаговидных дел."
-
-#. [unit_type]: id=Rock Golem, race=spirit
-#: Naia/units/spirits/Rock_Golem.cfg:5
-msgid "Rock Golem"
-msgstr "Каменный голем"
-
-#. [unit_type]: id=Rock Golem, race=spirit
-#: Naia/units/spirits/Rock_Golem.cfg:18
-msgid ""
-"Rock Golems are giant, slow, and heavy creatures made out of solid, living "
-"rock. Their fists can crush any skeleton in matter of seconds."
-msgstr ""
-"Каменные големы – это огромные, медленные и тяжелые существа, целиком "
-"состоящие из оживших камней. Их кулаки могут сокрушить любой скелет в "
-"считанные секунды."
-
-#. [unit_type]: id=Animated Rock, race=spirit
-#: Naia/units/spirits/Rock_Animated.cfg:5
-msgid "Animated Rock"
-msgstr "Оживший камень"
-
-#. [unit_type]: id=Animated Rock, race=spirit
-#: Naia/units/spirits/Rock_Animated.cfg:17
-msgid ""
-"Animated Rocks are rather slow creatures made out of solid, living rock. "
-"They have a weak attack, but are incredibly hard to destroy. It is rumored "
-"that these magical constructs can only be summoned by powerful magi."
-msgstr ""
-"Ожившие камни – довольно медленные существа, сплошь состоящие из подвижного "
-"камня. Они слабы в атаке, но их невероятно трудно разрушить. По слухам, эти "
-"волшебные создания могут только быть призваны только могучими магами."
-
-#. [unit_type]: id=Fire Wisp, race=spirit
-#: Naia/units/spirits/Fire_Wisp.cfg:5
-msgid "Fire Wisp"
-msgstr "Дикий огонёк"
-
-#. [unit_type]: id=Fire Wisp, race=spirit
-#: Naia/units/spirits/Fire_Wisp.cfg:18
-msgid ""
-"Fire Wisps are minor spirits of flame. They like to frolic in pools of lava, "
-"and take great delight in burning anything they can reach. They should not "
-"be a great challenge to unexperienced fighters, except when found in swarms."
-msgstr ""
-"Дикие огоньки – это небольшие духи огня. Они любят резвиться в бассейнах "
-"лавы, и получают огромное удовольствие в сжигании всего, до чего могут "
-"добраться. Огоньки не представляют опасности даже для неопытного бойца, "
-"кроме тех случаев, когда собираются в стаи."
-
-#. [attack]: type=fire
-#: Naia/units/spirits/Fire_Wisp.cfg:22
-msgid "fire bash"
-msgstr "огненный удар"
-
-#. [unit_type]: id=Fire Spirit, race=spirit
-#: Naia/units/spirits/Fire_Spirit.cfg:5
-msgid "Fire Spirit"
-msgstr "Дух огня"
-
-#. [unit_type]: id=Fire Spirit, race=spirit
-#: Naia/units/spirits/Fire_Spirit.cfg:19
-msgid ""
-"Fire Guardians are spirits of smoke and flame. No one is exactly sure where "
-"they come from, but they seem to be a common threat in the darkest unknown "
-"depths of world. They might be the Fire itself, incarnate, or part of it."
-msgstr ""
-"Огненные Стражи – это духи дыма и пламени. Никто не точно не знает, откуда "
-"они берутся, но они, похоже, являются общей опасностью во всех темнейших и "
-"неизведанных глубинах мира. Они могут быть самим Огнём, его воплощением или "
-"его частью."
 
 #. [unit_type]: id=Chaos Cardinal, race=undead
 #: Naia/units/undead/Chaos_Cardinal.cfg:5
@@ -3081,34 +3097,6 @@ msgstr ""
 "Ирдии могут стать в той или иной степени ‘демоническими’, указывая на силу "
 "Хранителей Знаний и их загадочную природу."
 
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:5
-msgid "race^Spirit"
-msgstr "Дух"
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:6
-msgid "race+female^Spirit"
-msgstr "Дух"
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:7
-msgid "race^Spirits"
-msgstr "Духи"
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:8
-msgid ""
-"The summoning of elemental constructs is one of the oldest forms of magic "
-"known, as well as the rarest in modern times. Although elemental spirits are "
-"often bound to serve a powerful sorcerer, freely roaming beings of this kind "
-"are not completely unheard of throughout history."
-msgstr ""
-"Призыв элементарных конструкций — как одна из старейших из известных "
-"областей магии, так и самая редчайшая в наши дни. Несмотря на то, что духи "
-"элементов часто служат могучим колдунам, свободно блуждающие сущности также "
-"упоминаются историей."
-
 #. [trait]: id=armored
 #: Naia/macros/traits.cfg:7
 msgid "armored"
@@ -3825,7 +3813,7 @@ msgstr ""
 "бойцов, поэтому удостоверьтесь, что они разрешены настройками (<b>Настройки</"
 "b> → <b>Графика</b>)."
 
-#. [advancement]: id={_ID}, description=
+#. [advancement]: id={_ID}, description= 
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr "‹Макс ОП +15%›"
@@ -3948,6 +3936,26 @@ msgstr "Ложная Мгла"
 #: Naia/loader.cfg:124
 msgid "Project Ethea"
 msgstr "Проект Этея"
+
+#~ msgid "race^Spirit"
+#~ msgstr "Дух"
+
+#~ msgid "race+female^Spirit"
+#~ msgstr "Дух"
+
+#~ msgid "race^Spirits"
+#~ msgstr "Духи"
+
+#~ msgid ""
+#~ "The summoning of elemental constructs is one of the oldest forms of magic "
+#~ "known, as well as the rarest in modern times. Although elemental spirits "
+#~ "are often bound to serve a powerful sorcerer, freely roaming beings of "
+#~ "this kind are not completely unheard of throughout history."
+#~ msgstr ""
+#~ "Призыв элементарных конструкций — как одна из старейших из известных "
+#~ "областей магии, так и самая редчайшая в наши дни. Несмотря на то, что "
+#~ "духи элементов часто служат могучим колдунам, свободно блуждающие "
+#~ "сущности также упоминаются историей."
 
 #~ msgid "Matrix Flow System"
 #~ msgstr "Потоковая Система Матрицы"

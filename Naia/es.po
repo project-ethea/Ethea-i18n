@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-07-01 19:45 UTC\n"
+"POT-Creation-Date: 2021-07-02 04:16 UTC\n"
 "PO-Revision-Date: 2020-07-09 06:46-0400\n"
 "Last-Translator: Iris Morelle <shadowm@wesnoth.org>\n"
 "Language-Team: Spanish <i18n@wesnoth.org>\n"
@@ -270,6 +270,61 @@ msgid ""
 "upalpha=@\n"
 msgstr ""
 
+#. [unit_type]: id=Water Spirit, race=monster
+#: Naia/units/monsters/Water_Spirit.cfg:5
+msgid "female^Water Spirit"
+msgstr "Espíritu acuático"
+
+#. [unit_type]: id=Water Spirit, race=monster
+#: Naia/units/monsters/Water_Spirit.cfg:21
+msgid ""
+"Tidal waves of water have been known to acquire their own consciousness and "
+"mind and break free of their summoners’ influence. The result is a more "
+"corporeal water being, embodying the might and whim of the water and its "
+"denizens."
+msgstr ""
+"Se sabe que las oleadas de agua pueden adquirir conciencia y mente propias y "
+"librarse de la influencia de aquéllos que las conjuraron. El resultado es "
+"una criatura de agua más corpórea, una encarnación de la fuerza y el "
+"capricho del agua y sus habitantes."
+
+#. [attack]: type=impact
+#: Naia/units/monsters/Water_Spirit.cfg:25
+#: Naia/units/monsters/Water_Tidal.cfg:24
+msgid "water punch"
+msgstr "golpe de agua"
+
+#. [unit_type]: id=Water Tidal, race=monster
+#: Naia/units/monsters/Water_Tidal.cfg:5
+msgid "female^Water Tidal"
+msgstr "Oleada de agua"
+
+#. [unit_type]: id=Water Tidal, race=monster
+#: Naia/units/monsters/Water_Tidal.cfg:20
+msgid ""
+"It is said that the world is mostly composed of water. It would be natural, "
+"then, to conjecture that water may have its own will and that its power can "
+"be summoned by expert magi for nefarious purposes."
+msgstr ""
+"Se dice que el mundo está principalmente compuesto de agua. Resulta entonces "
+"natural suponer que el agua pueda tener voluntad propia, y que su poder "
+"pueda ser conjurado por magos expertos para fines maléficos."
+
+#. [unit_type]: id=Rock Golem, race=monster
+#: Naia/units/monsters/Rock_Golem.cfg:5
+msgid "Rock Golem"
+msgstr "Gólem de roca"
+
+#. [unit_type]: id=Rock Golem, race=monster
+#: Naia/units/monsters/Rock_Golem.cfg:19
+msgid ""
+"Rock Golems are giant, slow, and heavy creatures made out of solid, living "
+"rock. Their fists can crush any skeleton in matter of seconds."
+msgstr ""
+"Los gólems de roca son criaturas gigantes, lentas y pesadas hechas de roca "
+"sólida y viviente. Sus puños pueden hacer añicos cualquier esqueleto en "
+"cuestión de segundos."
+
 #. [unit_type]: id=Fungoid, race=monster
 #: Naia/units/monsters/Fungoid.cfg:5
 msgid "Fungoid"
@@ -285,6 +340,76 @@ msgstr ""
 "Los fungoides son criaturas con aspecto similar a los hongos que pueden "
 "multiplicarse muy rápidamente. Sus cuerpos suaves y sabor delicioso al ser "
 "condimentados los hacen un blanco preferido por los aventureros novatos."
+
+#. [unit_type]: id=Animated Rock, race=monster
+#: Naia/units/monsters/Rock_Animated.cfg:5
+msgid "Animated Rock"
+msgstr "Roca animada"
+
+#. [unit_type]: id=Animated Rock, race=monster
+#: Naia/units/monsters/Rock_Animated.cfg:18
+msgid ""
+"Animated Rocks are rather slow creatures made out of solid, living rock. "
+"They have a weak attack, but are incredibly hard to destroy. It is rumored "
+"that these magical constructs can only be summoned by powerful magi."
+msgstr ""
+"Las rocas animadas son criaturas más bien lentas hechas de roca sólida y "
+"viviente. Tienen un ataque débil pero son increíblemente difíciles de "
+"destruir. Según los rumores, estos constructos mágicos sólo pueden ser "
+"conjurados por magos poderosos."
+
+#. [unit_type]: id=Fire Wraith, race=monster
+#: Naia/units/monsters/Fire_Wraith.cfg:16
+#, fuzzy
+msgid "Fire Wraith"
+msgstr "Espíritu de fuego"
+
+#. [unit_type]: id=Fire Wraith, race=monster
+#: Naia/units/monsters/Fire_Wraith.cfg:54
+#, fuzzy
+msgid ""
+"Fire Wraiths are spirits of smoke and flame. No one is exactly sure where "
+"they come from, but they are occasionally summoned by powerful mages to do "
+"their bidding. The odd armor they wear hints at a former life or creator, "
+"but whatever ancient civilization was involved has been lost to history."
+msgstr ""
+"Los guardianes de fuego son espíritus de humo y llamas. Nadie sabe con "
+"certeza de dónde provienen, pero suelen ser una amenaza común en las "
+"profundidades más recónditas del mundo."
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wraith.cfg:57
+#, fuzzy
+msgid "fire claws"
+msgstr "carga de fuego"
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wraith.cfg:66
+#, fuzzy
+msgid "fire breath"
+msgstr "carga de fuego"
+
+#. [unit_type]: id=Fire Wisp, race=monster
+#: Naia/units/monsters/Fire_Wisp.cfg:5
+msgid "Fire Wisp"
+msgstr "Centella de fuego"
+
+#. [unit_type]: id=Fire Wisp, race=monster
+#: Naia/units/monsters/Fire_Wisp.cfg:19
+msgid ""
+"Fire Wisps are minor spirits of flame. They like to frolic in pools of lava, "
+"and take great delight in burning anything they can reach. They should not "
+"be a great challenge to unexperienced fighters, except when found in swarms."
+msgstr ""
+"Las centellas de fuego son espíritus menores de fuego. Prefieren deambular "
+"en la lava y disfrutan de incendiar todo lo que tengan a su alcance. Éstas "
+"no debieran suponer un gran desafío para los luchadores inexpertos salvo que "
+"se encuentren en grupo."
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wisp.cfg:23
+msgid "fire bash"
+msgstr "carga de fuego"
 
 #. [unit_type]: id=Leech, race=monster
 #: Naia/units/monsters/Leech.cfg:5
@@ -712,115 +837,6 @@ msgstr ""
 "criaturas. Si el intruso resulta ser víctima de los estallidos hirvientes de "
 "energía de los drones, sus grandes dientes y garras se asegurarán de no "
 "dejar huella alguna de sus restos."
-
-#. [unit_type]: id=Water Spirit, race=spirit
-#: Naia/units/spirits/Water_Spirit.cfg:5
-msgid "female^Water Spirit"
-msgstr "Espíritu acuático"
-
-#. [unit_type]: id=Water Spirit, race=spirit
-#: Naia/units/spirits/Water_Spirit.cfg:20
-msgid ""
-"Tidal waves of water have been known to acquire their own consciousness and "
-"mind and break free of their summoners’ influence. The result is a more "
-"corporeal water being, embodying the might and whim of the water and its "
-"denizens."
-msgstr ""
-"Se sabe que las oleadas de agua pueden adquirir conciencia y mente propias y "
-"librarse de la influencia de aquéllos que las conjuraron. El resultado es "
-"una criatura de agua más corpórea, una encarnación de la fuerza y el "
-"capricho del agua y sus habitantes."
-
-#. [attack]: type=impact
-#: Naia/units/spirits/Water_Spirit.cfg:24 Naia/units/spirits/Water_Tidal.cfg:23
-msgid "water punch"
-msgstr "golpe de agua"
-
-#. [unit_type]: id=Water Tidal, race=spirit
-#: Naia/units/spirits/Water_Tidal.cfg:5
-msgid "female^Water Tidal"
-msgstr "Oleada de agua"
-
-#. [unit_type]: id=Water Tidal, race=spirit
-#: Naia/units/spirits/Water_Tidal.cfg:19
-msgid ""
-"It is said that the world is mostly composed of water. It would be natural, "
-"then, to conjecture that water may have its own will and that its power can "
-"be summoned by expert magi for nefarious purposes."
-msgstr ""
-"Se dice que el mundo está principalmente compuesto de agua. Resulta entonces "
-"natural suponer que el agua pueda tener voluntad propia, y que su poder "
-"pueda ser conjurado por magos expertos para fines maléficos."
-
-#. [unit_type]: id=Rock Golem, race=spirit
-#: Naia/units/spirits/Rock_Golem.cfg:5
-msgid "Rock Golem"
-msgstr "Gólem de roca"
-
-#. [unit_type]: id=Rock Golem, race=spirit
-#: Naia/units/spirits/Rock_Golem.cfg:18
-msgid ""
-"Rock Golems are giant, slow, and heavy creatures made out of solid, living "
-"rock. Their fists can crush any skeleton in matter of seconds."
-msgstr ""
-"Los gólems de roca son criaturas gigantes, lentas y pesadas hechas de roca "
-"sólida y viviente. Sus puños pueden hacer añicos cualquier esqueleto en "
-"cuestión de segundos."
-
-#. [unit_type]: id=Animated Rock, race=spirit
-#: Naia/units/spirits/Rock_Animated.cfg:5
-msgid "Animated Rock"
-msgstr "Roca animada"
-
-#. [unit_type]: id=Animated Rock, race=spirit
-#: Naia/units/spirits/Rock_Animated.cfg:17
-msgid ""
-"Animated Rocks are rather slow creatures made out of solid, living rock. "
-"They have a weak attack, but are incredibly hard to destroy. It is rumored "
-"that these magical constructs can only be summoned by powerful magi."
-msgstr ""
-"Las rocas animadas son criaturas más bien lentas hechas de roca sólida y "
-"viviente. Tienen un ataque débil pero son increíblemente difíciles de "
-"destruir. Según los rumores, estos constructos mágicos sólo pueden ser "
-"conjurados por magos poderosos."
-
-#. [unit_type]: id=Fire Wisp, race=spirit
-#: Naia/units/spirits/Fire_Wisp.cfg:5
-msgid "Fire Wisp"
-msgstr "Centella de fuego"
-
-#. [unit_type]: id=Fire Wisp, race=spirit
-#: Naia/units/spirits/Fire_Wisp.cfg:18
-msgid ""
-"Fire Wisps are minor spirits of flame. They like to frolic in pools of lava, "
-"and take great delight in burning anything they can reach. They should not "
-"be a great challenge to unexperienced fighters, except when found in swarms."
-msgstr ""
-"Las centellas de fuego son espíritus menores de fuego. Prefieren deambular "
-"en la lava y disfrutan de incendiar todo lo que tengan a su alcance. Éstas "
-"no debieran suponer un gran desafío para los luchadores inexpertos salvo que "
-"se encuentren en grupo."
-
-#. [attack]: type=fire
-#: Naia/units/spirits/Fire_Wisp.cfg:22
-msgid "fire bash"
-msgstr "carga de fuego"
-
-#. [unit_type]: id=Fire Spirit, race=spirit
-#: Naia/units/spirits/Fire_Spirit.cfg:5
-msgid "Fire Spirit"
-msgstr "Espíritu de fuego"
-
-#. [unit_type]: id=Fire Spirit, race=spirit
-#: Naia/units/spirits/Fire_Spirit.cfg:19
-msgid ""
-"Fire Guardians are spirits of smoke and flame. No one is exactly sure where "
-"they come from, but they seem to be a common threat in the darkest unknown "
-"depths of world. They might be the Fire itself, incarnate, or part of it."
-msgstr ""
-"Los guardianes de fuego son espíritus de humo y llamas. Nadie sabe con "
-"certeza de dónde provienen, pero suelen ser una amenaza común en las "
-"profundidades más recónditas del mundo."
 
 #. [unit_type]: id=Chaos Cardinal, race=undead
 #: Naia/units/undead/Chaos_Cardinal.cfg:5
@@ -3114,35 +3130,6 @@ msgstr ""
 "normales de Irdya se vuelvan «demoníacas» de uno u otro modo, apuntando a "
 "los poderes e indescifrable naturaleza de los Sabios del Caos como ejemplo."
 
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:5
-msgid "race^Spirit"
-msgstr "Espíritu"
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:6
-msgid "race+female^Spirit"
-msgstr "espíritu"
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:7
-msgid "race^Spirits"
-msgstr "Espíritus"
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:8
-msgid ""
-"The summoning of elemental constructs is one of the oldest forms of magic "
-"known, as well as the rarest in modern times. Although elemental spirits are "
-"often bound to serve a powerful sorcerer, freely roaming beings of this kind "
-"are not completely unheard of throughout history."
-msgstr ""
-"La conjuración de constructos elementales es una de las formas de magia más "
-"antiguas que se conocen, así también como la más rara en tiempos modernos. "
-"Aunque los espíritus elementales generalmente son creados para servir a un "
-"hechicero poderoso, no es precisamente desconocida a través de los tiempos "
-"la aparición de espíritus libres de este tipo."
-
 #. [trait]: id=armored
 #: Naia/macros/traits.cfg:7
 msgid "armored"
@@ -3964,6 +3951,27 @@ msgstr "Oscuridad falsa"
 #: Naia/loader.cfg:124
 msgid "Project Ethea"
 msgstr "Proyecto Ethea"
+
+#~ msgid "race^Spirit"
+#~ msgstr "Espíritu"
+
+#~ msgid "race+female^Spirit"
+#~ msgstr "espíritu"
+
+#~ msgid "race^Spirits"
+#~ msgstr "Espíritus"
+
+#~ msgid ""
+#~ "The summoning of elemental constructs is one of the oldest forms of magic "
+#~ "known, as well as the rarest in modern times. Although elemental spirits "
+#~ "are often bound to serve a powerful sorcerer, freely roaming beings of "
+#~ "this kind are not completely unheard of throughout history."
+#~ msgstr ""
+#~ "La conjuración de constructos elementales es una de las formas de magia "
+#~ "más antiguas que se conocen, así también como la más rara en tiempos "
+#~ "modernos. Aunque los espíritus elementales generalmente son creados para "
+#~ "servir a un hechicero poderoso, no es precisamente desconocida a través "
+#~ "de los tiempos la aparición de espíritus libres de este tipo."
 
 #~ msgid "Matrix Flow System"
 #~ msgstr "Sistema de flujo de matriz"

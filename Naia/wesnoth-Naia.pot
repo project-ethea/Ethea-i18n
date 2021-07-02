@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 20210515+dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-07-01 19:45 UTC\n"
+"POT-Creation-Date: 2021-07-02 04:16 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -232,6 +232,42 @@ msgid ""
 ""
 msgstr ""
 
+#. [unit_type]: id=Water Spirit, race=monster
+#: Naia/units/monsters/Water_Spirit.cfg:5
+msgid "female^Water Spirit"
+msgstr ""
+
+#. [unit_type]: id=Water Spirit, race=monster
+#: Naia/units/monsters/Water_Spirit.cfg:21
+msgid "Tidal waves of water have been known to acquire their own consciousness and mind and break free of their summoners’ influence. The result is a more corporeal water being, embodying the might and whim of the water and its denizens."
+msgstr ""
+
+#. [attack]: type=impact
+#: Naia/units/monsters/Water_Spirit.cfg:25
+#: Naia/units/monsters/Water_Tidal.cfg:24
+msgid "water punch"
+msgstr ""
+
+#. [unit_type]: id=Water Tidal, race=monster
+#: Naia/units/monsters/Water_Tidal.cfg:5
+msgid "female^Water Tidal"
+msgstr ""
+
+#. [unit_type]: id=Water Tidal, race=monster
+#: Naia/units/monsters/Water_Tidal.cfg:20
+msgid "It is said that the world is mostly composed of water. It would be natural, then, to conjecture that water may have its own will and that its power can be summoned by expert magi for nefarious purposes."
+msgstr ""
+
+#. [unit_type]: id=Rock Golem, race=monster
+#: Naia/units/monsters/Rock_Golem.cfg:5
+msgid "Rock Golem"
+msgstr ""
+
+#. [unit_type]: id=Rock Golem, race=monster
+#: Naia/units/monsters/Rock_Golem.cfg:19
+msgid "Rock Golems are giant, slow, and heavy creatures made out of solid, living rock. Their fists can crush any skeleton in matter of seconds."
+msgstr ""
+
 #. [unit_type]: id=Fungoid, race=monster
 #: Naia/units/monsters/Fungoid.cfg:5
 msgid "Fungoid"
@@ -240,6 +276,51 @@ msgstr ""
 #. [unit_type]: id=Fungoid, race=monster
 #: Naia/units/monsters/Fungoid.cfg:30
 msgid "Fungoids are mushroom-like creatures that can multiply very quickly. Their soft bodies and delicious taste once seasoned make them a prime target for inexperienced adventurers."
+msgstr ""
+
+#. [unit_type]: id=Animated Rock, race=monster
+#: Naia/units/monsters/Rock_Animated.cfg:5
+msgid "Animated Rock"
+msgstr ""
+
+#. [unit_type]: id=Animated Rock, race=monster
+#: Naia/units/monsters/Rock_Animated.cfg:18
+msgid "Animated Rocks are rather slow creatures made out of solid, living rock. They have a weak attack, but are incredibly hard to destroy. It is rumored that these magical constructs can only be summoned by powerful magi."
+msgstr ""
+
+#. [unit_type]: id=Fire Wraith, race=monster
+#: Naia/units/monsters/Fire_Wraith.cfg:16
+msgid "Fire Wraith"
+msgstr ""
+
+#. [unit_type]: id=Fire Wraith, race=monster
+#: Naia/units/monsters/Fire_Wraith.cfg:54
+msgid "Fire Wraiths are spirits of smoke and flame. No one is exactly sure where they come from, but they are occasionally summoned by powerful mages to do their bidding. The odd armor they wear hints at a former life or creator, but whatever ancient civilization was involved has been lost to history."
+msgstr ""
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wraith.cfg:57
+msgid "fire claws"
+msgstr ""
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wraith.cfg:66
+msgid "fire breath"
+msgstr ""
+
+#. [unit_type]: id=Fire Wisp, race=monster
+#: Naia/units/monsters/Fire_Wisp.cfg:5
+msgid "Fire Wisp"
+msgstr ""
+
+#. [unit_type]: id=Fire Wisp, race=monster
+#: Naia/units/monsters/Fire_Wisp.cfg:19
+msgid "Fire Wisps are minor spirits of flame. They like to frolic in pools of lava, and take great delight in burning anything they can reach. They should not be a great challenge to unexperienced fighters, except when found in swarms."
+msgstr ""
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wisp.cfg:23
+msgid "fire bash"
 msgstr ""
 
 #. [unit_type]: id=Leech, race=monster
@@ -463,77 +544,6 @@ msgstr ""
 #. [unit_type]: id=Shaxthal Sentry Drone, race=shaxthal
 #: Naia/units/shaxthal/Drone_Sentry.cfg:25
 msgid "From the dark, echoing labyrinths of the Shaxthal hives to the shadowy fortresses of the Chaos Empire await guardians who can neither be swayed by words or gold: the Sentry Drones. Silent and deadly, these sentinels were engineered to quickly and efficiently eliminate any trespassers into the Empire’s domain. Any unlucky enough to attract their attention have but one recourse: flight — that is, if they can outpace them. Should the fleeing intruder fall victim to the drones’ scalding blasts of energy, their vicious teeth and claws will make short work of what remains."
-msgstr ""
-
-#. [unit_type]: id=Water Spirit, race=spirit
-#: Naia/units/spirits/Water_Spirit.cfg:5
-msgid "female^Water Spirit"
-msgstr ""
-
-#. [unit_type]: id=Water Spirit, race=spirit
-#: Naia/units/spirits/Water_Spirit.cfg:20
-msgid "Tidal waves of water have been known to acquire their own consciousness and mind and break free of their summoners’ influence. The result is a more corporeal water being, embodying the might and whim of the water and its denizens."
-msgstr ""
-
-#. [attack]: type=impact
-#: Naia/units/spirits/Water_Spirit.cfg:24
-#: Naia/units/spirits/Water_Tidal.cfg:23
-msgid "water punch"
-msgstr ""
-
-#. [unit_type]: id=Water Tidal, race=spirit
-#: Naia/units/spirits/Water_Tidal.cfg:5
-msgid "female^Water Tidal"
-msgstr ""
-
-#. [unit_type]: id=Water Tidal, race=spirit
-#: Naia/units/spirits/Water_Tidal.cfg:19
-msgid "It is said that the world is mostly composed of water. It would be natural, then, to conjecture that water may have its own will and that its power can be summoned by expert magi for nefarious purposes."
-msgstr ""
-
-#. [unit_type]: id=Rock Golem, race=spirit
-#: Naia/units/spirits/Rock_Golem.cfg:5
-msgid "Rock Golem"
-msgstr ""
-
-#. [unit_type]: id=Rock Golem, race=spirit
-#: Naia/units/spirits/Rock_Golem.cfg:18
-msgid "Rock Golems are giant, slow, and heavy creatures made out of solid, living rock. Their fists can crush any skeleton in matter of seconds."
-msgstr ""
-
-#. [unit_type]: id=Animated Rock, race=spirit
-#: Naia/units/spirits/Rock_Animated.cfg:5
-msgid "Animated Rock"
-msgstr ""
-
-#. [unit_type]: id=Animated Rock, race=spirit
-#: Naia/units/spirits/Rock_Animated.cfg:17
-msgid "Animated Rocks are rather slow creatures made out of solid, living rock. They have a weak attack, but are incredibly hard to destroy. It is rumored that these magical constructs can only be summoned by powerful magi."
-msgstr ""
-
-#. [unit_type]: id=Fire Wisp, race=spirit
-#: Naia/units/spirits/Fire_Wisp.cfg:5
-msgid "Fire Wisp"
-msgstr ""
-
-#. [unit_type]: id=Fire Wisp, race=spirit
-#: Naia/units/spirits/Fire_Wisp.cfg:18
-msgid "Fire Wisps are minor spirits of flame. They like to frolic in pools of lava, and take great delight in burning anything they can reach. They should not be a great challenge to unexperienced fighters, except when found in swarms."
-msgstr ""
-
-#. [attack]: type=fire
-#: Naia/units/spirits/Fire_Wisp.cfg:22
-msgid "fire bash"
-msgstr ""
-
-#. [unit_type]: id=Fire Spirit, race=spirit
-#: Naia/units/spirits/Fire_Spirit.cfg:5
-msgid "Fire Spirit"
-msgstr ""
-
-#. [unit_type]: id=Fire Spirit, race=spirit
-#: Naia/units/spirits/Fire_Spirit.cfg:19
-msgid "Fire Guardians are spirits of smoke and flame. No one is exactly sure where they come from, but they seem to be a common threat in the darkest unknown depths of world. They might be the Fire itself, incarnate, or part of it."
 msgstr ""
 
 #. [unit_type]: id=Chaos Cardinal, race=undead
@@ -1627,26 +1637,6 @@ msgid ""
 "Legend has it that at the beginning of time, powerful creatures called ‘demons’ governed all that existed. The Lords of Light and Darkness, seeing the danger they posed for the balance of nature, banished them to a separate plane of existence, trapped with no means of escape from inside. But time and time again, different versions of the legend have been told by different peoples in different places. Presumably, whatever small amount of truth there was in the original version of the story has since been lost forever.\n"
 "\n"
 "Either by ignorance, or in an attempt to make sense of the fractured stories gathered from Chaos prisoners, the peoples of Irdya refer more generally to all the vastly heterogeneous races of Inferno by this generic designation. Some go as far as to claim that normal Irdyan creatures may become ‘demonic’ in some form or another, pointing at the Chaos Lorekeepers’ powers and inscrutable nature."
-msgstr ""
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:5
-msgid "race^Spirit"
-msgstr ""
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:6
-msgid "race+female^Spirit"
-msgstr ""
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:7
-msgid "race^Spirits"
-msgstr ""
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:8
-msgid "The summoning of elemental constructs is one of the oldest forms of magic known, as well as the rarest in modern times. Although elemental spirits are often bound to serve a powerful sorcerer, freely roaming beings of this kind are not completely unheard of throughout history."
 msgstr ""
 
 #. [trait]: id=armored

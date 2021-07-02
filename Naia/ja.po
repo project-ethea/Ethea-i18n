@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-IftU 1.8.x\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-07-01 19:45 UTC\n"
+"POT-Creation-Date: 2021-07-02 04:16 UTC\n"
 "PO-Revision-Date: 2010-12-14 22:16+0900\n"
 "Last-Translator: R.N <dragonfly65th@yahoo.co.jp>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -257,6 +257,53 @@ msgid ""
 "upalpha=@\n"
 msgstr ""
 
+#. [unit_type]: id=Water Spirit, race=monster
+#: Naia/units/monsters/Water_Spirit.cfg:5
+#, fuzzy
+msgid "female^Water Spirit"
+msgstr "精霊"
+
+#. [unit_type]: id=Water Spirit, race=monster
+#: Naia/units/monsters/Water_Spirit.cfg:21
+msgid ""
+"Tidal waves of water have been known to acquire their own consciousness and "
+"mind and break free of their summoners’ influence. The result is a more "
+"corporeal water being, embodying the might and whim of the water and its "
+"denizens."
+msgstr ""
+
+#. [attack]: type=impact
+#: Naia/units/monsters/Water_Spirit.cfg:25
+#: Naia/units/monsters/Water_Tidal.cfg:24
+msgid "water punch"
+msgstr ""
+
+#. [unit_type]: id=Water Tidal, race=monster
+#: Naia/units/monsters/Water_Tidal.cfg:5
+#, fuzzy
+msgid "female^Water Tidal"
+msgstr "回復した"
+
+#. [unit_type]: id=Water Tidal, race=monster
+#: Naia/units/monsters/Water_Tidal.cfg:20
+msgid ""
+"It is said that the world is mostly composed of water. It would be natural, "
+"then, to conjecture that water may have its own will and that its power can "
+"be summoned by expert magi for nefarious purposes."
+msgstr ""
+
+#. [unit_type]: id=Rock Golem, race=monster
+#: Naia/units/monsters/Rock_Golem.cfg:5
+msgid "Rock Golem"
+msgstr "岩のゴーレム"
+
+#. [unit_type]: id=Rock Golem, race=monster
+#: Naia/units/monsters/Rock_Golem.cfg:19
+msgid ""
+"Rock Golems are giant, slow, and heavy creatures made out of solid, living "
+"rock. Their fists can crush any skeleton in matter of seconds."
+msgstr ""
+
 #. [unit_type]: id=Fungoid, race=monster
 #: Naia/units/monsters/Fungoid.cfg:5
 msgid "Fungoid"
@@ -269,6 +316,70 @@ msgid ""
 "soft bodies and delicious taste once seasoned make them a prime target for "
 "inexperienced adventurers."
 msgstr ""
+
+#. [unit_type]: id=Animated Rock, race=monster
+#: Naia/units/monsters/Rock_Animated.cfg:5
+#, fuzzy
+msgid "Animated Rock"
+msgstr "動く岩だ。凄い！"
+
+#. [unit_type]: id=Animated Rock, race=monster
+#: Naia/units/monsters/Rock_Animated.cfg:18
+msgid ""
+"Animated Rocks are rather slow creatures made out of solid, living rock. "
+"They have a weak attack, but are incredibly hard to destroy. It is rumored "
+"that these magical constructs can only be summoned by powerful magi."
+msgstr ""
+
+#. [unit_type]: id=Fire Wraith, race=monster
+#: Naia/units/monsters/Fire_Wraith.cfg:16
+#, fuzzy
+msgid "Fire Wraith"
+msgstr "森の妖精"
+
+#. [unit_type]: id=Fire Wraith, race=monster
+#: Naia/units/monsters/Fire_Wraith.cfg:54
+msgid ""
+"Fire Wraiths are spirits of smoke and flame. No one is exactly sure where "
+"they come from, but they are occasionally summoned by powerful mages to do "
+"their bidding. The odd armor they wear hints at a former life or creator, "
+"but whatever ancient civilization was involved has been lost to history."
+msgstr ""
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wraith.cfg:57
+#, fuzzy
+msgid "fire claws"
+msgstr "炎のオーラ"
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wraith.cfg:66
+#, fuzzy
+msgid "fire breath"
+msgstr "炎のオーラ"
+
+#. [unit_type]: id=Fire Wisp, race=monster
+#: Naia/units/monsters/Fire_Wisp.cfg:5
+#, fuzzy
+msgid "Fire Wisp"
+msgstr "炎の妖精"
+
+#. [unit_type]: id=Fire Wisp, race=monster
+#: Naia/units/monsters/Fire_Wisp.cfg:19
+msgid ""
+"Fire Wisps are minor spirits of flame. They like to frolic in pools of lava, "
+"and take great delight in burning anything they can reach. They should not "
+"be a great challenge to unexperienced fighters, except when found in swarms."
+msgstr ""
+"「揺らめく炎」は小さな炎の精霊です。 彼らは溶岩のプールで遊んだり、近くの物を"
+"焼き尽す事を好んでいます。 彼らは経験が浅い戦士にとっても脅威にすらなりません"
+"が、群れとなれば話は別です。"
+
+#. [attack]: type=fire
+#: Naia/units/monsters/Fire_Wisp.cfg:23
+#, fuzzy
+msgid "fire bash"
+msgstr "炎のオーラ"
 
 #. [unit_type]: id=Leech, race=monster
 #: Naia/units/monsters/Leech.cfg:5
@@ -639,103 +750,6 @@ msgid ""
 "recourse: flight — that is, if they can outpace them. Should the fleeing "
 "intruder fall victim to the drones’ scalding blasts of energy, their vicious "
 "teeth and claws will make short work of what remains."
-msgstr ""
-
-#. [unit_type]: id=Water Spirit, race=spirit
-#: Naia/units/spirits/Water_Spirit.cfg:5
-#, fuzzy
-msgid "female^Water Spirit"
-msgstr "精霊"
-
-#. [unit_type]: id=Water Spirit, race=spirit
-#: Naia/units/spirits/Water_Spirit.cfg:20
-msgid ""
-"Tidal waves of water have been known to acquire their own consciousness and "
-"mind and break free of their summoners’ influence. The result is a more "
-"corporeal water being, embodying the might and whim of the water and its "
-"denizens."
-msgstr ""
-
-#. [attack]: type=impact
-#: Naia/units/spirits/Water_Spirit.cfg:24 Naia/units/spirits/Water_Tidal.cfg:23
-msgid "water punch"
-msgstr ""
-
-#. [unit_type]: id=Water Tidal, race=spirit
-#: Naia/units/spirits/Water_Tidal.cfg:5
-#, fuzzy
-msgid "female^Water Tidal"
-msgstr "回復した"
-
-#. [unit_type]: id=Water Tidal, race=spirit
-#: Naia/units/spirits/Water_Tidal.cfg:19
-msgid ""
-"It is said that the world is mostly composed of water. It would be natural, "
-"then, to conjecture that water may have its own will and that its power can "
-"be summoned by expert magi for nefarious purposes."
-msgstr ""
-
-#. [unit_type]: id=Rock Golem, race=spirit
-#: Naia/units/spirits/Rock_Golem.cfg:5
-msgid "Rock Golem"
-msgstr "岩のゴーレム"
-
-#. [unit_type]: id=Rock Golem, race=spirit
-#: Naia/units/spirits/Rock_Golem.cfg:18
-msgid ""
-"Rock Golems are giant, slow, and heavy creatures made out of solid, living "
-"rock. Their fists can crush any skeleton in matter of seconds."
-msgstr ""
-
-#. [unit_type]: id=Animated Rock, race=spirit
-#: Naia/units/spirits/Rock_Animated.cfg:5
-#, fuzzy
-msgid "Animated Rock"
-msgstr "動く岩だ。凄い！"
-
-#. [unit_type]: id=Animated Rock, race=spirit
-#: Naia/units/spirits/Rock_Animated.cfg:17
-msgid ""
-"Animated Rocks are rather slow creatures made out of solid, living rock. "
-"They have a weak attack, but are incredibly hard to destroy. It is rumored "
-"that these magical constructs can only be summoned by powerful magi."
-msgstr ""
-
-#. [unit_type]: id=Fire Wisp, race=spirit
-#: Naia/units/spirits/Fire_Wisp.cfg:5
-#, fuzzy
-msgid "Fire Wisp"
-msgstr "炎の妖精"
-
-#. [unit_type]: id=Fire Wisp, race=spirit
-#: Naia/units/spirits/Fire_Wisp.cfg:18
-msgid ""
-"Fire Wisps are minor spirits of flame. They like to frolic in pools of lava, "
-"and take great delight in burning anything they can reach. They should not "
-"be a great challenge to unexperienced fighters, except when found in swarms."
-msgstr ""
-"「揺らめく炎」は小さな炎の精霊です。 彼らは溶岩のプールで遊んだり、近くの物を"
-"焼き尽す事を好んでいます。 彼らは経験が浅い戦士にとっても脅威にすらなりません"
-"が、群れとなれば話は別です。"
-
-#. [attack]: type=fire
-#: Naia/units/spirits/Fire_Wisp.cfg:22
-#, fuzzy
-msgid "fire bash"
-msgstr "炎のオーラ"
-
-#. [unit_type]: id=Fire Spirit, race=spirit
-#: Naia/units/spirits/Fire_Spirit.cfg:5
-#, fuzzy
-msgid "Fire Spirit"
-msgstr "森の妖精"
-
-#. [unit_type]: id=Fire Spirit, race=spirit
-#: Naia/units/spirits/Fire_Spirit.cfg:19
-msgid ""
-"Fire Guardians are spirits of smoke and flame. No one is exactly sure where "
-"they come from, but they seem to be a common threat in the darkest unknown "
-"depths of world. They might be the Fire itself, incarnate, or part of it."
 msgstr ""
 
 #. [unit_type]: id=Chaos Cardinal, race=undead
@@ -2639,36 +2653,6 @@ msgstr ""
 "うに」変化することがあると主張しています。その例として挙げられるのが、混沌の"
 "伝承者の力と不可解な性質なのです。"
 
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:5
-#, fuzzy
-msgid "race^Spirit"
-msgstr "妖精"
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:6
-#, fuzzy
-msgid "race+female^Spirit"
-msgstr "精霊"
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:7
-#, fuzzy
-msgid "race^Spirits"
-msgstr "妖精"
-
-#. [race]: id=spirit
-#: Naia/units/spirits.cfg:8
-msgid ""
-"The summoning of elemental constructs is one of the oldest forms of magic "
-"known, as well as the rarest in modern times. Although elemental spirits are "
-"often bound to serve a powerful sorcerer, freely roaming beings of this kind "
-"are not completely unheard of throughout history."
-msgstr ""
-"自然の力を呼び出すことは最古の魔術の一つとして知られていますが、現在では非常"
-"に珍しいものとなっています。元素の精霊たちはしばしば強力な魔術師の下僕となっ"
-"ていますが、自由に彷徨うこともあるようです。"
-
 #. [trait]: id=armored
 #: Naia/macros/traits.cfg:7
 msgid "armored"
@@ -3510,6 +3494,28 @@ msgstr "フェイクの幕"
 #: Naia/loader.cfg:124
 msgid "Project Ethea"
 msgstr ""
+
+#, fuzzy
+#~ msgid "race^Spirit"
+#~ msgstr "妖精"
+
+#, fuzzy
+#~ msgid "race+female^Spirit"
+#~ msgstr "精霊"
+
+#, fuzzy
+#~ msgid "race^Spirits"
+#~ msgstr "妖精"
+
+#~ msgid ""
+#~ "The summoning of elemental constructs is one of the oldest forms of magic "
+#~ "known, as well as the rarest in modern times. Although elemental spirits "
+#~ "are often bound to serve a powerful sorcerer, freely roaming beings of "
+#~ "this kind are not completely unheard of throughout history."
+#~ msgstr ""
+#~ "自然の力を呼び出すことは最古の魔術の一つとして知られていますが、現在では非"
+#~ "常に珍しいものとなっています。元素の精霊たちはしばしば強力な魔術師の下僕と"
+#~ "なっていますが、自由に彷徨うこともあるようです。"
 
 #~ msgid "Matrix Flow System"
 #~ msgstr "組織の流動体"
