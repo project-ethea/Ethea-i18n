@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: fr_0.6.71\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-07-02 04:16 UTC\n"
-"PO-Revision-Date: 2018-08-10 20:50+0100\n"
+"PO-Revision-Date: 2021-08-01 18:43+0100\n"
 "Last-Translator: \n"
 "Language-Team: french\n"
 "Language: fr\n"
@@ -358,34 +358,32 @@ msgstr ""
 
 #. [unit_type]: id=Fire Wraith, race=monster
 #: Naia/units/monsters/Fire_Wraith.cfg:16
-#, fuzzy
 msgid "Fire Wraith"
-msgstr "Esprit du feu"
+msgstr "Spectre de feu"
 
 #. [unit_type]: id=Fire Wraith, race=monster
 #: Naia/units/monsters/Fire_Wraith.cfg:54
-#, fuzzy
 msgid ""
 "Fire Wraiths are spirits of smoke and flame. No one is exactly sure where "
 "they come from, but they are occasionally summoned by powerful mages to do "
 "their bidding. The odd armor they wear hints at a former life or creator, "
 "but whatever ancient civilization was involved has been lost to history."
 msgstr ""
-"Les gardiens de feu sont des esprits de fumées et de flammes. Personne ne "
-"sait exactement d'où ils viennent, mais ils semblent communs dans les "
-"profondeurs. Ils pourraient être le Feu lui-même, ou une de ses fractions."
+"Les Spectres de Feu sont des esprits de fumée et de flamme. Personne ne sait "
+"exactement d'où ils viennent, mais ils sont parfois convoqués par de "
+"puissants mages pour exécuter leurs ordres. L'armure étrange qu'ils portent "
+"fait allusion à une vie ou à un créateur antérieur, mais quelle que soit "
+"l'ancienne civilisation impliquée, elle a été perdue pour l'histoire."
 
 #. [attack]: type=fire
 #: Naia/units/monsters/Fire_Wraith.cfg:57
-#, fuzzy
 msgid "fire claws"
-msgstr "frappe de feu"
+msgstr "griffes de feu"
 
 #. [attack]: type=fire
 #: Naia/units/monsters/Fire_Wraith.cfg:66
-#, fuzzy
 msgid "fire breath"
-msgstr "frappe de feu"
+msgstr "souffle ardent"
 
 #. [unit_type]: id=Fire Wisp, race=monster
 #: Naia/units/monsters/Fire_Wisp.cfg:5
@@ -990,7 +988,8 @@ msgstr ""
 "avec une sorte d'éclair rouge, une attaque à la fois puissante et précise."
 
 #. [attack]: type=impact
-#: Naia/units/mechanical/Goliath.cfg:52 Naia/units/mechanical/Iron_Golem.cfg:51
+#: Naia/units/mechanical/Goliath.cfg:52
+#: Naia/units/mechanical/Iron_Golem.cfg:51
 msgid "flash cannon"
 msgstr "canon laser"
 
@@ -3736,7 +3735,7 @@ msgstr ""
 "animations d'unités au repos, assurez-vous que ces options soient "
 "sélectionnées dans <b>Préférences</b> → <b>Affichage</b>."
 
-#. [advancement]: id={_ID}, description= 
+#. [advancement]: id={_ID}, description=
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr ""
