@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: After_the_Storm-1.10\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-07-02 04:16 UTC\n"
-"PO-Revision-Date: 2021-08-03 15:08+0100\n"
+"PO-Revision-Date: 2021-10-05 16:09+0100\n"
 "Last-Translator: \n"
 "Language-Team: french\n"
 "Language: fr\n"
@@ -15121,9 +15121,9 @@ msgid ""
 "make a hasty attempt on the life of the New Guardian of Darkness, and fail. "
 "She also said that his actions would bring forth his own downfall."
 msgstr ""
-"La Voyante a dit que le Jour de la Nuit interminable, l'Ange du Sang tenterait "
-"prématurément de tuer la nouvelle Gardienne de l'Obscurité, et échourait. "
-"Elle a aussi dit que ses actes l'amènerait vers sa propre chute."
+"La Voyante a dit que le Jour de la Nuit interminable, l'Ange du Sang "
+"tenterait prématurément de tuer la nouvelle Gardienne de l'Obscurité, et "
+"échourait. Elle a aussi dit que ses actes l'amènerait vers sa propre chute."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:523
@@ -15804,8 +15804,8 @@ msgstr ""
 "\n"
 "Je souhaitais qu'Anya fut avec moi. mais elle ignorait où j'étais et je ne "
 "savais même pas si elle était vivante. Et même si elle l'était... ce n'était "
-"qu'une question de temps avant que Zhangor ne comprenne la prophétie de "
-"la Voyante et ne la tue."
+"qu'une question de temps avant que Zhangor ne comprenne la prophétie de la "
+"Voyante et ne la tue."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/09_Dark_Depths.cfg:2437
@@ -17565,6 +17565,10 @@ msgid ""
 "goblin after all, fighting things I really don’t understand in the middle of "
 "something much bigger than me. Not battle goblin, just... goblin."
 msgstr ""
+"Je sais, je suis désolé. Je dois arrêter de me flageller à ce sujet – je ne "
+"suis qu'un gobelin après tout, combattant des choses que je ne comprends "
+"vraiment pas au milieu de quelque chose de beaucoup plus grand que moi. Pas "
+"un gobelin combattant, juste... un gobelin."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:826
@@ -17573,6 +17577,9 @@ msgid ""
 "everyone that you can accomplish great things despite the labels they force "
 "upon you, Igor. I am sure of it. I believe in you."
 msgstr ""
+"Ne dites pas de telles choses. Votre heure viendra où vous pourrez montrer à "
+"tout le monde que vous peuvez accomplir de grandes choses malgré les "
+"étiquettes qu'ils vous imposent, Igor. J'en suis certaine. Je crois en vous."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:831
@@ -17581,26 +17588,29 @@ msgid ""
 "lady. I just wish the elf friend and the scary lich were still with us. I "
 "miss them a lot."
 msgstr ""
+"C'est en fait la chose la plus gentille qu'on m'ait jamais dite... Merci, ma "
+"dame. Je souhaite juste que l'ami elfe et la liche effrayante soient "
+"toujours avec nous. Ils me manquent beaucoup."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:836
 msgid "So do I, Igor. So do I."
-msgstr ""
+msgstr "A moi aussi, Igor. Moi aussi."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:843
 msgid "How did your adventures in the Aragwaith country go, anyway?"
-msgstr ""
+msgstr "Comment se sont passées vos aventures dans le pays d'Aragwaith ?"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:848
 msgid "Oh, uh, about that..."
-msgstr ""
+msgstr "Oh, euh, à propos de ça.."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:857
 msgid "Kinda disappointing really."
-msgstr ""
+msgstr "Assez décevant."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:862
@@ -17620,11 +17630,20 @@ msgid ""
 "the north. I’m not even sure why I did any of that — I kept hearing the old "
 "man’s words in my head like a command."
 msgstr ""
+"Eh bien, vous voyez, je n'ai pas fait de spectacle de rue pour la plupart. "
+"J'ai d'abord trouvé ce vieil homme sombre dans une taverne d'une ville "
+"frontière. Il m'a dit un tas de trucs vagues et est parti ? Après ça, j'ai "
+"fait des courses pour des gens au hasard pendant quelque chose comme une "
+"éternité. J'ai même aidé à sauver une ville d'un incendie ! Et puis je me "
+"suis souvenu... il m'a dit de chercher une voyante et de l'amener dans la "
+"capitale... mais j'ai failli me faire tuer en la recherchant dans tout le "
+"nord. Je ne sais même pas pourquoi j'ai fait tout ça - j'ai continué à "
+"entendre les mots du vieil homme dans ma tête comme un ordre."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:872
 msgid "Old man? Who was he?"
-msgstr ""
+msgstr "Un vieil homme? Qui était-il?"
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:877
@@ -17634,6 +17653,11 @@ msgid ""
 "I felt about the whole thing, even though thinking back I realize... if it "
 "hadn’t been me, it could’ve been anyone else, right?"
 msgstr ""
+"Je ne sais pas ! Il ne m'a jamais dit qui il était vraiment, mais... vous "
+"savez ce sentiment que vous faites quelque chose de vraiment important et "
+"que vous ne pouvez pas tout gâcher ? C'est ce que j'ai ressenti à propos de "
+"tout ça, même si en y repensant, je me rends compte que si ça n'avait pas "
+"été moi, ça aurait pu être n'importe qui d'autre, n'est-ce pas ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:882
@@ -17642,6 +17666,9 @@ msgid ""
 "my head hurts if I try to remember, it must have been too long ago, before "
 "the Great Fall."
 msgstr ""
+"... Oui, je pense que je sais ce que vous voulez dire. D'une certaine "
+"manière, cela semble familier... Mais j'ai mal à la tête si j'essaie de me "
+"souvenir, cela doit être il y a trop longtemps, avant le Grand Déclin."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:887
@@ -17650,6 +17677,9 @@ msgid ""
 "doesn’t make sense but sometimes I’m afraid that maybe I did mess up in the "
 "end."
 msgstr ""
+"Je suis désolé dame Elynia, j'avais juste besoin de sortir ça de ma "
+"poitrine. Je sais que cela n'a pas de sens, mais parfois j'ai peur d'avoir "
+"peut-être tout gâché à la fin."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:892
@@ -17657,6 +17687,8 @@ msgid ""
 "It sounds like our paths almost crossed at the capital back then, though. I "
 "wonder why I never found you there."
 msgstr ""
+"Il semble que nos chemins aient failli se croiser dans la capitale à "
+"l'époque. Je me demande pourquoi je ne vous ai jamais trouvé là-bas."
 
 #. [message]: speaker=Igor
 #. Yes, apparently Igor doesn't realize that what he calls 'water longbirds'
@@ -17668,6 +17700,10 @@ msgid ""
 "with the “local swan population”? Dunno what that was all about, Willow only "
 "eats water longbirds anyway."
 msgstr ""
+"Eh bien, voyez-vous, quelque temps après avoir emmené la voyante là-bas, le "
+"garde de la ville m'a expulsé sur ordre du type aux épées lourdes à cause de "
+"quelque chose à voir avec la «population locale de cygnes»? Je ne sais pas "
+"de quoi il s'agissait, Willow ne mange que des oiseaux d'eau de toute façon."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:904
@@ -17678,12 +17714,12 @@ msgstr "Euh... hum... et bien, non ?"
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:909
 msgid "Mhm!"
-msgstr ""
+msgstr "Mhm!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:916
 msgid "You seem to be getting along well with Anya."
-msgstr ""
+msgstr "Vous semblez bien vous entendre avec Anya."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:921
@@ -17692,6 +17728,10 @@ msgid ""
 "afraid of her for no reason even though she’s just a big puppy. The archer "
 "guy, for example — he’d constantly avoid her. I don’t understand why."
 msgstr ""
+"Oui! Et la dame violette aime beaucoup Willow. Je suis tellement habituée à "
+"ce que tout le monde ait peur d'elle sans raison, même si ce n'est qu'un "
+"gros chiot. L'archer, par exemple, il l'évitait constamment. Je ne comprends "
+"pas pourquoi."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:926
@@ -17699,6 +17739,8 @@ msgid ""
 "I don’t think he and the other people from the Heart Forest are fond of "
 "wolves in general. They have their reasons."
 msgstr ""
+"Je ne pense pas que lui et les autres habitants de Heart Forest aiment les "
+"loups en général. Ils ont leurs raisons."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:931
@@ -17706,6 +17748,8 @@ msgid ""
 "If you say so... But let me ask you, how come you don’t mind the demons all "
 "of a sudden?"
 msgstr ""
+"Si vous le dites... Mais laissez-moi vous demander, comment se fait-il que "
+"les démons ne vous dérangent pas tout à coup ?"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:936
@@ -17717,6 +17761,12 @@ msgid ""
 "past to escape oppression. But all those attemtps were doomed to fail, until "
 "now."
 msgstr ""
+"C'est compliqué. Ce n'est pas tant que cela ne me dérange pas, mais plutôt "
+"que j'ai vu que la réalité n'est pas aussi noire et blanche que nous le "
+"pensions. Ergea et son peuple... ils ont leur propre conflit avec Uria en "
+"cours. Il s'avère que les seigneurs démons qui ont tenté de lui faire la "
+"guerre dans le passé ne manquent pas pour échapper à l'oppression. Mais "
+"toutes ces tentatives étaient vouées à l'échec, jusqu'à maintenant."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:941
@@ -17724,6 +17774,9 @@ msgid ""
 "It is now up to me... to <b>us</b>, to make a difference. Tomorrow we shall "
 "fight for the fate of Irdya, and if we succeed, then Inferno will follow."
 msgstr ""
+"C'est maintenant à moi... à <b>nous</b>, de faire la différence. Demain, "
+"nous nous battrons pour le sort d'Irdya, et si nous réussissons, Inferno "
+"suivra."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:946
@@ -17731,6 +17784,8 @@ msgid ""
 "That sounds great and all but I don’t like the way she looks at me "
 "scrunching up her nose every time she passes me by..."
 msgstr ""
+"Ça sonne bien et tout, mais je n'aime pas la façon dont elle me regarde en "
+"fronçant le nez à chaque fois qu'elle passe devant moi..."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:951
@@ -17738,11 +17793,13 @@ msgid ""
 "Oh, uh... that... that might just be that she has difficulty breathing the "
 "air of Irdya. I think."
 msgstr ""
+"Oh, euh... ça... c'est peut-être juste qu'elle a du mal à respirer l'air "
+"d'Irdya. Je pense."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:956
 msgid "Oh, I see. Nothing to worry about then!"
-msgstr ""
+msgstr "Ah, je vois. Rien d'inquiétant alors!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/06_Divergence.cfg:1011
@@ -18419,7 +18476,7 @@ msgstr ""
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:1662
 msgid "(<i>gasping for air</i>) ... I..."
-msgstr ""
+msgstr "(<i>à bout de souffle</i>) ... Je..."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:1667
@@ -18686,9 +18743,9 @@ msgid ""
 "That demoness asked our Seer many things and failed to understand nearly all "
 "of them. About the particular thing you ask, she was... right, in a way."
 msgstr ""
-"Cette démone a posé bien des questions à la Voyante, et a échoué à comprendre "
-"la plupart des réponses. À propos de ce que tu viens de dire, elle avait.."
-"raison d'une certaine manière."
+"Cette démone a posé bien des questions à la Voyante, et a échoué à "
+"comprendre la plupart des réponses. À propos de ce que tu viens de dire, "
+"elle avait..raison d'une certaine manière."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/08C_Breakdown.cfg:1913
@@ -18881,6 +18938,9 @@ msgid ""
 "... So, you obtain the power of a god and still manage to drag your feet all "
 "over the place for an eternity? Seriously? You don’t even walk!"
 msgstr ""
+"... Alors, tu obtiens le pouvoir d'un dieu et tu parviens quand même à "
+"traîner les pieds dans tous les sens pendant une éternité ? Sérieusement? Tu "
+"ne marches même pas !"
 
 #. [scenario]: id=02_01_Return_to_Raelthyn
 #. [part]
@@ -19189,6 +19249,8 @@ msgid ""
 "My lady! I had long given up my search! But you are still alive, after all "
 "this time!"
 msgstr ""
+"Ma dame! J'avais abandonné ma recherche depuis longtemps ! Mais vous êtes "
+"toujours en vie, après tout ce temps !"
 
 #. [message]: speaker=Avethan
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:820
@@ -19372,6 +19434,8 @@ msgid ""
 "Lady Elynia! It’s been so long! The old lady has told me so many sad things "
 "and I... I..."
 msgstr ""
+"Dame Elynia ! Ça fait tellement longtemps! La vieille dame m'a dit tellement "
+"de choses tristes et je... je.."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1049
@@ -19381,11 +19445,17 @@ msgid ""
 "everything later. I hope Willow and you are up to the task, because we need "
 "all the help we can muster."
 msgstr ""
+"Ah, Igor. Je suis si heureux de voir que vous êtes toujours en vie après "
+"tout le malheur qui nous est arrivé, vous n'en avez aucune idée. Mais il "
+"sera temps de tout revoir plus tard. J'espère que Willow et vous êtes à la "
+"hauteur, car nous avons besoin de toute l'aide possible."
 
 #. [message]: speaker=Igor
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1054
 msgid "Of course, my lady, that’s why we waited here! We’re ready to go!"
 msgstr ""
+"Bien sûr, ma dame, c'est pourquoi nous avons attendu ici ! Nous sommes prêts "
+"à partir !"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1059
@@ -19412,6 +19482,13 @@ msgid ""
 "that recruited Walking Corpses are always of the Gryphon, Wolf, or Bat "
 "variations."
 msgstr ""
+"Vous pouvez à nouveau recruter des unités de morts-vivants. De plus, Irylean "
+"et les miliciens survivants d'Arphalad vous suivront dans votre quête.\n"
+"\n"
+"Irylean ne relève normalement que les cadavres de bêtes sauvages à moins "
+"qu'elle ne puisse tuer directement une unité vulnérable à la peste avec son "
+"arme de mêlée. Cela signifie que les zombies recrutés sont toujours des "
+"variantes Griffon, Loup ou Chauve-souris."
 
 #. [message]: speaker=Torancyn
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1111
@@ -19525,16 +19602,18 @@ msgstr "Le Seigneur Torancyn est mort au combat. C'est sans espoir."
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1382
 msgid "I’m city goblin no more! Now I’m battle goblin! HAHA!!!"
 msgstr ""
+"Je ne suis plus un gobelin des villes ! Maintenant, je suis un gobelin de "
+"combat ! HAHA!!!"
 
 #. [message]: speaker=Anya
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1387
 msgid "... City goblin?"
-msgstr ""
+msgstr "...Gobelin des villes?"
 
 #. [message]: speaker=Durvan
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1392
 msgid "... Battle... goblin?"
-msgstr ""
+msgstr "...Gobelin...de combat?"
 
 #. [message]: speaker=Torancyn
 #: After_the_Storm/episode3/scenarios/02_01_Return_to_Raelthyn.cfg:1406
@@ -20553,9 +20632,9 @@ msgid ""
 msgstr ""
 "Il est inutile de tenter d'utiliser le communicateur maintenant. Uria a "
 "probablement déjà quitté sa forteresse sur Urvatha, Zhangor se terre dans "
-"son repaire, Nar-hamoth est porté disparu, et la Voyante n'utilise pas de tels "
-"artéfact d'autant plus qu'elle ne peut se déplacer seule. Vous n'avez rien à "
-"leur dire de toute façon."
+"son repaire, Nar-hamoth est porté disparu, et la Voyante n'utilise pas de "
+"tels artéfact d'autant plus qu'elle ne peut se déplacer seule. Vous n'avez "
+"rien à leur dire de toute façon."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2551
@@ -20911,7 +20990,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2730
 msgid "Biomechanical Engineering Laboratory 03"
-msgstr ""
+msgstr "Laboratoire d'ingénierie biomécanique 03"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2731
@@ -20920,6 +20999,10 @@ msgid ""
 "\n"
 "NO ENTRY WITHOUT PERMISSION FROM LIFEFORM RESEARCH TEAM LEAD MAL SI’AH"
 msgstr ""
+"ÉTABLISSEMENT CONDAMNÉ\n"
+"\n"
+"PAS D'ENTRÉE SANS L'AUTORISATION DU RESPONSABLE DE L'ÉQUIPE DE RECHERCHE DE "
+"FORME DE VIE MAL SI'AH"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:2799
@@ -21159,7 +21242,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3081
 msgid "Operating Room"
-msgstr ""
+msgstr "Salle d'opération"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3082
@@ -21168,6 +21251,9 @@ msgid ""
 "\n"
 "NO ENTRY WITHOUT LEVEL 4 PERMISSION FROM THE IRON COUNCIL"
 msgstr ""
+"INSTALLATION CONDAMNÉE\n"
+"\n"
+"PAS D'ENTRÉE SANS PERMISSION DE NIVEAU 4 DU CONSEIL DE FER"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3113
@@ -21272,9 +21358,9 @@ msgid ""
 "voice as well, but she has always refused to speak with me. I have a "
 "suspicion about that voice..."
 msgstr ""
-"Non. Ecoute. Tu pourras en parler plus tard à la Voyante, je suis sûr qu'elle "
-"sait pour la voix également, mais elle a toujours refusé de m'en parler. "
-"J'ai un soupcon à propos de cette voix..."
+"Non. Ecoute. Tu pourras en parler plus tard à la Voyante, je suis sûr "
+"qu'elle sait pour la voix également, mais elle a toujours refusé de m'en "
+"parler. J'ai un soupcon à propos de cette voix..."
 
 #. [message]: speaker=memory!Elyssa
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3203
@@ -21297,10 +21383,10 @@ msgid ""
 "need your help for that."
 msgstr ""
 "Je ne pense pas qu'elle ait trouvé quelque chose sur nos recherches, n'est-"
-"ce pas? Tu sais que la Voyante est autant ton allié que le sien, elle ne prend "
-"pas parti. Elle ne te trahira pas, mais pas spécifiquement à cause de ton "
-"affiliation avec l'Obscurité. S'il s'agissait uniquement de communiquer avec "
-"elle, je n'aurais pas besoin de ton aide."
+"ce pas? Tu sais que la Voyante est autant ton allié que le sien, elle ne "
+"prend pas parti. Elle ne te trahira pas, mais pas spécifiquement à cause de "
+"ton affiliation avec l'Obscurité. S'il s'agissait uniquement de communiquer "
+"avec elle, je n'aurais pas besoin de ton aide."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3230
@@ -21444,8 +21530,8 @@ msgid ""
 "disregard for ancient riddles and the absurd notion of fate."
 msgstr ""
 "C'est comme si vous perdiez votre temps avec cette introspection inutile "
-"depuis des mois, même si cela fait tout juste une heure. La Sentinelle et "
-"la Voyante soient damnés. Ce serait plus simpe si vous pouviez vous focaliser "
+"depuis des mois, même si cela fait tout juste une heure. La Sentinelle et la "
+"Voyante soient damnés. Ce serait plus simpe si vous pouviez vous focaliser "
 "uniquement sur le commandement de vos troupes et de détruire toute "
 "opposition avec un complet dédain pour les anciennes énigmes et la notion "
 "absurde de destin."
@@ -21462,6 +21548,9 @@ msgid ""
 "\n"
 "NO ENTRY WITHOUT LEVEL 6 PERMISSION FROM MAL ZAGARN"
 msgstr ""
+"CHAMBRE DE CONFINEMENT DU SUJET 00-44A\n"
+"\n"
+"PAS D'ENTREE SANS AUTORISATION DE NIVEAU 6 DE MAL ZAGARN"
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3394
@@ -21469,6 +21558,8 @@ msgid ""
 "The chest is empty. It has been decades since the last time anyone used it "
 "to deliver parcels to you."
 msgstr ""
+"Le coffre est vide. Cela fait des décennies que personne ne l'a utilisé pour "
+"vous livrer des colis. "
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3414
@@ -21535,6 +21626,9 @@ msgid ""
 "enemy necromancers, absolutely useless against magic on lease from a "
 "Guardian of Life. Such a shame."
 msgstr ""
+"La protection de Kendyare contre les sorts nécromantiques. Très utile contre "
+"les nécromanciens ennemis banals, absolument inutile contre la magie "
+"prodiguée par une Gardien de la Vie. Quel dommage."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3483
@@ -21551,6 +21645,18 @@ msgid ""
 "i> advantages to having been disemboweled and implanted with an unnatural "
 "power source after all."
 msgstr ""
+"Cette dalle de roche brisée était votre lit. La dernière fois que vous avez "
+"dormi dessus, vous avez eu un petit accident à cause de vos cauchemars. Cela "
+"ne constituait pas la surface de couchage la plus confortable au départ, "
+"mais vous êtes maintenant presque sûr qu'il serait fortement déconseillé de "
+"passer beaucoup de temps allongé dessus. De toute façon, votre dos n'en "
+"voudrait pas assez pour subir toute sorte de blessure permanente - votre "
+"capacité à régénérer des parties biologiques est assez intentionnellement "
+"limitée par rapport à un Gardien né naturellement, mais vous êtes toujours "
+"beaucoup plus robuste que votre pitoyable victime ici grâce à aux diverses "
+"améliorations qu'ils ont apportées à votre corps. Vous supposez qu'il y a "
+"<i>certains</i> avantages à avoir été éventrée et implanté avec une source "
+"d'énergie contre nature après tout."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3500
@@ -21565,6 +21671,8 @@ msgid ""
 "Just trash that has been lying around for ages. You are not going to touch "
 "it — who knows what kind of creatures have decided to make it their home."
 msgstr ""
+"Juste des déchets qui traînent depuis des lustres. Vous n'allez pas y "
+"toucher – qui sait quel genre de créatures ont décidé d'en faire leur foyer."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3534
@@ -21578,6 +21686,15 @@ msgid ""
 "than usual, assuming the place does not collapse first. That is not a "
 "troubling notion in the least, you tell yourself."
 msgstr ""
+"Kendyare semble beaucoup plus brillante maintenant qu'elle ne l'était dans "
+"la vie.\n"
+"\n"
+"Vous emmèneriez la pauvre femme avec vous, mais c'est probablement plus sûr "
+"ici. Vraisemblablement, personne ne la trouvera jamais et vous n'aurez "
+"jamais à vous soucier qu'elle décide de se venger de vous pour l'avoir "
+"balayée comme ça. Elle va juste passer une éternité ici à être encore plus "
+"inutile que d'habitude, en supposant que l'endroit ne s'effondre pas en "
+"premier. Ce n'est pas une notion troublante, vous vous dites."
 
 #. [message]: speaker=narrator
 #: After_the_Storm/episode3/scenarios/08A_Interim.cfg:3568
@@ -21676,6 +21793,8 @@ msgid ""
 "Elyssa can now summon Fire Wraiths next to Elynia regardless of the distance "
 "between both."
 msgstr ""
+"Elyssa peut désormais invoquer des spectres de feu à côté d'Elynia, quelle "
+"que soit la distance entre les deux."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:478
@@ -21741,7 +21860,7 @@ msgstr "flammes de xia'el"
 #. [event]
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:671
 msgid "lunar wrath"
-msgstr ""
+msgstr "courroux lunaire"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:966
@@ -21750,11 +21869,16 @@ msgid ""
 "feel too intimidated by her stature, though — I very much doubt this is to "
 "scale."
 msgstr ""
+"Xia'el, le gardien de la Terre. Son incarnation du Premier Cycle, pour être "
+"précis. Ne te sens pas trop intimidé par sa stature, cependant - je doute "
+"fort que ce soit à l'échelle."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:971
 msgid "She is... she was a faerie? I am not sure what I was expecting."
 msgstr ""
+"Elle est... elle était une fée ? Je ne suis pas sûr de ce à quoi je "
+"m'attendais."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:976
@@ -21763,6 +21887,10 @@ msgid ""
 "shoes for reasons that are surely beyond my ability to comprehend. And "
 "again, most likely not to scale."
 msgstr ""
+"De gros souliers à remplir ? Encore une fois, il semble qu'aucun de vous "
+"n'ait jamais porté de chaussures pour des raisons qui dépassent sûrement ma "
+"capacité de comprendre. Et encore une fois, très probablement pas à "
+"l'échelle."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:981
@@ -21770,6 +21898,8 @@ msgid ""
 "No, I mean... She looks so beautiful and dignified... but at the same time, "
 "she is... so..."
 msgstr ""
+"Non, je veux dire... Elle a l'air si belle et digne... mais en même temps, "
+"elle est... si..."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:986
@@ -21777,11 +21907,14 @@ msgid ""
 "Mundane? By now you should know gods come in all shapes and sizes. Although "
 "anyone can play god to a sufficiently ignorant crowd."
 msgstr ""
+"Banal? À présent, tu devrais savoir que les dieux sont de toutes formes et "
+"de toutes tailles. Bien que n'importe qui puisse jouer à Dieu devant une "
+"foule suffisamment ignorante."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:991
 msgid "I suppose you would know about that kind of thing."
-msgstr ""
+msgstr "Je suppose que vous savez de quoi vous parlez."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:996
@@ -21792,6 +21925,12 @@ msgid ""
 "your power regardless, so there is little point to claiming godhood unless "
 "you want to paint an even larger target on your back."
 msgstr ""
+"Vous n'avez pas besoin de miracles, de prophéties ou de contrôle mental pour "
+"régner sur des brutes non civilisées. Il vous suffit d'établir des limites "
+"claires et de montrer à vos sujets les conséquences d'un dépassement. Tôt ou "
+"tard, quelqu'un testera votre pouvoir malgré tout, il n'y a donc aucun "
+"intérêt à revendiquer la divinité à moins que vous ne vouliez peindre une "
+"cible encore plus grande sur votre dos."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1001
@@ -21802,6 +21941,12 @@ msgid ""
 "have god-like powers, then the job should be certainly much easier. But it "
 "does not have to be like that."
 msgstr ""
+"Oublie toute la situation d'Uria pendant un instant, ce dont ce monde a "
+"besoin en ce moment n'est pas une autre fausse divinité. Il a juste besoin "
+"de quelqu'un capable de le purger et de construire un nouvel ordre à partir "
+"de zéro. S'il se trouve que cette personne a des pouvoirs divins, alors le "
+"travail devrait être certainement beaucoup plus facile. Mais ça ne devrait "
+"pas être ainsi."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1009
@@ -21809,11 +21954,13 @@ msgid ""
 "You don’t need to play the role of the Guardian of Earth if that’s not what "
 "you want."
 msgstr ""
+"Tu n'as pas besoin de jouer le rôle de la Gardienne de la Terre si ce n'est "
+"pas ce que tu veux."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1019
 msgid "I can feel the question lingering in the back of your head."
-msgstr ""
+msgstr "Je sens la question se former dans ta tête."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1028
@@ -21821,17 +21968,21 @@ msgid ""
 "When my mentor realized the true nature of the Sceptre of Fire, she asked me "
 "to wield it against the enemies of Irdya... with her dying breath."
 msgstr ""
+"Lorsque mon mentor a réalisé la vraie nature du Sceptre de Feu, elle m'a "
+"demandé de le manier contre les ennemis d'Irdya... de son dernier souffle."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1033
 msgid ""
 "This cursed artifact is bad for your health. You must not use it ever again."
 msgstr ""
+"Cet artefact maudit est mauvais pour ta santé. Tu ne dois plus jamais "
+"l'utiliser."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1038
 msgid "I just said—"
-msgstr ""
+msgstr "Je dis juste..."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1043
@@ -21840,11 +21991,14 @@ msgid ""
 "you are a creature of Light trying to wield a power that is harmful to your "
 "mind and soul."
 msgstr ""
+"Tu peux dire tout ce que tu veux, mais cela ne change rien au fait que tu es "
+"une créature de la Lumière essayant d'exercer un pouvoir qui est nocif pour "
+"ton esprit et ton âme."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1048
 msgid "Niryone’s staff rightfully belongs to me—"
-msgstr ""
+msgstr "Le bâton de Niryone m'appartient de droit..."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1053
@@ -21855,6 +22009,11 @@ msgid ""
 "are going to have to learn to let go of the past and not waste your "
 "potential living an eternal life of regret."
 msgstr ""
+"Je t'assure que la <i>chose</i> qui se cache sous la surface brillante du "
+"Rubis ne se soucie pas de l'attachement sentimental que tu pourrais avoir. "
+"Les intentions de ton mentor étaient peut-être nobles, mais si tu veux "
+"sauver Irdya, tu dois apprendre à oublier le passé et à ne pas gaspiller ton "
+"potentiel à vivre une vie éternelle de regrets."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1058
@@ -21865,6 +22024,12 @@ msgid ""
 "you don’t feel up to the task then you are free to stay behind, drowning in "
 "an endless ocean of sorrow for what little is left of eternity."
 msgstr ""
+"Si tu veux vraiment honorer sa mémoire... si tu veux que les sacrifices de "
+"tes amis en valent la peine, alors il est temps pour toi de devenir la "
+"Gardienne de la Terre dont nous avons besoin au lieu de la Dame de la "
+"Lumière qui a perdu contre ses propres Ténèbres. Mais si tu ne te sens pas à "
+"la hauteur de la tâche, tu es libre de rester en arrière, en te noyant dans "
+"un océan sans fin de chagrin pour le peu qu'il reste de l'éternité."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:1130
@@ -26754,8 +26919,8 @@ msgstr ""
 "envoyés dans les autres mondes collecter toutes informations qu'elle "
 "pourrait requérir. La plupart d'entre elles viennent des ruines de Karash, "
 "qui semblent avoir existé depuis bien avant la vie telle que nous la "
-"connaissons. Et bien sûr, la Voyante est toujours prête à aider si on lui ose "
-"la bonne question.\n"
+"connaissons. Et bien sûr, la Voyante est toujours prête à aider si on lui "
+"ose la bonne question.\n"
 "\n"
 "C'est tellement compliqué, je commence à peine à comprendre. Je me souviens "
 "que nous croyons aux Seigneurs de la Lumière et des Ténèbres, mais "
