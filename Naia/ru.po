@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-07-02 04:16 UTC\n"
+"POT-Creation-Date: 2021-10-05 17:50 UTC\n"
 "PO-Revision-Date: 2021-09-10 11:20+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -3810,7 +3810,7 @@ msgstr ""
 "бойцов, поэтому удостоверьтесь, что они разрешены настройками (<b>Настройки</"
 "b> → <b>Графика</b>)."
 
-#. [advancement]: id={_ID}, description=
+#. [advancement]: id={_ID}, description= 
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr "‹Макс ОП +15%›"

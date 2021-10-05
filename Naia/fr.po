@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fr_0.6.71\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-07-02 04:16 UTC\n"
+"POT-Creation-Date: 2021-10-05 17:50 UTC\n"
 "PO-Revision-Date: 2021-08-01 18:43+0100\n"
 "Last-Translator: \n"
 "Language-Team: french\n"
@@ -988,8 +988,7 @@ msgstr ""
 "avec une sorte d'éclair rouge, une attaque à la fois puissante et précise."
 
 #. [attack]: type=impact
-#: Naia/units/mechanical/Goliath.cfg:52
-#: Naia/units/mechanical/Iron_Golem.cfg:51
+#: Naia/units/mechanical/Goliath.cfg:52 Naia/units/mechanical/Iron_Golem.cfg:51
 msgid "flash cannon"
 msgstr "canon laser"
 
@@ -3735,7 +3734,7 @@ msgstr ""
 "animations d'unités au repos, assurez-vous que ces options soient "
 "sélectionnées dans <b>Préférences</b> → <b>Affichage</b>."
 
-#. [advancement]: id={_ID}, description=
+#. [advancement]: id={_ID}, description= 
 #: Naia/macros/amla.cfg:54
 msgid "‹Max XP +15%›"
 msgstr ""
