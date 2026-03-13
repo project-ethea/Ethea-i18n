@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-11 19:38 UTC\n"
+"POT-Creation-Date: 2026-03-13 06:54 UTC\n"
 "PO-Revision-Date: 2021-09-09 23:05+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -128,12 +128,12 @@ msgid "Translations"
 msgstr "Перевод"
 
 #. [about]
-#: Invasion_from_the_Unknown/about.cfg:253
+#: Invasion_from_the_Unknown/about.cfg:257
 msgid "Additional Thanks to"
 msgstr "Отдельное спасибо"
 
 #. [entry]
-#: Invasion_from_the_Unknown/about.cfg:327
+#: Invasion_from_the_Unknown/about.cfg:331
 msgid "You, for playing this campaign"
 msgstr "Вам, за игру в эту кампанию"
 
@@ -4215,9 +4215,9 @@ msgstr "Продержитесь как можно дольше"
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:527
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:916
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:524
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:506
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:531
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:571
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:508
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:533
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:573
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:66
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Herthgar.cfg:360
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:339
@@ -4448,9 +4448,9 @@ msgstr "Смерть Лединора"
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:528
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:917
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:525
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:507
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:532
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:572
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:509
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:534
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:574
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:67
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Herthgar.cfg:364
 #: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:317
@@ -4921,11 +4921,11 @@ msgstr "Нежить"
 #: Invasion_from_the_Unknown/scenarios/07_Goliath.cfg:84
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:173
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:150
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:110
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:164
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:199
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:235
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:277
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:112
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:166
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:201
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:237
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:279
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:115
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:160
 #: Invasion_from_the_Unknown/scenarios/22B_Dark_Hive.cfg:162
@@ -4934,7 +4934,7 @@ msgstr "Пещерные твари"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:180
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:504
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:506
 msgid "Explore the caves"
 msgstr "Исследуйте пещеры"
 
@@ -5570,9 +5570,9 @@ msgstr "Победите орков, контролирующих оазис"
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:529
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:918
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:526
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:508
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:533
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:573
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:510
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:535
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:575
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:68
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Herthgar.cfg:363
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:341
@@ -7884,7 +7884,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:488
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1204
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1206
 msgid "Rune activated."
 msgstr "Руна активирована."
 
@@ -7959,7 +7959,7 @@ msgstr "Три века… поразительно…"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:875
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:916
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:918
 msgid "Anlindë?"
 msgstr "Анлиндэ?"
 
@@ -8539,9 +8539,9 @@ msgstr ""
 #. [literal]
 #. [event]: id=Galas}
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:527
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:509
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:534
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:574
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:511
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:536
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:576
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:69
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Herthgar.cfg:365
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:343
@@ -8905,36 +8905,36 @@ msgstr "Мена"
 
 #. [event]
 #. [scenario]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:503
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:528
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:567
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:505
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:530
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:569
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:62
 msgid "Current Objectives:"
 msgstr "Текущее задание:"
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:529
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:531
 #: Invasion_from_the_Unknown/scenarios/18_Ashes_of_Wesmere.cfg:947
 msgid "Defeat the enemy leader"
 msgstr "Победите лидера противников"
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:557
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:559
 msgid "($active_seal_glyphs runes remaining)"
 msgstr "(осталось активировать $active_seal_glyphs)"
 
 #. [else]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:560
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:562
 msgid "($active_seal_glyphs rune remaining)"
 msgstr "(осталось активировать последнюю)"
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:569
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:571
 msgid "Find and activate all six trigger runes"
 msgstr "Найдите и активируйте все шесть рун"
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:580
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:582
 msgid ""
 "Allow Mal Keshar to rest for three consecutive turns and he will reveal the "
 "location of the trigger runes"
@@ -8943,7 +8943,7 @@ msgstr ""
 "местоположение рун"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:602
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:604
 msgid ""
 "I’m fairly certain we have been to this intersection countless times before. "
 "How much deeper could the last home of our heroes be?"
@@ -8952,7 +8952,7 @@ msgstr ""
 "глубоко наши герои нашли последнее пристанище?"
 
 #. [message]: role=scout
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:607
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:609
 msgid ""
 "I wouldn’t know for sure, sir, but at this rate I think we may soon reach "
 "the very bottom of the earth and find that there’s nothing below but a "
@@ -8962,27 +8962,27 @@ msgstr ""
 "земную кору, а под ней обнаружим лишь искрящий ад—"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:613
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:615
 msgid "<b>SILENCE!</b>"
 msgstr "<b>ТИХО!</b>"
 
 #. [message]: role=magic user
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:622
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:624
 msgid "It is... an enormous power. It fills the entire place!"
 msgstr "Эта… огромная мощь пронизывает все это место!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:627
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:629
 msgid "Yes, indeed, I recognize this presence. We must be finally there."
 msgstr "Да, точно, я узнаю это присутствие. Должно быть, мы на месте."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:632
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:634
 msgid "You magic-skilled people can perceive things which are beyond me."
 msgstr "Вы, с вашим волшебством, можете чувствовать вещи, мне недоступные."
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:637
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:639
 msgid ""
 "Indeed, lad. Magic skill lets ye ken things whose existence is normally "
 "ignored by common folk. Every rock in these caves, even the air... "
@@ -8996,7 +8996,7 @@ msgstr ""
 "его словно защищает сама природа."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:644
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:646
 msgid ""
 "Fair enough. I hope we find them soon, before we run out of food and "
 "torches..."
@@ -9004,7 +9004,7 @@ msgstr ""
 "Ясно. Надеюсь, мы найдём их до того, как у нас закончится еда и факелы…"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:649
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:651
 msgid ""
 "And before the Chaos army reaches Herthgar, I would add. While the might of "
 "the dwarves and their many inventions may normally provide an insurmountable "
@@ -9019,7 +9019,7 @@ msgstr ""
 "встречали ранее."
 
 #. [message]: role=scout
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:656
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:658
 msgid ""
 "My lady, sirs, less chatter and more exploring, before the walls cave in on "
 "us!"
@@ -9028,7 +9028,7 @@ msgstr ""
 
 #. [message]: speaker=Mena
 #. "She is dead"
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:714
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:716
 msgid ""
 "The elves! How could they get past the commander? This can only mean she "
 "is... Damn it all!"
@@ -9036,37 +9036,37 @@ msgstr ""
 "Эльфы! Как им удалось пройти? Это лишь значит, что командующая… Проклятье!"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:719
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:721
 msgid "You too will perish at our hands if you insist on hindering us, demon."
 msgstr "Вы встретите ту же участь, если встанете на нашем пути, демоны."
 
 #. [message]: speaker=Mena
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:724
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:726
 msgid "So be it! I would rather die than surrender to you, Irdyan scum!"
 msgstr "Да будет так! Я лучше умру, но не сдамся вам, Ирдийские мрази!"
 
 #. [message]: speaker=second_unit
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:763
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:765
 msgid "Surely I could use some help here!"
 msgstr "Здесь мне понадобится чья-нибудь помощь!"
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:768
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:770
 msgid "Die, vermin!"
 msgstr "Умри, вредитель!"
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:780
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:782
 msgid "Oh, Uria... I have... failed... All our efforts... fruitless..."
 msgstr "О, Урия… Я… не справилась… Все наши усилия… впустую…"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:907
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:909
 msgid "That structure at the center of the chamber..."
 msgstr "Эта структура в центре пещеры…"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:921
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:923
 msgid ""
 "We found it, Galas! This is the final resting place of the Lady of Light and "
 "the Master of Darkness! That strong magic comes from within the structure. "
@@ -9076,7 +9076,7 @@ msgstr ""
 "Тьмы. Конструкция излучает сильную магию. Нам нужно найти способ войти."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:942
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:944
 msgid ""
 "Hm, it’s evident they did not want anybody waking them from their slumber. "
 "The entrance seems to be completely blocked, and the six pillars around the "
@@ -9087,7 +9087,7 @@ msgstr ""
 "являются чем-то вроде печати."
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:947
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:949
 msgid ""
 "They carved glyphs in them! Ancient dwarvish runes! This musta’ been the "
 "work of our kin from ages past. I ha’ heard of this kind of seal before... "
@@ -9100,7 +9100,7 @@ msgstr ""
 "лишь определённые существа."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:952
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:954
 msgid ""
 "Yes. Hm, I imagine that the Lady of Light would mandate the glyphs to react "
 "only to the presence of elvenkind and their allies, so... that may explain "
@@ -9114,12 +9114,12 @@ msgstr ""
 "задержалось, они всё равно нашли бы способ нарушить это заклятье."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:957
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:959
 msgid "All we have to do, then, is to search for the triggers in these caves?"
 msgstr "Теперь нам лишь осталось отыскать руны в этих пещерах?"
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:962
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:964
 msgid ""
 "Aye, aye... Well, there’s no guarantee that they may ha’ carved them in "
 "accessible locations close to this chamber, but ’tis a good starting point "
@@ -9129,12 +9129,12 @@ msgstr ""
 "достаточно близких к этой пещере, но начинать точно стоит."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:967
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:969
 msgid "Sure, let’s do it!"
 msgstr "Конечно. Итак, поехали!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:972
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:974
 msgid ""
 "Careful, elf — the earth itself does not seem pleased with our intrusion "
 "into its eternal domain. As far as it is concerned, we are unwelcome "
@@ -9145,7 +9145,7 @@ msgstr ""
 "только что победили."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1065
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1067
 msgid ""
 "Perhaps if I was allowed to concentrate for a while, I would be able to "
 "pinpoint the precise location of the glyphs using magic."
@@ -9154,27 +9154,27 @@ msgstr ""
 "местоположение каждого символа."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1070
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1072
 msgid "Really? That would be a great help!"
 msgstr "Правда? Это бы очень нам помогло!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1075
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1077
 msgid "I am not completely sure it’s possible, but I can try."
 msgstr "Не уверен, что это сработает, но я попытаюсь."
 
 #. [floating_text]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1112
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1114
 msgid "Concentrating"
 msgstr "Концентрируется"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1153
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1155
 msgid "Yes, I found them!"
 msgstr "Я нашёл их!"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1179
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1181
 msgid ""
 "Thanks, Mal Keshar. This will certainly make our mission much easier. Now we "
 "only need to clear the path leading to each glyph."
@@ -9183,17 +9183,17 @@ msgstr ""
 "только очистить проход к каждой руне."
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1223
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1225
 msgid "All glyphs have been activated. The earth shakes!"
 msgstr "Все символы активированы. Земля сотрясается!"
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1250
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1252
 msgid "A wall moves."
 msgstr "Стена отодвигается."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1282
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1284
 msgid ""
 "Hmm... This gate seems magical in nature. It glows blue in a pulsating and "
 "mesmerizing fashion, and my hands are unable to reach the metal bars, as "
@@ -9204,7 +9204,7 @@ msgstr ""
 "невидимым щитом."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1289
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1291
 msgid ""
 "Hmm... My minions inform me that the gate seems magical in nature. Their "
 "hands are unable to reach the metal bars, as if they were protected by some "
@@ -9214,12 +9214,12 @@ msgstr ""
 "могут прикоснуться к прутьям, как будто они окружены каким-то щитом."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1297
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1299
 msgid "There must be a way to open the gate, somewhere."
 msgstr "Должен быть какой-нибудь способ открыть врата."
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1329
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1331
 msgid ""
 "Wow. It’s a very large underground pool. There are some shallow parts where "
 "the ground below sticks out interspersed with deeper bits we cannot cross. "
@@ -9233,7 +9233,7 @@ msgstr ""
 "задачей."
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1354
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1356
 msgid ""
 "The air here is unbearably dense and hot due to the pools and outflows of "
 "lava everywhere. Of course, the fire spirits below don’t mind the "
@@ -9247,7 +9247,7 @@ msgstr ""
 "область одним."
 
 #. [scenario]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1366
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1368
 msgid ""
 "This is a strange ornate emerald bottle containing a foul-smelling potion. "
 "The scroll next to it, though highly deteriorated due to its age, still has "
@@ -9269,19 +9269,19 @@ msgstr ""
 "ли оно того."
 
 #. [scenario]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1369
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1371
 msgid "This potion may only be used by living units, not including bats."
 msgstr ""
 "Этот эликсир может использоваться только живыми существами, не включая "
 "летучих мышей."
 
 #. [object]: id=e1s10_drainer_potion
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1377
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1379
 msgid "Potion of Drain"
 msgstr "Зелье Высасывания"
 
 #. [object]: id=e1s10_drainer_potion
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1380
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1382
 msgid ""
 "This potion grants the <i>drains</i> special to the unit’s melee attacks, "
 "reduces its maximum hitpoints by 5%, and increases its resistance to arcane "
@@ -9292,7 +9292,7 @@ msgstr ""
 "мистическому урону на 10%."
 
 #. [scenario]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1426
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1428
 msgid ""
 "Such a pretty potion flask! As I open and smell the red liquid inside, I "
 "immediately feel energized and ready to take down any incoming threat. It "
@@ -9315,19 +9315,19 @@ msgstr ""
 "не больше."
 
 #. [scenario]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1429
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1431
 msgid ""
 "This potion may only be used by a true warrior with an axe or sword in hand."
 msgstr ""
 "Этот эликсир может использоваться истинным воином, носящим топор или меч."
 
 #. [object]: id=e1s10_berserker_potion
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1439
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1441
 msgid "Berserker Potion"
 msgstr "Зелье Неистовства"
 
 #. [object]: id=e1s10_berserker_potion
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1442
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1444
 msgid ""
 "This potion grants the <i>berserk</i> special to the unit’s melee attacks, "
 "which also sees their damage increased by one. As an advantageous side "
@@ -9348,47 +9348,47 @@ msgstr ""
 " &#8226; Крушащий: +30% сопротивления"
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1501
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1503
 msgid "Touchplate triggered. A magical gate opens."
 msgstr "Сенсор срабатывает. Магические врата открываются."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1549
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1551
 msgid "This bridge seems extremely unsafe..."
 msgstr "Мост выглядит крайне ненадёжным…"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1556
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1558
 msgid "That bridge seems extremely unsafe."
 msgstr "Мост выглядит крайне ненадёжным."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1581
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1583
 msgid "Flowers? So deep under the surface? How is this possible?"
 msgstr ""
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1745
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1747
 msgid "At long last! Let us go, now."
 msgstr "Наконец-то! Идём, сейчас же!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1750
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1752
 msgid "I have been waiting for this for too long."
 msgstr "Я так долго этого ждал."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1755
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1757
 msgid "Wait, Galas, before continuing... only the two of us should enter."
 msgstr "Постой, Галас… туда должны войти только двое."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1760
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1762
 msgid "... Why?"
 msgstr "… Почему?"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1765
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1767
 msgid ""
 "The regent lord of the elves is surely the only appropriate person to greet "
 "the Lady of Light and the Master of Darkness after such a long time, but "
@@ -9405,7 +9405,7 @@ msgstr ""
 "эльфийского рода во время этого события."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1774
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1776
 msgid ""
 "I must say, I never expected such words from you, Anlindë. After so long, we "
 "are finally here, but not only thanks to you — we owe a great debt to Lady "
@@ -9418,13 +9418,13 @@ msgstr ""
 "вместе с нами."
 
 #. [message]: speaker=Unarye
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1780
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1782
 msgid ""
 "Me— meeting the Lady of Light in person? I would be greatly honored, my lord!"
 msgstr "Меня— встретить саму Леди Света? Это великая честь для меня, милорд!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1785
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1787
 msgid ""
 "Ah, so would I. Galas, you really are an example to follow for the other "
 "elves!"
@@ -9432,17 +9432,17 @@ msgstr ""
 "Так и для меня. Галас, да ты просто пример для подражания остальным эльфам!"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1790
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1792
 msgid "But I—"
 msgstr "Но я—"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1795
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1797
 msgid "You will allow them to come with us. This is an order, Anlindë."
 msgstr "Тебе придётся позволить им пройти с нами. Это приказ, Анлиндэ."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1804
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1806
 msgid "... As you command, <i>my lord</i>."
 msgstr "… Как прикажете, <i>господин</i>."
 

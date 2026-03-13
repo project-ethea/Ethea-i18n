@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-IftU 1.8.x\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-11 19:38 UTC\n"
+"POT-Creation-Date: 2026-03-13 06:54 UTC\n"
 "PO-Revision-Date: 2010-12-14 22:16+0900\n"
 "Last-Translator: R.N <dragonfly65th@yahoo.co.jp>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -1143,7 +1143,7 @@ msgid "event^Victory"
 msgstr ""
 
 #. [lua]: wesnoth.wml_actions.journeylog
-#: Naia/lua/gui/journey_ui.lua:53 Naia/lua/gui/journey_ui.lua:2294
+#: Naia/lua/gui/journey_ui.lua:53 Naia/lua/gui/journey_ui.lua:2311
 msgid "Journal"
 msgstr ""
 
@@ -1236,37 +1236,42 @@ msgstr ""
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1347
+msgid "Hidden achievements"
+msgstr ""
+
+#. [lua]: journeylog_achievements_node_factory
+#: Naia/lua/gui/journey_ui.lua:1357
 msgid "Compact view"
 msgstr ""
 
 #. [lua]: journeylog_ui_dream_hook
-#: Naia/lua/gui/journey_ui.lua:1512
+#: Naia/lua/gui/journey_ui.lua:1522
 msgid "― This functionality is currently unavailable ―"
 msgstr ""
 
 #. [lua]: show_recap_entry
-#: Naia/lua/gui/journey_ui.lua:1953
+#: Naia/lua/gui/journey_ui.lua:1963
 msgid "character_quote_text_format^<span style='italic' color='%s'>“%s”</span>"
 msgstr ""
 
 #. [lua]: show_recap_entry
-#: Naia/lua/gui/journey_ui.lua:1957
+#: Naia/lua/gui/journey_ui.lua:1967
 msgid ""
 "character_quote_author_format^<span size='smaller' color='%s'>⎯ %s</span>"
 msgstr ""
 
 #. [lua]: populate_lore_entry_list
-#: Naia/lua/gui/journey_ui.lua:1985
+#: Naia/lua/gui/journey_ui.lua:1995
 msgid "archive_section^People"
 msgstr ""
 
 #. [lua]: populate_lore_entry_list
-#: Naia/lua/gui/journey_ui.lua:1996
+#: Naia/lua/gui/journey_ui.lua:2006
 msgid "archive_section^World"
 msgstr ""
 
 #. [lua]: populate_lore_entry_list
-#: Naia/lua/gui/journey_ui.lua:2007
+#: Naia/lua/gui/journey_ui.lua:2017
 msgid "archive_section^Recaps"
 msgstr ""
 
