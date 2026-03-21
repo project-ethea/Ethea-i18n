@@ -1,10 +1,10 @@
-# Sebastián Lecchini <sebas38760@gmail.com> 2025.
+# Sebastián Lecchini <sebas38760@gmail.com> 2025, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-13 06:54 UTC\n"
-"PO-Revision-Date: 2025-10-26 11:50-0300\n"
+"PO-Revision-Date: 2025-03-22 15:24-0300\n"
 "Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
 "Language-Team: none>\n"
 "Language: es\n"
@@ -14,9 +14,8 @@ msgstr ""
 
 #. [achievement]: id={ID}
 #: Naia/achievements_prologue.cfg:33
-#, fuzzy
 msgid "Achievement locked"
-msgstr "Logros"
+msgstr "Logro bloqueado"
 
 #. [color_range]: id=cyan
 #: Naia/core/display.cfg:11
@@ -36,13 +35,13 @@ msgstr "Rosa"
 #. [character_profile]: id=Galas, race=elf, gender=male
 #: Naia/journey/profiles.cfg:18
 msgid "Galas"
-msgstr ""
+msgstr "Galas"
 
 #. [character_profile]: id=Galas, race=elf, gender=male
 #. [character_profile]: id=Anlindë, race=elf, gender=female
 #: Naia/journey/profiles.cfg:19 Naia/journey/profiles.cfg:50
 msgid "Valley of Elynia"
-msgstr ""
+msgstr "Valle de Elynia"
 
 #. [character_profile]: id=Galas, race=elf, gender=male
 #: Naia/journey/profiles.cfg:24
@@ -53,11 +52,16 @@ msgid ""
 "accompanying his father in expeditions to safeguard the Valley from hostile "
 "outsiders, learning the ins and outs of survival in the desert."
 msgstr ""
+"<b>Galas</b>, hijo del fallecido capitán Valthir, forma parte de la patrulla "
+"fronteriza sur del Valle de Elynia. Aunque nació en los exuberantes y "
+"acogedores bosques del interior del valle, desde muy pequeño le gustó "
+"acompañar a su padre en expediciones para proteger el valle de extraños "
+"hostiles, aprendiendo todos los secretos de la supervivencia en el desierto."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:28 Naia/journey/profiles.cfg:102
 msgid "Alliance of the Peoples of the Far North"
-msgstr ""
+msgstr "Alianza de los Pueblos del Lejano Norte"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:29
@@ -67,6 +71,11 @@ msgid ""
 "along with Elynia and Mal Keshar. While doing so, he also renounced his "
 "leadership of the elves, letting Lord Inodien take over his duties."
 msgstr ""
+"Como parte de un acuerdo para conseguir un nuevo hogar para los elfos del "
+"bosque en el Lejano Norte, Galas se comprometió a unirse al Gran Consejo de "
+"los Pueblos del Norte junto con Elynia y Mal Keshar. Al hacerlo, también "
+"renunció a su liderazgo sobre los elfos, dejando que el señor Inodien "
+"asumiera sus responsabilidades."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:35
@@ -84,11 +93,23 @@ msgid ""
 "escaped via the use of teleport magic, but were ultimately unable to "
 "retrieve the elf’s body."
 msgstr ""
+"De regreso desde la isla de Zocthanol, el grupo de Galas fue atrapado por "
+"una tormenta y se vio obligado a desembarcar en la <b>península de Kalari</"
+"b>, sede del cuartel general del <b>Consejo de Hierro</b>. Galas y Elynia "
+"fueron capturados por fuerzas del Caos durante una lucha, lo que resultó en "
+"un intento desastroso de escape en el que los tres —Galas, Elynia y Mal "
+"Keshar— se perdieron en una instalación subterránea.\n"
+"\n"
+"Mientras discutían la mejor forma de resolver su situación, el grupo fue "
+"emboscado por Elyssa, quien surgió de las sombras y golpeó fatalmente a "
+"Galas por la espalda antes de que alguien pudiera reaccionar. Elynia y Mal "
+"Keshar escaparon por poco usando magia de teletransportación, pero no "
+"pudieron recuperar el cuerpo del elfo."
 
 #. [character_profile]: id=Anlindë, race=elf, gender=female
 #: Naia/journey/profiles.cfg:49
 msgid "Anlindë"
-msgstr ""
+msgstr "Anlindë"
 
 #. [character_profile]: id=Anlindë, race=elf, gender=female
 #: Naia/journey/profiles.cfg:57
@@ -110,6 +131,23 @@ msgid ""
 "personally tutored by Lord Lédinor despite his father being a complete "
 "outsider to the council."
 msgstr ""
+"Aunque los elfos normalmente viven alrededor de trescientos años, "
+"<b>Anlindë</b> es una rara excepción cuya presencia en el Valle de Elynia se "
+"rumorea que es anterior a la misma existencia del asentamiento.\n"
+"\n"
+"A lo largo de los siglos, Anlindë se dedicó a la tediosa pero crucial tarea "
+"de mantener los registros del consejo gobernante del valle en la Fortaleza "
+"de Telchior, asegurando así que las antiguas artes y tradiciones élficas —"
+"especialmente las relacionadas con la magia feérica— permanecieran vivas "
+"mucho después de la Gran Caída. En tiempos más recientes, sin embargo, su "
+"atención se ha desplazado en gran medida de los trabajos de escritorio hacia "
+"el cuidado de enfermos y heridos, poniendo su incomparable dominio de la "
+"medicina herbal en usos más prácticos.\n"
+"\n"
+"Desde la desafortunada muerte del capitán Valthir, Anlindë ha cuidado de su "
+"único hijo <b>Galas</b> como si fuera suyo, incluso organizando que "
+"recibiera enseñanza personal del señor Lédinor a pesar de que su padre era "
+"un completo extraño para el consejo."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:65
@@ -122,6 +160,14 @@ msgid ""
 "unexpected was how this would lead to an impromptu alliance without "
 "precedent in elven history."
 msgstr ""
+"Durante el primer encuentro de los elfos con Mal Keshar, la destreza mágica "
+"de Anlindë resultó ser mucho mayor de lo que nadie sospechaba: un solo "
+"hechizo —de una naturaleza desconocida incluso para el nigromante— le "
+"permitió debilitarlo lo suficiente para que Galas y los demás terminaran el "
+"trabajo. Sin embargo, lo que ella nunca esperó fue la disposición mutua de "
+"Galas y el liche para conversar de forma civilizada; y aún más inesperado "
+"fue que esto condujera a una alianza improvisada sin precedentes en la "
+"historia élfica."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:70
@@ -139,6 +185,19 @@ msgid ""
 "directly responsible for the discovery of the valley which served as the "
 "forest elves’ sanctuary for countless generations."
 msgstr ""
+"Al conocer a la <b>Dama de la Luz Elynia</b>, Galas, Mal Keshar y la dama "
+"Unarye descubrieron la verdad oculta sobre la existencia de Anlindë: en el "
+"pasado formó parte del culto oscuro que servía al <b>Señor Demonio Zhangor</"
+"b> en Wesmere. A pesar de que todos los demás sacerdotes fueron ejecutados "
+"para evitar el resurgimiento de la criatura maligna, el señor Telchior de "
+"Thelien decidió perdonarle la vida únicamente a ella por razones que nunca "
+"reveló.\n"
+"\n"
+"A pesar de esta revelación, era evidente para todos que Anlindë había "
+"dedicado cada instante de su existencia continuada a expiar sus pecados "
+"contra el pueblo élfico; no solo eso, sino que su consejo al señor Telchior "
+"fue directamente responsable del descubrimiento del valle que sirvió como "
+"refugio de los elfos del bosque durante innumerables generaciones."
 
 #. [additional_info]
 #. Keep "Chaos Warlord" gender-ambiguous if your language allows it
@@ -154,11 +213,18 @@ msgid ""
 "Her sacrifice was not in vain, however, as it allowed the evacuation to "
 "proceed mostly as planned with minimal loss of life."
 msgstr ""
+"Para darle tiempo al rey Asthorgar y a Galas de evacuar Herthgar antes del "
+"intento final de asedio del Señor del Caos, Anlindë decidió quedarse atrás y "
+"defender la capital con la ayuda de los súbditos de Mal Keshar y algunas "
+"tropas enanas. Todos sabían que era extremadamente improbable que "
+"sobreviviera al encuentro, y en efecto, nunca regresó de su misión. Sin "
+"embargo, su sacrificio no fue en vano, ya que permitió que la evacuación se "
+"llevara a cabo casi según lo planeado con pérdidas mínimas de vidas."
 
 #. [character_profile]: id=Mal Keshar, race=undead, gender=male
 #: Naia/journey/profiles.cfg:88
 msgid "Mal Keshar"
-msgstr ""
+msgstr "Mal Keshar"
 
 #. [character_profile]: id=Mal Keshar, race=undead, gender=male
 #: Naia/journey/profiles.cfg:96
@@ -176,6 +242,18 @@ msgid ""
 "attained lichdom and became the bane of the orcish tribes for a thousand "
 "years."
 msgstr ""
+"<b>Mal Keshar</b> —antes <b>Malin Keshar</b>— es un antiguo liche de la "
+"época anterior a la Caída, originario del viejo reino humano conocido como "
+"<b>Wesnoth</b>.\n"
+"\n"
+"Su origen se remonta al pueblo fronterizo de Parthyn, que en ese entonces "
+"sufría constantes incursiones orcas. La intervención oportuna de un "
+"nigromante conocido como <b>Darken Volk</b> durante una batalla que costó "
+"muchas vidas en Parthyn, incluida la del padre de Malin Keshar, impulsó al "
+"joven a comenzar sus viajes y aprendizaje bajo el mago oscuro. Aunque el "
+"destino de su maestro se ha perdido en la historia, se sabe que Malin Keshar "
+"alcanzó el estado de liche y se convirtió en la pesadilla de las tribus "
+"orcas durante mil años."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:103
@@ -184,6 +262,9 @@ msgid ""
 "Far North, Mal Keshar pledged allegiance to the <b>Grand Council of the "
 "Northern Peoples</b>."
 msgstr ""
+"Como parte del acuerdo de Galas para asegurar un nuevo hogar para los elfos "
+"del bosque en el Lejano Norte, Mal Keshar juró lealtad al <b>Gran Consejo de "
+"los Pueblos del Norte</b>."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:108
@@ -196,6 +277,13 @@ msgid ""
 "reckoned with, rivaling even the most powerful priests and necromancers at "
 "Uria’s service."
 msgstr ""
+"Mal Keshar resultó ser un factor decisivo para superar los obstáculos que el "
+"grupo de Galas encontró en su camino hacia la guarida del <b>Emperador del "
+"Caos</b> en Inferno. Desafortunadamente, el grave daño que sufrió al "
+"enfrentarse consecutivamente a Elyssa, Argan y Elynia hizo que su poder "
+"disminuyera considerablemente. A pesar de ello, Mal Keshar siguió siendo una "
+"fuerza temida, rivalizando incluso con los sacerdotes y nigromantes más "
+"poderosos al servicio de Uria."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:115
@@ -207,6 +295,13 @@ msgid ""
 "his body. Only minutes after, the entire facility along with the ruined "
 "plains of Wesmere completely vanished off the face of Irdya."
 msgstr ""
+"Al final del enfrentamiento del grupo contra la fortalecida <b>Reina "
+"Shaxthal</b> en la instalación Abaddon del Enjambre de Wesmere, Mal Keshar y "
+"todos sus súbditos no muertos fueron atrapados en el enorme remolino de "
+"energía liberado del núcleo destrozado de la bestia, lo que provocó que su "
+"alma fuera arrancada forzosamente de su cuerpo. Solo minutos después, toda "
+"la instalación junto con las llanuras arruinadas de Wesmere desaparecieron "
+"por completo de la superficie de Irdya."
 
 #: Naia/journey/profiles.cfg:121
 msgid ""
@@ -218,6 +313,14 @@ msgid ""
 "dwarves to seal her in a custom-built burial chamber, intending to lay "
 "dormant until the day Irdya would recover from complete devastation."
 msgstr ""
+"Tras su participación en la Guerra de Wesmere, Elynia y Argan descendieron a "
+"las profundidades de las Montañas Profundas en busca de respuestas sobre el "
+"Señor Demonio y su lugar de origen. Trágicamente, un terremoto hizo que la "
+"tierra reclamara la vida de Argan, sin dejar siquiera un cuerpo para que "
+"Elynia pudiera recuperarlo. Abrumada por el dolor, la feérica pidió ayuda a "
+"los enanos para sellarla en una cámara funeraria construida especialmente "
+"para ella, con la intención de permanecer dormida hasta el día en que Irdya "
+"se recuperara de la devastación total."
 
 #: Naia/journey/profiles.cfg:125
 msgid ""
@@ -231,21 +334,30 @@ msgid ""
 "heart with the full extent of her own power, thus putting an end to his "
 "sinister reign over Irdya."
 msgstr ""
+"La banda de Galas enfrentó a Argan en su propia guarida en los yermos "
+"helados de Inferno, encontrándose inicialmente completamente superados por "
+"el hechicero. Sin embargo, la ingeniosidad de Elynia le permitió luchar en "
+"igualdad de condiciones canalizando el Poder de la Unión directamente desde "
+"él a corta distancia. A pesar de que <b>Uria</b> intentó cambiar el rumbo "
+"mutando y manipulando el cuerpo de Argan como marioneta, Elynia logró "
+"someterlo con la ayuda de Galas y Mal Keshar. Sin encontrar otra solución a "
+"su dilema, golpeó su corazón con toda la extensión de su propio poder, "
+"poniendo así fin a su siniestro reinado sobre Irdya."
 
 #. [character_profile]: id=Elynia, race=faerie, gender=female
 #: Naia/journey/profiles.cfg:130
 msgid "Elynia, the Lady of Light"
-msgstr ""
+msgstr "Elynia, la Dama de la Luz"
 
 #. [character_profile]: id=Elynia, race=faerie, gender=female
 #: Naia/journey/profiles.cfg:131
 msgid "Source of Light, Protector of the Elves of Irdya"
-msgstr ""
+msgstr "Fuente de Luz, Protectora de los Elfos de Irdya"
 
 #. [character_profile]: id=Elynia, race=faerie, gender=female
 #: Naia/journey/profiles.cfg:132
 msgid "Ka’lian of Wesmere (before the Fall)"
-msgstr ""
+msgstr "Ka’lian de Wesmere (antes de la Caída)"
 
 #. [character_profile]: id=Elynia, race=faerie, gender=female
 #: Naia/journey/profiles.cfg:142
@@ -264,6 +376,19 @@ msgid ""
 "a few hazy legends resulting from her participation in past events still "
 "linger in the public consciousness."
 msgstr ""
+"Conocida por elfos y humanos como la <b>Dama de la Luz</b> a lo largo de la "
+"historia anterior a la Caída, <b>Elynia</b> es una de las dos heroínas que "
+"en su momento empuñaron la Unión de Luz y Oscuridad contra el mayor enemigo "
+"de Irdya, el <b>Señor Demonio Zhangor</b>.\n"
+"\n"
+"Aunque quedan muy pocos registros de su vida pasada entre los elfos, se cree "
+"que fue criada en los grandes bosques de Wesmere por una encantadora que "
+"tenía estrechos lazos con el antiguo Ka’lian. Habiendo alcanzado una "
+"longevidad aparentemente eterna gracias a su dominio de la Luz, Elynia se "
+"hizo famosa por realizar numerosas hazañas como pacificadora errante que "
+"viajaba por todo el Gran Continente. Aunque las civilizaciones de la Era "
+"Dorada desaparecieron hace mucho, algunas leyendas difusas derivadas de su "
+"participación en eventos pasados aún perduran en la conciencia pública."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:150
@@ -271,6 +396,8 @@ msgid ""
 "Alliance of the Peoples of the Far North, Ka’lian of Wesmere (before the "
 "Fall)"
 msgstr ""
+"Alianza de los Pueblos del Lejano Norte, Ka’lian de Wesmere (antes de la "
+"Caída)"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:151
@@ -279,6 +406,9 @@ msgid ""
 "Far North, Elynia pledged allegiance to the <b>Grand Council of the Northern "
 "Peoples</b>."
 msgstr ""
+"Como parte del acuerdo de Galas para asegurar un nuevo hogar para los elfos "
+"del bosque en el Lejano Norte, Elynia juró lealtad al <b>Gran Consejo de los "
+"Pueblos del Norte</b>."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:156
@@ -288,11 +418,15 @@ msgid ""
 "and Darkness—became Uria’s most valued vassal and took upon the title of "
 "<b>Chaos Emperor</b>."
 msgstr ""
+"Debido a las retorcidas maquinaciones del destino, la pareja de Elynia, "
+"<b>Argan</b> —antes conocido como el <b>Maestro de la Oscuridad</b> y co-"
+"portador de la Unión de Luz y Oscuridad— se convirtió en el vasallo más "
+"valioso de Uria y asumió el título de <b>Emperador del Caos</b>."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:164
 msgid "Source of Light, Protector of the Elves of Irdya, Eloh"
-msgstr ""
+msgstr "Fuente de Luz, Protectora de los Elfos de Irdya, Eloh"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:171
@@ -300,6 +434,8 @@ msgid ""
 "Alliance of the Peoples of the Far North (formerly), Ka’lian of Wesmere "
 "(before the Fall)"
 msgstr ""
+"Alianza de los Pueblos del Lejano Norte (anteriormente), Ka’lian de Wesmere "
+"(antes de la Caída)"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:176
@@ -310,22 +446,26 @@ msgid ""
 "secret of her possession of Yechnagoth’s legacy as the <b>Guardian of "
 "Darkness</b>, and promptly killed Elynia in combat."
 msgstr ""
+"Enviada por el <b>Señor Demonio Ergea</b> en busca de un «poder oculto bajo "
+"Kalari», Elynia enfrentó a la <b>Señora de la Guerra del Caos Elyssa</b> en "
+"una sección subterránea abandonada de la fortaleza. Esta vez, la demonio no "
+"ocultó su posesión del legado de Yechnagoth como la <b>Guardiana de la "
+"Oscuridad</b>, y mató rápidamente a Elynia en combate."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:181
 msgid "Elynia, the Guardian of Earth"
-msgstr ""
+msgstr "Elynia, la Guardiana de la Tierra"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:182
 msgid "Lady of Light, Source of Light, Protector of the Elves of Irdya, Eloh"
-msgstr ""
+msgstr "Dama de la Luz, Fuente de Luz, Protectora de los Elfos de Irdya, Eloh"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:183
-#, fuzzy
 msgid "The Ten Guardians"
-msgstr "Guardián infernal"
+msgstr "Los Diez Guardianes"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:184
@@ -335,20 +475,23 @@ msgid ""
 "of her power due to a complete lack of understanding of her situation—her "
 "<i>curse</i>—coupled with an intense pain beyond description."
 msgstr ""
+"Algún tiempo después, Elynia resucitó como la <b>Guardiana de la Tierra</b> "
+"en Irdya. A pesar de su potencial divino, no ha podido hacer un uso adecuado "
+"de su poder debido a una completa falta de comprensión de su situación —su "
+"<i>maldición</i>— combinada con un dolor intenso más allá de toda "
+"descripción."
 
 #. [character_profile]: id=Elyssa, race=shaxthal, gender=female
 #. Keep "Chaos Warlord" gender-ambiguous if your language allows it.
 #: Naia/journey/profiles.cfg:192
-#, fuzzy
 msgid "female^Chaos Warlord"
-msgstr "Blindada"
+msgstr "Señora de la Guerra del Caos"
 
 #. [character_profile]: id=Elyssa, race=shaxthal, gender=female
 #. [character_profile]: id=Uria, race=demon, gender=female
 #: Naia/journey/profiles.cfg:193 Naia/journey/profiles.cfg:281
-#, fuzzy
 msgid "Chaos Empire"
-msgstr "Asaltante del Caos"
+msgstr "Imperio del Caos"
 
 #. [character_profile]: id=Elyssa, race=shaxthal, gender=female
 #: Naia/journey/profiles.cfg:204
@@ -357,23 +500,26 @@ msgid ""
 "serves as the Chaos Emperor’s right hand, enforcing his will and instilling "
 "fear and respect into his enemies and servants alike even in his absence."
 msgstr ""
+"Las evidencias sugieren que esta criatura aparentemente mitad máquina, mitad "
+"humana sirve como la mano derecha del Emperador del Caos, imponiendo su "
+"voluntad e infundiendo miedo y respeto tanto a sus enemigos como a sus "
+"sirvientes, incluso en su ausencia."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:208
 msgid "Elyssa, the Chaos Warlord"
-msgstr ""
+msgstr "Elyssa, la Señora de la Guerra del Caos"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:209
-#, fuzzy
 msgid "Fire of Uria"
-msgstr "Espectro de fuego"
+msgstr "Fuego de Uria"
 
 #. [additional_info]
 #. [additional_info]: race=shaxthal
 #: Naia/journey/profiles.cfg:210 Naia/journey/profiles.cfg:257
 msgid "Chaos Empire’s Iron Council"
-msgstr ""
+msgstr "Consejo de Hierro del Imperio del Caos"
 
 #. [additional_info]
 #. Keep "Chaos Warlord" gender-ambiguous if your language allows it.
@@ -398,32 +544,51 @@ msgid ""
 "multiple times, the duo managed to defeat the demoness in direct combat, but "
 "Elynia chose at the last moment to spare her life rather than execute her."
 msgstr ""
+"Tras su derrota a manos de la Dama de la Luz y Mal Keshar, la Señora de la "
+"Guerra del Caos se reveló como <b>Elyssa</b>, una antigua erudita que dedicó "
+"su vida a estudiar la historia del antiguo Imperio de Wesnoth. Información "
+"adicional de los enanos de Herthgar indica que una Maga Roja que coincidía "
+"con su descripción viajó alguna vez junto al pueblo de Kalehssar y pasó "
+"tiempo con los enanos de Gnalvarden antes de desaparecer nuevamente en las "
+"arenas. Actualmente se desconoce qué eventos resultaron en su transformación "
+"en la monstruosa demonio biomecánica que es ahora.\n"
+"\n"
+"Tras el autosacrificio de Anlindë en la capital de Herthgar, Elyssa enfrentó "
+"a los héroes en los niveles inferiores del Corazón y casi ganó, de no ser "
+"por el uso que Elynia hizo de la magia de Luz para cegarla temporalmente y "
+"poder escapar y reagruparse. Aunque Elyssa eventualmente encontró de nuevo a "
+"la banda, para entonces Elynia y Mal Keshar ya habían descubierto cómo "
+"canalizar la magia de Oscuridad que emanaba de la fortaleza del Caos para "
+"empoderarse con la Unión de Luz y Oscuridad. Tras obligar a Elyssa a "
+"retirarse y reagruparse varias veces, el dúo logró derrotarla en combate "
+"directo, pero Elynia decidió en el último momento perdonarle la vida en "
+"lugar de ejecutarla."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:225
 msgid "Guardian of Darkness, Fire of Uria"
-msgstr ""
+msgstr "Guardiana de la Oscuridad, Fuego de Uria"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:230
 msgid "Elyssa, the Guardian of Darkness"
-msgstr ""
+msgstr "Elyssa, la Guardiana de la Oscuridad"
 
 #. [additional_info]
 #. Keep "Chaos Warlord" gender-ambiguous if your language allows it.
 #: Naia/journey/profiles.cfg:232
 msgid "Chaos Warlord, Fire of Uria"
-msgstr ""
+msgstr "Señora de la Guerra del Caos, Fuego de Uria"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:233
 msgid "Chaos Empire’s Iron Council (formerly)"
-msgstr ""
+msgstr "Consejo de Hierro del Imperio del Caos (anteriormente)"
 
 #. [character_profile]: id=Argan, race=human, gender=male
 #: Naia/journey/profiles.cfg:240
 msgid "Argan, the Master of Darkness"
-msgstr ""
+msgstr "Argan, el Amo de la Oscuridad"
 
 #. [character_profile]: id=Argan, race=human, gender=male
 #: Naia/journey/profiles.cfg:247
@@ -439,16 +604,27 @@ msgid ""
 "dare suggest that he was not really from the Great Continent, owing to his "
 "sudden appearance and lack of knowledge about the world at the time."
 msgstr ""
+"Conocido por elfos y humanos como el <b>Maestro de la Oscuridad</b> a lo "
+"largo de la historia anterior a la Caída, <b>Argan</b> es uno de los dos "
+"héroes que en su momento empuñaron la Unión de Luz y Oscuridad contra el "
+"mayor enemigo de Irdya, el <b>Señor Demonio Zhangor</b>.\n"
+"\n"
+"Existen muy pocos registros de la vida pasada de Argan, y absolutamente "
+"ninguno de su historia antes de encontrarse por primera vez con <b>Elynia</"
+"b>, quien eventualmente se convertiría en su amante y co-portadora de la "
+"Unión. Antiguos eruditos élficos incluso se atrevieron a sugerir que no era "
+"realmente del Gran Continente, debido a su aparición repentina y su falta de "
+"conocimiento sobre el mundo en ese momento."
 
 #. [additional_info]: race=shaxthal
 #: Naia/journey/profiles.cfg:255
 msgid "Argan, the Chaos Emperor"
-msgstr ""
+msgstr "Argan, el Emperador del Caos"
 
 #. [additional_info]: race=shaxthal
 #: Naia/journey/profiles.cfg:256
 msgid "Master of Darkness, Voice of Uria, Mal-Zagarn"
-msgstr ""
+msgstr "Maestro de la Oscuridad, Voz de Uria, Mal-Zagarn"
 
 #. [additional_info]: race=shaxthal
 #: Naia/journey/profiles.cfg:266
@@ -464,16 +640,26 @@ msgid ""
 "coastal regions into one Chaos Empire, with the ultimate aim of subduing and "
 "encompassing all of Irdya."
 msgstr ""
+"Debido a las retorcidas maquinaciones del destino, Argan se convirtió en el "
+"vasallo más valioso de Uria y asumió el título de <b>Emperador del Caos</b> "
+"en esta era en Irdya.\n"
+"\n"
+"Tras su accidente en las Montañas Profundas, Argan fue encontrado de alguna "
+"manera por Uria y transformado en una criatura biomecánica humanoide que "
+"empuñaba un fragmento de su poder, convirtiéndose en su Voz ungida en Irdya. "
+"Ayudado por el poder de los demonios de Inferno, unió a los pueblos del Gran "
+"Desierto y varias regiones costeras en un solo Imperio del Caos, con el "
+"objetivo final de someter y abarcar toda Irdya."
 
 #. [character_profile]: id=Uria, race=demon, gender=female
 #: Naia/journey/profiles.cfg:276
 msgid "Uria"
-msgstr ""
+msgstr "Uria"
 
 #. [character_profile]: id=Uria, race=demon, gender=female
 #: Naia/journey/profiles.cfg:280
 msgid "Mother of All Demons"
-msgstr ""
+msgstr "Madre de Todos los Demonios"
 
 #. [character_profile]: id=Uria, race=demon, gender=female
 #: Naia/journey/profiles.cfg:284
@@ -484,21 +670,26 @@ msgid ""
 "All Demons</b>, the creator of all monsters who were once relegated to "
 "<b>Inferno</b>."
 msgstr ""
+"Los soldados y demonios al servicio del Imperio del Caos mencionan muy a "
+"menudo a <b>Uria</b>, refiriéndose a ella como una diosa implacable pero muy "
+"respetada. Los registros antiguos rara vez mencionan a una tal Uria, "
+"considerada la <b>Madre de Todos los Demonios</b>, la creadora de todos los "
+"monstruos que alguna vez fueron relegados a <b>Inferno</b>."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:288
 msgid "Uria, the Guardian of Life"
-msgstr ""
+msgstr "Uria, la Guardiana de la Vida"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:289
 msgid "Mother of All Demons, Goddess of Life, Mistress of the Void"
-msgstr ""
+msgstr "Madre de Todos los Demonios, Diosa de la Vida, Señora del Vacío"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:290
 msgid "The Ten Guardians, Chaos Empire"
-msgstr ""
+msgstr "Los Diez Guardianes, Imperio del Caos"
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:291
@@ -516,6 +707,18 @@ msgid ""
 "his own, Uria attempted to turn the tide by mutating and puppeteering his "
 "body."
 msgstr ""
+"Resulta que Uria no solo es real, sino que, a diferencia de Yechnagoth, está "
+"muy viva y activa dentro de su dominio. En ocasiones se la identifica como "
+"la <b>Guardiana de la Vida</b>, una de las diez poderosas demonios antiguos "
+"con poderes divinos sobre los diferentes aspectos del universo.\n"
+"\n"
+"El fallecido <b>Emperador del Caos Argan</b> sirvió como su <b>Voz</b>, su "
+"emisario y máxima autoridad en Irdya; el encargado de comunicar su voluntad "
+"al <b>Tríada de Hierro</b> y a los Guardianes del Saber del Imperio.\n"
+"\n"
+"Al darse cuenta de que Argan podría no ganar la lucha contra el grupo de "
+"Galas por sí solo, Uria intentó cambiar el rumbo mutando y manipulando su "
+"cuerpo como marioneta."
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:300
@@ -523,11 +726,13 @@ msgid ""
 "She subsequently attempted the same tactic by turning <b>Lédinor</b> into a "
 "thrall during the group’s escape from the collapsing capital."
 msgstr ""
+"Posteriormente intentó la misma táctica convirtiendo a <b>Lédinor</b> en un "
+"esclavo durante la huida del grupo de la capital colapsante."
 
 #. [story_recap]: id=UtBS
 #: Naia/journey/recap.cfg:5
 msgid "Under the Burning Suns"
-msgstr ""
+msgstr "Bajo los soles ardientes"
 
 #. [story_recap]: id=UtBS
 #: Naia/journey/recap.cfg:6
@@ -615,11 +820,98 @@ msgid ""
 "The Quenoth elves proceed to clean up the now-abandoned island, renaming it "
 "<b>Quenoth Isle</b>, and adopting it as their new permanent home."
 msgstr ""
+"Una noche fatídica, el joven <b>Kalehssar</b> de los <b>elfos de Quenoth</b> "
+"escucha en sueños la voz de la diosa <b>Eloh</b>, advirtiéndole de una gran "
+"catástrofe que lo obligará a guiar a su pueblo fuera del desierto bajo su "
+"dirección. De pronto es despertado por un caos absoluto cuando rocas caen "
+"del cielo, destruyendo el hogar de los elfos en el desierto y acabando con "
+"muchas vidas.\n"
+"\n"
+"Al resultar ser Kaleh el pariente vivo más cercano de su difunto líder "
+"Tanuil, y con nigromantes y otros bárbaros amenazando con aprovechar el caos "
+"para acabar con ellos, los elfos del desierto se reúnen bajo su mando y "
+"aceptan su instrucción de liderar un éxodo a través de las arenas en busca "
+"de un nuevo hogar.\n"
+"\n"
+"Tras un largo y traicionero viaje por el desierto, los elfos de Quenoth "
+"llegan a una cadena montañosa. Kaleh ha sido visitado nuevamente por su "
+"diosa en sueños y se le ha aconsejado guiar a su pueblo bajo tierra para "
+"atravesar las montañas. A pesar de cierta reticencia inicial, los elfos "
+"descienden a las profundidades, enfrentando muchos obstáculos pero también "
+"ganando nuevos aliados firmes en la oscuridad.\n"
+"\n"
+"Cuando finalmente alcanzan la superficie, Kaleh es visitado de nuevo por la "
+"diosa; esta vez se manifiesta no en sueños, sino estando él completamente "
+"despierto en el mundo físico. El encuentro se torna rápidamente amargo "
+"cuando Eloh nota que el elfo no solo decidió no exterminar a los habitantes "
+"del subsuelo como ella había planeado, sino que incluso llegó a hacerse "
+"amigo de ellos. El líder de una tropa humana llega y sospecha que los elfos "
+"de Quenoth masacraron a sus compatriotas a pesar de haber llegado a la "
+"superficie después del hecho. Cuando el humano anuncia su decisión de llevar "
+"a los elfos ante el <b>Consejo de Hierro</b> para ser juzgados, Eloh ordena "
+"a Kaleh someterse a su voluntad; al percibir algo extraño, Kaleh se niega, "
+"ganándose el desprecio tanto de Eloh como de los humanos, e iniciando un "
+"enfrentamiento armado con estos últimos mientras la diosa desaparece.\n"
+"\n"
+"Algún tiempo después de que los elfos repelieran con éxito a los soldados "
+"humanos, un grupo de exploración regresa con una extraña criatura acuática "
+"que comunica el deseo de su líder de hablar en persona con Kaleh. Pronto, "
+"los elfos descubren que la criatura es un sirénido y emisario de la suma "
+"sacerdotisa de su pueblo. Como los sirénidos parecen poseer información "
+"crucial sobre la situación de Kaleh, él acepta ayudar al sirénido a rescatar "
+"a sus hermanos, que están siendo retenidos cautivos para un sacrificio "
+"ritual por los humanos.\n"
+"\n"
+"Pronto, los elfos logran infiltrarse con éxito en el asentamiento costero "
+"del Consejo de Hierro en Ygriz, rescatando a algunos sirénidos para que los "
+"guíen hasta su suma sacerdotisa. Sin embargo, antes de poder hacerlo, Eloh "
+"hace una nueva aparición, esta vez visible para todos; revela la "
+"desobediencia y traición de Kaleh a todos y logra volver a muchos de sus "
+"compatriotas en su contra. Para calmar la disputa y evitar más derramamiento "
+"de sangre, Kaleh se infiltra entre las fuerzas rebeldes y destruye el avatar "
+"físico de Eloh, declarándola una mera impostora que buscaba sembrar "
+"discordia entre los elfos para acelerar su destrucción.\n"
+"\n"
+"El pueblo de Kaleh se apodera de algunos barcos en el cuartel general del "
+"Consejo de Hierro y navega lejos del Gran Continente hacia el océano "
+"abierto, donde finalmente se encuentran con la suma sacerdotisa <b>Melusand</"
+"b> de los sirénidos. La sirena revela la verdad detrás de la impostora: "
+"resulta ser una diosa oscura capaz de corromper y controlar las mentes de "
+"las criaturas, siendo los seres feéricos como elfos y sirénidos los más "
+"naturalmente resistentes a su influencia; su nombre es <b>Yechnagoth, la "
+"Devoradora de Almas</b>.\n"
+"\n"
+"Conscientes de que la diosa ya los tiene en la mira y que el enfrentamiento "
+"es inevitable sin importar a dónde vayan, Kaleh y sus amigos deciden liderar "
+"un asalto total contra la residencia de Yechnagoth en la <b>isla de "
+"Zocthanol</b> con la ayuda de los sirénidos. Una vez que derriban la mayoría "
+"de sus fuerzas defensivas, la falsa Eloh hace una nueva aparición e invita a "
+"Kaleh a una audiencia personal en su ciudadela. A pesar de las protestas de "
+"sus amigos, él acepta y se dirige solo al santuario de Eloh; sin embargo, "
+"esto no impide que ellos lo sigan en secreto.\n"
+"\n"
+"Dentro de la guarida de Yechnagoth, los amigos de Kaleh lo encuentran "
+"aparentemente inconsciente en el suelo, mientras la diosa les muestra cómo "
+"ahora es capaz de lavar el cerebro incluso a los elfos al estar todos "
+"reunidos en su propio dominio. Kaleh se pone de pie y aparentemente obedece "
+"la orden de Yechnagoth, solo para apuñalarla en un acto de desafío en el "
+"momento en que está lo suficientemente cerca. Tras un breve enfrentamiento "
+"con los elfos lavados de cerebro, la diosa enfurecida revela su verdadera "
+"forma: la de una abominación oscura colosal y retorcida sin rasgos "
+"corporales discernibles más que venas llenas de sangre verdeazulada. A pesar "
+"de enfrentarse a una criatura como ninguna que hubieran visto antes, Kaleh y "
+"su grupo prevalecen contra ella y su progenie, destruyéndola y liberando a "
+"sus ejércitos de su control; así termina el breve reinado de la Devoradora "
+"de Almas en Irdya.\n"
+"\n"
+"Los elfos de Quenoth proceden a limpiar la isla ahora abandonada, "
+"renombrándola <b>isla de Quenoth</b> y adoptándola como su nuevo hogar "
+"permanente."
 
 #. [world_entry]: id=Irdya
 #: Naia/journey/world.cfg:5
 msgid "Irdya"
-msgstr ""
+msgstr "Irdya"
 
 #. [world_entry]: id=Irdya
 #: Naia/journey/world.cfg:6
@@ -643,6 +935,25 @@ msgid ""
 "of its geography changed drastically after the Fall, and the current state "
 "of civilization has made it impossible to properly chart the alterations."
 msgstr ""
+"<b>Irdya</b> es el nombre de este vasto mundo. Ha existido desde tiempos "
+"inmemoriales y ha pasado por innumerables cambios, el más reciente de los "
+"cuales es un evento devastador conocido como <b>la Gran Caída</b>, o más "
+"simplemente, <b>la Caída</b>.\n"
+"\n"
+"Poblado por muchas criaturas variadas —tanto sapientes como no sapientes—, "
+"Irdya fue en su momento un reino próspero que vio el ascenso y la caída de "
+"muchas civilizaciones, la mayoría expertas en al menos alguna forma de magia "
+"o tecnología: humanos, elfos, enanos, orcos, por nombrar algunos.\n"
+"\n"
+"Irdya tiene dos soles, llamados <b>Sela</b> y <b>Naia</b>, así como una luna "
+"a veces conocida como <b>Eidyia</b>. Algunos registros antiguos de dudosa "
+"procedencia afirman que una segunda luna más pequeña podía verse raramente "
+"en los tiempos en que solo Sela recorría los cielos.\n"
+"\n"
+"La mayor masa terrestre de Irdya se conoce como el <b>Gran Continente</b>. "
+"Gran parte de su geografía cambió drásticamente tras la Caída, y el estado "
+"actual de la civilización ha hecho imposible cartografiar adecuadamente las "
+"alteraciones."
 
 #. [additional_info]
 #: Naia/journey/world.cfg:17
@@ -651,11 +962,15 @@ msgid ""
 "b> was planted; Irdya’s is the <b>Seed of Earth</b>, which during the First "
 "Cycle gave way to the dominion of <b>Xia’el</b>, Guardian of Earth."
 msgstr ""
+"Irdya es uno de los diez mundos donde se plantó una construcción primordial "
+"conocida como <b>Semilla</b>; la de Irdya es la <b>Semilla de la Tierra</b>, "
+"que durante el Primer Ciclo dio paso al dominio de <b>Xia’el</b>, Guardiana "
+"de la Tierra."
 
 #. [world_entry]: id=The_Fall
 #: Naia/journey/world.cfg:24
 msgid "The Fall"
-msgstr ""
+msgstr "La Caída"
 
 #. [world_entry]: id=The_Fall
 #: Naia/journey/world.cfg:25
@@ -695,6 +1010,42 @@ msgid ""
 "sand; a place where all kinds of life battle each other for survival at day, "
 "and vengeful spectres of the past haunt the dunes at night."
 msgstr ""
+"Hace mucho tiempo, el mundo de <b>Irdya</b> fue completamente transformado "
+"por un cataclismo conocido como <b>la Gran Caída</b>, o más simplemente, "
+"<b>la Caída</b>.\n"
+"\n"
+"Mucho de lo que actualmente se “conoce” sobre la calamidad que azotó a Irdya "
+"ha sido reconstruido a partir de fragmentos transmitidos por tradición oral "
+"por los pueblos que sobrevivieron al caos.\n"
+"\n"
+"Se dice que en el momento exacto de la catástrofe se escuchó un estruendo "
+"ensordecedor más fuerte que la mayor erupción volcánica; al instante "
+"siguiente, la tierra tembló violentamente y se desgarró, reduciendo a polvo "
+"todos los bastiones de los antiguos imperios y hundiendo incluso algunas de "
+"las montañas más altas en las profundidades del mundo. Volcanes de todas "
+"partes despertaron y arrojaron roca fundida y ceniza venenosa a los cielos "
+"ahora oscurecidos; luego, el vasto océano se elevó para encontrarse con las "
+"nubes antes de descender ferozmente sobre la tierra, reclamando lo poco que "
+"quedaba en pie tras la convulsión inicial.\n"
+"\n"
+"Millones incontables perecieron a manos de la propia Irdya; luego, en las "
+"secuelas, millones más fueron masacrados por los presa del pánico en su "
+"frenesí sin sentido. El velo impenetrable en el cielo no solo negó toda "
+"ayuda a la navegación, sino que también hizo que toda vida vegetal se "
+"marchitara incluso en lugares que aún no habían sido tocados directamente "
+"por la destrucción; ya fuera por la lluvia venenosa o por la oscuridad "
+"maldita que asfixiaba la tierra y sumergía todo en una neblina intemporal. "
+"Pronto, cualquier líder que quedara o surgiera entre las cenizas de la "
+"civilización recurriría al barbarismo y prácticas impías en un intento "
+"desesperado por perpetuar sus míseras existencias en el mundo deformado.\n"
+"\n"
+"Así terminó la <b>Era Dorada</b> de los pueblos de Irdya.\n"
+"\n"
+"Muchos años después, los soles <b>Sela</b> y <b>Naia</b> finalmente "
+"regresarían, solo para convertir al otrora verde Gran Continente en una "
+"cáscara árida de roca y arena; un lugar donde todo tipo de vida lucha entre "
+"sí por sobrevivir durante el día, y espectros vengativos del pasado acechan "
+"las dunas por la noche."
 
 #. [editor_group]: id=wesnoth-UMC-Naia
 #: Naia/loader.cfg:85
@@ -702,40 +1053,37 @@ msgid "Project Ethea"
 msgstr "Proyecto Ethea"
 
 #: Naia/lua/abilities.lua:23
-#, fuzzy
 msgid "Forest"
-msgstr "Espíritu del bosque"
+msgstr "Bosque"
 
 #: Naia/lua/abilities.lua:28
 msgid "Sand"
-msgstr ""
+msgstr "Arena"
 
 #: Naia/lua/abilities.lua:33
 msgid "Cave"
-msgstr ""
+msgstr "Cueva"
 
 #. [lua]: wesnoth.wml_actions.stealth_ability_ui
 #. [set_menu_item]: id=naia:30_abilities_stealth
 #: Naia/lua/abilities.lua:64 Naia/macros/abilities-implementation.cfg:29
 msgid "Select Stealth Terrain"
-msgstr ""
+msgstr "Seleccionar terreno de sigilo"
 
 #. [lua]: achievement_gui2call_impl
 #: Naia/lua/achievements.lua:35
-#, fuzzy
 msgid "Achievement unlocked:"
-msgstr "Logros"
+msgstr "Logro desbloqueado:"
 
 #. [lua]: wesnoth.wml_actions.boss_ui
 #: Naia/lua/boss.lua:337
-#, fuzzy
 msgid "Chaos Warlord"
-msgstr "Cardenal del Caos"
+msgstr "Señor de la Guerra del Caos"
 
 #. [lua]: wesnoth.wml_actions.boss_ui
 #: Naia/lua/boss.lua:338
 msgid "The Fire of Uria"
-msgstr ""
+msgstr "El Fuego de Uria"
 
 #. [lua]: wesnoth.wml_actions.boss_popup
 #: Naia/lua/boss.lua:359
@@ -874,7 +1222,7 @@ msgstr "Avanzar a: %s"
 #. [lua]: wesnoth.wml_actions.bug
 #: Naia/lua/gui/bug.lua:118
 msgid "Developer message:"
-msgstr ""
+msgstr "Mensaje del desarrollador:"
 
 #. [lua]: wesnoth.wml_actions.bug
 #: Naia/lua/gui/bug.lua:181
@@ -884,7 +1232,7 @@ msgstr "Se alcanzó inesperadamente la siguiente condición WML:"
 #. [lua]: wesnoth.wml_actions.bug
 #: Naia/lua/gui/bug.lua:191
 msgid "Inspect"
-msgstr ""
+msgstr "Inspeccionar"
 
 #. [lua]: wesnoth.wml_actions.bug
 #: Naia/lua/gui/bug.lua:227
@@ -902,17 +1250,13 @@ msgstr ""
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:276
-#, fuzzy
 msgid "Please report this issue on the forums:"
-msgstr "Por favor, informa esto al mantenedor del complemento en los foros:"
+msgstr "Por favor, informa este problema en los foros:"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:279
-#, fuzzy
 msgid "Please report this issue on the bug tracker:"
-msgstr ""
-"Por favor, informa esto al mantenedor del complemento en el rastreador de "
-"problemas:"
+msgstr "Por favor, informa este problema en el rastreador de errores:"
 
 #. [lua]: preshow
 #: Naia/lua/gui/bug.lua:289
@@ -927,167 +1271,166 @@ msgstr "Error"
 #: Naia/lua/gui/campaign_intro.lua:15
 #: Naia/lua/gui/gameplay_notification.lua:103
 msgid "Continue"
-msgstr ""
+msgstr "Continuar"
 
 #. [lua]: select_page
 #: Naia/lua/gui/campaign_intro.lua:269
 msgid "Play"
-msgstr ""
+msgstr "Jugar"
 
 #. [lua]: location_selector
 #: Naia/lua/gui/debug_utilities.lua:40
 msgid "debug^Toggle Invulnerability (0% CTH)"
-msgstr ""
+msgstr "Alternar invulnerabilidad (0% de probabilidad de acertar)"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:51
 msgid "debug^Restore HP"
-msgstr ""
+msgstr "Restaurar PV"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:58
 msgid "debug^Supercharge HP"
-msgstr ""
+msgstr "Sobrecargar PV"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:65
 msgid "debug^Set HP to 1"
-msgstr ""
+msgstr "Establecer PV a 1"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:72
 msgid "debug^Clear Status Effects"
-msgstr ""
+msgstr "Eliminar efectos de estado"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:82
 msgid "debug^Restore Moves/Attacks"
-msgstr ""
+msgstr "Restaurar movimientos/ataques"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:90
 msgid "debug^Supercharge Moves/Attacks"
-msgstr ""
+msgstr "Sobrecargar movimientos/ataques"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:98
 msgid "debug^Advance"
-msgstr ""
+msgstr "Avanzar"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:107
 msgid "debug^Transfer to Side"
-msgstr ""
+msgstr "Transferir a bando"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:109
 msgid "debug^Select a side for this unit:"
-msgstr ""
+msgstr "Seleccionar un bando para esta unidad:"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:117
 msgid "debug^Face Direction"
-msgstr ""
+msgstr "Mirar hacia dirección"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:122
 msgid "debug^Northwest"
-msgstr ""
+msgstr "Noroeste"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:127
 msgid "debug^North"
-msgstr ""
+msgstr "Norte"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:132
 msgid "debug^Northeast"
-msgstr ""
+msgstr "Noreste"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:137
 msgid "debug^Southeast"
-msgstr ""
+msgstr "Sureste"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:142
 msgid "debug^South"
-msgstr ""
+msgstr "Sur"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:147
 msgid "debug^Southwest"
-msgstr ""
+msgstr "Suroeste"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:164
 msgid "debug^Teleport"
-msgstr ""
+msgstr "Teletransportar"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:174
 msgid "debug^Rebuild (Dangerous)"
-msgstr ""
+msgstr "Reconstruir (Peligroso)"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:183
 msgid "debug^Capture Village"
-msgstr ""
+msgstr "Capturar aldea"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:191
 msgid "debug^Uncapture Village"
-msgstr ""
+msgstr "Liberar aldea"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:198
 msgid "debug^Give Village to Side"
-msgstr ""
+msgstr "Dar aldea a bando"
 
 #. [lua]: _action
 #: Naia/lua/gui/debug_utilities.lua:208
-#, fuzzy
 msgid "debug^Clear Overlay"
-msgstr "Capa plana"
+msgstr "Limpiar superposición"
 
 #. [lua]: wesnoth.wml_actions.event_debug_utilities
 #: Naia/lua/gui/debug_utilities.lua:293
 msgid "debug^Trigger: %s"
-msgstr ""
+msgstr "Disparar: %s"
 
 #. [lua]: tool_settings_dlg
 #: Naia/lua/gui/debug_utilities.lua:376
 msgid "debug^Select Side"
-msgstr ""
+msgstr "Seleccionar bando"
 
 #. [lua]: tool_settings_dlg
 #: Naia/lua/gui/debug_utilities.lua:436
 msgid "debug^Enter Location"
-msgstr ""
+msgstr "Ingresar ubicación"
 
 #. [lua]: postshow
 #: Naia/lua/gui/debug_utilities.lua:594
 msgid "debug^Naia: Unit Debug Utilities"
-msgstr ""
+msgstr "Naia: Utilidades de depuración de unidades"
 
 #. [lua]: postshow
 #: Naia/lua/gui/debug_utilities.lua:609
 msgid "debug^Naia: Terrain Debug Utilities"
-msgstr ""
+msgstr "Naia: Utilidades de depuración de terreno"
 
 #. [lua]: postshow
 #: Naia/lua/gui/debug_utilities.lua:622
 msgid "debug^Naia: Debug Events"
-msgstr ""
+msgstr "Naia: Eventos de depuración"
 
 #. [lua]: postshow
 #: Naia/lua/gui/debug_utilities.lua:635
 msgid "debug^Naia: Lua Console"
-msgstr ""
+msgstr "Naia: Consola Lua"
 
 #: Naia/lua/gui/horizontal_choice.lua:197
 msgid "Select"
-msgstr ""
+msgstr "Seleccionar"
 
 #. [lua]: synced_horizontal_choice
 #: Naia/lua/gui/horizontal_choice.lua:328
@@ -1095,7 +1438,7 @@ msgstr ""
 #: Naia/lua/gui/horizontal_choice.lua:342
 #: Naia/lua/gui/horizontal_choice.lua:345
 msgid "..."
-msgstr ""
+msgstr "…"
 
 #. [lua]: wesnoth.wml_actions.item_prompt
 #: Naia/lua/gui/item_prompt.lua:83
@@ -1104,65 +1447,64 @@ msgstr "¿Quieres que esta unidad recoja este objeto?"
 
 #: Naia/lua/gui/journey_ui.lua:28
 msgid "No information is presently available."
-msgstr ""
+msgstr "No hay información disponible actualmente."
 
 #: Naia/lua/gui/journey_ui.lua:29
-#, fuzzy
 msgid "race^?"
-msgstr "Diablillo"
+msgstr "?"
 
 #: Naia/lua/gui/journey_ui.lua:30
 msgid "chara_status^Living"
-msgstr ""
+msgstr "Vivo"
 
 #: Naia/lua/gui/journey_ui.lua:31
 msgid "affiliation^None"
-msgstr ""
+msgstr "Ninguna"
 
 #: Naia/lua/gui/journey_ui.lua:32
 msgid "additional_titles^None"
-msgstr ""
+msgstr "Ninguno"
 
 #: Naia/lua/gui/journey_ui.lua:39
 msgid "event^Preparing for combat"
-msgstr ""
+msgstr "Preparándose para el combate"
 
 #: Naia/lua/gui/journey_ui.lua:40
 msgid "event^Combat over"
-msgstr ""
+msgstr "Combate terminado"
 
 #: Naia/lua/gui/journey_ui.lua:42
 msgid "event^Confrontation"
-msgstr ""
+msgstr "Confrontación"
 
 #: Naia/lua/gui/journey_ui.lua:43
 msgid "event^Location approached"
-msgstr ""
+msgstr "Ubicación aproximada"
 
 #: Naia/lua/gui/journey_ui.lua:45
 msgid "event^Character’s last words"
-msgstr ""
+msgstr "Últimas palabras del personaje"
 
 #: Naia/lua/gui/journey_ui.lua:46
 msgid "event^Character death"
-msgstr ""
+msgstr "Muerte del personaje"
 
 #: Naia/lua/gui/journey_ui.lua:48
 msgid "event^Defeat"
-msgstr ""
+msgstr "Derrota"
 
 #: Naia/lua/gui/journey_ui.lua:49
 msgid "event^Victory"
-msgstr ""
+msgstr "Victoria"
 
 #. [lua]: wesnoth.wml_actions.journeylog
 #: Naia/lua/gui/journey_ui.lua:53 Naia/lua/gui/journey_ui.lua:2311
 msgid "Journal"
-msgstr ""
+msgstr "Diario"
 
 #: Naia/lua/gui/journey_ui.lua:54
 msgid "Knowledge"
-msgstr ""
+msgstr "Conocimiento"
 
 #: Naia/lua/gui/journey_ui.lua:55
 msgid "Achievements"
@@ -1170,148 +1512,143 @@ msgstr "Logros"
 
 #: Naia/lua/gui/journey_ui.lua:59
 msgid "chara_status^Deceased"
-msgstr ""
+msgstr "Fallecido"
 
 #: Naia/lua/gui/journey_ui.lua:60
 msgid "chara_status^Missing"
-msgstr ""
+msgstr "Desaparecido"
 
 #. [lua]: chara_info_panel_field
 #: Naia/lua/gui/journey_ui.lua:577
 msgid "Other titles"
-msgstr ""
+msgstr "Otros títulos"
 
 #. [lua]: chara_info_panel_field
 #: Naia/lua/gui/journey_ui.lua:578
-#, fuzzy
 msgid "Affiliation"
-msgstr "Abominación"
+msgstr "Afiliación"
 
 #. [lua]: chara_info_panel_field
 #: Naia/lua/gui/journey_ui.lua:579
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 #. [lua]: chara_info_panel_field
 #: Naia/lua/gui/journey_ui.lua:580
 msgid "Race"
-msgstr ""
+msgstr "Raza"
 
 #. [lua]: chara_info_panel_field
 #: Naia/lua/gui/journey_ui.lua:642
 msgid "Unit Description"
-msgstr ""
+msgstr "Descripción de la unidad"
 
 #. [lua]: chara_info_panel_field
 #: Naia/lua/gui/journey_ui.lua:643
 msgid "Opens the character’s unit description in the Help browser"
 msgstr ""
+"Abre la descripción de la unidad del personaje en el navegador de ayuda"
 
 #. [lua]: chara_info_panel_field
 #: Naia/lua/gui/journey_ui.lua:696
 msgid "record_source^From"
-msgstr ""
+msgstr "De"
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1049
-#, fuzzy
 msgid "achievements^Filter"
-msgstr "Logros"
+msgstr "Filtro"
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1081
-#, fuzzy
 msgid "achievements^All"
-msgstr "Logros"
+msgstr "Todos"
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1089
-#, fuzzy
 msgid "achievements^Complete"
-msgstr "Logros"
+msgstr "Completos"
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1097
-#, fuzzy
 msgid "achievements^Incomplete"
-msgstr "Logros"
+msgstr "Incompletos"
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1291
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1329
 msgid "<unknown campaign>"
-msgstr ""
+msgstr "<campaña desconocida>"
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1330
 msgid "Select the campaign to display"
-msgstr ""
+msgstr "Selecciona la campaña a mostrar"
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1347
-#, fuzzy
 msgid "Hidden achievements"
-msgstr "Logros"
+msgstr "Logros ocultos"
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1357
 msgid "Compact view"
-msgstr ""
+msgstr "Vista compacta"
 
 #. [lua]: journeylog_ui_dream_hook
 #: Naia/lua/gui/journey_ui.lua:1522
 msgid "― This functionality is currently unavailable ―"
-msgstr ""
+msgstr "― Esta función no está disponible actualmente ―"
 
 #. [lua]: show_recap_entry
 #: Naia/lua/gui/journey_ui.lua:1963
 msgid "character_quote_text_format^<span style='italic' color='%s'>“%s”</span>"
-msgstr ""
+msgstr "<span style='italic' color='%s'>«%s»</span>"
 
 #. [lua]: show_recap_entry
 #: Naia/lua/gui/journey_ui.lua:1967
 msgid ""
 "character_quote_author_format^<span size='smaller' color='%s'>⎯ %s</span>"
-msgstr ""
+msgstr "<span size='smaller' color='%s'>⎯ %s</span>"
 
 #. [lua]: populate_lore_entry_list
 #: Naia/lua/gui/journey_ui.lua:1995
 msgid "archive_section^People"
-msgstr ""
+msgstr "Personas"
 
 #. [lua]: populate_lore_entry_list
 #: Naia/lua/gui/journey_ui.lua:2006
 msgid "archive_section^World"
-msgstr ""
+msgstr "Mundo"
 
 #. [lua]: populate_lore_entry_list
 #: Naia/lua/gui/journey_ui.lua:2017
 msgid "archive_section^Recaps"
-msgstr ""
+msgstr "Resúmenes"
 
 #. [lua]: preshow
 #: Naia/lua/gui/journey_ui_extra.lua:92
 msgid "<missing entry>"
-msgstr ""
+msgstr "<entrada faltante>"
 
 #: Naia/lua/journey/lore.lua:49
 msgid "(records not found yet)"
-msgstr ""
+msgstr "(registros aún no encontrados)"
 
 #. [lua]: milestone_ui_impl
 #. [lua]: journeylog.unlock_milestone
 #: Naia/lua/journey/milestones.lua:21 Naia/lua/journey/milestones.lua:179
 msgid "New knowledge unlocked — %s to browse journal"
-msgstr ""
+msgstr "Nuevo conocimiento desbloqueado — %s para ver el diario"
 
 #. [lua]: journeylog.record_lore_fragment
 #: Naia/lua/journey/milestones.lua:197
 msgid "Findings recorded — %s to browse journal"
-msgstr ""
+msgstr "Hallazgos registrados — %s para ver el diario"
 
 #. [lua]: register_unit_status_display
 #: Naia/lua/theme.lua:83
@@ -1410,13 +1747,12 @@ msgstr ""
 "upalpha=@\n"
 
 #: Naia/macros/abilities.cfg:36
-#, fuzzy
 msgid ""
 "Note: Vegetated terrains include forest, great tree, and mushroom grove "
 "hexes."
 msgstr ""
-" Los terrenos vegetados son hexágonos de bosque, gran árbol y arboleda de "
-"hongos."
+"Nota: Los terrenos vegetados incluyen hexágonos de bosque, gran árbol y "
+"arboleda de hongos."
 
 #. [illuminates]: id=obscure
 #: Naia/macros/abilities.cfg:50
@@ -1441,13 +1777,12 @@ msgstr ""
 #. [dummy]: id=disengage
 #: Naia/macros/abilities.cfg:62
 msgid "disengage"
-msgstr ""
+msgstr "desenganche"
 
 #. [dummy]: id=disengage
 #: Naia/macros/abilities.cfg:63
-#, fuzzy
 msgid "female^disengage"
-msgstr "Curada"
+msgstr "desenganche"
 
 #. [dummy]: id=disengage
 #: Naia/macros/abilities.cfg:64
@@ -1455,17 +1790,18 @@ msgid ""
 "If this unit doesn’t move before attacking, it will retain its movement "
 "points after the attack."
 msgstr ""
+"Si esta unidad no se mueve antes de atacar, conservará sus puntos de "
+"movimiento tras el ataque."
 
 #. [leadership]: id=tactician
 #: Naia/macros/abilities.cfg:76
 msgid "tactician"
-msgstr ""
+msgstr "táctico"
 
 #. [leadership]: id=tactician
 #: Naia/macros/abilities.cfg:77
-#, fuzzy
 msgid "female^tactician"
-msgstr "Marea de agua"
+msgstr "táctica"
 
 #. [leadership]: id=tactician
 #: Naia/macros/abilities.cfg:78
@@ -1475,17 +1811,21 @@ msgid ""
 "All adjacent lower-level units from the same side deal 30% more damage for "
 "each difference in level, while units of the same level deal 15% more damage."
 msgstr ""
+"Esta unidad puede liderar a otras tropas en batalla.\n"
+"\n"
+"Todas las unidades adyacentes de menor nivel del mismo bando infligen un 30% "
+"más de daño por cada diferencia de nivel, mientras que las unidades del "
+"mismo nivel infligen un 15% más de daño."
 
 #. [hides]: id=stealth
 #: Naia/macros/abilities.cfg:94
 msgid "stealth"
-msgstr ""
+msgstr "sigilo"
 
 #. [hides]: id=stealth
 #: Naia/macros/abilities.cfg:95
-#, fuzzy
 msgid "female^stealth"
-msgstr "Fervor"
+msgstr "sigilo"
 
 #. [hides]: id=stealth
 #: Naia/macros/abilities.cfg:96
@@ -1502,6 +1842,17 @@ msgid ""
 "Any enemy unit that first discovers this unit immediately loses all its "
 "remaining movement."
 msgstr ""
+"Esta unidad puede esconderse en ciertos terrenos y permanecer indetectable "
+"por sus enemigos.\n"
+"\n"
+"Las unidades enemigas no pueden ver a esta unidad mientras se esconde en "
+"ciertos terrenos, salvo que tengan unidades al lado. El jugador puede "
+"seleccionar a qué clase de terreno apuntar con esta habilidad haciendo clic "
+"derecho en la unidad antes de que se mueva o entre en combate en cualquier "
+"turno, siempre que no esté adyacente a una unidad enemiga.\n"
+"\n"
+"Cualquier unidad enemiga que descubra primero a esta unidad pierde "
+"inmediatamente todos sus movimientos restantes."
 
 #. [regenerate]: id=sylvan_spark
 #: Naia/macros/abilities.cfg:113
@@ -1557,12 +1908,13 @@ msgstr ""
 #. [resistance]: id=shroud
 #: Naia/macros/abilities.cfg:178
 msgid "shroud"
-msgstr ""
+msgstr "manto"
 
 #. [resistance]: id=shroud
 #: Naia/macros/abilities.cfg:179
 msgid "While defending, this unit has 50% fire and arcane resistance."
 msgstr ""
+"Mientras defiende, esta unidad tiene 50% de resistencia al fuego y arcano."
 
 #. [hides]: id=bore
 #: Naia/macros/abilities.cfg:191
@@ -1625,7 +1977,7 @@ msgstr ""
 #. [leadership]: id=malice
 #: Naia/macros/abilities.cfg:279
 msgid "malice"
-msgstr ""
+msgstr "malicia"
 
 #. [leadership]: id=malice
 #: Naia/macros/abilities.cfg:280
@@ -1634,6 +1986,9 @@ msgid ""
 "equivalent to ten times its own level minus one, or at least 10% — i.e. 10% "
 "at levels 0, 1 and 2; 20% at level 3, 30% at level 4."
 msgstr ""
+"Esta unidad aumenta el daño de las unidades no muertas cercanas en un "
+"porcentaje equivalente a diez veces su propio nivel menos uno, o al menos un "
+"10% —es decir, 10% en niveles 0, 1 y 2; 20% en nivel 3, 30% en nivel 4."
 
 #. [dummy]: id=testament
 #: Naia/macros/abilities.cfg:294
@@ -1687,7 +2042,7 @@ msgstr ""
 #. [illuminates]: id=sylvan_essence_illum
 #: Naia/macros/abilities.cfg:363 Naia/macros/abilities.cfg:401
 msgid "sylvan essence"
-msgstr "Esencia silvana"
+msgstr "esencia silvestre"
 
 #. [heals]: id=sylvan_essence_healing_and_curing
 #: Naia/macros/abilities.cfg:364
@@ -1716,181 +2071,181 @@ msgid ""
 "but only in vegetated terrains."
 msgstr ""
 "Esta unidad ilumina el área circundante, haciendo que las unidades legales "
-"luchen mejor y las unidades caóticas luchen peor. Cualquier unidad adyacente "
-"a esta unidad luchará como si fuera el atardecer cuando es de noche, y como "
-"si fuera de día cuando es el atardecer.\n"
+"luchen mejor y las caóticas peor. Cualquier unidad adyacente a esta luchará "
+"como si fuera el crepúsculo durante la noche, y como si fuera de día durante "
+"el atardecer.\n"
 "\n"
-"La unidad también puede curar y sanar a las unidades amigas en hexágonos "
-"adyacentes cada turno, hasta un máximo base de 8 puntos de vida. En terrenos "
-"vegetados, se ocultará de sus enemigos. También puede regenerar (pero no "
-"eliminar veneno) 4 puntos de vida por turno, pero solo en terrenos vegetados."
+"Además, puede curar y sanar a las unidades aliadas en hexágonos adyacentes "
+"cada turno, hasta un máximo base de 8 PV. En terrenos con vegetación, se "
+"ocultará de sus enemigos. También puede regenerar (pero no curarse del "
+"veneno) 4 PV por turno, pero solo en terrenos con vegetación."
 
 #: Naia/macros/amla-archaic.cfg:65
 msgid "Perfection III: level 4"
-msgstr ""
+msgstr "Perfección III: nivel 4"
 
 #: Naia/macros/amla-archaic.cfg:85
 msgid "Strength ███: hitpoints +6, touch strikes +1"
-msgstr ""
+msgstr "Fuerza ███: puntos de vida +6, golpes de toque +1"
 
 #: Naia/macros/amla-archaic.cfg:103
 msgid "Strength ████: hitpoints +6, touch damage +1"
-msgstr ""
+msgstr "Fuerza ████: puntos de vida +6, daño de toque +1"
 
 #: Naia/macros/amla-archaic.cfg:121
 msgid "Strength ███: hitpoints +6"
-msgstr ""
+msgstr "Fuerza ███: puntos de vida +6"
 
 #: Naia/macros/amla-archaic.cfg:134
 msgid "Scourge I: touch plague weapon special"
-msgstr ""
+msgstr "Azote I: especial de arma de plaga de toque"
 
 #: Naia/macros/amla-archaic.cfg:151
 msgid "Scourge II: touch plague summon is Soulless"
-msgstr ""
+msgstr "Azote II: invocación de plaga de toque es Desalmado"
 
 #: Naia/macros/amla-archaic.cfg:173
 msgid "Focus ████: shadow wave damage +1"
-msgstr ""
+msgstr "Enfoque ████: daño de onda sombría +1"
 
 #: Naia/macros/amla-archaic.cfg:187
 msgid "Focus ███: chill tempest damage +1, strikes +1"
-msgstr ""
+msgstr "Enfoque ███: daño de tempestad gélida +1, golpes +1"
 
 #: Naia/macros/amla-archaic.cfg:202
 msgid "Focus ██: shadow wave strikes +1"
-msgstr ""
+msgstr "Enfoque ██: golpes de onda sombría +1"
 
 #: Naia/macros/amla-archaic.cfg:216
 msgid "Focus ███: all ranged damage +1"
-msgstr ""
+msgstr "Enfoque ███: todo daño a distancia +1"
 
 #: Naia/macros/amla-archaic.cfg:234
 msgid "Shielding █: blade, impact, pierce resistance +10%"
-msgstr ""
+msgstr "Protección █: resistencia a corte, impacto, penetración +10%"
 
 #: Naia/macros/amla-archaic.cfg:251
 msgid "Shielding ██: fire resistance +10%"
-msgstr ""
+msgstr "Protección ██: resistencia al fuego +10%"
 
 #: Naia/macros/amla-archaic.cfg:266
 msgid "Shielding ███: arcane resistance +10%"
-msgstr ""
+msgstr "Protección ███: resistencia arcana +10%"
 
 #: Naia/macros/amla-archaic.cfg:285
 msgid "Malediction: malice ability"
-msgstr ""
+msgstr "Maldición: habilidad de malicia"
 
 #: Naia/macros/amla-galas.cfg:89
 msgid "Battlefield Promotion I: level 2"
-msgstr ""
+msgstr "Promoción en el campo I: nivel 2"
 
 #: Naia/macros/amla-galas.cfg:98
 msgid "Battlefield Promotion II: level 3"
-msgstr ""
+msgstr "Promoción en el campo II: nivel 3"
 
 #: Naia/macros/amla-galas.cfg:107
 msgid "Battlefield Promotion III: level 4"
-msgstr ""
+msgstr "Promoción en el campo III: nivel 4"
 
 #: Naia/macros/amla-galas.cfg:121
 msgid "Swordsmanship I: hitpoints +8, sword damage +1"
-msgstr ""
+msgstr "Esgrima I: puntos de vida +8, daño de espada +1"
 
 #: Naia/macros/amla-galas.cfg:139
 msgid "Swordsmanship II: hitpoints +10, sword damage +1"
-msgstr ""
+msgstr "Esgrima II: puntos de vida +10, daño de espada +1"
 
 #: Naia/macros/amla-galas.cfg:157
 msgid "Swordsmanship III: hitpoints +8, sword damage +1"
-msgstr ""
+msgstr "Esgrima III: puntos de vida +8, daño de espada +1"
 
 #: Naia/macros/amla-galas.cfg:175
 msgid "Duelist: sword strikes +1"
-msgstr ""
+msgstr "Duelista: golpes de espada +1"
 
 #: Naia/macros/amla-galas.cfg:193
 msgid "Archery I: hitpoints +4, bow damage +2"
-msgstr ""
+msgstr "Tiro con arco I: puntos de vida +4, daño de arco +2"
 
 #: Naia/macros/amla-galas.cfg:211
 msgid "Archery II: hitpoints +2, bow damage +1"
-msgstr ""
+msgstr "Tiro con arco II: puntos de vida +2, daño de arco +1"
 
 #: Naia/macros/amla-galas.cfg:229
 msgid "Archery III: hitpoints +4, bow damage +1"
-msgstr ""
+msgstr "Tiro con arco III: puntos de vida +4, daño de arco +1"
 
 #: Naia/macros/amla-galas.cfg:247
 msgid "Archery IV: hitpoints +2, bow damage +1"
-msgstr ""
+msgstr "Tiro con arco IV: puntos de vida +2, daño de arco +1"
 
 #: Naia/macros/amla-galas.cfg:265
 msgid "Dexterity: bow strikes +1"
-msgstr ""
+msgstr "Destreza: golpes de arco +1"
 
 #: Naia/macros/amla-galas.cfg:279
 msgid "Marksmanship: bow marksman special"
-msgstr ""
+msgstr "Puntería: especial de tirador con arco"
 
 #: Naia/macros/amla-galas.cfg:300
 msgid "Tactics: stealth ability"
-msgstr ""
+msgstr "Tácticas: habilidad de sigilo"
 
 #: Naia/macros/amla-galas.cfg:315
 msgid "Tactics: tactician ability"
-msgstr ""
+msgstr "Tácticas: habilidad de táctico"
 
 #: Naia/macros/amla-galas.cfg:330
 msgid "Tactics: improved defense on sand"
-msgstr ""
+msgstr "Tácticas: defensa mejorada en arena"
 
 #: Naia/macros/amla-galas.cfg:346
 msgid "Tactics: improved movement/defense in caves"
-msgstr ""
+msgstr "Tácticas: movimiento/defensa mejorados en cuevas"
 
 #: Naia/macros/amla-galas.cfg:369
 msgid "Tactics: new attack (ranged/impact 7×2, slows)"
-msgstr ""
+msgstr "Tácticas: nuevo ataque (a distancia/impacto 7×2, ralentiza)"
 
 #. [effect]: type=impact
 #. [attack]: type=impact
 #: Naia/macros/amla-galas.cfg:374 Naia/units/elves-wood/Hunter.cfg:44
 #: Naia/units/elves-wood/Prowler.cfg:48 Naia/units/elves-wood/Trapper.cfg:46
 msgid "bolas"
-msgstr "Boleadoras"
+msgstr "boleadoras"
 
 #: Naia/macros/amla-galas.cfg:390
 msgid "Tactics: bolas damage +2"
-msgstr ""
+msgstr "Tácticas: daño de boleadoras +2"
 
 #: Naia/macros/amla-galas.cfg:404
 msgid "Tactics: bolas damage +3"
-msgstr ""
+msgstr "Tácticas: daño de boleadoras +3"
 
 #: Naia/macros/amla-galas.cfg:418
 msgid "Tactics: bolas precision weapon special"
-msgstr ""
+msgstr "Tácticas: especial de arma de precisión con boleadoras"
 
 #: Naia/macros/amla-galas.cfg:439
 msgid "Armor I: blade and pierce resistance +10%"
-msgstr ""
+msgstr "Armadura I: resistencia a corte y perforación +10%"
 
 #: Naia/macros/amla-galas.cfg:456
 msgid "Armor II: impact resistance +10%"
-msgstr ""
+msgstr "Armadura II: resistencia a contundente +10%"
 
 #: Naia/macros/amla-galas.cfg:472
 msgid "Armor III: blade resistance +10%"
-msgstr ""
+msgstr "Armadura III: resistencia a corte +10%"
 
 #: Naia/macros/amla-galas.cfg:492
 msgid "Fury: berserker weapon special (melee only)"
-msgstr ""
+msgstr "Furia: especial berserker (solo cuerpo a cuerpo)"
 
 #: Naia/macros/amla-galas.cfg:510
 msgid "Initiative: first strike weapon special (melee only)"
-msgstr ""
+msgstr "Iniciativa: especial primer golpe (solo cuerpo a cuerpo)"
 
 #. [advancement]: id={_ID}, description= 
 #: Naia/macros/amla.cfg:55
@@ -1964,7 +2319,7 @@ msgstr "Resistir hasta el final de los turnos"
 #. [objective]: description=<small>, condition=win
 #: Naia/macros/objective-utils.cfg:96
 msgid "— or —"
-msgstr ""
+msgstr "— o —"
 
 #: Naia/macros/objective-utils.cfg:215
 msgid "You will not be able to recall any units from this scenario later"
@@ -2076,131 +2431,119 @@ msgid "Neutral time of day"
 msgstr "Hora neutral del día"
 
 #: Naia/macros/special-notes.cfg:6
-#, fuzzy
 msgid ""
 "This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse."
 msgstr ""
-" Esta unidad oscurece el área circundante, haciendo que las unidades "
-"caóticas luchen mejor y las unidades legales luchen peor."
+"Esta unidad oscurece el área circundante, haciendo que las unidades caóticas "
+"luchen mejor y las unidades legales luchen peor."
 
 #: Naia/macros/special-notes.cfg:9
-#, fuzzy
 msgid "This unit can move either before or after attacking."
-msgstr ""
-" Esta unidad no puede moverse a terrenos distintos de agua, castillos y "
-"aldeas."
+msgstr "Esta unidad puede moverse antes o después de atacar."
 
 #: Naia/macros/special-notes.cfg:12
 msgid ""
 "This unit enables adjacent units of the same side to deal more damage in "
 "combat, unless their level is higher."
 msgstr ""
+"Esta unidad permite a las unidades adyacentes del mismo bando infligir más "
+"daño en combate, salvo que su nivel sea mayor."
 
 #: Naia/macros/special-notes.cfg:15
 msgid ""
 "This unit can remain undetected in terrain of its choice before engaging in "
 "combat."
 msgstr ""
+"Esta unidad puede permanecer indetectable en el terreno de su elección antes "
+"de entrar en combate."
 
 #: Naia/macros/special-notes.cfg:18
-#, fuzzy
 msgid "This unit’s powers are increased by the Sylvan Essence."
-msgstr " Los poderes de esta unidad se incrementan por la Esencia Silvana."
+msgstr "Los poderes de esta unidad se incrementan por la Esencia Silvana."
 
 #: Naia/macros/special-notes.cfg:21
-#, fuzzy
 msgid ""
 "This unit will regenerate 5 HP per turn in forest or mushroom grove terrains."
 msgstr ""
-" Esta unidad regenerará 5 puntos de vida por turno en terrenos de bosque o "
-"arboleda de hongos."
+"Esta unidad regenerará 5 PV por turno en terrenos de bosque o arboleda de "
+"hongos."
 
 #: Naia/macros/special-notes.cfg:24
-#, fuzzy
 msgid "Some of this unit’s attacks are only available during defense."
 msgstr ""
-" Algunos de los ataques de esta unidad solo están disponibles durante la "
+"Algunos de los ataques de esta unidad solo están disponibles durante la "
 "defensa."
 
 #: Naia/macros/special-notes.cfg:27
-#, fuzzy
 msgid "Some of this unit’s attacks are only available during offense."
 msgstr ""
-" Algunos de los ataques de esta unidad solo están disponibles durante el "
+"Algunos de los ataques de esta unidad solo están disponibles durante el "
 "ataque."
 
 #: Naia/macros/special-notes.cfg:30
-#, fuzzy
 msgid "This unit’s attacks always hit its opponent."
-msgstr " Los ataques de esta unidad siempre aciertan a su oponente."
+msgstr "Los ataques de esta unidad siempre aciertan a su oponente."
 
 #: Naia/macros/special-notes.cfg:33
-#, fuzzy
 msgid ""
 "This unit can attack very precisely, giving it a better chance to hit agile "
 "foes on the offense."
 msgstr ""
-" Esta unidad puede atacar con gran precisión, lo que le da una mayor "
+"Esta unidad puede atacar con gran precisión, lo que le da una mayor "
 "probabilidad de acertar a enemigos ágiles en el ataque."
 
 #: Naia/macros/special-notes.cfg:36
-#, fuzzy
 msgid ""
 "Adjacent lower-level units of the same allegiance have their resistances "
 "increased by the sole presence of this unit."
 msgstr ""
-" Las unidades adyacentes de menor nivel del mismo bando tienen sus "
+"Las unidades adyacentes de menor nivel del mismo bando tienen sus "
 "resistencias incrementadas por la sola presencia de esta unidad."
 
 #: Naia/macros/special-notes.cfg:39
-#, fuzzy
 msgid ""
 "This unit can frighten enemy units that are next to it, making them fight "
 "worse."
 msgstr ""
-" Esta unidad puede asustar a las unidades enemigas cercanas, haciendo que "
+"Esta unidad puede asustar a las unidades enemigas cercanas, haciendo que "
 "luchen peor."
 
 #: Naia/macros/special-notes.cfg:42
-#, fuzzy
 msgid ""
 "This unit can hide in cave or stone walls to remain undetected by its "
 "enemies, as well as receive a 50% damage bonus on defense."
 msgstr ""
-" Esta unidad puede esconderse en paredes de cuevas o piedra para permanecer "
+"Esta unidad puede esconderse en paredes de cuevas o piedra para permanecer "
 "indetectable por sus enemigos, además de recibir una bonificación de daño "
 "del 50% en defensa."
 
 #: Naia/macros/special-notes.cfg:45
-#, fuzzy
 msgid ""
 "This unit cannot move to terrains other than water, castle and villages."
 msgstr ""
-" Esta unidad no puede moverse a terrenos distintos de agua, castillos y "
+"Esta unidad no puede moverse a terrenos distintos de agua, castillos y "
 "aldeas."
 
 #: Naia/macros/special-notes.cfg:48
-#, fuzzy
 msgid ""
 "The zeal of this unit inspires adjacent units to resist enemy attacks better "
 "and deal increased damage."
 msgstr ""
-" El fervor de esta unidad inspira a las unidades adyacentes a resistir mejor "
+"El fervor de esta unidad inspira a las unidades adyacentes a resistir mejor "
 "los ataques enemigos e infligir mayor daño."
 
 #: Naia/macros/special-notes.cfg:51
-#, fuzzy
 msgid ""
 "This unit is able to infect victims with a powerful poison capable of "
 "killing and turning them into undead."
 msgstr ""
-" Esta unidad puede infectar a las víctimas con un poderoso veneno capaz de "
+"Esta unidad puede infectar a las víctimas con un poderoso veneno capaz de "
 "matarlas y convertirlas en no muertos."
 
 #: Naia/macros/special-notes.cfg:54
 msgid "This unit improves the damage of adjacent undead units."
-msgstr ""
+msgstr "Esta unidad mejora el daño de las unidades no muertas adyacentes."
 
 #: Naia/macros/special-notes.cfg:57
 msgid ""
@@ -2241,7 +2584,6 @@ msgstr ""
 "donde los enemigos parecen reaparecer continuamente."
 
 #: Naia/macros/storytxt-common.cfg:28
-#, fuzzy
 msgid ""
 "Although not strictly required, players are advised to become familiar with "
 "the stories, characters, and historical events presented in <span "
@@ -2251,11 +2593,11 @@ msgid ""
 msgstr ""
 "Aunque no es estrictamente necesario, se recomienda a los jugadores "
 "familiarizarse con las historias, personajes y eventos históricos "
-"presentados en <i>Bajo los soles ardientes</i>, y (opcionalmente) "
-"<i>Descenso a la oscuridad</i> antes de jugar esta campaña."
+"presentados en <span color='#bcb088' style='italic'>Bajo los soles "
+"ardientes</span>, y (opcionalmente) <span color='#bcb088' "
+"style='italic'>Descenso a la oscuridad</span> antes de jugar esta campaña."
 
 #: Naia/macros/storytxt-common.cfg:33
-#, fuzzy
 msgid ""
 "Although not strictly required, players are advised to become familiar with "
 "the stories, characters, and historical events presented in <span "
@@ -2266,12 +2608,12 @@ msgid ""
 msgstr ""
 "Aunque no es estrictamente necesario, se recomienda a los jugadores "
 "familiarizarse con las historias, personajes y eventos históricos "
-"presentados en <i>Bajo los soles ardientes</i>, <i>Invasión desde lo "
-"desconocido</i>, y (opcionalmente) <i>Descenso a la oscuridad</i> antes de "
-"jugar esta campaña."
+"presentados en <span color='#bcb088' style='italic'>Bajo los soles "
+"ardientes</span>, <span color='#bcb088' style='italic'>Invasión desde lo "
+"desconocido</span>, y (opcionalmente) <span color='#bcb088' "
+"style='italic'>Descenso a la oscuridad</span> antes de jugar esta campaña."
 
 #: Naia/macros/storytxt-common.cfg:38
-#, fuzzy
 msgid ""
 "Certain sequences make use of floating labels, halos, and standing unit "
 "animations, so you may want to ensure these options are enabled under <span "
@@ -2280,7 +2622,8 @@ msgid ""
 msgstr ""
 "Ciertas secuencias utilizan etiquetas flotantes, halos y animaciones de "
 "unidades en pie, por lo que es recomendable asegurarse de que estas opciones "
-"estén habilitadas en <b>Preferencias</b> → <b>Pantalla</b>."
+"estén habilitadas en <span color='#bcb088'>Preferencias <b>›</b> Pantalla</"
+"span> para garantizar la mejor experiencia."
 
 #: Naia/macros/storytxt-common.cfg:41
 msgid ""
@@ -2290,6 +2633,11 @@ msgid ""
 "tt> in-game, or right-clicking on the map and selecting the option from the "
 "menu."
 msgstr ""
+"Esta campaña utiliza un sistema de <b>Diario</b> para facilitar a los "
+"jugadores revisar diálogos, perfiles de personajes o registros encontrados "
+"durante sus viajes. Puedes acceder al diario de la campaña presionando "
+"<tt><b>j</b></tt> en el juego, o haciendo clic derecho en el mapa y "
+"seleccionando la opción del menú."
 
 #. [trait]: id=armored
 #: Naia/macros/traits.cfg:7
@@ -2507,14 +2855,13 @@ msgstr "Musgo de pared"
 
 #. [terrain_type]: id=overlay-cave-crystal
 #: Naia/terrain.cfg:132
-#, fuzzy
 msgid "Crystal Caves"
-msgstr "Glifo de cristal"
+msgstr "Cuevas de cristal"
 
 #. [terrain_type]: id=overlay-cave-web
 #: Naia/terrain.cfg:141
 msgid "Cobweb"
-msgstr ""
+msgstr "Telaraña"
 
 #. [terrain_type]: id=overlay-gate-se
 #. [terrain_type]: id=overlay-gate-sw
@@ -2544,17 +2891,17 @@ msgstr "Celda de colmena"
 #. [terrain_type]: id=overlay-heatsink
 #: Naia/terrain.cfg:269
 msgid "Heatsink"
-msgstr ""
+msgstr "Disipador de calor"
 
 #. [terrain_type]: id=overlay-facility
 #: Naia/terrain.cfg:280
 msgid "Facility"
-msgstr ""
+msgstr "Instalación"
 
 #. [terrain_type]: id=overlay-vent
 #: Naia/terrain.cfg:292
 msgid "Vent"
-msgstr ""
+msgstr "Conducto de ventilación"
 
 #. [terrain_type]: id=overlay-flat
 #: Naia/terrain.cfg:306
@@ -2573,9 +2920,8 @@ msgstr "Velo falso"
 
 #. [terrain_type]: id=overlay-event-flag-{_FLAG}
 #: Naia/terrain.cfg:348
-#, fuzzy
 msgid "Event Flag"
-msgstr "Puerta de evento"
+msgstr "Bandera de evento"
 
 #: Naia/units/demons.cfg:5
 msgid ""
@@ -2784,9 +3130,8 @@ msgstr "Céfiro demoníaca"
 
 #. [unit_type]: id=Elvish Field Steward, race=elf
 #: Naia/units/elves-wood/Border_Field_Steward.cfg:5
-#, fuzzy
 msgid "Elvish Field Steward"
-msgstr "Cazador elfo"
+msgstr "Intendente de campo elfo"
 
 #. [unit_type]: id=Elvish Field Steward, race=elf
 #. [unit_type]: id=Elvish Pathfinder, race=elf
@@ -2795,7 +3140,7 @@ msgstr "Cazador elfo"
 #: Naia/units/elves-wood/Border_Pathfinder.cfg:20
 #: Naia/units/elves-wood/Border_Wayfarer.cfg:20
 msgid "FIXME"
-msgstr ""
+msgstr "CORREGIR"
 
 #. [attack]: type=blade
 #: Naia/units/elves-wood/Border_Field_Steward.cfg:25
@@ -2803,7 +3148,7 @@ msgstr ""
 #: Naia/units/elves-wood/Border_Patrol_Captain.cfg:27
 #: Naia/units/elves-wood/Border_Wayfarer.cfg:25
 msgid "sword"
-msgstr ""
+msgstr "espada"
 
 #. [attack]: type=pierce
 #: Naia/units/elves-wood/Border_Field_Steward.cfg:34
@@ -2811,19 +3156,17 @@ msgstr ""
 #: Naia/units/elves-wood/Border_Patrol_Captain.cfg:36
 #: Naia/units/elves-wood/Border_Wayfarer.cfg:34
 msgid "bow"
-msgstr ""
+msgstr "arco"
 
 #. [unit_type]: id=Elvish Pathfinder, race=elf
 #: Naia/units/elves-wood/Border_Pathfinder.cfg:5
-#, fuzzy
 msgid "Elvish Pathfinder"
-msgstr "Cazador elfo"
+msgstr "Explorador elfo"
 
 #. [unit_type]: id=Elvish Patrol Captain, race=elf
 #: Naia/units/elves-wood/Border_Patrol_Captain.cfg:5
-#, fuzzy
 msgid "Elvish Patrol Captain"
-msgstr "Acechador elfo"
+msgstr "Capitán de patrulla elfo"
 
 #. [unit_type]: id=Elvish Patrol Captain, race=elf
 #: Naia/units/elves-wood/Border_Patrol_Captain.cfg:20
@@ -2837,12 +3180,21 @@ msgid ""
 "practice of advanced fight and survival tactics allows them to overcome the "
 "natural skills of those born amidst the eternal strife of the desert."
 msgstr ""
+"Aunque los elfos del Valle de Elynia tienen leyes que garantizan "
+"hospitalidad a los visitantes de las dunas, los intentos de invasión hostil "
+"son demasiado frecuentes como para permitirse dejar sus fronteras sin "
+"vigilancia.\n"
+"\n"
+"Todos los miembros de la Patrulla Fronteriza tienen un deber jurado hacia el "
+"pueblo élfico y, desde muy pequeños, reciben el entrenamiento más riguroso. "
+"Su diligente estudio y práctica de tácticas avanzadas de combate y "
+"supervivencia les permite superar las habilidades naturales de aquellos "
+"nacidos en medio del conflicto eterno del desierto."
 
 #. [unit_type]: id=Elvish Wayfarer, race=elf
 #: Naia/units/elves-wood/Border_Wayfarer.cfg:5
-#, fuzzy
 msgid "Elvish Wayfarer"
-msgstr "Acechador elfo"
+msgstr "Caminante elfo"
 
 #. [unit_type]: id=Elvish Hunter, race=elf, gender=male,female
 #: Naia/units/elves-wood/Hunter.cfg:5
@@ -2999,7 +3351,7 @@ msgstr "Aura de fuego"
 #: Naia/units/faeries/Fire_Faerie_Spirit.cfg:51
 #: Naia/units/faeries/Fire_Sprite.cfg:39
 msgid "mystic fire"
-msgstr "Fuego místico"
+msgstr "fuego místico"
 
 #. [unit_type]: id=Fire Faerie, race=faerie, gender=female
 #: Naia/units/faeries/Fire_Faerie.cfg:5
@@ -3935,7 +4287,7 @@ msgstr ""
 #: Naia/units/humans/Chaos_Invoker_Lorekeeper.cfg:63
 #: Naia/units/humans/Chaos_Invoker_Magus.cfg:46
 msgid "ethereal blast"
-msgstr "Explosión etérea"
+msgstr "corriente etérea"
 
 #. [unit_type]: id=Chaos Lorekeeper, race=human
 #: Naia/units/humans/Chaos_Invoker_Lorekeeper.cfg:5
@@ -4481,16 +4833,14 @@ msgstr "Chispa de fuego"
 
 #. [unit_type]: id=Fire Wisp, race=monster
 #: Naia/units/monsters/Fire_Wisp.cfg:25
-#, fuzzy
 msgid ""
 "Fire Wisps are spirits of smoke and flame. When not being ordered around "
 "they like to frolic in pools of lava and take great delight in burning "
 "anything they can reach."
 msgstr ""
-"Las Chispas de fuego son espíritus menores de llamas. Les gusta juguetear en "
-"charcos de lava y se deleitan quemando cualquier cosa que puedan alcanzar. "
-"No deberían representar un gran desafío para luchadores inexpertos, salvo "
-"cuando se encuentran en enjambres."
+"Las chispas de fuego son espíritus de humo y llama. Cuando no reciben "
+"órdenes, les gusta juguetear en charcos de lava y se deleitan quemando todo "
+"lo que pueden alcanzar."
 
 #. [attack]: type=fire
 #: Naia/units/monsters/Fire_Wisp.cfg:50
@@ -4573,7 +4923,7 @@ msgstr ""
 #. [attack]: type=pierce
 #: Naia/units/monsters/Leech.cfg:59
 msgid "drainer"
-msgstr "Drenador"
+msgstr "drenador"
 
 #. [unit_type]: id=Animated Rock, race=monster
 #: Naia/units/monsters/Rock_Animated.cfg:5
@@ -4956,7 +5306,7 @@ msgstr ""
 #: Naia/units/shaxthal/Fauna_Razorbird.cfg:29
 #: Naia/units/shaxthal/Fauna_Thunderbird.cfg:30
 msgid "beak"
-msgstr "Pico"
+msgstr "pico"
 
 #. [attack]: type=blade
 #: Naia/units/shaxthal/Fauna_Razorbird.cfg:38
@@ -5114,7 +5464,7 @@ msgstr "Fragmento necrótico"
 #. [attack]: type=arcane
 #: Naia/units/undead/Chaos_Cardinal.cfg:58
 msgid "breath of nyx"
-msgstr "Aliento de Nix"
+msgstr "aliento de Nyx"
 
 #. [unit_type]: id=Errant Soul
 #: Naia/units/undead/Errant_Soul.cfg:5
@@ -5135,7 +5485,7 @@ msgstr ""
 #. [unit_type]: id=Archaic Lich, race=undead
 #: Naia/units/undead/Necro_Archaic_Lich.cfg:5
 msgid "Archaic Lich"
-msgstr ""
+msgstr "Liche arcaico"
 
 #. [unit_type]: id=Archaic Lich, race=undead
 #. [unit_type]: id=Tenebrous Everbane, race=undead
@@ -5171,6 +5521,23 @@ msgid ""
 "truly for the best that he never passed this knowledge onto others of his "
 "ilk."
 msgstr ""
+"Para la mayoría de los habitantes del mundo de los vivos, la nigromancia es "
+"sinónimo de depravación imperdonable, una violación del sagrado orden "
+"natural del cosmos, una práctica prohibida por todo tipo de criatura "
+"sapiente en Irdya. Sin embargo, algunos ignoran deliberadamente las "
+"advertencias y dedican su existencia a la búsqueda de lo prohibido, ansiosos "
+"por demostrar al mundo que liberarse de las cadenas de piel y carne es el "
+"camino hacia un destino mayor en un mundo lleno de decadencia y ruina.\n"
+"\n"
+"Aunque muchos nigromantes a lo largo de los siglos han alcanzado el estado "
+"de liche, todos han terminado sucumbiendo ante los esfuerzos de héroes "
+"necios y sus ejércitos que buscaban librar a Irdya de su plaga; todos, "
+"excepto uno, Mal Keshar, quien misteriosamente resurgió muchas veces durante "
+"la Era Dorada después —según se dice— de haber sido derrotado "
+"definitivamente. Algunos teorizan que este nigromante descubrió el medio "
+"para trascender la naturaleza convencional de las almas y perdurar sin "
+"importar qué le ocurriera a su cuerpo —de ser cierto, es realmente lo mejor "
+"que nunca transmitiera este conocimiento a otros de su clase."
 
 #. [unit_type]: id=Archaic Lich, race=undead
 #: Naia/units/undead/Necro_Archaic_Lich.cfg:26
@@ -5181,45 +5548,51 @@ msgid ""
 "the Elven Council of its fragile nature to ensure they are prepared for the "
 "very real possibility of him enacting vengeance for such a grave humiliation."
 msgstr ""
+"Tras su enfrentamiento con los elfos del bosque bajo el mando de Galas, el "
+"poder de Mal Keshar está severamente limitado. Aunque Anlindë se ha negado a "
+"revelar los detalles de la maldición que le infligió, al menos advirtió al "
+"Consejo Élfico sobre su naturaleza frágil para asegurarse de que estén "
+"preparados ante la muy real posibilidad de que busque venganza por tan grave "
+"humillación."
 
 #. [attack]: type=arcane
 #: Naia/units/undead/Necro_Archaic_Lich.cfg:37
 #: Naia/units/undead/Necro_Tenebrous_Everbane.cfg:36
 #: Naia/units/undead/Necro_Undying_Eradicator.cfg:37
 msgid "touch"
-msgstr ""
+msgstr "toque"
 
 #. [attack]: type=cold
 #: Naia/units/undead/Necro_Archaic_Lich.cfg:49
 #: Naia/units/undead/Necro_Undying_Eradicator.cfg:49
 msgid "chill tempest"
-msgstr ""
+msgstr "tempestad gélida"
 
 #. [attack]: type=arcane
 #: Naia/units/undead/Necro_Archaic_Lich.cfg:61
 #: Naia/units/undead/Necro_Undying_Eradicator.cfg:61
 msgid "shadow wave"
-msgstr ""
+msgstr "onda sombría"
 
 #. [unit_type]: id=Tenebrous Everbane, race=undead
 #: Naia/units/undead/Necro_Tenebrous_Everbane.cfg:5
 msgid "Tenebrous Everbane"
-msgstr ""
+msgstr "Azote Tenebroso Eterno"
 
 #. [attack]: type=cold
 #: Naia/units/undead/Necro_Tenebrous_Everbane.cfg:49
 msgid "frostborne erosion"
-msgstr ""
+msgstr "erosión gélida"
 
 #. [attack]: type=arcane
 #: Naia/units/undead/Necro_Tenebrous_Everbane.cfg:62
 msgid "calamitous surge"
-msgstr ""
+msgstr "oleada calamitosa"
 
 #. [unit_type]: id=Undying Eradicator, race=undead
 #: Naia/units/undead/Necro_Undying_Eradicator.cfg:5
 msgid "Undying Eradicator"
-msgstr ""
+msgstr "Erradicador Inmortal"
 
 #. [unit_type]: id=Undying Eradicator, race=undead
 #: Naia/units/undead/Necro_Undying_Eradicator.cfg:26
@@ -5231,11 +5604,18 @@ msgid ""
 "the event he turns against his temporary allies. Whether Lord Galas’s gamble "
 "will pay off in the end is anyone’s guess."
 msgstr ""
+"Aún siendo apenas una sombra de lo que fue, Mal Keshar continúa vagando por "
+"Irdya tras la Gran Caída, buscando impartir maldiciones a cualquier criatura "
+"menor que merezca su rencor. Los elfos del Valle de Elynia son muy "
+"conscientes de su naturaleza voluble y han diseñado contramedidas de "
+"emergencia por si llega a volverse contra sus aliados temporales. Si la "
+"apuesta del señor Galas dará frutos al final es algo que cualquiera puede "
+"adivinar."
 
 #. [unit_type]: id=Barrow Wight, race=undead
 #: Naia/units/undead/Undead_Horse_Barrow_Wight.cfg:4
 msgid "Barrow Wight"
-msgstr ""
+msgstr "Espectro de túmulo"
 
 #. [unit_type]: id=Barrow Wight, race=undead
 #: Naia/units/undead/Undead_Horse_Barrow_Wight.cfg:18
@@ -5244,11 +5624,15 @@ msgid ""
 "wanders aimlessly in a delirium of darkness and despair. Their chill essence "
 "is shrouded behind cloak and bone, shielding them from most magic."
 msgstr ""
+"Perpetuamente atormentado por el recuerdo desvaneciente de su vida anterior, "
+"un Espectro de túmulo vaga sin rumbo en un delirio de oscuridad y "
+"desesperación. Su esencia gélida está envuelta tras capa y hueso, "
+"protegiéndolos de la mayoría de la magia."
 
 #. [unit_type]: id=Pyre Wight, race=undead
 #: Naia/units/undead/Undead_Horse_Pyre_Wight.cfg:4
 msgid "Pyre Wight"
-msgstr ""
+msgstr "Espectro de pira"
 
 #. [unit_type]: id=Pyre Wight, race=undead
 #: Naia/units/undead/Undead_Horse_Pyre_Wight.cfg:18
@@ -5258,6 +5642,10 @@ msgid ""
 "wronged them in their past life, but undeath has robbed their memories of "
 "friend and foe."
 msgstr ""
+"Resurgido de las cenizas de un funeral y recién bañado en fuego, el alma de "
+"un Espectro de pira arde con deseo de venganza. Buscan obsesivamente a "
+"aquellos que los agraviaron en su vida pasada, pero la no-muerte les ha "
+"robado los recuerdos de amigo y enemigo."
 
 #. [race]: id=verlissh
 #: Naia/units/verlissh.cfg:5
