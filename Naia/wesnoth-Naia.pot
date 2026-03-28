@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 20260309.9000+dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-13 06:54 UTC\n"
+"POT-Creation-Date: 2026-03-28 09:34 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -91,7 +91,7 @@ msgstr ""
 msgid ""
 "Upon meeting the <b>Lady of Light Elynia</b>, Galas, Mal Keshar, and Lady Unarye learned the hidden truth behind Anlindë’s existence: she was once part of the dark cult serving the <b>Demon Lord Zhangor</b> in Wesmere; despite all the other priests having been executed to prevent a resurgence of the wicked creature, Lord Telchior of Thelien chose to spare her life alone for undisclosed reasons.\n"
 "\n"
-"In spite of this relevation, it was evident to all that Anlindë had dedicated every instant of her continued existence to atoning for her sins against elvenkind; not only that, but her advice to Lord Telchior became directly responsible for the discovery of the valley which served as the forest elves’ sanctuary for countless generations."
+"In spite of this revelation, it was evident to all that Anlindë had dedicated every instant of her continued existence to atoning for her sins against elvenkind; not only that, but her advice to Lord Telchior became directly responsible for the discovery of the valley which served as the forest elves’ sanctuary for countless generations."
 msgstr ""
 
 #. [additional_info]
@@ -99,7 +99,7 @@ msgstr ""
 #. since this text will be visible in game before Elyssa's proper
 #. reveal in S22A.
 #: Naia/journey/profiles.cfg:81
-msgid "In order to buy King Asthorgar and Galas time to evacuate Herthgar before the Chaos Warlord’s final siege attempt, Anlindë chose to stay behind and defend the capital with the asistance of Mal Keshar’s minions and a few dwarven troops. Everybody knew that it would be extremely unlikely for her to survive the encounter, and indeed, she never returned from her mission. Her sacrifice was not in vain, however, as it allowed the evacuation to proceed mostly as planned with minimal loss of life."
+msgid "In order to buy King Asthorgar and Galas time to evacuate Herthgar before the Chaos Warlord’s final siege attempt, Anlindë chose to stay behind and defend the capital with the assistance of Mal Keshar’s minions and a few dwarven troops. Everybody knew that it would be extremely unlikely for her to survive the encounter, and indeed, she never returned from her mission. Her sacrifice was not in vain, however, as it allowed the evacuation to proceed mostly as planned with minimal loss of life."
 msgstr ""
 
 #. [character_profile]: id=Mal Keshar, race=undead, gender=male
@@ -144,17 +144,17 @@ msgid "Elynia, the Lady of Light"
 msgstr ""
 
 #. [character_profile]: id=Elynia, race=faerie, gender=female
-#: Naia/journey/profiles.cfg:131
+#: Naia/journey/profiles.cfg:136
 msgid "Source of Light, Protector of the Elves of Irdya"
 msgstr ""
 
 #. [character_profile]: id=Elynia, race=faerie, gender=female
-#: Naia/journey/profiles.cfg:132
+#: Naia/journey/profiles.cfg:137
 msgid "Ka’lian of Wesmere (before the Fall)"
 msgstr ""
 
 #. [character_profile]: id=Elynia, race=faerie, gender=female
-#: Naia/journey/profiles.cfg:142
+#: Naia/journey/profiles.cfg:147
 msgid ""
 "Better known by elves and humans as the <b>Lady of Light</b> throughout history before the Fall, <b>Elynia</b> is one of the two heroes that once wielded the Union of Light and Darkness against Irdya’s greatest foe, the <b>Demon Lord Zhangor</b>.\n"
 "\n"
@@ -162,93 +162,93 @@ msgid ""
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:150
+#: Naia/journey/profiles.cfg:155
 msgid "Alliance of the Peoples of the Far North, Ka’lian of Wesmere (before the Fall)"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:151
+#: Naia/journey/profiles.cfg:156
 msgid "As part of Galas’s barter to secure a new home for the forest elves in the Far North, Elynia pledged allegiance to the <b>Grand Council of the Northern Peoples</b>."
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:156
+#: Naia/journey/profiles.cfg:161
 msgid "Owing to twisted machinations of fate, Elynia’s partner <b>Argan</b>—once known as the <b>Master of Darkness</b> and co-wielder of the Union of Light and Darkness—became Uria’s most valued vassal and took upon the title of <b>Chaos Emperor</b>."
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:164
+#: Naia/journey/profiles.cfg:169
 msgid "Source of Light, Protector of the Elves of Irdya, Eloh"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:171
+#: Naia/journey/profiles.cfg:176
 msgid "Alliance of the Peoples of the Far North (formerly), Ka’lian of Wesmere (before the Fall)"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:176
+#: Naia/journey/profiles.cfg:181
 msgid "Sent by the <b>Demon Lord Ergea</b> in search of a “power hidden beneath Kalari”, Elynia confronted the <b>Chaos Warlord Elyssa</b> in an abandoned underground section of the stronghold. This time, the demoness made no secret of her possession of Yechnagoth’s legacy as the <b>Guardian of Darkness</b>, and promptly killed Elynia in combat."
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:181
+#: Naia/journey/profiles.cfg:186
 msgid "Elynia, the Guardian of Earth"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:182
+#: Naia/journey/profiles.cfg:187
 msgid "Lady of Light, Source of Light, Protector of the Elves of Irdya, Eloh"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:183
+#: Naia/journey/profiles.cfg:188
 msgid "The Ten Guardians"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:184
+#: Naia/journey/profiles.cfg:189
 msgid "Some time after, Elynia came back to life as the <b>Guardian of Earth</b> on Irdya. Despite her godlike potential, she has been unable to make proper use of her power due to a complete lack of understanding of her situation—her <i>curse</i>—coupled with an intense pain beyond description."
 msgstr ""
 
 #. [character_profile]: id=Elyssa, race=shaxthal, gender=female
 #. Keep "Chaos Warlord" gender-ambiguous if your language allows it.
-#: Naia/journey/profiles.cfg:192
+#: Naia/journey/profiles.cfg:197
 msgid "female^Chaos Warlord"
 msgstr ""
 
 #. [character_profile]: id=Elyssa, race=shaxthal, gender=female
 #. [character_profile]: id=Uria, race=demon, gender=female
-#: Naia/journey/profiles.cfg:193
-#: Naia/journey/profiles.cfg:281
+#: Naia/journey/profiles.cfg:203
+#: Naia/journey/profiles.cfg:291
 msgid "Chaos Empire"
 msgstr ""
 
 #. [character_profile]: id=Elyssa, race=shaxthal, gender=female
-#: Naia/journey/profiles.cfg:204
+#: Naia/journey/profiles.cfg:214
 msgid "Evidence suggests that this seemingly half-machine, half-human creature serves as the Chaos Emperor’s right hand, enforcing his will and instilling fear and respect into his enemies and servants alike even in his absence."
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:208
+#: Naia/journey/profiles.cfg:218
 msgid "Elyssa, the Chaos Warlord"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:209
+#: Naia/journey/profiles.cfg:219
 msgid "Fire of Uria"
 msgstr ""
 
 #. [additional_info]
 #. [additional_info]: race=shaxthal
-#: Naia/journey/profiles.cfg:210
-#: Naia/journey/profiles.cfg:257
+#: Naia/journey/profiles.cfg:220
+#: Naia/journey/profiles.cfg:267
 msgid "Chaos Empire’s Iron Council"
 msgstr ""
 
 #. [additional_info]
 #. Keep "Chaos Warlord" gender-ambiguous if your language allows it.
-#: Naia/journey/profiles.cfg:217
+#: Naia/journey/profiles.cfg:227
 msgid ""
 "Following her defeat at the hands of the Lady of Light and Mal Keshar, the Chaos Warlord revealed herself to be <b>Elyssa</b>, a former scholar who dedicated her life to studying the ancient Wesnoth Empire’s history. Additional information from the dwarves of Herthgar indicates that a Red Mage matching her description once journeyed alongside Kalehssar’s people and spent time with the dwarves of Gnalvarden before disappearing back into the sands. It is currently unknown what events resulted in her transformation into the monstrous biomechanical demon she is now.\n"
 "\n"
@@ -256,33 +256,33 @@ msgid ""
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:225
+#: Naia/journey/profiles.cfg:235
 msgid "Guardian of Darkness, Fire of Uria"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:230
+#: Naia/journey/profiles.cfg:240
 msgid "Elyssa, the Guardian of Darkness"
 msgstr ""
 
 #. [additional_info]
 #. Keep "Chaos Warlord" gender-ambiguous if your language allows it.
-#: Naia/journey/profiles.cfg:232
+#: Naia/journey/profiles.cfg:242
 msgid "Chaos Warlord, Fire of Uria"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:233
+#: Naia/journey/profiles.cfg:243
 msgid "Chaos Empire’s Iron Council (formerly)"
 msgstr ""
 
 #. [character_profile]: id=Argan, race=human, gender=male
-#: Naia/journey/profiles.cfg:240
+#: Naia/journey/profiles.cfg:250
 msgid "Argan, the Master of Darkness"
 msgstr ""
 
 #. [character_profile]: id=Argan, race=human, gender=male
-#: Naia/journey/profiles.cfg:247
+#: Naia/journey/profiles.cfg:257
 msgid ""
 "Better known by elves and humans as the <b>Master of Darkness</b> throughout history before the Fall, <b>Argan</b> is one of the two heroes that once wielded the Union of Light and Darkness against Irdya’s greatest foe, the <b>Demon Lord Zhangor</b>.\n"
 "\n"
@@ -290,17 +290,17 @@ msgid ""
 msgstr ""
 
 #. [additional_info]: race=shaxthal
-#: Naia/journey/profiles.cfg:255
+#: Naia/journey/profiles.cfg:265
 msgid "Argan, the Chaos Emperor"
 msgstr ""
 
 #. [additional_info]: race=shaxthal
-#: Naia/journey/profiles.cfg:256
+#: Naia/journey/profiles.cfg:266
 msgid "Master of Darkness, Voice of Uria, Mal-Zagarn"
 msgstr ""
 
 #. [additional_info]: race=shaxthal
-#: Naia/journey/profiles.cfg:266
+#: Naia/journey/profiles.cfg:276
 msgid ""
 "Owing to twisted machinations of fate, Argan became Uria’s most valued vassal and took upon the title of <b>Chaos Emperor</b> in this era on Irdya.\n"
 "\n"
@@ -308,37 +308,37 @@ msgid ""
 msgstr ""
 
 #. [character_profile]: id=Uria, race=demon, gender=female
-#: Naia/journey/profiles.cfg:276
+#: Naia/journey/profiles.cfg:286
 msgid "Uria"
 msgstr ""
 
 #. [character_profile]: id=Uria, race=demon, gender=female
-#: Naia/journey/profiles.cfg:280
+#: Naia/journey/profiles.cfg:290
 msgid "Mother of All Demons"
 msgstr ""
 
 #. [character_profile]: id=Uria, race=demon, gender=female
-#: Naia/journey/profiles.cfg:284
+#: Naia/journey/profiles.cfg:294
 msgid "The soldiers and demons at the Chaos Empire’s service mention <b>Uria</b> very often, referring to her as an unforgiving yet highly-respected goddess. Past records do seldom mention one such Uria, claimed to be the <b>Mother of All Demons</b>, the creator of all monsters who were once relegated to <b>Inferno</b>."
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:288
+#: Naia/journey/profiles.cfg:298
 msgid "Uria, the Guardian of Life"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:289
+#: Naia/journey/profiles.cfg:299
 msgid "Mother of All Demons, Goddess of Life, Mistress of the Void"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:290
+#: Naia/journey/profiles.cfg:300
 msgid "The Ten Guardians, Chaos Empire"
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:291
+#: Naia/journey/profiles.cfg:301
 msgid ""
 "It turns out that Uria is not only real, but also unlike Yechnagoth she is very much alive and active within her domain. She is occasionally identified as the <b>Guardian of Life</b>, one of ten powerful demons of old with godlike powers over the different aspects of the universe.\n"
 "\n"
@@ -348,7 +348,7 @@ msgid ""
 msgstr ""
 
 #. [additional_info]
-#: Naia/journey/profiles.cfg:300
+#: Naia/journey/profiles.cfg:310
 msgid "She subsequently attempted the same tactic by turning <b>Lédinor</b> into a thrall during the group’s escape from the collapsing capital."
 msgstr ""
 
@@ -415,7 +415,7 @@ msgid ""
 "\n"
 "Much of what is currently “known” about the calamity that befell Irdya has been pieced together from fragments passed down through oral tradition by the peoples who survived the turmoil.\n"
 "\n"
-"It is said that at the exact time of the catastrophe, a deafening boom louder than even the greatest volcanic eruption was heard; the next instant, the earth violently shook and tore asunder, crumbling every bastion of the old empires to dust and sinking even some of the tallest mountains to the depths of the world. Volcanoes everywhere stirred to life and poured molten rock and poisonous ash into the now darkened skies; then, the vast ocean rose to meet the clouds before fiercely descending upon the land, claiming what little remained standing after the initial convulsion.\n"
+"It is said that at the exact time of the catastrophe, a deafening boom louder than even the greatest volcanic eruption was heard; the next instant, the earth violently shook and tore asunder, crumbling every bastion of the old empires to dust and sinking even some of the tallest mountains to the depths of the world. Volcanoes everywhere stirred to life and poured molten rock and poisonous ash into the now darkened skies; then, the Vast Ocean rose to meet the clouds before fiercely descending upon the land, claiming what little remained standing after the initial convulsion.\n"
 "\n"
 "Untold millions perished at the hands of Irdya herself; then in the aftermath, millions more were massacred by the panic-stricken in their senseless frenzy. The impenetrable veil in the sky not only denied all of navigational aid, but also caused all plant life to wither away even in places that had not been directly touched by destruction yet; whether it be from the poisonous rain, or from the accursed darkness that suffocated the earth and submerged all into a timeless haze. Soon, any leaders left or risen amongst the ashes of civilization would resort to barbarism and unholy practices in a desperate attempt to perpetuate their pitiable existences in the warped new world.\n"
 "\n"
@@ -425,7 +425,7 @@ msgid ""
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-Naia
-#: Naia/loader.cfg:85
+#: Naia/loader.cfg:88
 msgid "Project Ethea"
 msgstr ""
 
@@ -489,23 +489,43 @@ msgid "This is an experimental port of %s to Wesnoth %s.\nIf you choose to conti
 msgstr ""
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:80
+#: Naia/lua/compat.lua:81
 msgid "Incompatible Add-on"
 msgstr ""
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:81
+#: Naia/lua/compat.lua:82
 msgid "The following add-on is incompatible with %s and must be removed before continuing:"
 msgstr ""
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:83
+#: Naia/lua/compat.lua:84
 msgid "Incompatible Add-ons"
 msgstr ""
 
 #. [lua]: do_addon_compat_fail
-#: Naia/lua/compat.lua:84
+#: Naia/lua/compat.lua:85
 msgid "The following add-ons are incompatible with %s and must be removed before continuing:"
+msgstr ""
+
+#. [lua]: do_addon_compat_fail
+#: Naia/lua/compat.lua:89
+msgid "Incompatible Modification"
+msgstr ""
+
+#. [lua]: do_addon_compat_fail
+#: Naia/lua/compat.lua:90
+msgid "The following modifications is incompatible with %s and must be disabled before continuing:"
+msgstr ""
+
+#. [lua]: do_addon_compat_fail
+#: Naia/lua/compat.lua:92
+msgid "Incompatible Modifications"
+msgstr ""
+
+#. [lua]: do_addon_compat_fail
+#: Naia/lua/compat.lua:93
+msgid "The following modifications are incompatible with %s and must be removed before continuing:"
 msgstr ""
 
 #. [lua]: amla
@@ -551,22 +571,22 @@ msgid "unknown AMLA"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:860
+#: Naia/lua/gui/amla_list.lua:873
 msgid "advancements^disabled by:"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:864
+#: Naia/lua/gui/amla_list.lua:877
 msgid "advancements^requires:"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:872
+#: Naia/lua/gui/amla_list.lua:885
 msgid "advancements^max. times:"
 msgstr ""
 
 #. [lua]: rebuild
-#: Naia/lua/gui/amla_list.lua:898
+#: Naia/lua/gui/amla_list.lua:911
 msgid "advancements^Advance to: %s"
 msgstr ""
 
@@ -788,192 +808,200 @@ msgid "..."
 msgstr ""
 
 #. [lua]: wesnoth.wml_actions.item_prompt
-#: Naia/lua/gui/item_prompt.lua:83
+#: Naia/lua/gui/item_prompt.lua:102
 msgid "Do you want this unit to pick up this item?"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:28
+#: Naia/lua/gui/journey_ui.lua:30
 msgid "No information is presently available."
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:29
+#: Naia/lua/gui/journey_ui.lua:31
 msgid "race^?"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:30
+#: Naia/lua/gui/journey_ui.lua:32
 msgid "chara_status^Living"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:31
+#: Naia/lua/gui/journey_ui.lua:33
 msgid "affiliation^None"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:32
+#: Naia/lua/gui/journey_ui.lua:34
 msgid "additional_titles^None"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:39
+#: Naia/lua/gui/journey_ui.lua:41
 msgid "event^Preparing for combat"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:40
+#: Naia/lua/gui/journey_ui.lua:42
 msgid "event^Combat over"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:42
+#: Naia/lua/gui/journey_ui.lua:44
 msgid "event^Confrontation"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:43
+#: Naia/lua/gui/journey_ui.lua:45
 msgid "event^Location approached"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:45
+#: Naia/lua/gui/journey_ui.lua:47
 msgid "event^Character’s last words"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:46
+#: Naia/lua/gui/journey_ui.lua:48
 msgid "event^Character death"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:48
+#: Naia/lua/gui/journey_ui.lua:50
 msgid "event^Defeat"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:49
+#: Naia/lua/gui/journey_ui.lua:51
 msgid "event^Victory"
 msgstr ""
 
-#. [lua]: wesnoth.wml_actions.journeylog
-#: Naia/lua/gui/journey_ui.lua:53
-#: Naia/lua/gui/journey_ui.lua:2311
-msgid "Journal"
+#: Naia/lua/gui/journey_ui.lua:55
+msgid "Dialogue"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:54
+#: Naia/lua/gui/journey_ui.lua:56
 msgid "Knowledge"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:55
+#: Naia/lua/gui/journey_ui.lua:57
 msgid "Achievements"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:59
+#: Naia/lua/gui/journey_ui.lua:61
 msgid "chara_status^Deceased"
 msgstr ""
 
-#: Naia/lua/gui/journey_ui.lua:60
+#: Naia/lua/gui/journey_ui.lua:62
 msgid "chara_status^Missing"
 msgstr ""
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:577
+#: Naia/lua/gui/journey_ui.lua:620
 msgid "Other titles"
 msgstr ""
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:578
+#: Naia/lua/gui/journey_ui.lua:621
 msgid "Affiliation"
 msgstr ""
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:579
+#: Naia/lua/gui/journey_ui.lua:622
 msgid "Status"
 msgstr ""
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:580
+#: Naia/lua/gui/journey_ui.lua:623
 msgid "Race"
 msgstr ""
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:642
+#: Naia/lua/gui/journey_ui.lua:685
 msgid "Unit Description"
 msgstr ""
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:643
+#: Naia/lua/gui/journey_ui.lua:686
 msgid "Opens the character’s unit description in the Help browser"
 msgstr ""
 
 #. [lua]: chara_info_panel_field
-#: Naia/lua/gui/journey_ui.lua:696
+#: Naia/lua/gui/journey_ui.lua:739
 msgid "record_source^From"
 msgstr ""
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1049
+#: Naia/lua/gui/journey_ui.lua:1094
 msgid "achievements^Filter"
 msgstr ""
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1081
+#: Naia/lua/gui/journey_ui.lua:1123
 msgid "achievements^All"
 msgstr ""
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1089
+#: Naia/lua/gui/journey_ui.lua:1131
 msgid "achievements^Complete"
 msgstr ""
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1097
+#: Naia/lua/gui/journey_ui.lua:1139
 msgid "achievements^Incomplete"
 msgstr ""
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1291
+#: Naia/lua/gui/journey_ui.lua:1156
+msgid "achievements^Progress"
+msgstr ""
+
+#. [lua]: journeylog_achievements_node_factory
+#: Naia/lua/gui/journey_ui.lua:1416
 msgid "Search"
 msgstr ""
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1329
+#: Naia/lua/gui/journey_ui.lua:1463
 msgid "<unknown campaign>"
 msgstr ""
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1330
+#: Naia/lua/gui/journey_ui.lua:1464
 msgid "Select the campaign to display"
 msgstr ""
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1347
+#: Naia/lua/gui/journey_ui.lua:1481
 msgid "Hidden achievements"
 msgstr ""
 
 #. [lua]: journeylog_achievements_node_factory
-#: Naia/lua/gui/journey_ui.lua:1357
+#: Naia/lua/gui/journey_ui.lua:1491
 msgid "Compact view"
 msgstr ""
 
 #. [lua]: journeylog_ui_dream_hook
-#: Naia/lua/gui/journey_ui.lua:1522
+#: Naia/lua/gui/journey_ui.lua:1656
 msgid "― This functionality is currently unavailable ―"
 msgstr ""
 
 #. [lua]: show_recap_entry
-#: Naia/lua/gui/journey_ui.lua:1963
+#: Naia/lua/gui/journey_ui.lua:2168
 msgid "character_quote_text_format^<span style='italic' color='%s'>“%s”</span>"
 msgstr ""
 
 #. [lua]: show_recap_entry
-#: Naia/lua/gui/journey_ui.lua:1967
+#: Naia/lua/gui/journey_ui.lua:2172
 msgid "character_quote_author_format^<span size='smaller' color='%s'>⎯ %s</span>"
 msgstr ""
 
 #. [lua]: populate_lore_entry_list
-#: Naia/lua/gui/journey_ui.lua:1995
+#: Naia/lua/gui/journey_ui.lua:2202
 msgid "archive_section^People"
 msgstr ""
 
 #. [lua]: populate_lore_entry_list
-#: Naia/lua/gui/journey_ui.lua:2006
+#: Naia/lua/gui/journey_ui.lua:2218
 msgid "archive_section^World"
 msgstr ""
 
 #. [lua]: populate_lore_entry_list
-#: Naia/lua/gui/journey_ui.lua:2017
+#: Naia/lua/gui/journey_ui.lua:2234
 msgid "archive_section^Recaps"
+msgstr ""
+
+#. [lua]: wesnoth.wml_actions.journeylog
+#: Naia/lua/gui/journey_ui.lua:2584
+msgid "Journal"
 msgstr ""
 
 #. [lua]: preshow
@@ -981,19 +1009,19 @@ msgstr ""
 msgid "<missing entry>"
 msgstr ""
 
-#: Naia/lua/journey/lore.lua:49
+#: Naia/lua/journey/lore.lua:56
 msgid "(records not found yet)"
 msgstr ""
 
 #. [lua]: milestone_ui_impl
 #. [lua]: journeylog.unlock_milestone
 #: Naia/lua/journey/milestones.lua:21
-#: Naia/lua/journey/milestones.lua:179
+#: Naia/lua/journey/milestones.lua:207
 msgid "New knowledge unlocked — %s to browse journal"
 msgstr ""
 
 #. [lua]: journeylog.record_lore_fragment
-#: Naia/lua/journey/milestones.lua:197
+#: Naia/lua/journey/milestones.lua:247
 msgid "Findings recorded — %s to browse journal"
 msgstr ""
 
@@ -1434,11 +1462,11 @@ msgstr ""
 msgid "Armor III: blade resistance +10%"
 msgstr ""
 
-#: Naia/macros/amla-galas.cfg:492
+#: Naia/macros/amla-galas.cfg:493
 msgid "Fury: berserker weapon special (melee only)"
 msgstr ""
 
-#: Naia/macros/amla-galas.cfg:510
+#: Naia/macros/amla-galas.cfg:512
 msgid "Initiative: first strike weapon special (melee only)"
 msgstr ""
 
@@ -1457,50 +1485,50 @@ msgstr ""
 
 #. [then]
 #. [else]
-#: Naia/macros/items.cfg:131
-#: Naia/macros/items.cfg:140
+#: Naia/macros/items.cfg:143
+#: Naia/macros/items.cfg:152
 msgid "Do you wish to be healed?"
 msgstr ""
 
 #. [then]
-#: Naia/macros/items.cfg:133
+#: Naia/macros/items.cfg:145
 msgid "This magic glyph will completely restore this unit’s health. It will also unslow and cure it of poison, if applicable."
 msgstr ""
 
 #. [then]
-#: Naia/macros/items.cfg:136
+#: Naia/macros/items.cfg:148
 msgid "Note: this glyph may be used only once; afterwards, it will fade out."
 msgstr ""
 
 #. [else]
-#: Naia/macros/items.cfg:143
+#: Naia/macros/items.cfg:155
 msgid "Note: this glyph may be used only once; afterwards it will fade out."
 msgstr ""
 
 #. [transient_message]
-#. [message]: speaker=narrator
-#: Naia/macros/items.cfg:194
-#: Naia/macros/items.cfg:149
+#. [item_prompt]
+#: Naia/macros/items.cfg:203
+#: Naia/macros/items.cfg:160
 msgid "Crystal Glyph of Health"
 msgstr ""
 
 #. [unstore_unit]
-#: Naia/macros/items.cfg:182
+#: Naia/macros/items.cfg:191
 msgid "healed"
 msgstr ""
 
 #. [unstore_unit]
-#: Naia/macros/items.cfg:183
+#: Naia/macros/items.cfg:192
 msgid "female^healed"
 msgstr ""
 
 #. [transient_message]
-#: Naia/macros/items.cfg:196
+#: Naia/macros/items.cfg:205
 msgid "The unit is fully healed, cured and unslowed."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Naia/macros/items.cfg:219
+#: Naia/macros/items.cfg:224
 msgid "Access granted."
 msgstr ""
 
@@ -2104,26 +2132,31 @@ msgstr ""
 
 #. [unit_type]: id=Elvish Field Steward, race=elf
 #. [unit_type]: id=Elvish Pathfinder, race=elf
+#. [unit_type]: id=Elvish Patrol Captain, race=elf
 #. [unit_type]: id=Elvish Wayfarer, race=elf
 #: Naia/units/elves-wood/Border_Field_Steward.cfg:20
 #: Naia/units/elves-wood/Border_Pathfinder.cfg:20
+#: Naia/units/elves-wood/Border_Patrol_Captain.cfg:20
 #: Naia/units/elves-wood/Border_Wayfarer.cfg:20
-msgid "FIXME"
+msgid ""
+"While the elves of the Valley of Elynia have laws guaranteeing hospitality to visitors from the dunes, hostile invasion attempts are far too frequent for them to afford leaving their borders unguarded.\n"
+"\n"
+"All members of the Border Patrol have a sworn duty to elvenkind, and from a very young age undergo the most rigorous training. Their diligent study and practice of advanced fight and survival tactics allows them to overcome the natural skills of those born amidst the eternal strife of the desert."
 msgstr ""
 
 #. [attack]: type=blade
-#: Naia/units/elves-wood/Border_Field_Steward.cfg:25
-#: Naia/units/elves-wood/Border_Pathfinder.cfg:25
+#: Naia/units/elves-wood/Border_Field_Steward.cfg:27
+#: Naia/units/elves-wood/Border_Pathfinder.cfg:27
 #: Naia/units/elves-wood/Border_Patrol_Captain.cfg:27
-#: Naia/units/elves-wood/Border_Wayfarer.cfg:25
+#: Naia/units/elves-wood/Border_Wayfarer.cfg:27
 msgid "sword"
 msgstr ""
 
 #. [attack]: type=pierce
-#: Naia/units/elves-wood/Border_Field_Steward.cfg:34
-#: Naia/units/elves-wood/Border_Pathfinder.cfg:34
+#: Naia/units/elves-wood/Border_Field_Steward.cfg:36
+#: Naia/units/elves-wood/Border_Pathfinder.cfg:36
 #: Naia/units/elves-wood/Border_Patrol_Captain.cfg:36
-#: Naia/units/elves-wood/Border_Wayfarer.cfg:34
+#: Naia/units/elves-wood/Border_Wayfarer.cfg:36
 msgid "bow"
 msgstr ""
 
@@ -2135,14 +2168,6 @@ msgstr ""
 #. [unit_type]: id=Elvish Patrol Captain, race=elf
 #: Naia/units/elves-wood/Border_Patrol_Captain.cfg:5
 msgid "Elvish Patrol Captain"
-msgstr ""
-
-#. [unit_type]: id=Elvish Patrol Captain, race=elf
-#: Naia/units/elves-wood/Border_Patrol_Captain.cfg:20
-msgid ""
-"While the elves of the Valley of Elynia have laws guaranteeing hospitality to visitors from the dunes, hostile invasion attempts are far too frequent for them to afford leaving their borders unguarded.\n"
-"\n"
-"All members of the Border Patrol have a sworn duty to elvenkind, and from a very young age undergo the most rigorous training. Their diligent study and practice of advanced fight and survival tactics allows them to overcome the natural skills of those born amidst the eternal strife of the desert."
 msgstr ""
 
 #. [unit_type]: id=Elvish Wayfarer, race=elf

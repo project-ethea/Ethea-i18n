@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-13 06:54 UTC\n"
+"POT-Creation-Date: 2026-03-28 09:34 UTC\n"
 "PO-Revision-Date: 2026-03-18 19:15-0300\n"
 "Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
 "Language-Team: Español\n"
@@ -1202,7 +1202,7 @@ msgstr "Erathan"
 
 #. [event]
 #: Invasion_from_the_Unknown/macros/character-defines.cfg:159
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:709
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:723
 msgid "Lédinor"
 msgstr "Lédinor"
 
@@ -1306,13 +1306,11 @@ msgstr "Descripción de personaje"
 
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:22
 msgid ""
-"<b>Galas</b> is an <b>Elvish Fighter</b>. As such, he has two advancement "
-"choices from level 1: <b>Captain</b> and <b>Hero</b>. Choose his development "
-"path wisely and carefully."
+"<b>Galas</b> is an <b>Elvish Patrol Captain</b>. Despite his extensive "
+"experience guarding the Valley, soon his journey will see him facing new and "
+"unexpected threats. It is up to you to decide the exact path he shall take "
+"to hone his skills."
 msgstr ""
-"<b>Galas</b> es un <b>Guerrero élfico</b>. Como tal, tiene dos opciones de "
-"avance a partir del nivel 1: <b>Capitán</b> y <b>Héroe</b>. Elige su camino "
-"de desarrollo con sabiduría y cuidado."
 
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:26
 msgid ""
@@ -1325,10 +1323,13 @@ msgstr ""
 "Ten en cuenta que es la única unidad de su clase."
 
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:30
+#, fuzzy
 msgid ""
-"<b>Mal Keshar</b> is an <b>Ancient Lich</b>. Although he may be a virtually "
-"unstoppable weapon against most living units, keep in mind that he is weak "
-"against impact, arcane, and fire attacks, even more so in the daytime!"
+"<b>Mal Keshar</b> is an <b>Archaic Lich</b>. Severely weakened by Anlindë’s "
+"curse, it will take him a while to recover his full strength. Although he "
+"may be a virtually unstoppable weapon against most living units, keep in "
+"mind that he is weak against impact, arcane, and fire attacks — even more so "
+"during daytime!"
 msgstr ""
 "<b>Mal Keshar</b> es un <b>Liche ancestral</b>. Aunque puede ser un arma "
 "prácticamente imparable contra la mayoría de las unidades vivas, ten en "
@@ -1615,15 +1616,17 @@ msgstr "Armadura del Vacío"
 
 #. [object]: id={ID}
 #: Invasion_from_the_Unknown/macros/items.cfg:252
+#, fuzzy
 msgid ""
-"A beautiful chest plate crafted from shimmering black steel, the Void Armor "
-"is virtually impenetrable to physical weapons!"
+"A beautiful chest plate crafted from shimmering black steel. The unit "
+"wearing this armor gains +15% resistance to blade and pierce damage, +20% to "
+"impact damage, and +10% to fire damage."
 msgstr ""
 "Una hermosa coraza forjada con acero negro brillante, ¡la Armadura del Vacío "
 "es prácticamente impenetrable para las armas físicas!"
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/macros/items.cfg:283
+#: Invasion_from_the_Unknown/macros/items.cfg:271
 msgid ""
 "You struggle to lift and don the heavy plate. Once worn, however, it is "
 "amazingly comfortable. You have increased resistance to all physical damage!"
@@ -1633,18 +1636,19 @@ msgstr ""
 "aumentado!"
 
 #. [value]: id=void_armor
-#: Invasion_from_the_Unknown/macros/items.cfg:299
+#: Invasion_from_the_Unknown/macros/items.cfg:287
 msgid "void armor"
 msgstr "armadura del vacío"
 
 #. [value]: id=void_armor
-#: Invasion_from_the_Unknown/macros/items.cfg:300
+#: Invasion_from_the_Unknown/macros/items.cfg:288
+#, fuzzy
 msgid ""
 "The Void Armor grants the following resistances:\n"
 "\n"
-"Blade:   50%\n"
-"Pierce:  50%\n"
-"Impact:  60%\n"
+"Blade:  +15%\n"
+"Pierce: +15%\n"
+"Impact: +20%\n"
 "Fire:   +10%"
 msgstr ""
 "La Armadura del Vacío concede las siguientes resistencias:\n"
@@ -1654,7 +1658,7 @@ msgstr ""
 "Impacto:  60%\n"
 "Fuego:   +10%"
 
-#: Invasion_from_the_Unknown/macros/items.cfg:327
+#: Invasion_from_the_Unknown/macros/items.cfg:315
 msgid ""
 "The arrows in this barrel are some of the most expensive weaponry ever "
 "devised by the dwarves of Herthgar, although most of the credit for the "
@@ -1677,7 +1681,7 @@ msgstr ""
 "no sería apropiado que un novato hiciera estallar accidentalmente a uno de "
 "los nuestros."
 
-#: Invasion_from_the_Unknown/macros/items.cfg:328
+#: Invasion_from_the_Unknown/macros/items.cfg:316
 msgid ""
 "These arrows are more befitting for a skilled archer, which I certainly am "
 "not."
@@ -1686,12 +1690,12 @@ msgstr ""
 "ciertamente no soy."
 
 #. [object]: id=explosive_rune_arrows
-#: Invasion_from_the_Unknown/macros/items.cfg:334
+#: Invasion_from_the_Unknown/macros/items.cfg:322
 msgid "Explosive Runic Arrows"
 msgstr "Flechas rúnicas explosivas"
 
 #. [object]: id=explosive_rune_arrows
-#: Invasion_from_the_Unknown/macros/items.cfg:336
+#: Invasion_from_the_Unknown/macros/items.cfg:324
 msgid ""
 "When used against a living target, these arrows will explode dealing 80% "
 "damage to the unit directly behind it, regardless of its allegiance or type."
@@ -1701,17 +1705,17 @@ msgstr ""
 "su lealtad o tipo."
 
 #. [effect]: type=fire
-#: Invasion_from_the_Unknown/macros/items.cfg:344
+#: Invasion_from_the_Unknown/macros/items.cfg:332
 msgid "explosive arrows (6)"
 msgstr "flechas explosivas (6)"
 
 #. [literal]
-#: Invasion_from_the_Unknown/macros/items.cfg:421
+#: Invasion_from_the_Unknown/macros/items.cfg:409
 msgid "explosive arrows"
 msgstr "flechas explosivas"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/macros/items.cfg:444
+#: Invasion_from_the_Unknown/macros/items.cfg:432
 msgid ""
 "Careful! It would hurt me to lose one of our men by accidentally triggering "
 "an explosive artifact like those."
@@ -1720,12 +1724,12 @@ msgstr ""
 "accidentalmente un artefacto explosivo como esos."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/macros/items.cfg:449
+#: Invasion_from_the_Unknown/macros/items.cfg:437
 msgid "(<i>gulp</i>) I will make sure to handle them with care, sir."
 msgstr "(<i>traga saliva</i>) Me aseguraré de manejarlas con cuidado, señor."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/macros/items.cfg:455
+#: Invasion_from_the_Unknown/macros/items.cfg:443
 msgid ""
 "Heh. I don’t even need to worry about them accidentally exploding in my "
 "quiver!"
@@ -1734,21 +1738,21 @@ msgstr ""
 "carcaj!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/macros/items.cfg:460
+#: Invasion_from_the_Unknown/macros/items.cfg:448
 msgid "He he, yes, indeed. Is it not great?"
 msgstr "Je je, sí, efectivamente. ¿No es genial?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/macros/items.cfg:465
+#: Invasion_from_the_Unknown/macros/items.cfg:453
 msgid "Just make sure to aim those at our enemies, Mal Keshar."
 msgstr "Asegúrate de apuntar esas flechas a nuestros enemigos, Mal Keshar."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/macros/items.cfg:470
+#: Invasion_from_the_Unknown/macros/items.cfg:458
 msgid "Pah, distrustful much?"
 msgstr "Pah, ¿desconfiada acaso?"
 
-#: Invasion_from_the_Unknown/macros/items.cfg:480
+#: Invasion_from_the_Unknown/macros/items.cfg:468
 msgid ""
 "As I lift this enchanted bow, my vision appears to become sharper! This will "
 "surely prove useful later."
@@ -1756,24 +1760,24 @@ msgstr ""
 "¡Al levantar este arco encantado, mi visión parece agudizarse! Sin duda "
 "resultará útil más adelante."
 
-#: Invasion_from_the_Unknown/macros/items.cfg:481
+#: Invasion_from_the_Unknown/macros/items.cfg:469
 msgid "Only a strong and experienced archer could possibly draw this bow!"
 msgstr "¡Solo un arquero fuerte y experimentado podría tensar este arco!"
 
 #. [object]: id=accuracy_bow
-#: Invasion_from_the_Unknown/macros/items.cfg:487
+#: Invasion_from_the_Unknown/macros/items.cfg:475
 msgid "Enchanted Longbow of Visual Acuity"
 msgstr "Arco largo encantado de agudeza visual"
 
 #. [object]: id=accuracy_bow
-#: Invasion_from_the_Unknown/macros/items.cfg:489
+#: Invasion_from_the_Unknown/macros/items.cfg:477
 msgid ""
 "The unit’s ranged attacks are permanently given the Marksman weapon special."
 msgstr ""
 "Los ataques a distancia de la unidad reciben permanentemente la habilidad de "
 "arma Tirador."
 
-#: Invasion_from_the_Unknown/macros/items.cfg:509
+#: Invasion_from_the_Unknown/macros/items.cfg:497
 msgid ""
 "I feel a chilly aura around this sword. I wonder if... All right, woah, even "
 "the hilt is extremely cold to the touch! The blade freezes everything it "
@@ -1787,17 +1791,17 @@ msgstr ""
 "demonios más grandes, tal vez. Aun así, sospecho que solo alguien lo "
 "suficientemente fuerte para soportar el frío debería empuñar esta arma."
 
-#: Invasion_from_the_Unknown/macros/items.cfg:510
+#: Invasion_from_the_Unknown/macros/items.cfg:498
 msgid "Only a living sword user can wield this sword!"
 msgstr "¡Solo un espadachín viviente puede empuñar esta espada!"
 
 #. [object]: id=chilling_blade
-#: Invasion_from_the_Unknown/macros/items.cfg:516
+#: Invasion_from_the_Unknown/macros/items.cfg:504
 msgid "Glacial Gladius"
 msgstr "Gladio glacial"
 
 #. [object]: id=chilling_blade
-#: Invasion_from_the_Unknown/macros/items.cfg:518
+#: Invasion_from_the_Unknown/macros/items.cfg:506
 msgid ""
 "While wielding this sword, the unit’s melee attack damage is increased by +1 "
 "and deals cold damage. Additionally, the unit’s maximum hitpoints are "
@@ -1808,11 +1812,11 @@ msgstr ""
 "máximos de la unidad se reducen en un 5%."
 
 #. [effect]
-#: Invasion_from_the_Unknown/macros/items.cfg:526
+#: Invasion_from_the_Unknown/macros/items.cfg:514
 msgid "glacial gladius"
 msgstr "gladio glacial"
 
-#: Invasion_from_the_Unknown/macros/items.cfg:552
+#: Invasion_from_the_Unknown/macros/items.cfg:540
 msgid ""
 "The scroll next to this amulet says: “This artifact imbues projectiles shot "
 "by the bearer with strong arcane energy, casting fear upon their unholy "
@@ -1824,17 +1828,17 @@ msgstr ""
 "infundiendo temor en sus impíos enemigos.» Me imagino que los demonios lo "
 "robaron de algún lugar y no le encontraron un uso real."
 
-#: Invasion_from_the_Unknown/macros/items.cfg:553
+#: Invasion_from_the_Unknown/macros/items.cfg:541
 msgid "Only mundane creatures can use this amulet."
 msgstr "Solo las criaturas mundanas pueden usar este amuleto."
 
 #. [object]: id=arcane_shot_amulet
-#: Invasion_from_the_Unknown/macros/items.cfg:557
+#: Invasion_from_the_Unknown/macros/items.cfg:545
 msgid "Amulet of the Divine Breeze"
 msgstr "Amuleto de la Brisa Divina"
 
 #. [object]: id=arcane_shot_amulet
-#: Invasion_from_the_Unknown/macros/items.cfg:560
+#: Invasion_from_the_Unknown/macros/items.cfg:548
 msgid ""
 "This amulet will grant the bearer arcane power to their ranged attacks, and "
 "increases their resistance to arcane damage by 10%."
@@ -1842,7 +1846,7 @@ msgstr ""
 "Este amuleto otorgará al portador poder arcano en sus ataques a distancia y "
 "aumentará su resistencia al daño arcano en un 10%."
 
-#: Invasion_from_the_Unknown/macros/items.cfg:589
+#: Invasion_from_the_Unknown/macros/items.cfg:577
 msgid ""
 "It is a strength potion. The flask contains only enough for one person, but "
 "surely it will come in handy when we finally confront that Chaos Emperor. "
@@ -1852,20 +1856,20 @@ msgstr ""
 "persona, pero sin duda será útil cuando finalmente nos enfrentemos a ese "
 "Emperador del Caos. ¿Quién debería tomarla?"
 
-#: Invasion_from_the_Unknown/macros/items.cfg:590
-#: Invasion_from_the_Unknown/macros/items.cfg:629
+#: Invasion_from_the_Unknown/macros/items.cfg:578
+#: Invasion_from_the_Unknown/macros/items.cfg:617
 msgid "This potion can only be used by living beings. Let another take it."
 msgstr "Esta poción solo puede ser usada por seres vivos. Que la tome otro."
 
 #. [object]: id=s21_strength_potion
 #. [object]: id=e1l7_strength_potion
-#: Invasion_from_the_Unknown/macros/items.cfg:598
+#: Invasion_from_the_Unknown/macros/items.cfg:586
 #: Invasion_from_the_Unknown/scenarios/07_Goliath.cfg:613
 msgid "Potion of Strength"
 msgstr "Poción de la fuerza"
 
 #. [object]: id=s21_strength_potion
-#: Invasion_from_the_Unknown/macros/items.cfg:601
+#: Invasion_from_the_Unknown/macros/items.cfg:589
 msgid ""
 "The drinker’s strength is increased, adding 1 damage point to their melee "
 "attacks, and adding 8 points to their total HP."
@@ -1873,7 +1877,7 @@ msgstr ""
 "La fuerza de quien la beba se incrementa, añadiendo 1 punto de daño a sus "
 "ataques cuerpo a cuerpo y 8 puntos a su vida total."
 
-#: Invasion_from_the_Unknown/macros/items.cfg:628
+#: Invasion_from_the_Unknown/macros/items.cfg:616
 msgid ""
 "This potion is supposed to make one more agile. I wonder if this is what "
 "makes those demons so hard to hit rather than natural skill."
@@ -1883,12 +1887,12 @@ msgstr ""
 "habilidad natural."
 
 #. [object]: id=s21_deftness_potion
-#: Invasion_from_the_Unknown/macros/items.cfg:637
+#: Invasion_from_the_Unknown/macros/items.cfg:625
 msgid "Potion of Deftness"
 msgstr "Poción de la agilidad"
 
 #. [object]: id=s21_deftness_potion
-#: Invasion_from_the_Unknown/macros/items.cfg:640
+#: Invasion_from_the_Unknown/macros/items.cfg:628
 msgid ""
 "This magic potion will increase the drinker’s movement points by one, and "
 "increase the inflicted base damage of its ranged attacks by one, if "
@@ -4398,9 +4402,9 @@ msgstr "Resista tanto tiempo como le sea posible"
 #: Invasion_from_the_Unknown/scenarios/07_Goliath.cfg:323
 #: Invasion_from_the_Unknown/scenarios/07_Goliath.cfg:797
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:280
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:455
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:527
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:916
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:459
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:553
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:942
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:524
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:508
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:533
@@ -4414,7 +4418,7 @@ msgstr "Resista tanto tiempo como le sea posible"
 #: Invasion_from_the_Unknown/scenarios/16_Dawn_of_War.cfg:627
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:237
 #: Invasion_from_the_Unknown/scenarios/18_Ashes_of_Wesmere.cfg:372
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:639
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:643
 #: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:589
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:320
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:872
@@ -4579,7 +4583,7 @@ msgstr "Resiste hasta que se acaben los turnos"
 #. [event]
 #. [event]: id=Galas}
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:248
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:914
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:940
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:519
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:521
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Herthgar.cfg:358
@@ -4588,8 +4592,8 @@ msgstr "Resiste hasta que se acaben los turnos"
 #: Invasion_from_the_Unknown/scenarios/16_Dawn_of_War.cfg:622
 #: Invasion_from_the_Unknown/scenarios/16_Dawn_of_War.cfg:624
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:235
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:637
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:653
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:641
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:657
 msgid "Defeat all enemy leaders"
 msgstr "Derrote a todos los líderes enemigos"
 
@@ -4633,9 +4637,9 @@ msgstr "Muerte de Lédinor"
 #: Invasion_from_the_Unknown/scenarios/07_Goliath.cfg:324
 #: Invasion_from_the_Unknown/scenarios/07_Goliath.cfg:798
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:281
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:456
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:528
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:917
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:460
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:554
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:943
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:525
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:509
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:534
@@ -5785,9 +5789,9 @@ msgstr "Derrota a los orcos que controlan el oasis"
 #: Invasion_from_the_Unknown/scenarios/07_Goliath.cfg:325
 #: Invasion_from_the_Unknown/scenarios/07_Goliath.cfg:799
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:282
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:457
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:529
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:918
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:461
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:555
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:944
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:526
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:510
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:535
@@ -5801,7 +5805,7 @@ msgstr "Derrota a los orcos que controlan el oasis"
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:239
 #: Invasion_from_the_Unknown/scenarios/18_Ashes_of_Wesmere.cfg:374
 #: Invasion_from_the_Unknown/scenarios/19_Under_the_Sands.cfg:327
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:641
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:645
 #: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:591
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:322
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:874
@@ -6375,7 +6379,7 @@ msgstr ""
 #. [message]: speaker=Mal Keshar
 #. [message]: speaker=Lédinor
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1348
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:582
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:596
 msgid "(<i>coughs</i>)"
 msgstr "(<i>tose</i>)"
 
@@ -7734,7 +7738,7 @@ msgstr "Ceel"
 #. [message]: speaker=Igor
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:502
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:952
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:956
 #: Invasion_from_the_Unknown/scenarios/23Bx_Do_Us_Part.cfg:418
 msgid "Uh-oh."
 msgstr "Uh-oh."
@@ -8005,7 +8009,7 @@ msgstr "Kwurg"
 #. [event]
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:278
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:525
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:551
 msgid "Explore the caves and defeat any opposition you might find"
 msgstr "Explora las cuevas y derrota a cualquier oposición que encuentres."
 
@@ -8133,7 +8137,7 @@ msgstr ""
 "la naturaleza. Matarlas se siente completamente incorrecto en ese sentido."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:429
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:433
 msgid ""
 "The gate ahead is blocking our way, but it seems too sturdy for our weapons. "
 "Building siege machinery in the dark is going to take us a while..."
@@ -8143,7 +8147,7 @@ msgstr ""
 "tomar un buen rato..."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:434
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:438
 msgid ""
 "No need for that. This rune on the floor here and the one across from the "
 "troll settlement both seem to be part of a control mechanism. If we activate "
@@ -8154,7 +8158,7 @@ msgstr ""
 "activamos ambas, la puerta debería abrirse para nosotros."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:442
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:446
 msgid ""
 "Let us make haste and activate the last rune. We do not want to attract more "
 "trolls by tarrying here for too long."
@@ -8163,53 +8167,53 @@ msgstr ""
 "quedándonos aquí demasiado tiempo."
 
 #. [then]
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:453
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:457
 msgid "Activate both gate control runes in order to proceed"
 msgstr "Activa ambas runas de control de la puerta para poder continuar"
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:488
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:510
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1206
 msgid "Rune activated."
 msgstr "Runa activada."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:521
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:547
 msgid "That’s finally out of the way now. Let us proceed."
 msgstr "Por fin está despejado. Continuemos."
 
 #. [hidden_unit]: type=Dwarvish Pathfinder, id=Aetilaes
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:619
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:645
 msgid "Aetilaes"
 msgstr "Aetilaes"
 
 #. [hidden_unit]: type=Chaos Razerman, id=Hazor
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:653
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:679
 msgid "Hazor"
 msgstr "Hazor"
 
 #. [hidden_unit]: type=Chaos Lorekeeper, id=Zoltar
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:688
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:714
 msgid "Zoltar"
 msgstr "Zoltar"
 
 #. [message]: race=elf
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:792
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:818
 msgid "What is that ahead?"
 msgstr "¿Qué es eso ahí delante?"
 
 #. [message]: race=elf
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:829
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:855
 msgid "Bright gods!"
 msgstr "¡Dioses brillantes!"
 
 #. [message]: speaker=Hazor
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:850
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:876
 msgid "Look, over there! The heathens from the valley still live!"
 msgstr "¡Miren, allí! ¡Los herejes del valle aún viven!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:855
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:881
 msgid ""
 "These accursed humans brought a whole battalion into the caves. How "
 "bothersome."
@@ -8217,7 +8221,7 @@ msgstr ""
 "Esos malditos humanos trajeron todo un batallón a las cuevas. Qué fastidio."
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:860
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:886
 msgid ""
 "(<i>confused</i>) ... Elves? And with undead marching amongst their ranks? "
 "’Tis a strange sight... We thought that yer race was still an enemy of "
@@ -8230,7 +8234,7 @@ msgstr ""
 "siglos… ¿nos ayudaran ahora?"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:865
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:891
 msgid ""
 "Centuries? Well... sure, we have helped each other in times of need "
 "throughout history. Why would we not help you?"
@@ -8239,23 +8243,23 @@ msgstr ""
 "a lo largo de la historia. ¿Por qué no habríamos de ayudarlos?"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:870
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:896
 msgid "Three centuries... interesting..."
 msgstr "Tres siglos… interesante…"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:875
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:901
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:918
 msgid "Anlindë?"
 msgstr "¿Anlindë?"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:880
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:906
 msgid "Sssh."
 msgstr "Sssh."
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:885
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:911
 msgid ""
 "Excellent! As ye can see, there are these foul men from the lands of Chaos, "
 "tryin’ to take over our tunnels. They’re everywhere! It’d be a boon if ye "
@@ -8269,17 +8273,17 @@ msgstr ""
 "del desierto."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:890
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:916
 msgid "Rest assured we shall do our best."
 msgstr "Tengan por seguro que haremos todo lo posible."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:895
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:921
 msgid "What is going on? Elves from the desert? Anlindë, might they be..."
 msgstr "¿Qué está pasando? ¿Elfos del desierto? Anlindë, podrían ser…"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:900
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:926
 msgid ""
 "I believe that is a discussion for another time, when we have finished our "
 "new job here."
@@ -8288,17 +8292,17 @@ msgstr ""
 "nuestro nuevo cometido aquí."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:904
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:930
 msgid "Fair enough."
 msgstr "De acuerdo."
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:944
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:970
 msgid "Althurin, sir! You are seriously injured!"
 msgstr "¡Señor Althurin! ¡Está gravemente herido!"
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:949
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:975
 msgid ""
 "Argh... I need... I need’a report this news to the king. I hafta make it "
 "there. Please stand fast, friend elves. I shall be back with ye soon."
@@ -8307,7 +8311,7 @@ msgstr ""
 "allí. Resistan, elfos amigos. Pronto volveré con ustedes."
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1047
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1073
 msgid ""
 "Dwarf-friends, ye made it. Now, follow me to the Throne Room, King Asthorgar "
 "awaits. He’ll be pleased to hear and see news of ye and yer kind again."
@@ -8317,7 +8321,7 @@ msgstr ""
 "los de su raza otra vez."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1065
+#: Invasion_from_the_Unknown/scenarios/08_Errand_of_Hope.cfg:1091
 msgid "This coffin is empty."
 msgstr "Este ataúd está vacío."
 
@@ -8837,7 +8841,7 @@ msgstr "Explora y encuentra la salida con Galas, Anlindë o Mal Keshar"
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:69
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_Herthgar.cfg:365
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:343
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:655
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:659
 msgid "Death of Althurin"
 msgstr "Muerte de Althurin"
 
@@ -9620,7 +9624,7 @@ msgstr ""
 "resistencia al daño arcano en un 10%."
 
 #. [scenario]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1428
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1431
 msgid ""
 "Such a pretty potion flask! As I open and smell the red liquid inside, I "
 "immediately feel energized and ready to take down any incoming threat. It "
@@ -9644,7 +9648,7 @@ msgstr ""
 "incluso más."
 
 #. [scenario]
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1431
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1434
 msgid ""
 "This potion may only be used by a true warrior with an axe or sword in hand."
 msgstr ""
@@ -9652,12 +9656,12 @@ msgstr ""
 "hacha o una espada."
 
 #. [object]: id=e1s10_berserker_potion
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1441
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1444
 msgid "Berserker Potion"
 msgstr "Poción del frenesí"
 
 #. [object]: id=e1s10_berserker_potion
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1444
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1447
 msgid ""
 "This potion grants the <i>berserk</i> special to the unit’s melee attacks, "
 "which also sees their damage increased by one. As an advantageous side "
@@ -9678,48 +9682,48 @@ msgstr ""
 " &#8226; Impacto: +30% de resistencia."
 
 #. [message]: speaker=narrator
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1503
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1506
 msgid "Touchplate triggered. A magical gate opens."
 msgstr "Piedra de toque activada. Una puerta mágica se abre."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1551
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1554
 msgid "This bridge seems extremely unsafe..."
 msgstr "Este puente parece extremadamente inseguro..."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1558
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1561
 msgid "That bridge seems extremely unsafe."
 msgstr "Ese puente parece extremadamente inseguro."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1583
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1586
 msgid "Flowers? So deep under the surface? How is this possible?"
 msgstr "¿Flores? ¿Tan profundo bajo la superficie? ¿Cómo es posible?"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1747
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1750
 msgid "At long last! Let us go, now."
 msgstr "¡Por fin! Vamos ahora."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1752
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1755
 msgid "I have been waiting for this for too long."
 msgstr "He esperado esto durante demasiado tiempo."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1757
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1760
 msgid "Wait, Galas, before continuing... only the two of us should enter."
 msgstr ""
 "Espera, Galas, antes de continuar... sólo nosotros dos deberíamos entrar."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1762
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1765
 msgid "... Why?"
 msgstr "... ¿Por qué?"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1767
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1770
 msgid ""
 "The regent lord of the elves is surely the only appropriate person to greet "
 "the Lady of Light and the Master of Darkness after such a long time, but "
@@ -9736,7 +9740,7 @@ msgstr ""
 "elfos en esta ocasión singular."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1776
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1779
 msgid ""
 "I must say, I never expected such words from you, Anlindë. After so long, we "
 "are finally here, but not only thanks to you — we owe a great debt to Lady "
@@ -9749,7 +9753,7 @@ msgstr ""
 "acompañen."
 
 #. [message]: speaker=Unarye
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1782
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1785
 msgid ""
 "Me— meeting the Lady of Light in person? I would be greatly honored, my lord!"
 msgstr ""
@@ -9757,7 +9761,7 @@ msgstr ""
 "mi señor!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1787
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1790
 msgid ""
 "Ah, so would I. Galas, you really are an example to follow for the other "
 "elves!"
@@ -9766,17 +9770,17 @@ msgstr ""
 "para los demás elfos!"
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1792
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1795
 msgid "But I—"
 msgstr "Pero yo—"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1797
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1800
 msgid "You will allow them to come with us. This is an order, Anlindë."
 msgstr "Les permitirás acompañarnos. Es una orden, Anlindë."
 
 #. [message]: speaker=Anlindë
-#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1806
+#: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1809
 msgid "... As you command, <i>my lord</i>."
 msgstr "... Como ordenéis, <i>mi señor</i>."
 
@@ -9834,7 +9838,7 @@ msgstr "¡AY!"
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:208
 #: Invasion_from_the_Unknown/scenarios/16_Dawn_of_War.cfg:488
 #: Invasion_from_the_Unknown/scenarios/23A_Into_the_Lair.cfg:878
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:413
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:427
 msgid "Huh?"
 msgstr "¿Huh?"
 
@@ -10109,7 +10113,7 @@ msgstr "<i>(señala a Galas)</i>"
 #: Invasion_from_the_Unknown/scenarios/10x_Elynia.cfg:949
 #: Invasion_from_the_Unknown/scenarios/18_Ashes_of_Wesmere.cfg:576
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:635
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1957
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1967
 msgid "..."
 msgstr "…"
 
@@ -11079,7 +11083,7 @@ msgstr "Muerte del Rey Asthorgar"
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:238
 #: Invasion_from_the_Unknown/scenarios/18_Ashes_of_Wesmere.cfg:373
 #: Invasion_from_the_Unknown/scenarios/19_Under_the_Sands.cfg:326
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:640
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:644
 #: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:590
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:321
 #: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:873
@@ -11727,7 +11731,7 @@ msgid "Defeat Yreul"
 msgstr "Derrota a Yreul"
 
 #. [literal]
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:347
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:349
 msgid ""
 "In this scenario, you may only recall or recruit units during the first turn"
 msgstr ""
@@ -11735,7 +11739,7 @@ msgstr ""
 "primer turno."
 
 #. [literal]
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:349
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:351
 msgid ""
 "Because Mal Keshar has granted control of most of his undead minions to "
 "Anlindë, any undead veterans you do not recall in this scenario will be "
@@ -11747,20 +11751,20 @@ msgstr ""
 
 #. [literal]
 #. [scenario]
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:351
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:353
 #: Invasion_from_the_Unknown/scenarios/21_Innuendo.cfg:439
 msgid "You may not recall or recruit units"
 msgstr "No puedes recuperar ni reclutar unidades"
 
 #. [value]: condition=win
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:406
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:408
 msgid "Galas, Elynia, or Mal Keshar must reach the exit to the northlands"
 msgstr ""
 "Galas, Elynia o Mal Keshar deben alcanzar la salida hacia las tierras del "
 "norte"
 
 #. [message]: speaker=King Asthorgar
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:427
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:429
 msgid ""
 "The exit’s to the north. But before we proceed, I must warn ye: it ha’ been "
 "long since we last walked these caves, so we should be prepared to deal with "
@@ -11771,7 +11775,7 @@ msgstr ""
 "cualquier cosa que pueda esperarnos en el camino."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:432
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:434
 msgid ""
 "Such as an unexpected encounter with Chaos troops? We are accustomed to that "
 "kind of thing after our quest underground."
@@ -11780,7 +11784,7 @@ msgstr ""
 "a ese tipo de cosas tras nuestra travesía bajo tierra."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:437
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:439
 msgid ""
 "We must make haste, though. We don’t know for how long Anlindë’s strategy is "
 "going to work and provide us with safe passage."
@@ -11789,7 +11793,7 @@ msgstr ""
 "la estrategia de Anlindë ni cuánto nos asegurará un paso seguro."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:442
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:444
 msgid ""
 "Indeed... I would be unable to bear the thought of her sacrifice turning out "
 "to be in vain after so much."
@@ -11798,7 +11802,7 @@ msgstr ""
 "después de todo."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:447
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:449
 msgid ""
 "Hmph, I sure hope she has put my minions to good use. I had grown fond of "
 "some of them. Ah well, there will be plenty of opportunities to raise more "
@@ -11809,12 +11813,12 @@ msgstr ""
 "más después."
 
 #. [message]: type=Fire Ant Queen
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:492
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:494
 msgid "<i>Screeeeeech!</i>"
 msgstr "<i>¡Scriiiiiii!</i>"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:498
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:500
 msgid ""
 "Ugh, great, just what we needed. I hate those things so much... I can’t wait "
 "to leave these caves so we never have to deal with swarms of giant insects "
@@ -11825,27 +11829,27 @@ msgstr ""
 "enjambres de insectos gigantes."
 
 #. [event]: id=Yreul, type=Chaos Soulhunter, id=Karshas, type=Troll Warrior
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:537
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:539
 msgid "Yreul"
 msgstr "Yreul"
 
 #. [event]: id=Yreul, type=Chaos Soulhunter, id=Karshas, type=Troll Warrior
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:564
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:566
 msgid "Karshas"
 msgstr "Karshas"
 
 #. [unit]: type=Troll Rocklobber, id=Burg
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:577
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:579
 msgid "Burg"
 msgstr "Burg"
 
 #. [message]: speaker=Karshas
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:594
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:596
 msgid "Damned creatures! You kill our children! You pay with your blood!"
 msgstr "¡Malditas criaturas! ¡Mataron a nuestros hijos! ¡Paguen con su sangre!"
 
 #. [message]: speaker=Yreul
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:599
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:601
 msgid ""
 "Fat chance, dimwit. Get out of the way this instant, unless you would rather "
 "be ground into dust!"
@@ -11854,7 +11858,7 @@ msgstr ""
 "quieras ser reducido a polvo!"
 
 #. [message]
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:604
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:606
 msgid ""
 "Hey, hey, what do we have here? The elfses and dwarfses are tryin’ to escape "
 "thru the backdoor!"
@@ -11863,12 +11867,12 @@ msgstr ""
 "por la puerta trasera!"
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:610
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:612
 msgid "Uh..."
 msgstr "Oh..."
 
 #. [message]: speaker=Yreul
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:615
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:617
 msgid ""
 "Hah! So they are coming to us now! What’s your clever plan, rats? I am "
 "certain the captain will be very pleased to see your impaled heads topping "
@@ -11879,7 +11883,7 @@ msgstr ""
 "empaladas ondeando en nuestras banderas."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:620
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:622
 msgid ""
 "We’ll have to deal with this scum first, lest they bring news of us to their "
 "superiors."
@@ -11888,42 +11892,42 @@ msgstr ""
 "noticias sobre nosotros a sus superiores."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:632
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:634
 msgid "Defeated... by rats!"
 msgstr "¡Derrotado... por ratas!"
 
 #. [message]: type=Goliath
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:692
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:694
 msgid "The vermin must die! Affirmative!"
 msgstr "¡Las sabandijas deben morir! ¡Afirmativo!"
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:700
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:702
 msgid "Aaah! Another one of these metallic beasts!"
 msgstr "¡Aaah! ¡Otra de esas bestias metálicas!"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:705
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:707
 msgid "This is turning out to be harder than we expected."
 msgstr "Esto está resultando ser más difícil de lo que esperábamos."
 
 #. [event]: gender=female
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:744
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:746
 msgid "Lilith"
 msgstr "Lilith"
 
 #. [message]: speaker=Lilith
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:767
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:769
 msgid "There they are! Don’t let them cross the bridge!"
 msgstr "¡Ahí están! ¡No los dejen cruzar el puente!"
 
 #. [message]: type=Hellhound
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:772
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:774
 msgid "Grrrrrr..."
 msgstr "Grrrrrr..."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:777
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:779
 msgid ""
 "Hm, I see — they are the rearguard of our ‘friends’. Their blockade would be "
 "far more effective if they just demolished the bridge, so surely their "
@@ -11934,12 +11938,12 @@ msgstr ""
 "capitán está justo al otro lado."
 
 #. [event]: id=Lagonus, type=Gutwrencher Imp
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:795
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:797
 msgid "Lagonus"
 msgstr "Lagonus"
 
 #. [message]: speaker=Lagonus
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:820
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:822
 msgid ""
 "I swear to Uria, this is the end of the road for you, insolent maggots! "
 "Prepare to die!"
@@ -11948,37 +11952,37 @@ msgstr ""
 "insolentes! ¡Prepárense para morir!"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:825
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:827
 msgid "Wishful thinking, filth!"
 msgstr "¡Sueños inútiles, basura!"
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:837
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:839
 msgid "How could I fail like this? Forgive me, Master... <i>(gurgle)</i>"
 msgstr "¿Cómo pude fallar así? Perdóname, maestro... <i>(gluglú)</i>"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:851
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:853
 msgid "The imp’s body is dissolving into slime!"
 msgstr "¡El cuerpo del diablillo se está disolviendo en lodo!"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:909
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:911
 msgid "This is truly disgusting."
 msgstr "Esto es verdaderamente repugnante."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:956
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:958
 msgid "female^The exit, at last! Follow me!"
 msgstr "¡La salida, por fin! ¡Síganme!"
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:957
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:959
 msgid "The exit, at last! Follow me!"
 msgstr "¡La salida, por fin! ¡Síganme!"
 
 #. [message]: role=complainer
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:984
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:986
 msgid ""
 "Wait a moment, we cannot leave yet! If we don’t dispose of our pursuers, "
 "they may report our position to their leaders!"
@@ -11987,7 +11991,7 @@ msgstr ""
 "nuestros perseguidores, podrían informar de nuestra posición a sus líderes."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:997
+#: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:999
 msgid ""
 "I can hear their main assault force approaching from behind. Oh, forgive me, "
 "Anlindë..."
@@ -12879,9 +12883,10 @@ msgstr ""
 
 #. [message]: speaker=Arghalon
 #: Invasion_from_the_Unknown/scenarios/14_Clearing_the_Road.cfg:870
+#, fuzzy
 msgid ""
-"The lich wants to see our leader’s head on a stake! Go get them, you useless "
-"scum!"
+"The lich wants to see their leader’s head on a stake! Go get them, you "
+"useless scum!"
 msgstr ""
 "¡El lich quiere ver la cabeza de nuestro líder en una pica! ¡Vayan por "
 "ellos, escoria inútil!"
@@ -13797,7 +13802,7 @@ msgstr "Bethanien"
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:240
 #: Invasion_from_the_Unknown/scenarios/18_Ashes_of_Wesmere.cfg:375
 #: Invasion_from_the_Unknown/scenarios/19_Under_the_Sands.cfg:328
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:642
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:646
 msgid "Death of Erathan"
 msgstr "Muerte de Erathan"
 
@@ -16343,7 +16348,8 @@ msgstr "Matriz alienígena"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/19_Under_the_Sands.cfg:324
-msgid "Proceed south to the cave exit with Elynia and Mal Keshar"
+#, fuzzy
+msgid "Proceed south to the cave exit with Elynia or Mal Keshar"
 msgstr "Dirígete al sur hasta la salida de la cueva con Elynia y Mal Keshar"
 
 #. [message]: speaker=Galas
@@ -17234,34 +17240,34 @@ msgid "team_name^Uria"
 msgstr "Uria"
 
 #. [unit]: type=Dwarvish Pathfinder, id=Molur
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:549
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:553
 msgid "Molur"
 msgstr "Molur"
 
 #. [unit]: type=Gryphon Rider, id=Elegrild
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:563
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:567
 msgid "Elegrild"
 msgstr "Elegrild"
 
 #. [unit]: type=Dwarvish Thunderer, id=Redbart
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:577
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:581
 msgid "Redbart"
 msgstr "Redbart"
 
 #. [unit]: type=Dwarvish Berserker, id=Turin
 #. [unit]: id=Zombie Turin, type=Soulless
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:591
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1276
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:595
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1284
 msgid "Turin"
 msgstr "Turin"
 
 #. [event]: id=Galas}
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:636
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:640
 msgid "Move Galas, Elynia, or Mal Keshar into the dark keep"
 msgstr "Mueve a Galas, Elynia o Mal Keshar dentro del bastión oscuro"
 
 #. [event]: id=Galas}
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:652
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:656
 msgid ""
 "Distract the enemy while Galas, Elynia, or Mal Keshar enter the dark keep"
 msgstr ""
@@ -17269,12 +17275,12 @@ msgstr ""
 "oscuro"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:668
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:672
 msgid "There it is, the Heart of the Chaos Empire."
 msgstr "Ahí está, el Corazón del Imperio del Caos."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:673
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:677
 msgid ""
 "I figured the rumors weren’t too far from the truth, but this is ridiculous. "
 "How can these people afford such a ludicrous construction in the middle of "
@@ -17287,7 +17293,7 @@ msgstr ""
 "como mano de obra barata…"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:678
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:682
 msgid ""
 "The dwarven scouts report that another large battalion departed for the "
 "northwest just a few hours ago. So... I believe the time has come."
@@ -17296,7 +17302,7 @@ msgstr ""
 "noroeste hace apenas unas horas. Así que… creo que ha llegado el momento."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:683
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:687
 msgid ""
 "Looking at it in hindsight, there really was no way our infiltration mission "
 "wouldn’t turn into a full-fledged assault on the enemy capital. Perhaps it’s "
@@ -17307,12 +17313,12 @@ msgstr ""
 "Quizá sea mejor así, después de todo. Ahora, Galas, ¿harás los honores?"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:688
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:692
 msgid "Eh..."
 msgstr "Eh…"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:693
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:697
 msgid ""
 "You know, ask us whether we are ready and then give us an overly dramatic "
 "discourse about the importance of this battle for the future of Irdya. It’s "
@@ -17323,42 +17329,42 @@ msgstr ""
 "de Irdya. Es el tipo de cosas que se espera de un buen líder."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:698
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:702
 msgid "Right. Are we all ready for the battle ahead?"
 msgstr "Bien. ¿Estamos todos listos para la batalla que nos espera?"
 
 #. [message]: speaker=Igor
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:703
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:707
 msgid "Yes! I’m ready, master Galas!"
 msgstr "¡Sí! ¡Estoy listo, maestro Galas!"
 
 #. [message]: speaker=Erathan
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:708
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:712
 msgid "My bow obediently awaits your orders, Lord Galas."
 msgstr "Mi arco espera obediente sus órdenes, Lord Galas."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:713
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:717
 msgid "Let’s get this over with!"
 msgstr "¡Terminemos con esto!"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:718
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:722
 msgid "(<i>nods</i>)"
 msgstr "(<i>asiente</i>)"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:723
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:727
 msgid "Then the battle for Irdya begins now. <b>Charge!!!</b>"
 msgstr "Entonces la batalla por Irdya comienza ahora. <b>¡A la carga!</b>"
 
 #. [message]: speaker=Igor
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:728
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:732
 msgid "Wait, and what about the dramatic discourse the lady mentioned?"
 msgstr "Espera, ¿y qué hay del discurso dramático que mencionó la dama?"
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:733
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:737
 msgid ""
 "It appears Lord Galas has just given the order, lads. Ye know what to do! "
 "Don’t hold back! Kill every single one of these fiends! Avenge our fallen "
@@ -17369,17 +17375,17 @@ msgstr ""
 "a nuestros hermanos caídos! ¡Por el Rey! ¡Por Herthgar! <b>¡A la carga!</b>"
 
 #. [message]: speaker=Ilrymaea
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:743
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:747
 msgid "The elf lord and his consorts approach from the northeast, sir!"
 msgstr "¡El señor élfico y sus consortes se aproximan desde el noreste, señor!"
 
 #. [message]: speaker=Limzer
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:748
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:752
 msgid "Dwarves! Dwarves on the northwestern hills! We are under attack!"
 msgstr "¡Enanos! ¡Enanos en las colinas del noroeste! ¡Estamos bajo ataque!"
 
 #. [message]: speaker=General Erval
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:753
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:757
 msgid ""
 "Oh, ha ha! Are they truly this naïve? Do they believe we were not prepared "
 "for this contingency? Prepare for battle! Crush all these vermin to the "
@@ -17391,7 +17397,7 @@ msgstr ""
 "Imperio del Caos!"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:766
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:770
 msgid ""
 "(<i>bitterly</i>) And so my time has come again to serve as the elves’ "
 "living weapon. Even if I can hardly stand this much death and destruction..."
@@ -17401,12 +17407,12 @@ msgstr ""
 "destrucción…"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:771
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:775
 msgid "I hope you can forgive me for bringing you here."
 msgstr "Espero que puedas perdonarme por traerte aquí."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:776
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:780
 msgid ""
 "Oh, Galas, don’t fret about it — by now this almost feels like daily "
 "routine. Besides, I told you before, I would have come on my own anyway."
@@ -17416,17 +17422,17 @@ msgstr ""
 "todos modos."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:791
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:795
 msgid "<b>For Herthgar!!!</b>"
 msgstr "<b>¡Por Herthgar!</b>"
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:806
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:810
 msgid "For Lord Lédinor and our fallen comrades!"
 msgstr "¡Por Lord Lédinor y nuestros camaradas caídos!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:818
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:822
 msgid ""
 "He, he, he, he... It’s about time this place got a do-over befitting of gods "
 "who relish in death and destruction, don’t you think?"
@@ -17435,42 +17441,42 @@ msgstr ""
 "de dioses que se deleitan en la muerte y la destrucción, ¿no te parece?"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:830
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:834
 msgid "For Anlindë!"
 msgstr "¡Por Anlindë!"
 
 #. [message]: speaker=General Erval
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:839
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:843
 msgid "Let us show these non-believers the real might of the Empire!"
 msgstr "¡Mostremos a estos incrédulos el verdadero poder del Imperio!"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:844
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:848
 msgid "Galas, enemy troops are coming from behind!"
 msgstr "¡Galas, tropas enemigas vienen por detrás!"
 
 #. [unit]: type=Demon Warrior, id=Umlayla, gender=female
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:873
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:877
 msgid "Umlayla"
 msgstr "Umlayla"
 
 #. [unit]: type=Chaos Magus, id=Ellerian
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:913
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:917
 msgid "Ellerian"
 msgstr "Ellerian"
 
 #. [unit]: type=Chaos Lorekeeper, id=Mal Cyriath
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:928
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:932
 msgid "Mal Cyriath"
 msgstr "Mal Cyriath"
 
 #. [message]: speaker=Umlayla
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:947
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:951
 msgid "Surprise, Irdyan maggots!"
 msgstr "¡Sorpresa, gusanos irdyanos!"
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:961
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:965
 msgid ""
 "Brace yourselves, boys! The Long Dark is upon our heels and ready to liven "
 "up this hell of a battle!"
@@ -17479,7 +17485,7 @@ msgstr ""
 "para animar esta condenada batalla!"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:970
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:974
 msgid ""
 "Even though it’s taking us much longer than expected, the Chaos Emperor has "
 "yet to make an appearance. What if our information is incorrect and he is "
@@ -17490,7 +17496,7 @@ msgstr ""
 "incorrecta y ni siquiera está en la capital?"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:975
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:979
 msgid ""
 "Nah, he’s probably in his chamber running in circles and flailing his arms "
 "like a lunatic while begging the goddesses for forgiveness! (<i>cackles</i>) "
@@ -17501,7 +17507,7 @@ msgstr ""
 "i>) Sabe que ya hemos ganado esta batalla."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:980
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:984
 msgid ""
 "Hm, yes. He is most certainly down there. He... and something else whose "
 "nature I cannot ascertain yet. Mal Keshar, you can feel it too, right?"
@@ -17510,7 +17516,7 @@ msgstr ""
 "no puedo determinar. Mal Keshar, tú también lo sientes, ¿verdad?"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:985
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:989
 msgid ""
 "I try not to worry too much about these things, girl. Besides, what power "
 "could possibly stop two walking legends like us?"
@@ -17519,7 +17525,7 @@ msgstr ""
 "poder podría detener a dos leyendas vivientes como nosotros?"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1003
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1007
 msgid ""
 "Do you see how this dark fortress crumbles down already? Tell your goddess "
 "that <b>this</b> is the fate that awaits those who dare cross the peoples of "
@@ -17530,7 +17536,7 @@ msgstr ""
 "pueblos de Irdya!"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1021
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1025
 msgid ""
 "If you meet your demon gods on the other side, tell them I will not stop "
 "until I have erased the very last trace of their influence on Irdya! Begone, "
@@ -17541,32 +17547,32 @@ msgstr ""
 "¡Desaparece, escoria!"
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1039
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1043
 msgid "We’ve failed the Master... How can this be... No... no!"
 msgstr "Hemos fallado al Amo… ¿Cómo puede ser esto…? ¡No… no!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1044
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1048
 msgid "Yes, <b>yes</b>, <b>YES! AhahahahahahahaHAHAHAHAHA!!!</b>"
 msgstr "¡Sí, <b>sí</b>, <b>¡SÍ! ¡AhahahahahahahaHAHAHAHAHA!</b>"
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1247
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1255
 msgid "RIP-N’ TEAAAAAAR!!!"
 msgstr "¡DESGARRAR Y DESTROZAAAR!!!"
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1261
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1269
 msgid "At long last... ah’ meet me doom..."
 msgstr "Por fin... encuentro mi destino..."
 
 #. [message]: speaker=unit
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1317
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1325
 msgid "Quickly! We have no time to waste."
 msgstr "¡Rápido! No tenemos tiempo que perder."
 
 #. [message]: speaker=Althurin
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1361
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1369
 msgid ""
 "Alas, if Galas and the Lady are to succeed in their mission we must stay "
 "here and fend off the enemy reinforcements. I can’t help but wonder what "
@@ -17577,7 +17583,7 @@ msgstr ""
 "preguntarme qué clase de enemigo aguarda a ese valiente grupo allá dentro…"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1372
+#: Invasion_from_the_Unknown/scenarios/20_The_Heart.cfg:1380
 msgid ""
 "This is hopeless, Galas. We took too long, and now enemy reinforcements are "
 "approaching from all directions!"
@@ -18630,12 +18636,12 @@ msgid "So <i>that</i> is your plan, Lady of Light. I see..."
 msgstr "Así que <i>ese</i> es tu plan, Dama de la Luz. Ya veo..."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1322
+#: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1324
 msgid "So will you explain your plan now?"
 msgstr "¿Entonces vas a explicarnos tu plan ahora?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1327
+#: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1329
 msgid ""
 "I... am not completely sure yet if it is possible, but... even without "
 "Argan’s assistance, I may be able to summon the Union again somehow, if we "
@@ -18646,17 +18652,17 @@ msgstr ""
 "logramos concentrarnos durante unos minutos."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1332
+#: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1334
 msgid "We? I don’t think I can..."
 msgstr "¿Nosotros? No creo que yo pueda..."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1337
+#: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1339
 msgid "Not you! Malin and me."
 msgstr "¡No tú! Malin y yo."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1342
+#: Invasion_from_the_Unknown/scenarios/22A_Face_of_the_Enemy.cfg:1344
 msgid "Wait, what?"
 msgstr "Espera, ¿qué?"
 
@@ -20092,7 +20098,7 @@ msgstr "¡No! Esta luz... no puedo—"
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1507
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1544
 #: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1676
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2065
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2075
 msgid "caption^Argan?"
 msgstr "Argan?"
 
@@ -20175,17 +20181,17 @@ msgstr ""
 "al hacerlo se expone a un gran riesgo"
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1943
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1953
 msgid "You are... hurting me..."
 msgstr "Tú... me estás lastimando..."
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1952
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1962
 msgid "Elynia... Why do you do this?"
 msgstr "Elynia... ¿Por qué haces esto?"
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1962
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1972
 msgid ""
 "We were meant to be together... for the rest of eternity... Do you not love "
 "me anymore, Elynia?"
@@ -20194,7 +20200,7 @@ msgstr ""
 "me amas, Elynia?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1967
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:1977
 msgid ""
 "You... You’ve become a monster! An abomination! Do you really not realize "
 "what you’ve done, what... what Uria has done to you?"
@@ -20203,7 +20209,7 @@ msgstr ""
 "das cuenta de lo que has hecho, de lo que... lo que Uria te ha hecho?"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2048
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2058
 msgid ""
 "Excuse me, did I miss anything? ... Oh! I guess you haven’t managed to "
 "strike down that pompous fool yet. Good, good."
@@ -20212,7 +20218,7 @@ msgstr ""
 "derribar a ese necio pomposo. Bien, bien."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2053
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2063
 msgid ""
 "Mal Keshar! Thank the Lords of Light — I thought I would never hear you "
 "speak again. Do you think you can still help us somehow?"
@@ -20221,7 +20227,7 @@ msgstr ""
 "escucharte hablar. ¿Crees que aún puedes ayudarnos de alguna forma?"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2058
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2068
 msgid ""
 "Help you? HA! Of course I can help you! It will take much more than some "
 "unfathomable ancient power to put me out of commission, boy."
@@ -20230,37 +20236,37 @@ msgstr ""
 "que un poder antiguo e insondable para dejarme fuera de combate, muchacho."
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2066
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2076
 msgid "female^Put an end... to this... <b>NOW!</b>"
 msgstr "Pongan fin... a esto... <b>¡AHORA!</b>"
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2241
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2251
 msgid "Look out! Those creatures emerge from his body with each hit!"
 msgstr "¡Cuidado! ¡Esas criaturas emergen de su cuerpo con cada golpe!"
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2257
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2271
 msgid "Energy... Yes... Feed me more energy..."
 msgstr "Energía... Sí... Denme más energía..."
 
 #. [message]: speaker=Argan
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2295
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2309
 msgid "No... Noooooo!!! My power... falters..."
 msgstr "No... ¡Noooooo! Mi poder... flaquea..."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2316
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2330
 msgid "It’s— it’s tearing me apart—"
 msgstr "Me está— me está destrozando—"
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2471
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2485
 msgid "What just happened?"
 msgstr "¿Qué acaba de pasar?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2480
+#: Invasion_from_the_Unknown/scenarios/23B_Until_Death.cfg:2494
 msgid "The prophecy... has been broken."
 msgstr "La profecía... ha sido rota."
 
@@ -20486,12 +20492,12 @@ msgid "Checkpoint cleared"
 msgstr "Punto de control superado"
 
 #. [message]: speaker=Igor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:486
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:500
 msgid "Lava! These tunnels are flooding with lava!"
 msgstr "¡Lava! ¡Estos túneles se están llenando de lava!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:491
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:505
 msgid ""
 "It’s troubling that I am actually considering the possibility of returning "
 "to Inferno to escape this insanity."
@@ -20500,7 +20506,7 @@ msgstr ""
 "Infierno para escapar de esta locura."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:496
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:510
 msgid ""
 "Nonsense! We just must make haste and get to the surface! There ought to be "
 "an exit through the hive itself."
@@ -20509,17 +20515,17 @@ msgstr ""
 "una salida a través de la colmena misma."
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:501
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:515
 msgid "May I ask if anyone else heard that creature?"
 msgstr "¿Puedo preguntar si alguien más escuchó a esa criatura?"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:506
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:520
 msgid "What creature? Where?"
 msgstr "¿Qué criatura? ¿Dónde?"
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:511
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:525
 msgid ""
 "On the way to this section, in the snow-covered area... It may have been "
 "just my imagination, but I believe I heard somebody scream furiously from "
@@ -20530,7 +20536,7 @@ msgstr ""
 "furiosamente desde arriba."
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:563
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:577
 msgid ""
 "Ugh... This is no place for an elder like me. I feel ill. Perhaps it would "
 "be best for you if—"
@@ -20539,7 +20545,7 @@ msgstr ""
 "mejor para ustedes si—"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:568
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:582
 msgid ""
 "<b>NO!</b> ... I mean... I apologize for that, my lord, but I must beg of "
 "you to keep going. I don’t want to lose anyone else after all we have been "
@@ -20550,17 +20556,17 @@ msgstr ""
 "que hemos pasado."
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:573
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:587
 msgid "... Fair enough. (<i>coughs</i>)"
 msgstr "... Está bien. (<i>tose</i>)"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:587
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:601
 msgid "Is something the matter, old elf?"
 msgstr "¿Sucede algo, viejo elfo?"
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:592
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:606
 msgid ""
 "It’s only getting worse... it feels as if something wanted to burst out of "
 "my head. I pray to the Lords of Light that I may survive this ordeal..."
@@ -20569,44 +20575,44 @@ msgstr ""
 "los Señores de la Luz para que sobreviva a esta prueba..."
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:605
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:619
 msgid "I can’t... continue... Galas, please go on without me..."
 msgstr "No puedo... continuar... Galas, por favor sigue sin mí..."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:610
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:624
 msgid "I refuse, my lord. I—"
 msgstr "Me niego, mi señor. Yo—"
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:615
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:629
 msgid "<b>ARGH!</b> Galas, please— I— I remember that voice now—"
 msgstr "<b>¡ARGH!</b> Galas, por favor— Yo— Ahora recuerdo esa voz—"
 
 #. [message]: speaker=Lédinor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:620
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:634
 msgid "Her voice... She is—"
 msgstr "Su voz... Ella es—"
 
 #. [unit]: type=Shadow Courier, id=Corrupted Lédinor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:636
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:650
 msgid "Lédinor?"
 msgstr "¿Lédinor?"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:682
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:696
 msgid "Ehhhhh... yuck. I thought it was only a figure of speech."
 msgstr "Ehhhhh... qué asco. Pensé que era solo una expresión."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:687
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:701
 msgid "What are you?! What did you— What did you do to Lord Léd—"
 msgstr "¿Qué eres tú?! ¿Qué— Qué le hiciste al señor Léd—"
 
 #. [message]: speaker=Corrupted Lédinor
 #. Corrupted Lédinor is actually Uria remote-possessing his
 #. body, so "his" grammatical first person is feminine.
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:695
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:709
 msgid ""
 "female^You may have escaped to Irdya, but I will <b>not</b> allow you to "
 "march away without due punishment for murdering my precious, most loyal "
@@ -20616,12 +20622,12 @@ msgstr ""
 "el debido castigo por asesinar a mi precioso y más leal vasallo."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:701
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:715
 msgid "Your vassal? Are you... No... It can’t be..."
 msgstr "¿Tu vasallo? ¿Eres tú... No... No puede ser..."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:706
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:720
 msgid ""
 "Galas... I fear that no matter what we try, we may never get Lédinor back. "
 "Uria must have infected his body in some way before we found him. This is—"
@@ -20631,12 +20637,12 @@ msgstr ""
 "que lo encontráramos. Esto es—"
 
 #. [event]
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:709
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:723
 msgid "Captive Steward of Telchior’s Hold"
 msgstr "Mayordomo Cautivo de la Fortaleza de Telchior"
 
 #. [message]: speaker=Corrupted Lédinor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:725
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:739
 msgid ""
 "This is only the beginning, Lady of Light. The beginning of your downfall. "
 "Everything and everyone you hold dear shall perish in time. I—"
@@ -20645,17 +20651,17 @@ msgstr ""
 "todos los que amas perecerán con el tiempo. Yo—"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:730
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:744
 msgid "Take your words to the grave, spawn of Uria!"
 msgstr "¡Lleva tus palabras a la tumba, engendro de Uria!"
 
 #. [message]: speaker=Igor
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:742
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:756
 msgid "That was terrifying... I fear now to think of who’ll be next..."
 msgstr "Eso fue aterrador... Ahora temo pensar quién será el siguiente..."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:747
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:761
 msgid ""
 "He said he remembered her, Uria... She must have done this to him. It’s the "
 "only explanation... the only logical explanation..."
@@ -20664,7 +20670,7 @@ msgstr ""
 "explicación... la única explicación lógica..."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:752
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:766
 msgid ""
 "We... really ought to make haste and get out of this dreadful place... lest "
 "we find out the exact method Uria uses to possess people like this."
@@ -20674,34 +20680,34 @@ msgstr ""
 "poseer a personas como esta."
 
 #. [scenario]
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:802
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:816
 msgid "Your journey has just begun."
 msgstr "Tu viaje apenas ha comenzado."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:818
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:832
 msgid "No! The tunnel is collapsing on us! We weren’t fast enough—"
 msgstr ""
 "¡No! ¡El túnel se está derrumbando sobre nosotros! No fuimos lo "
 "suficientemente rápidos—"
 
 #. [unit]: type=Death Knight, id=Lord Azghiel
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:846
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:860
 msgid "Lord Azghiel"
 msgstr "Lord Azghiel"
 
 #. [unit]: type=Death Squire, id=Darius
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:859
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:873
 msgid "Darius"
 msgstr "Darius"
 
 #. [unit]: type=Death Squire, id=Durstrag
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:871
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:885
 msgid "Durstrag"
 msgstr "Durstrag"
 
 #. [message]: speaker=Lord Azghiel
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:898
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:912
 msgid ""
 "There they are, the heathens! The Iron Council wants their heads. Get to it!"
 msgstr ""
@@ -20709,12 +20715,12 @@ msgstr ""
 "la obra!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:903
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:917
 msgid "(<i>shakes head</i>) Not again..."
 msgstr "(<i>niega con la cabeza</i>) No otra vez..."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:908
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:922
 msgid ""
 "Your emperor has fallen and this fortress is crumbling with him. Flee and "
 "get out of our way or we will have to destroy you!"
@@ -20723,22 +20729,22 @@ msgstr ""
 "quítense de nuestro camino o tendremos que destruirlos!"
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:917
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:931
 msgid "Keep moving!"
 msgstr "¡Sigan avanzando!"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:957
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:971
 msgid "We can’t leave Lord Lédinor behind! We must—"
 msgstr "¡No podemos dejar atrás al Lord Lédinor! Debemos—"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:962
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:976
 msgid "It’s hopeless, Galas... Please, you must understand..."
 msgstr "Es inútil, Galas... Por favor, debes entender..."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:967
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:981
 msgid ""
 "Come on, boy, you ought to know better than this by now, after seeing what "
 "became of the Master of Darkness."
@@ -20747,7 +20753,7 @@ msgstr ""
 "Maestro de la Oscuridad."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:976
+#: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:990
 msgid "I am sorry, my lord. I am so sorry..."
 msgstr "Lo siento, mi señor. Lo siento mucho..."
 
@@ -20757,7 +20763,7 @@ msgid "Cutscene"
 msgstr "Cinemática"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:97
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:120
 msgid ""
 "I understand that you wish to travel with me, Mal Keshar. But, what about "
 "you Galas? What will become of the elves who followed you to the Northlands?"
@@ -20766,7 +20772,7 @@ msgstr ""
 "será de los elfos que te siguieron a las Tierras del Norte?"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:102
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:125
 msgid ""
 "I have served my people long enough, I would say. To be honest, once Lord "
 "Inodien and Lady Unarye became more involved, my presence in our councils "
@@ -20783,12 +20789,12 @@ msgstr ""
 "Caos ya no está, siento que he cumplido con mi deber."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:117
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:140
 msgid "So..."
 msgstr "Entonces..."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:122
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:145
 msgid ""
 "For the first time in ages, I feel free and able to make my own choices "
 "again without the weight of an entire civilization resting on my shoulders. "
@@ -20802,12 +20808,12 @@ msgstr ""
 "viaje, Elynia? Porque sospecho que no planeas quedarte aquí sin hacer nada."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:127
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:150
 msgid "... If that is what you want."
 msgstr "… Si eso es lo que quieres."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:142
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:165
 msgid ""
 "There is a place I would like to visit... That island Althurin mentioned, "
 "Zocthanol."
@@ -20816,7 +20822,7 @@ msgstr ""
 "Zocthanol."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:147
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:170
 msgid ""
 "I fear that the collapse of the Heart fortress may have erased much "
 "information about the origins of Uria and Yechnagoth that could have helped "
@@ -20835,12 +20841,12 @@ msgstr ""
 "podrían saber que nos ayude."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:152
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:175
 msgid "That seems fair enough. But, how are we going to get there?"
 msgstr "Me parece justo. Pero, ¿cómo vamos a llegar hasta allá?"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:159
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:182
 msgid ""
 "Uh, we’ll sail across the ocean, of course. Surely our northern friends "
 "won’t mind if we borrow a ship or two."
@@ -20849,7 +20855,7 @@ msgstr ""
 "amigos del norte no les importará si les pedimos prestado uno o dos barcos."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:164
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:187
 msgid ""
 "There is something unsettling about all this, though. Even though we set "
 "Argan free from his suffering, and the destruction of his capital severed "
@@ -20867,13 +20873,13 @@ msgstr ""
 "sobrevivió—"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:169
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:192
 msgid "Then we’ll have to deal with her again, eventually. I know..."
 msgstr ""
 "Entonces tendremos que lidiar con ella otra vez, eventualmente. Lo sé..."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:178
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:201
 msgid ""
 "And then there is that Mal Hekuba and the Iron Council. I don’t suspect they "
 "will give up easily, and we <i>are</i> still in enemy territory."
@@ -20882,7 +20888,7 @@ msgstr ""
 "con facilidad, y <i>todavía</i> estamos en territorio enemigo."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:183
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:206
 msgid ""
 "Between the ongoing war and the loss of their capital, my hope is that they "
 "will be too preoccupied struggling against the Alliance in the north to hunt "
@@ -20893,7 +20899,7 @@ msgstr ""
 "(<i>suspira</i>)"
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:194
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:217
 msgid ""
 "I understand your concern, but there is hardly anything we can do with the "
 "scarce information we possess regarding Uria and her followers right now."
@@ -20902,12 +20908,12 @@ msgstr ""
 "escasa información que poseemos sobre Uria y sus seguidores ahora mismo."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:200
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:223
 msgid "What about you, Igor? What will you do next?"
 msgstr "¿Y tú, Igor? ¿Qué harás ahora?"
 
 #. [message]: speaker=Igor
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:205
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:228
 msgid ""
 "Well... I actually wonder how I survived all that... I feel like a legend "
 "now, heh. But... perhaps it’s time I find a nice place to settle in and live "
@@ -20923,7 +20929,7 @@ msgstr ""
 "claro."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:210
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:233
 msgid ""
 "Oh, of course it is. I would not even think of abandoning you and your "
 "trusty steed now that we have been reduced to such a small band of "
@@ -20936,28 +20942,91 @@ msgstr ""
 "para protegernos."
 
 #. [message]: speaker=Elynia
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:217
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:240
 msgid "(<i>glaring</i>) Don’t you dare."
 msgstr "(<i>mirando fijamente</i>) Ni se te ocurra."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:222
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:245
 msgid ""
 "You always ruin everything for me. Why do I even tolerate this, I wonder..."
 msgstr "Siempre me arruinas todo. Me pregunto por qué siquiera tolero esto..."
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:227
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:250
 msgid "It is fine, Igor. We will miss you when we finally part ways."
 msgstr "Está bien, Igor. Te extrañaremos cuando finalmente nos separemos."
 
 #. [message]: speaker=Igor
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:232
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:255
 msgid "Oh, I’ll miss you too, friends. (<i>sniffles</i>)"
 msgstr "Oh, yo también los extrañaré, amigos. (<i>solloza</i>)"
 
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:264
+msgid ""
+"It’s a shame we lost that fancy ring we found back there. I wonder what "
+"became of it?"
+msgstr ""
+
+#. [message]: speaker=Igor
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:277
+msgid ""
+"I... uh... wellllll... while we were escaping the fortress... I kinda..."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:282
+msgid "Oh, you little—"
+msgstr ""
+
+#. [message]: speaker=Igor
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:287
+msgid ""
+"Listen, everything was shaking! I couldn’t help it! I tripped! I think "
+"that’s the last time I saw it, at least"
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:292
+msgid ""
+"I should turn you into a— I mean— PAH! It doesn’t matter anymore. I was "
+"curious to find out exactly how it works. Alas!"
+msgstr ""
+
+#. [message]: speaker=Elynia
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:299
+msgid ""
+"I have the ring right here, but somehow it’s completely inert now. I fear "
+"that exposing it to the Union may have stripped it of its magic. It might "
+"not even work again in a thousand years."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:304
+msgid ""
+"Figures it would break when exposed to such power. Pah, I was curious to "
+"find out exactly how it worked. Alas!"
+msgstr ""
+
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:238
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:311
+msgid ""
+"I fear I must’ve dropped it when we were escaping the crumbling fortress. I "
+"don’t know exactly when I lost it, but it was already gone by the time we "
+"reached the surface."
+msgstr ""
+
+#. [message]: speaker=Mal Keshar
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:316
+msgid ""
+"Oh well, who needs a stupid resurrection ring when you have necromancy, "
+"anyway... Although, I have to admit I really wanted to find out exactly how "
+"it works. Alas!"
+msgstr ""
+
+#. [message]: speaker=Galas
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:325
 msgid ""
 "Let us return to the Far North, then. I would like to pay a visit to our "
 "people as well."
@@ -20966,13 +21035,13 @@ msgstr ""
 "gente."
 
 #. [message]: speaker=Mal Keshar
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:243
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:330
 msgid "Hah! So you do miss being in a position of power after all!"
 msgstr ""
 "¡Ja! ¡Así que sí extrañas estar en una posición de poder después de todo!"
 
 #. [message]: speaker=Galas
-#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:248
+#: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:335
 msgid ""
 "No, no, it’s nothing like that. I just want to speak to my comrades again — "
 "it has been far too long since I last saw their faces."
@@ -21278,7 +21347,7 @@ msgstr ""
 "el delicado equilibrio de la naturaleza."
 
 #. [attack]: type=fire
-#: Invasion_from_the_Unknown/units/faeries/Sylvan_Warden.cfg:51
+#: Invasion_from_the_Unknown/units/faeries/Sylvan_Warden.cfg:63
 msgid "mystic fire"
 msgstr "fuego místico"
 
@@ -21775,6 +21844,15 @@ msgstr ""
 "que otros no-muertos, poseen la habilidad nigromántica de alzar los "
 "cadáveres de quienes matan hacia el cruel mundo de la no-vida, y están "
 "dispuestas a usar esta facultad al máximo."
+
+#~ msgid ""
+#~ "<b>Galas</b> is an <b>Elvish Fighter</b>. As such, he has two advancement "
+#~ "choices from level 1: <b>Captain</b> and <b>Hero</b>. Choose his "
+#~ "development path wisely and carefully."
+#~ msgstr ""
+#~ "<b>Galas</b> es un <b>Guerrero élfico</b>. Como tal, tiene dos opciones "
+#~ "de avance a partir del nivel 1: <b>Capitán</b> y <b>Héroe</b>. Elige su "
+#~ "camino de desarrollo con sabiduría y cuidado."
 
 #~ msgid "Character Descriptions"
 #~ msgstr "Descripciones de personajes"
