@@ -17,7 +17,7 @@ import subprocess
 import sys
 
 
-MSGFMT = '/usr/bin/msgfmt'
+MSGFMT = 'msgfmt'
 
 
 def clone_environment(env):
