@@ -5,15 +5,15 @@ msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-29 04:12 UTC\n"
-"PO-Revision-Date: 2026-03-18 19:15-0300\n"
-"Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
+"PO-Revision-Date: 2026-03-29 18:33-0300\n"
+"Last-Translator: Iris Morelle <iris@irydacea.me>\n"
 "Language-Team: Español\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 20.04.1\n"
+"X-Generator: Poedit 3.9\n"
 
 #: Invasion_from_the_Unknown/_main.cfg:64
 msgid "Music add-on “<i>IftU Music</i>” is <b>not</b> currently installed."
@@ -71,9 +71,8 @@ msgstr "Versión"
 
 #. [campaign]: id=Invasion_from_the_Unknown
 #: Invasion_from_the_Unknown/_main.cfg:105
-#, fuzzy
 msgid "for Wesnoth 1.18/1.20"
-msgstr "para Wesnoth 1.18"
+msgstr "para Wesnoth 1.18/1.20"
 
 #. [campaign]: id=Invasion_from_the_Unknown
 #: Invasion_from_the_Unknown/_main.cfg:106

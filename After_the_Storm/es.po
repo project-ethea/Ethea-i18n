@@ -4,14 +4,15 @@ msgstr ""
 "Project-Id-Version: After_the_Storm-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-29 04:12 UTC\n"
-"PO-Revision-Date: 2026-03-17 15:49-0300\n"
-"Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
+"PO-Revision-Date: 2026-03-29 18:34-0300\n"
+"Last-Translator: Iris Morelle <iris@irydacea.me>\n"
 "Language-Team: español\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.9\n"
 
 #: After_the_Storm/_main.cfg:61
 msgid "Version"
@@ -22,9 +23,8 @@ msgid "Feedback and bug reports:"
 msgstr "Comentarios e informes de errores:"
 
 #: After_the_Storm/_main.cfg:65
-#, fuzzy
 msgid "for Wesnoth 1.18/1.20"
-msgstr "para Wesnoth 1.18"
+msgstr "para Wesnoth 1.18/1.20"
 
 #: After_the_Storm/_main.cfg:76
 msgid "Music add-on “<i>AtS Music</i>” is <b>not</b> currently installed"
@@ -21032,7 +21032,7 @@ msgid ""
 "Alliance troops Sir Durvan has amassed shall serve us well for this mission."
 msgstr ""
 "Podrán hablar de eso más tarde. Por ahora, es de suma importancia que "
-"distraígamos o eliminemos al ejército de Kalari. Estoy segura de que las "
+"distraígamos o eliminemos al ejército de Kalari. Estoy segura de que las "
 "tropas de la Alianza que ha reunido el señor Durvan nos servirán bien en "
 "esta misión."
 
@@ -21057,7 +21057,7 @@ msgid ""
 "Durvan to provide us with more numerous troops than this."
 msgstr ""
 "Podrán hablar de eso más tarde. Por ahora, es de suma importancia que "
-"distraígamos o eliminemos al ejército de Kalari. Sin embargo, esperaba que "
+"distraígamos o eliminemos al ejército de Kalari. Sin embargo, esperaba que "
 "el señor Durvan nos proporcionara tropas más numerosas que estas."
 
 #. [message]: speaker=Durvan
