@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: After the Storm - Japanese\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-28 09:34 UTC\n"
+"POT-Creation-Date: 2026-03-29 04:12 UTC\n"
 "PO-Revision-Date: 2016-05-22 01:16+0000\n"
 "Last-Translator: RatArmy <broadbarredfirefish@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/wesnoth-jp/after-the-storm/"
@@ -26,7 +26,7 @@ msgstr "フィードバックおよびバグ報告:"
 
 #: After_the_Storm/_main.cfg:65
 #, fuzzy
-msgid "for Wesnoth 1.18"
+msgid "for Wesnoth 1.18/1.20"
 msgstr "Wesnoth 1.12 （v1.11.11以上）が必要"
 
 #: After_the_Storm/_main.cfg:76
@@ -587,7 +587,7 @@ msgid "Witness Aradellys’s demise"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-After_the_Storm
-#: After_the_Storm/base-loader.cfg:194
+#: After_the_Storm/base-loader.cfg:200
 msgid "After the Storm (custom terrains)"
 msgstr "嵐が過ぎ去って（カスタム地形）"
 

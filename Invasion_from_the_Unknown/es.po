@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-28 09:34 UTC\n"
+"POT-Creation-Date: 2026-03-29 04:12 UTC\n"
 "PO-Revision-Date: 2026-03-18 19:15-0300\n"
 "Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
 "Language-Team: Español\n"
@@ -71,7 +71,8 @@ msgstr "Versión"
 
 #. [campaign]: id=Invasion_from_the_Unknown
 #: Invasion_from_the_Unknown/_main.cfg:105
-msgid "for Wesnoth 1.18"
+#, fuzzy
+msgid "for Wesnoth 1.18/1.20"
 msgstr "para Wesnoth 1.18"
 
 #. [campaign]: id=Invasion_from_the_Unknown

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.11.0-dev\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-28 09:34 UTC\n"
+"POT-Creation-Date: 2026-03-29 04:12 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,7 @@ msgid "Feedback and bug reports:"
 msgstr ""
 
 #: After_the_Storm/_main.cfg:65
-msgid "for Wesnoth 1.18"
+msgid "for Wesnoth 1.18/1.20"
 msgstr ""
 
 #: After_the_Storm/_main.cfg:76
@@ -557,7 +557,7 @@ msgid "Witness Aradellys’s demise"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-After_the_Storm
-#: After_the_Storm/base-loader.cfg:194
+#: After_the_Storm/base-loader.cfg:200
 msgid "After the Storm (custom terrains)"
 msgstr ""
 

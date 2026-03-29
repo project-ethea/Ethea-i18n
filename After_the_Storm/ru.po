@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-After_the_Storm\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-03-28 09:34 UTC\n"
+"POT-Creation-Date: 2026-03-29 04:12 UTC\n"
 "PO-Revision-Date: 2021-08-30 22:21+0300\n"
 "Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
@@ -24,7 +24,7 @@ msgstr "Обратная связь и сообщения об ошибках:"
 
 #: After_the_Storm/_main.cfg:65
 #, fuzzy
-msgid "for Wesnoth 1.18"
+msgid "for Wesnoth 1.18/1.20"
 msgstr "для Битвы за Веснот 1.14.3 и новее"
 
 #: After_the_Storm/_main.cfg:76
@@ -585,7 +585,7 @@ msgid "Witness Aradellys’s demise"
 msgstr ""
 
 #. [editor_group]: id=wesnoth-UMC-After_the_Storm
-#: After_the_Storm/base-loader.cfg:194
+#: After_the_Storm/base-loader.cfg:200
 msgid "After the Storm (custom terrains)"
 msgstr "После Бури (особая местность)"
 
