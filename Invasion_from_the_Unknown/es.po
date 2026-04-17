@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-29 04:12 UTC\n"
-"PO-Revision-Date: 2026-03-29 18:33-0300\n"
-"Last-Translator: Iris Morelle <iris@irydacea.me>\n"
+"PO-Revision-Date: 2026-04-17 19:27-0300\n"
+"Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
 "Language-Team: Español\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -1311,6 +1311,10 @@ msgid ""
 "unexpected threats. It is up to you to decide the exact path he shall take "
 "to hone his skills."
 msgstr ""
+"<b>Galas</b> es un <b>Capitán de patrulla elfo</b>. A pesar de su amplia "
+"experiencia vigilando el Valle, pronto su viaje lo llevará a enfrentar "
+"nuevas y inesperadas amenazas. Depende de ti decidir el camino exacto que "
+"seguirá para perfeccionar sus habilidades."
 
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:26
 msgid ""
@@ -1323,7 +1327,6 @@ msgstr ""
 "Ten en cuenta que es la única unidad de su clase."
 
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:30
-#, fuzzy
 msgid ""
 "<b>Mal Keshar</b> is an <b>Archaic Lich</b>. Severely weakened by Anlindë’s "
 "curse, it will take him a while to recover his full strength. Although he "
@@ -1331,10 +1334,11 @@ msgid ""
 "mind that he is weak against impact, arcane, and fire attacks — even more so "
 "during daytime!"
 msgstr ""
-"<b>Mal Keshar</b> es un <b>Liche ancestral</b>. Aunque puede ser un arma "
-"prácticamente imparable contra la mayoría de las unidades vivas, ten en "
-"cuenta que es vulnerable a los ataques de impacto, arcanos y de fuego, "
-"especialmente durante el día."
+"<b>Mal Keshar</b> es un <b>Liche ancestral</b>. Gravemente debilitado por la "
+"maldición de Anlindë, le tomará un tiempo recuperar toda su fuerza. Aunque "
+"puede ser un arma casi imparable contra la mayoría de las unidades vivas, "
+"ten en cuenta que es débil contra los ataques de impacto, arcanos y de fuego "
+"— ¡aún más durante el día!"
 
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:34
 msgid ""
@@ -1616,14 +1620,14 @@ msgstr "Armadura del Vacío"
 
 #. [object]: id={ID}
 #: Invasion_from_the_Unknown/macros/items.cfg:252
-#, fuzzy
 msgid ""
 "A beautiful chest plate crafted from shimmering black steel. The unit "
 "wearing this armor gains +15% resistance to blade and pierce damage, +20% to "
 "impact damage, and +10% to fire damage."
 msgstr ""
-"Una hermosa coraza forjada con acero negro brillante, ¡la Armadura del Vacío "
-"es prácticamente impenetrable para las armas físicas!"
+"Una hermosa coraza forjada con acero negro brillante. La unidad que lleve "
+"esta armadura obtiene +15% de resistencia al daño de corte y penetración, "
+"+20% al daño de impacto y +10% al daño de fuego."
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/macros/items.cfg:271
@@ -1642,7 +1646,6 @@ msgstr "armadura del vacío"
 
 #. [value]: id=void_armor
 #: Invasion_from_the_Unknown/macros/items.cfg:288
-#, fuzzy
 msgid ""
 "The Void Armor grants the following resistances:\n"
 "\n"
@@ -1651,12 +1654,12 @@ msgid ""
 "Impact: +20%\n"
 "Fire:   +10%"
 msgstr ""
-"La Armadura del Vacío concede las siguientes resistencias:\n"
+"La Armadura del Vacío otorga las siguientes resistencias:\n"
 "\n"
-"Corte:   50%\n"
-"Penetración:  50%\n"
-"Impacto:  60%\n"
-"Fuego:   +10%"
+"Corte:  +15%\n"
+"Penetración: +15%\n"
+"Impacto: +20%\n"
+"Fuego:  +10%"
 
 #: Invasion_from_the_Unknown/macros/items.cfg:315
 msgid ""
@@ -6727,8 +6730,8 @@ msgid ""
 "bandits. And now both that scum and that hostile lich are standing in our "
 "way, damn it."
 msgstr ""
-"Drel y Murlin? La gente de Eisenstone dijo que son los verdaderos líderes de "
-"los bandidos. Y ahora ese escoria y ese lich hostil están en nuestro camino, "
+"Drel y Murlin? La gente de Eisenstone decian que son los verdaderos líderes de "
+"los bandidos. Y ahora esa escoria y ese liche hostil están en nuestro camino, "
 "maldita sea."
 
 #. [message]: speaker=Anlindë
@@ -12468,7 +12471,7 @@ msgstr ""
 "Deberíamos poder encontrar la capital del país del norte si seguimos las "
 "instrucciones de los enanos. Se supone que está a unas tres jornadas de aquí "
 "si evitamos descansar durante el día. Solo que no me siento cómodo caminando "
-"por tierras humanas con un lich entre nosotros..."
+"por tierras humanas con un liche entre nosotros..."
 
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/14_Clearing_the_Road.cfg:401
@@ -12553,7 +12556,7 @@ msgstr ""
 msgid ""
 "Is that a lich behind you?! This is unexpected. But nothing we cannot handle!"
 msgstr ""
-"¿Ese es un lich detrás de ustedes? Esto es inesperado. ¡Pero nada que no "
+"¿Ese es un liche detrás de ustedes? Esto es inesperado. ¡Pero nada que no "
 "podamos manejar!"
 
 #. [message]: speaker=Mal Keshar
@@ -12614,7 +12617,7 @@ msgid ""
 "them. This is quite the odd picture — it’s almost entertaining. You, faerie, "
 "what do you have to say in defense of you and your friends?"
 msgstr ""
-"Elfos, con un lich sumiso y un hada del bosque entre ellos. Es una imagen "
+"Elfos, con un liche sumiso y un hada del bosque entre ellos. Es una imagen "
 "bastante extraña — casi entretenida. Tú, hada, ¿qué tienes que decir en "
 "defensa de ti y tus amigos?"
 
@@ -12883,13 +12886,12 @@ msgstr ""
 
 #. [message]: speaker=Arghalon
 #: Invasion_from_the_Unknown/scenarios/14_Clearing_the_Road.cfg:870
-#, fuzzy
 msgid ""
 "The lich wants to see their leader’s head on a stake! Go get them, you "
 "useless scum!"
 msgstr ""
-"¡El lich quiere ver la cabeza de nuestro líder en una pica! ¡Vayan por "
-"ellos, escoria inútil!"
+"¡El liche quiere ver la cabeza de su líder en una pica! ¡Vayan por ellos, "
+"escoria inútil!"
 
 #. [message]: speaker=Grilock
 #: Invasion_from_the_Unknown/scenarios/14_Clearing_the_Road.cfg:875
@@ -13115,7 +13117,7 @@ msgid ""
 "No! The lich is their servant! He’s perfectly safe, don’t worry about it. "
 "Just—"
 msgstr ""
-"¡No! ¡El lich es su sirviente! Es completamente inofensivo, no se preocupen. "
+"¡No! ¡El liche es su sirviente! Es completamente inofensivo, no se preocupen. "
 "Solo…"
 
 #. [message]: speaker=Mal Keshar
@@ -13142,7 +13144,7 @@ msgid ""
 msgstr ""
 "¡Señor Galas! Estábamos preocupados por usted. ¿Es esa… Oh, dioses "
 "radiantes, ¿es ella… la Dama de la Luz? ¡Entonces lo lograron! Nosotros… "
-"¿Qué están haciendo estos hombres? ¡Suelten al lich y a la Dama, necios! "
+"¿Qué están haciendo estos hombres? ¡Suelten al liche y a la Dama, necios! "
 "¡Son nuestros aliados!"
 
 #. [message]: speaker=Cain
@@ -15387,7 +15389,7 @@ msgid ""
 "invitation. How considerate of you. Trust me, our Master is <i>dying</i> to "
 "see your faces."
 msgstr ""
-"No son otros que el famoso trío cómico de los elfos: el joven señor, su lich "
+"No son otros que el famoso trío cómico de los elfos: el joven señor, su liche "
 "mascota y la Dama de la Luz. Veo que finalmente han decidido aceptar nuestra "
 "invitación. Qué considerados. Créame, nuestro Maestro está <i>ansioso</i> "
 "por ver sus rostros."
@@ -15496,7 +15498,7 @@ msgstr "Maestro, nooooooooooo… (<i>gluglú</i>)"
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:464
 msgid "We still have the lich left to deal with!"
-msgstr "¡Todavía nos queda el lich con el que lidiar!"
+msgstr "¡Todavía nos queda el liche con el que lidiar!"
 
 #. [message]: speaker=Mal Hekuba
 #: Invasion_from_the_Unknown/scenarios/17_Voice_of_the_Armageddon.cfg:537
@@ -16348,9 +16350,8 @@ msgstr "Matriz alienígena"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/19_Under_the_Sands.cfg:324
-#, fuzzy
 msgid "Proceed south to the cave exit with Elynia or Mal Keshar"
-msgstr "Dirígete al sur hasta la salida de la cueva con Elynia y Mal Keshar"
+msgstr "Avanza al sur hasta la salida de la cueva con Elynia o Mal Keshar"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/19_Under_the_Sands.cfg:364
@@ -19974,7 +19975,7 @@ msgid ""
 "love. Still, I fear that I must revoke your magic privileges before anyone "
 "else gets hurt."
 msgstr ""
-"Tu estrategia para absorber mi poder y traspasarlo al lich para controlar la "
+"Tu estrategia para absorber mi poder y traspasarlo al liche para controlar la "
 "Unión fue bastante ingeniosa. Nunca habría esperado menos de ti, mi amor. "
 "Aún así, temo que debo revocar tus privilegios mágicos antes de que alguien "
 "más salga herido."
@@ -20968,17 +20969,20 @@ msgid ""
 "It’s a shame we lost that fancy ring we found back there. I wonder what "
 "became of it?"
 msgstr ""
+"Es una pena que hayamos perdido ese anillo elegante que encontramos allá "
+"atrás. Me pregunto qué habrá sido de él."
 
 #. [message]: speaker=Igor
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:277
 msgid ""
 "I... uh... wellllll... while we were escaping the fortress... I kinda..."
 msgstr ""
+"Yo... eh... bueeeno... mientras escapábamos de la fortaleza... yo como que..."
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:282
 msgid "Oh, you little—"
-msgstr ""
+msgstr "Oh, tú pequeño—"
 
 #. [message]: speaker=Igor
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:287
@@ -20986,6 +20990,8 @@ msgid ""
 "Listen, everything was shaking! I couldn’t help it! I tripped! I think "
 "that’s the last time I saw it, at least"
 msgstr ""
+"¡Escucha, todo estaba temblando! ¡No pude evitarlo! ¡Me tropecé! Creo que "
+"esa fue la última vez que lo vi, al menos"
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:292
@@ -20993,6 +20999,8 @@ msgid ""
 "I should turn you into a— I mean— PAH! It doesn’t matter anymore. I was "
 "curious to find out exactly how it works. Alas!"
 msgstr ""
+"Debería convertirte en un— quiero decir— ¡PAH! Ya no importa. Tenía "
+"curiosidad por saber exactamente cómo funciona. ¡Lástima!"
 
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:299
@@ -21001,6 +21009,9 @@ msgid ""
 "that exposing it to the Union may have stripped it of its magic. It might "
 "not even work again in a thousand years."
 msgstr ""
+"Tengo el anillo aquí mismo, pero de alguna manera ahora está completamente "
+"inactivo. Me temo que al exponerlo a la Unión perdió su magia. Puede que ni "
+"siquiera vuelva a funcionar en mil años."
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:304
@@ -21008,6 +21019,8 @@ msgid ""
 "Figures it would break when exposed to such power. Pah, I was curious to "
 "find out exactly how it worked. Alas!"
 msgstr ""
+"Era de esperarse que se rompiera al exponerse a tanto poder. Pah, tenía "
+"curiosidad por saber exactamente cómo funcionaba. ¡Lástima!"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:311
@@ -21016,6 +21029,9 @@ msgid ""
 "don’t know exactly when I lost it, but it was already gone by the time we "
 "reached the surface."
 msgstr ""
+"Me temo que debí dejarlo caer cuando escapábamos de la fortaleza en ruinas. "
+"No sé exactamente cuándo lo perdí, pero ya no estaba cuando llegamos a la "
+"superficie."
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:316
@@ -21024,6 +21040,9 @@ msgid ""
 "anyway... Although, I have to admit I really wanted to find out exactly how "
 "it works. Alas!"
 msgstr ""
+"En fin, ¿quién necesita un estúpido anillo de resurrección cuando tienes "
+"nigromancia?... Aunque debo admitir que realmente quería saber exactamente "
+"cómo funciona. ¡Lástima!"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:325

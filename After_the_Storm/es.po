@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: After_the_Storm-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-29 04:12 UTC\n"
-"PO-Revision-Date: 2026-03-29 18:34-0300\n"
-"Last-Translator: Iris Morelle <iris@irydacea.me>\n"
+"PO-Revision-Date: 2026-04-17 20:06-0300\n"
+"Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
 "Language-Team: español\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -287,13 +287,12 @@ msgid "Survive the confrontation with “Mal Kendria”"
 msgstr "Sobrevive al enfrentamiento con «Mal Kendria»"
 
 #: After_the_Storm/achievements.cfg:122
-#, fuzzy
 msgid "Determination"
-msgstr "Abominación"
+msgstr "Determinación"
 
 #: After_the_Storm/achievements.cfg:123
 msgid "The sight of an unstoppable enemy fills you with it"
-msgstr ""
+msgstr "La visión de un enemigo imparable te llena de ella"
 
 #: After_the_Storm/achievements.cfg:128
 msgid "The Trial of Darkness"
@@ -615,16 +614,15 @@ msgid "Unarye"
 msgstr "Unarye"
 
 #: After_the_Storm/episode1/characters.cfg:104
-#, fuzzy
 msgid ""
 "Certain high-level units in this campaign under your control — such as "
 "Galas, Elynia, and Mal Keshar — have special <b>After Maximum Level "
 "Advancements (AMLAs)</b>. You can learn more about those by right-clicking "
 "applicable units and choosing the <b>Unit Advancements</b> option."
 msgstr ""
-"Algunas unidades de alto nivel bajo tu control en esta campaña —como Elynia "
-"y Anya— tienen <b>Mejoras tras el nivel máximo (AMLAs)</b> especiales. "
-"Puedes obtener más información sobre ellas haciendo clic derecho en las "
+"Algunas unidades de alto nivel bajo tu control en esta campaña —como Galas, "
+"Elynia y Mal Keshar— tienen <b>Mejoras tras el nivel máximo (AMLAs)</b> "
+"especiales. Puedes obtener más información haciendo clic derecho en las "
 "unidades correspondientes y seleccionando la opción <b>Mejoras de unidad</b>."
 
 #. [message]: speaker=unit
@@ -1964,7 +1962,7 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:618
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:594
 msgid "Enemy units capture the town center"
-msgstr ""
+msgstr "Las unidades enemigas capturan el centro del pueblo"
 
 #. [event]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:622
@@ -1973,6 +1971,8 @@ msgid ""
 "The town center is represented by the villages found within four tiles of "
 "its keep"
 msgstr ""
+"El centro del pueblo está representado por las aldeas que se encuentran a "
+"cuatro hexágonos de su torreón"
 
 #. [event]
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:623
@@ -2130,6 +2130,8 @@ msgid ""
 "We must take this settlement if we are to have any hope of crushing this "
 "rebellion. Onwards!"
 msgstr ""
+"Debemos tomar este asentamiento si queremos tener alguna esperanza de "
+"aplastar esta rebelión. ¡Adelante!"
 
 #. [message]: speaker=Unidë
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:805
@@ -2137,6 +2139,8 @@ msgid ""
 "Let us see if Galas and the humans will continue to obstruct us once their "
 "precious fort has been reduced to ashes!"
 msgstr ""
+"¡Veamos si Galas y los humanos siguen interfiriendo cuando su preciado "
+"fuerte haya sido reducido a cenizas!"
 
 #. [message]: speaker=Mal Keshar
 #. Mal Keshar is being sarcastic. He doesn't care.
@@ -2145,11 +2149,13 @@ msgid ""
 "Oh no, Galas, this is terrible. We are going to have to turn— kill even more "
 "elves. Such a tragedy. How hopeless."
 msgstr ""
+"Oh no, Galas, esto es terrible. Vamos a tener que— matar aún más elfos. Qué "
+"tragedia. Qué desesperante."
 
 #. [message]: speaker=Celán
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:830
 msgid "Keep pressing on! We cannot afford to lose this fight!"
-msgstr ""
+msgstr "¡Sigan avanzando! ¡No podemos permitirnos perder esta batalla!"
 
 #. [message]: speaker=Galas
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:838
@@ -2163,7 +2169,7 @@ msgstr ""
 #. [message]: speaker=Unidë
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:852
 msgid "We need reinforcements, now!"
-msgstr ""
+msgstr "¡Necesitamos refuerzos, ahora!"
 
 #. [unit]: type=Orcish Slurbow, id=Kar-velgan
 #: After_the_Storm/episode1/scenarios/03_Civil_War.cfg:901
@@ -4464,7 +4470,7 @@ msgid ""
 "neither the lich nor Galas had seen that much rage reflected in her before."
 msgstr ""
 "Elynia se acercó lentamente a Mal Keshar con una expresión sombría en sus "
-"ojos — ni el lich ni Galas habían visto antes tanta rabia reflejada en ella."
+"ojos — ni el liche ni Galas habían visto antes tanta rabia reflejada en ella."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode1/scenarios/07_The_Search_for_the_Past.cfg:1804
@@ -5945,7 +5951,7 @@ msgid ""
 "Fort Ænthal. It seems we arrived in the nick of time. To arms!"
 msgstr ""
 "El Consejo tenía razón en su evaluación de la situación. La bruja elfa y el "
-"lich han reunido un ejército de orcos y mercenarios no-muertos para asaltar "
+"liche han reunido un ejército de orcos y mercenarios no-muertos para asaltar "
 "el Fuerte Ænthal. Parece que llegamos justo a tiempo. ¡A las armas!"
 
 #. [message]: speaker=Haldaran
@@ -6384,7 +6390,7 @@ msgstr ""
 #: After_the_Storm/episode1/scenarios/12_Wesmere_Terminus.cfg:2320
 msgid ""
 "You cannot capture villages, although you may still use them for healing"
-msgstr ""
+msgstr "No puedes capturar aldeas, aunque aún puedes usarlas para sanar"
 
 #. [event]
 #: After_the_Storm/episode1/scenarios/12_Return_to_Wesmere.cfg:564
@@ -12472,7 +12478,7 @@ msgid ""
 "destroy us all if we don’t stop him now!"
 msgstr ""
 "¡Por supuesto que sí! ¡No vinimos desde las tierras del norte arriesgando "
-"ese maldito Rubí para nada! Lo que sea que ese lich vaya a hacer, nos "
+"ese maldito Rubí para nada! Lo que sea que ese liche vaya a hacer, nos "
 "destruirá a todos si no lo detenemos ahora."
 
 #. [message]: speaker=Elynia
@@ -12493,7 +12499,7 @@ msgid ""
 "collapse at the other side!"
 msgstr ""
 "Cualquier acción en este punto inevitablemente llevará a la destrucción de "
-"alguien, ¡pero estoy segura de que esta vez podemos lograrlo! Si el lich va "
+"alguien, ¡pero estoy segura de que esta vez podemos lograrlo! Si el liche va "
 "a crear un... camino hacia el Infierno, como dijo Elorran, tal vez podamos "
 "hacer que colapse al otro lado."
 
@@ -12505,7 +12511,7 @@ msgid ""
 "that without your help, Elynia."
 msgstr ""
 "No entiendo bien la mayoría de estas tonterías sobre corazones y Yechnagoth, "
-"pero creo que debemos destruir al lich y al impostor — y no podemos hacerlo "
+"pero creo que debemos destruir al liche y al impostor — y no podemos hacerlo "
 "sin tu ayuda, Elynia."
 
 #. [message]: speaker=Anya
@@ -12566,7 +12572,7 @@ msgstr "Kardas"
 #. [message]: speaker=Kardas
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1306
 msgid "My lady! At last, I found you! I know where the lich is!"
-msgstr "¡Mi señora! ¡Por fin te encontré! ¡Sé dónde está el lich!"
+msgstr "¡Mi señora! ¡Por fin te encontré! ¡Sé dónde está el liche!"
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1311
@@ -12867,7 +12873,7 @@ msgstr "Lo sé, lo siento..."
 #. [message]: speaker=Anya
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1828
 msgid "It is probably too late to stop that lich by now..."
-msgstr "Probablemente ya sea demasiado tarde para detener a ese lich..."
+msgstr "Probablemente ya sea demasiado tarde para detener a ese liche..."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode2/scenarios/10_The_Betrayal.cfg:1839
@@ -17814,7 +17820,7 @@ msgstr "Gra... cias..."
 #. [message]: speaker=Irylean
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:740
 msgid "The lich’s staff is glowing! What could it possibly mean?"
-msgstr "¡El bastón del lich está brillando! ¿Qué podría significar eso?"
+msgstr "¡El bastón del liche está brillando! ¿Qué podría significar eso?"
 
 #. [message]: speaker=Vissalen
 #: After_the_Storm/episode3/scenarios/05_Pass_of_Sorrows.cfg:762
@@ -20551,6 +20557,10 @@ msgid ""
 "given the circumstances. I suppose that elf sorceress would be proud of "
 "you... Hm, what was her name, again?"
 msgstr ""
+"La mayoría lo llamaría «determinación» — yo personalmente prefiero llamarlo "
+"«obstinación». Realmente nunca te rindes, ¿verdad, Elynia? Es bastante "
+"trágico, dadas las circunstancias. Supongo que esa hechicera elfa estaría "
+"orgullosa de ti... Mmm, ¿cómo se llamaba?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:1135
@@ -20558,24 +20568,26 @@ msgid ""
 "That look on your face... You really are some kind of sick and twisted "
 "creature, aren’t you? Let’s see how you enjoy <i>this</i> then."
 msgstr ""
+"Esa expresión en tu rostro... Realmente eres una criatura retorcida y "
+"enferma, ¿no? Veamos cómo disfrutas <i>esto</i> entonces."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:1229
-#, fuzzy
 msgid ""
 "I had hoped for a fair fight, but in the end it might have merely been "
 "wishful thinking on my part. What do you think?"
 msgstr ""
-"Pensé que esto sería un combate justo, pero al final no fue más que una "
-"tonta esperanza. ¿Qué opinas?"
+"Esperaba una pelea justa, pero al final quizás solo fue un deseo de mi "
+"parte. ¿Qué opinas?"
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:1246
-#, fuzzy
 msgid ""
 "On the other hand, you are still alive and standing— well, barely, but I am "
 "impressed nonetheless."
-msgstr "Por otro lado, sigues viva y en pie. Estoy impresionada."
+msgstr ""
+"Por otro lado, sigues con vida y en pie— bueno, apenas, pero aun así estoy "
+"impresionada."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:1251
@@ -20593,6 +20605,8 @@ msgid ""
 "My bad — not even you could possibly have the energy to speak while on the "
 "verge of death."
 msgstr ""
+"Error mío — ni siquiera tú podrías tener energía para hablar estando al "
+"borde de la muerte."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/07A_Dark_Fire_part_2.cfg:1273
@@ -28081,7 +28095,7 @@ msgstr ""
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:502
 msgid "About what Zhangor did to us..."
-msgstr ""
+msgstr "Sobre lo que Zhangor nos hizo..."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:507
@@ -28089,17 +28103,18 @@ msgid ""
 "It’s a matter of time until it all vanishes from your memory — no need to "
 "dwell on it."
 msgstr ""
+"Es cuestión de tiempo hasta que todo desaparezca de tu memoria — no hace "
+"falta insistir en eso."
 
 #. [message]: speaker=Elynia
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:512
 msgid "I assume you would prefer not to discuss any of it."
-msgstr ""
+msgstr "Supongo que prefieres no hablar de eso."
 
 #. [message]: speaker=Elyssa
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:521
-#, fuzzy
 msgid "There is nothing for us to discuss."
-msgstr "No hay nada en este cofre."
+msgstr "No hay nada que discutir."
 
 #. [event]
 #: After_the_Storm/episode3/scenarios/10_Blood.cfg:647
@@ -32042,18 +32057,16 @@ msgstr "Sobre Norsula"
 
 #. [world_entry]: id=quenoth_glyph_norsula
 #: After_the_Storm/journey/world.cfg:29
-#, fuzzy
 msgid ""
 "The advanced <b>Norsulan</b> technology stolen by Uria’s agents has been "
 "very helpful for our ends; understanding the most interesting creations of "
 "the Argazar people would have proved nearly impossible without a better-"
 "documented modern reference."
 msgstr ""
-"La avanzada tecnología <b>Norsulana</b> robada por los agentes de Uria a "
-"quienes trabajaban para aquel que se rumorea es la reencarnación de "
-"<b>Valdir</b> ha sido de gran ayuda para nuestros fines; comprender las "
-"creaciones más interesantes del pueblo Argazar habría resultado casi "
-"imposible sin una referencia moderna mejor documentada."
+"La avanzada tecnología <b>Norsulana</b> robada por los agentes de Uria ha "
+"sido de gran ayuda para nuestros fines; comprender las creaciones más "
+"interesantes del pueblo Argazar habría sido casi imposible sin una "
+"referencia moderna mejor documentada."
 
 #. [world_entry]: id=quenoth_glyph_norsula
 #. The hexadecimal numbers represent the following ASCII sequence:
@@ -33789,34 +33802,28 @@ msgid "Nature’s Wrath: arcane fury shockwave special"
 msgstr "Ira de la Naturaleza: especial onda expansiva de furia arcana"
 
 #: After_the_Storm/macros/amla-final.cfg:494
-#, fuzzy
 msgid "Strength █: hitpoints +12"
-msgstr "Fuerza ?: puntos de vida +12"
+msgstr "Fuerza █: puntos de vida +12"
 
 #: After_the_Storm/macros/amla-final.cfg:508
-#, fuzzy
 msgid "Strength ██: hitpoints +10, melee damage +1"
-msgstr "Fuerza ?: puntos de vida +10, daño cuerpo a cuerpo +1"
+msgstr "Fuerza ██: puntos de vida +10, daño cuerpo a cuerpo +1"
 
 #: After_the_Storm/macros/amla-final.cfg:527
-#, fuzzy
 msgid "Strength ███: hitpoints +16, melee damage +1"
-msgstr "Fuerza ?: puntos de vida +16, daño cuerpo a cuerpo +1"
+msgstr "Fuerza ███: puntos de vida +16, daño cuerpo a cuerpo +1"
 
 #: After_the_Storm/macros/amla-final.cfg:546
-#, fuzzy
 msgid "Strength ████: melee strikes +1"
-msgstr "Fuerza ?: golpes cuerpo a cuerpo +1"
+msgstr "Fuerza ████: golpes cuerpo a cuerpo +1"
 
 #: After_the_Storm/macros/amla-final.cfg:564
-#, fuzzy
 msgid "Focus █: pyranoctum strikes +1"
-msgstr "Concentración ?: golpes de pyranoctum +1"
+msgstr "Concentración █: golpes de pyranoctum +1"
 
 #: After_the_Storm/macros/amla-final.cfg:578
-#, fuzzy
 msgid "Focus ██: noctum damage +1, pyranoctum damage +2"
-msgstr "Concentración ?: daño de noctum +1, daño de pyranoctum +2"
+msgstr "Concentración ██: daño de noctum +1, daño de pyranoctum +2"
 
 #: After_the_Storm/macros/amla-final.cfg:597
 msgid "Argan’s Lament: terror ability"
@@ -35515,9 +35522,8 @@ msgstr "fuego místico"
 
 #. [unit_type]: id=Dream Controller, race=invisible_dummy_race, description= , race=elf, gender=female, race=human, race=demon, race=demon, race=elf, race=human, race=human, race=faerie, race=elf, gender=female, race=faerie, gender=female, race=monster, gender=female, race=demon, gender=female, race=demon, gender=female
 #: After_the_Storm/units/fake/Dream_Controller.cfg:42
-#, fuzzy
 msgid "Elvish Spellbinder"
-msgstr "Hechicera Elfa"
+msgstr "Ligador de hechizos elfo"
 
 #. [unit_type]: id=Dream Controller, race=invisible_dummy_race, description= , race=elf, gender=female, race=human, race=demon, race=demon, race=elf, race=human, race=human, race=faerie, race=elf, gender=female, race=faerie, gender=female, race=monster, gender=female, race=demon, gender=female, race=demon, gender=female
 #: After_the_Storm/units/fake/Dream_Controller.cfg:103

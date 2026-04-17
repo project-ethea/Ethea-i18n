@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-naia\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-29 04:12 UTC\n"
-"PO-Revision-Date: 2025-03-22 15:24-0300\n"
+"PO-Revision-Date: 2026-04-17 18:53-0300\n"
 "Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
 "Language-Team: none>\n"
 "Language: es\n"
@@ -171,7 +171,6 @@ msgstr ""
 
 #. [additional_info]
 #: Naia/journey/profiles.cfg:70
-#, fuzzy
 msgid ""
 "Upon meeting the <b>Lady of Light Elynia</b>, Galas, Mal Keshar, and Lady "
 "Unarye learned the hidden truth behind Anlindë’s existence: she was once "
@@ -187,25 +186,23 @@ msgid ""
 "forest elves’ sanctuary for countless generations."
 msgstr ""
 "Al conocer a la <b>Dama de la Luz Elynia</b>, Galas, Mal Keshar y la dama "
-"Unarye descubrieron la verdad oculta sobre la existencia de Anlindë: en el "
-"pasado formó parte del culto oscuro que servía al <b>Señor Demonio Zhangor</"
-"b> en Wesmere. A pesar de que todos los demás sacerdotes fueron ejecutados "
-"para evitar el resurgimiento de la criatura maligna, el señor Telchior de "
-"Thelien decidió perdonarle la vida únicamente a ella por razones que nunca "
-"reveló.\n"
+"Unarye descubrieron la verdad oculta sobre la existencia de Anlindë: una vez "
+"formó parte del culto oscuro que servía al <b>Señor Demonio Zhangor</b> en "
+"Wesmere; a pesar de que todos los demás sacerdotes fueron ejecutados para "
+"evitar el resurgimiento de la criatura malvada, el señor Telchior de Thelien "
+"decidió perdonarle la vida solo a ella por razones no reveladas.\n"
 "\n"
 "A pesar de esta revelación, era evidente para todos que Anlindë había "
-"dedicado cada instante de su existencia continuada a expiar sus pecados "
-"contra el pueblo élfico; no solo eso, sino que su consejo al señor Telchior "
-"fue directamente responsable del descubrimiento del valle que sirvió como "
-"refugio de los elfos del bosque durante innumerables generaciones."
+"dedicado cada instante de su existencia a expiar sus pecados contra el "
+"pueblo élfico; no solo eso, sino que su consejo al señor Telchior fue "
+"directamente responsable del descubrimiento del valle que sirvió como "
+"santuario de los elfos del bosque durante incontables generaciones."
 
 #. [additional_info]
 #. Keep "Chaos Warlord" gender-ambiguous if your language allows it
 #. since this text will be visible in game before Elyssa's proper
 #. reveal in S22A.
 #: Naia/journey/profiles.cfg:81
-#, fuzzy
 msgid ""
 "In order to buy King Asthorgar and Galas time to evacuate Herthgar before "
 "the Chaos Warlord’s final siege attempt, Anlindë chose to stay behind and "
@@ -217,11 +214,11 @@ msgid ""
 msgstr ""
 "Para darle tiempo al rey Asthorgar y a Galas de evacuar Herthgar antes del "
 "intento final de asedio del Señor del Caos, Anlindë decidió quedarse atrás y "
-"defender la capital con la ayuda de los súbditos de Mal Keshar y algunas "
+"defender la capital con la ayuda de los sirvientes de Mal Keshar y algunas "
 "tropas enanas. Todos sabían que era extremadamente improbable que "
-"sobreviviera al encuentro, y en efecto, nunca regresó de su misión. Sin "
+"sobreviviera al enfrentamiento, y en efecto, nunca regresó de su misión. Sin "
 "embargo, su sacrificio no fue en vano, ya que permitió que la evacuación se "
-"llevara a cabo casi según lo planeado con pérdidas mínimas de vidas."
+"realizara casi como estaba previsto, con pérdidas mínimas de vidas."
 
 #. [character_profile]: id=Mal Keshar, race=undead, gender=male
 #: Naia/journey/profiles.cfg:88
@@ -976,7 +973,6 @@ msgstr "La Caída"
 
 #. [world_entry]: id=The_Fall
 #: Naia/journey/world.cfg:25
-#, fuzzy
 msgid ""
 "A long time ago, the world of <b>Irdya</b> was completely transformed by a "
 "cataclysm referred to as <b>the Great Fall</b>, or more simply, <b>the Fall</"
@@ -1017,35 +1013,35 @@ msgstr ""
 "por un cataclismo conocido como <b>la Gran Caída</b>, o más simplemente, "
 "<b>la Caída</b>.\n"
 "\n"
-"Mucho de lo que actualmente se “conoce” sobre la calamidad que azotó a Irdya "
-"ha sido reconstruido a partir de fragmentos transmitidos por tradición oral "
-"por los pueblos que sobrevivieron al caos.\n"
+"Gran parte de lo que hoy se «conoce» sobre la calamidad que azotó a Irdya ha "
+"sido reconstruido a partir de fragmentos transmitidos por tradición oral por "
+"los pueblos que sobrevivieron al caos.\n"
 "\n"
 "Se dice que en el momento exacto de la catástrofe se escuchó un estruendo "
 "ensordecedor más fuerte que la mayor erupción volcánica; al instante "
 "siguiente, la tierra tembló violentamente y se desgarró, reduciendo a polvo "
 "todos los bastiones de los antiguos imperios y hundiendo incluso algunas de "
-"las montañas más altas en las profundidades del mundo. Volcanes de todas "
+"las montañas más altas en las profundidades del mundo. Volcanes por todas "
 "partes despertaron y arrojaron roca fundida y ceniza venenosa a los cielos "
-"ahora oscurecidos; luego, el vasto océano se elevó para encontrarse con las "
-"nubes antes de descender ferozmente sobre la tierra, reclamando lo poco que "
+"ahora oscurecidos; luego, el vasto océano se elevó hasta encontrarse con las "
+"nubes antes de caer con furia sobre la tierra, reclamando lo poco que "
 "quedaba en pie tras la convulsión inicial.\n"
 "\n"
-"Millones incontables perecieron a manos de la propia Irdya; luego, en las "
-"secuelas, millones más fueron masacrados por los presa del pánico en su "
-"frenesí sin sentido. El velo impenetrable en el cielo no solo negó toda "
-"ayuda a la navegación, sino que también hizo que toda vida vegetal se "
-"marchitara incluso en lugares que aún no habían sido tocados directamente "
+"Millones incontables murieron a manos de la propia Irdya; luego, en las "
+"secuelas, millones más fueron masacrados por los presas del pánico en su "
+"frenesí sin sentido. El velo impenetrable en el cielo no solo eliminó toda "
+"ayuda para la navegación, sino que también hizo que toda la vida vegetal se "
+"marchitara incluso en lugares que aún no habían sido alcanzados directamente "
 "por la destrucción; ya fuera por la lluvia venenosa o por la oscuridad "
 "maldita que asfixiaba la tierra y sumergía todo en una neblina intemporal. "
 "Pronto, cualquier líder que quedara o surgiera entre las cenizas de la "
 "civilización recurriría al barbarismo y prácticas impías en un intento "
-"desesperado por perpetuar sus míseras existencias en el mundo deformado.\n"
+"desesperado por mantener sus miserables existencias en el mundo deformado.\n"
 "\n"
-"Así terminó la <b>Era Dorada</b> de los pueblos de Irdya.\n"
+"Así llegó a su fin la <b>Edad Dorada</b> de los pueblos de Irdya.\n"
 "\n"
 "Muchos años después, los soles <b>Sela</b> y <b>Naia</b> finalmente "
-"regresarían, solo para convertir al otrora verde Gran Continente en una "
+"regresarían, solo para convertir al antes verde Gran Continente en una "
 "cáscara árida de roca y arena; un lugar donde todo tipo de vida lucha entre "
 "sí por sobrevivir durante el día, y espectros vengativos del pasado acechan "
 "las dunas por la noche."
@@ -1163,34 +1159,30 @@ msgstr ""
 
 #. [lua]: do_addon_compat_fail
 #: Naia/lua/compat.lua:89
-#, fuzzy
 msgid "Incompatible Modification"
-msgstr "Complemento incompatible"
+msgstr "Modificación incompatible"
 
 #. [lua]: do_addon_compat_fail
 #: Naia/lua/compat.lua:90
-#, fuzzy
 msgid ""
 "The following modifications is incompatible with %s and must be disabled "
 "before continuing:"
 msgstr ""
-"El siguiente complemento es incompatible con %s y debe ser eliminado antes "
+"La siguiente modificación es incompatible con %s y debe desactivarse antes "
 "de continuar:"
 
 #. [lua]: do_addon_compat_fail
 #: Naia/lua/compat.lua:92
-#, fuzzy
 msgid "Incompatible Modifications"
-msgstr "Complementos incompatibles"
+msgstr "Modificaciones incompatibles"
 
 #. [lua]: do_addon_compat_fail
 #: Naia/lua/compat.lua:93
-#, fuzzy
 msgid ""
 "The following modifications are incompatible with %s and must be removed "
 "before continuing:"
 msgstr ""
-"Los siguientes complementos son incompatibles con %s y deben ser eliminados "
+"Las siguientes modificaciones son incompatibles con %s y deben eliminarse "
 "antes de continuar:"
 
 #. [lua]: amla
@@ -1534,7 +1526,7 @@ msgstr "Victoria"
 
 #: Naia/lua/gui/journey_ui.lua:55
 msgid "Dialogue"
-msgstr ""
+msgstr "Diálogo"
 
 #: Naia/lua/gui/journey_ui.lua:56
 msgid "Knowledge"
@@ -1610,9 +1602,8 @@ msgstr "Incompletos"
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1156
-#, fuzzy
 msgid "achievements^Progress"
-msgstr "Completos"
+msgstr "Progreso"
 
 #. [lua]: journeylog_achievements_node_factory
 #: Naia/lua/gui/journey_ui.lua:1416
