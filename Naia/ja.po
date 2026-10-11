@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-IftU 1.8.x\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-04-18 07:39 UTC\n"
+"POT-Creation-Date: 2026-10-11 01:25 UTC\n"
 "PO-Revision-Date: 2010-12-14 22:16+0900\n"
 "Last-Translator: R.N <dragonfly65th@yahoo.co.jp>\n"
 "Language-Team: Japanese Translation Team\n"
@@ -1368,12 +1368,12 @@ msgstr ""
 
 #. [lua]: milestone_ui_impl
 #. [lua]: journeylog.unlock_milestone
-#: Naia/lua/journey/milestones.lua:21 Naia/lua/journey/milestones.lua:207
+#: Naia/lua/journey/milestones.lua:21 Naia/lua/journey/milestones.lua:253
 msgid "New knowledge unlocked — %s to browse journal"
 msgstr ""
 
 #. [lua]: journeylog.record_lore_fragment
-#: Naia/lua/journey/milestones.lua:247
+#: Naia/lua/journey/milestones.lua:293
 msgid "Findings recorded — %s to browse journal"
 msgstr ""
 

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: After the Storm - Japanese\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-04-18 07:39 UTC\n"
+"POT-Creation-Date: 2026-10-11 01:25 UTC\n"
 "PO-Revision-Date: 2016-05-22 01:16+0000\n"
 "Last-Translator: RatArmy <broadbarredfirefish@gmail.com>\n"
 "Language-Team: Japanese (http://www.transifex.com/wesnoth-jp/after-the-storm/"
@@ -30423,13 +30423,13 @@ msgid ""
 "decided to appear out of nowhere."
 msgstr ""
 
-#. [world_entry]: id=E3S7A.1_prophecy1
+#. [world_entry]: id=E3S7A1_prophecy1
 #: After_the_Storm/journey/world.cfg:209
 #, fuzzy
 msgid "The Day of the Longest Night"
 msgstr "光の淑女よ。"
 
-#. [world_entry]: id=E3S7A.1_prophecy1
+#. [world_entry]: id=E3S7A1_prophecy1
 #: After_the_Storm/journey/world.cfg:212
 #, fuzzy
 msgid ""
@@ -30448,13 +30448,13 @@ msgstr ""
 "明けない夜の日、新たな闇の守護者が彼岸より戻り、第二のサイクルでの正当な守護"
 "者としての立場を手に入れる。"
 
-#. [world_entry]: id=E3S7A.1_urvatha
+#. [world_entry]: id=E3S7A1_urvatha
 #: After_the_Storm/journey/world.cfg:223
 #, fuzzy
 msgid "Urvatha"
 msgstr "Karathas"
 
-#. [world_entry]: id=E3S7A.1_urvatha
+#. [world_entry]: id=E3S7A1_urvatha
 #: After_the_Storm/journey/world.cfg:226
 #, fuzzy
 msgid ""
@@ -30487,12 +30487,12 @@ msgstr ""
 "元々は守護者と種を欠いていたにも関わらず、Urvathaは新たな命の守護者の領域と"
 "なった。"
 
-#. [world_entry]: id=E3S7A.1_silida
+#. [world_entry]: id=E3S7A1_silida
 #: After_the_Storm/journey/world.cfg:237
 msgid "Silida"
 msgstr ""
 
-#. [world_entry]: id=E3S7A.1_silida
+#. [world_entry]: id=E3S7A1_silida
 #: After_the_Storm/journey/world.cfg:240
 #, fuzzy
 msgid ""
@@ -30521,13 +30521,13 @@ msgstr ""
 "元々は守護者と種を欠いていたにも関わらず、Silidaは新たな大地の守護者の領域と"
 "なった。"
 
-#. [world_entry]: id=E3S7A.1_note1
+#. [world_entry]: id=E3S7A1_note1
 #: After_the_Storm/journey/world.cfg:249
 #, fuzzy
 msgid "On Corruption"
 msgstr "Anyaに質問をする。"
 
-#. [world_entry]: id=E3S7A.1_note1
+#. [world_entry]: id=E3S7A1_note1
 #: After_the_Storm/journey/world.cfg:252
 msgid ""
 "The First Gods created us and the reality we live in with the intent that "
@@ -30541,7 +30541,7 @@ msgstr ""
 "た。最初のサイクルで出会う多くの試練、そして自身の突然の終焉に結実する裏切り"
 "について彼らはほとんど知らなかった。"
 
-#. [world_entry]: id=E3S7A.1_note1
+#. [world_entry]: id=E3S7A1_note1
 #: After_the_Storm/journey/world.cfg:254
 msgid ""
 "Little did they know that the same corruptive force that ravaged their "
@@ -30551,7 +30551,7 @@ msgstr ""
 "彼らの世界を荒廃させたその堕落した軍勢が出来事の順序を操作し、世界樹へ至る道"
 "を守っていること、彼らはそのことについてもほとんど知らなかった。"
 
-#. [world_entry]: id=E3S7A.1_note1
+#. [world_entry]: id=E3S7A1_note1
 #: After_the_Storm/journey/world.cfg:256
 msgid ""
 "It would ensure that the souls of our ten demon gods would be connected "
@@ -30561,13 +30561,13 @@ msgstr ""
 "それは十人のデーモンの神々の魂が中心に近いところで樹と直接つながることをも保"
 "証していたのだろう。そして、そしてそれが樹と保護者を堕落させたのだろう。"
 
-#. [world_entry]: id=E3S7A.1_note2
+#. [world_entry]: id=E3S7A1_note2
 #: After_the_Storm/journey/world.cfg:261
 #, fuzzy
 msgid "On Existence"
 msgstr "存在"
 
-#. [world_entry]: id=E3S7A.1_note2
+#. [world_entry]: id=E3S7A1_note2
 #: After_the_Storm/journey/world.cfg:264
 msgid ""
 "The First Gods no longer exist, and now the Tree is completely unguarded. "
@@ -30582,7 +30582,7 @@ msgstr ""
 "側ではあの十人の歌は発することはできない。そして、樹の傷は決して癒されること"
 "はない。"
 
-#. [world_entry]: id=E3S7A.1_note2
+#. [world_entry]: id=E3S7A1_note2
 #: After_the_Storm/journey/world.cfg:266
 msgid ""
 "Even at the last moment, Delethia could not fully control the final outcome; "
@@ -30593,7 +30593,7 @@ msgstr ""
 "かし、Yaraeを倒した後で大きく膨らんだ予知能力と力により、彼女はその結果をわず"
 "かながら変えることができた。"
 
-#. [world_entry]: id=E3S7A.1_note2
+#. [world_entry]: id=E3S7A1_note2
 #: After_the_Storm/journey/world.cfg:268
 msgid ""
 "Our lives were carefully arranged before she sacrificed her own to create "
@@ -30604,7 +30604,7 @@ msgstr ""
 "彼女は自身の秘密の計画を実行するために必要な装置をUriaとXia’elに委任した。第"
 "二のサイクルが始まった。"
 
-#. [world_entry]: id=E3S7A.1_note2
+#. [world_entry]: id=E3S7A1_note2
 #: After_the_Storm/journey/world.cfg:270
 msgid "At the end, only Four will prevail."
 msgstr "最後には四つだけが残る。"
